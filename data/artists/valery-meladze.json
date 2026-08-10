@@ -1,0 +1,85 @@
+{
+  "slug": "valery-meladze",
+  "name": "Valery Meladze",
+  "nameLocal": "Валерий Меладзе",
+  "country": "ru",
+  "basedIn": "ae",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": ["left_russia"],
+  "summary": {
+    "en": "Georgian-born Russian pop singer. Hours after the invasion began he posted a video begging Russia's leadership to stop military action and negotiate, after which his concerts in Russia began to be cancelled. In January 2023, at a New Year's party in Dubai, he answered an audience shout of 'Slava Ukraini' with 'Heroiam slava', triggering calls in the State Duma to strip his citizenship and titles, further concert cancellations, and de facto removal from Russian airwaves. He has since performed abroad and, per reports, stopped giving concerts in Russia.",
+    "uk": "Російський поп-співак грузинського походження. Через кілька годин після початку вторгнення він опублікував відео з благанням до керівництва Росії зупинити воєнні дії та розпочати переговори, після чого його концерти в Росії почали скасовувати. У січні 2023 року на новорічній вечірці в Дубаї він відповів на вигук із зали «Слава Україні» словами «Героям слава», що спричинило заклики в Держдумі позбавити його громадянства та звань, нові скасування концертів і фактичне вилучення з російського ефіру. Відтоді він виступає за кордоном і, за повідомленнями, припинив давати концерти в Росії.",
+    "ru": "Российский поп-певец грузинского происхождения. Через несколько часов после начала вторжения он опубликовал видео с мольбой к руководству России остановить военные действия и начать переговоры, после чего его концерты в России начали отменять. В январе 2023 года на новогодней вечеринке в Дубае он ответил на выкрик из зала «Слава Украине» словами «Героям слава», что вызвало призывы в Госдуме лишить его гражданства и званий, новые отмены концертов и фактическое исчезновение из российского эфира. С тех пор он выступает за рубежом и, по сообщениям, перестал давать концерты в России."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Calls for an end to military action",
+        "uk": "Закликає припинити воєнні дії",
+        "ru": "Призывает прекратить военные действия"
+      },
+      "detail": {
+        "en": "In an Instagram video Meladze said 'something happened that could and should never have happened' and begged for military action to stop and negotiations to begin, without naming Russia as aggressor. His concert near Moscow was cancelled two weeks later, followed by others.",
+        "uk": "У відео в Instagram Меладзе сказав, що «сталося те, чого не могло і не мало статися», і благав зупинити воєнні дії та розпочати переговори, не називаючи Росію агресором. Через два тижні його концерт під Москвою скасували, а за ним — і інші.",
+        "ru": "В видео в Instagram Меладзе сказал, что «случилось то, чего не могло и не должно было случиться», и умолял остановить военные действия и начать переговоры, не называя Россию агрессором. Через две недели его концерт под Москвой был отменён, за ним последовали другие."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/russia-ukraine-war-dissent-musicians-cancel-culture/31893637.html", "publisher": "RFE/RL", "date": "2022-06-09"}
+      ]
+    },
+    {
+      "date": "2023-01-01",
+      "title": {
+        "en": "'Heroiam slava' response at Dubai concert",
+        "uk": "Відповідь «Героям слава» на концерті в Дубаї",
+        "ru": "Ответ «Героям слава» на концерте в Дубае"
+      },
+      "detail": {
+        "en": "At a Russian New Year's party in Dubai an audience member shouted 'Slava Ukraini' and Meladze replied 'Heroiam slava'. Russian officials, including State Duma deputies, called for revoking his citizenship and titles; he responded that people he loves are on both sides and that he is against any war.",
+        "uk": "На російській новорічній вечірці в Дубаї глядач вигукнув «Слава Україні», і Меладзе відповів «Героям слава». Російські посадовці, зокрема депутати Держдуми, закликали позбавити його громадянства та звань; він відповів, що люди, яких він любить, є по обидва боки, і що він проти будь-якої війни.",
+        "ru": "На российской новогодней вечеринке в Дубае зритель выкрикнул «Слава Украине», и Меладзе ответил «Героям слава». Российские чиновники, включая депутатов Госдумы, призвали лишить его гражданства и званий; он ответил, что люди, которых он любит, есть по обе стороны, и что он против любой войны."
+      },
+      "sources": [
+        {"url": "https://meduza.io/en/feature/2023/01/03/he-s-already-chosen-his-side", "publisher": "Meduza", "date": "2023-01-03"},
+        {"url": "https://globalvoices.org/2023/01/05/popular-russian-singer-answers-glory-to-ukraine-now-they-want-to-revoke-his-citizenship/", "publisher": "Global Voices", "date": "2023-01-05"}
+      ]
+    },
+    {
+      "date": "2023-03",
+      "title": {
+        "en": "Concerts cancelled in Siberia",
+        "uk": "Скасування концертів у Сибіру",
+        "ru": "Отмена концертов в Сибири"
+      },
+      "detail": {
+        "en": "Three Meladze concerts were cancelled in Siberian cities amid the campaign against him following the Dubai incident.",
+        "uk": "Три концерти Меладзе було скасовано в сибірських містах на тлі кампанії проти нього після інциденту в Дубаї.",
+        "ru": "Три концерта Меладзе были отменены в сибирских городах на фоне кампании против него после инцидента в Дубае."
+      },
+      "sources": [
+        {"url": "https://www.forumfreerussia.org/en/news-en/2023-03-27/three-valerii-meladzes-concerts-were-cancelled-in-siberia", "publisher": "Free Russia Forum", "date": "2023-03-27"}
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "Included in Kremlin's de facto performance blacklist",
+        "uk": "Включений до фактичного кремлівського чорного списку виконавців",
+        "ru": "Включён в фактический кремлёвский чёрный список исполнителей"
+      },
+      "detail": {
+        "en": "Meduza reported a secret Kremlin blacklist of artists de facto banned from performing in Russia, which included war critics such as Meladze.",
+        "uk": "Meduza повідомила про таємний кремлівський чорний список артистів, фактично позбавлених можливості виступати в Росії, до якого увійшли критики війни, зокрема Меладзе.",
+        "ru": "Meduza сообщила о секретном кремлёвском чёрном списке артистов, де-факто лишённых возможности выступать в России, в который вошли критики войны, включая Меладзе."
+      },
+      "sources": [
+        {"url": "https://meduza.io/en/feature/2024/02/09/kremlin-de-facto-bans-dozens-of-top-artists-from-performing", "publisher": "Meduza", "date": "2024-02-09"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

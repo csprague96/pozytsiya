@@ -1,0 +1,85 @@
+{
+  "slug": "artem-pivovarov",
+  "name": "Artem Pivovarov",
+  "nameLocal": "Артем Пивоваров",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Kharkiv-born singer Artem Pivovarov, who moved his career fully to Ukrainian-language music, has made all his solo wartime performances charitable, reporting more than 300 charity concerts since 2022 in Ukraine and abroad. Proceeds from concerts and YouTube monetization have funded a mobile hospital, vehicles, drones and other equipment for the Ukrainian military. In April 2024 he played three sold-out charity nights at Kyiv's Palace of Sports with funds directed to the Armed Forces of Ukraine.",
+    "uk": "Уродженець Харкова співак Артем Пивоваров, який повністю перевів свою творчість на україномовну музику, зробив усі свої сольні виступи воєнного часу благодійними: з 2022 року він повідомив про понад 300 благодійних концертів в Україні та за кордоном. Кошти від концертів і монетизації на YouTube пішли на мобільний госпіталь, автомобілі, дрони та інше обладнання для українських військових. У квітні 2024 року він відіграв три аншлагові благодійні концерти в київському Палаці спорту, а зібрані кошти спрямував на ЗСУ.",
+    "ru": "Уроженец Харькова певец Артем Пивоваров, полностью переведший своё творчество на украиноязычную музыку, сделал все свои сольные выступления военного времени благотворительными: с 2022 года он сообщил о более чем 300 благотворительных концертах в Украине и за рубежом. Средства от концертов и монетизации на YouTube пошли на мобильный госпиталь, автомобили, дроны и другое оборудование для украинских военных. В апреле 2024 года он отыграл три аншлаговых благотворительных концерта в киевском Дворце спорта, а собранные средства направил Вооружённым силам Украины."
+  },
+  "timeline": [
+    {
+      "date": "2022-12-17",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Charity concert in Kyiv for the Armed Forces",
+        "uk": "Благодійний концерт у Києві на підтримку ЗСУ",
+        "ru": "Благотворительный концерт в Киеве в поддержку ВСУ"
+      },
+      "detail": {
+        "en": "Pivovarov held a charity concert in Kyiv in support of the Armed Forces of Ukraine, one of a continuing series of benefit shows.",
+        "uk": "Пивоваров провів у Києві благодійний концерт на підтримку Збройних сил України — один із тривалої серії доброчинних виступів.",
+        "ru": "Пивоваров провёл в Киеве благотворительный концерт в поддержку Вооружённых сил Украины — один из продолжающейся серии благотворительных выступлений."
+      },
+      "sources": [
+        {
+          "url": "https://concert.ua/en/event/artem-pivovarov-17-12",
+          "publisher": "Concert.ua",
+          "date": "2022-12-17"
+        }
+      ]
+    },
+    {
+      "date": "2023-10",
+      "title": {
+        "en": "USA and Canada charity tour",
+        "uk": "Благодійний тур США та Канадою",
+        "ru": "Благотворительный тур по США и Канаде"
+      },
+      "detail": {
+        "en": "Pivovarov toured the United States and Canada, with the shows framed as support for Ukraine during the war.",
+        "uk": "Пивоваров гастролював Сполученими Штатами та Канадою; концерти позиціонувалися як підтримка України під час війни.",
+        "ru": "Пивоваров гастролировал по США и Канаде; концерты позиционировались как поддержка Украины во время войны."
+      },
+      "sources": [
+        {
+          "url": "https://www.fishcanfly.org/events/pivovarov_usa2023",
+          "publisher": "Fish Can Fly"
+        },
+        {
+          "url": "https://eventcartel.com/events/artem-pivovarov-usa-and-canada-tour-2023-buy-tickets-191",
+          "publisher": "EventCartel"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "title": {
+        "en": "Three charity nights at Kyiv Palace of Sports",
+        "uk": "Три благодійні вечори в київському Палаці спорту",
+        "ru": "Три благотворительных вечера в киевском Дворце спорта"
+      },
+      "detail": {
+        "en": "He played three sold-out concerts at Kyiv's Palace of Sports on 19, 20 and 22 April 2024, with all funds raised directed to support the Armed Forces of Ukraine.",
+        "uk": "Він відіграв три аншлагові концерти в київському Палаці спорту 19, 20 та 22 квітня 2024 року; усі зібрані кошти було спрямовано на підтримку ЗСУ.",
+        "ru": "Он отыграл три аншлаговых концерта в киевском Дворце спорта 19, 20 и 22 апреля 2024 года; все собранные средства были направлены на поддержку Вооружённых сил Украины."
+      },
+      "sources": [
+        {
+          "url": "https://magicbox.agency/en/poster/artem-pyvovarov/",
+          "publisher": "MagicBox Agency"
+        },
+        {
+          "url": "https://concert.ua/en/talent/artem-pivovarov",
+          "publisher": "Concert.ua"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

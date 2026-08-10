@@ -1,0 +1,85 @@
+{
+  "slug": "boris-grebenshchikov",
+  "name": "Boris Grebenshchikov",
+  "nameLocal": "Борис Гребенщиков",
+  "country": "ru",
+  "basedIn": "gb",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Founder of rock band Aquarium. On 25 February 2022 he called the war against Ukraine 'madness and a disgrace for Russia'. He relocated to London, put Aquarium on hold, and has toured as 'BG+', playing benefit concerts whose proceeds went to humanitarian aid for Ukraine, including ambulances and medical supplies. Russia's Justice Ministry designated him a 'foreign agent' on 30 June 2023.",
+    "uk": "Засновник рок-гурту «Акваріум». 25 лютого 2022 року він назвав війну проти України «божевіллям і ганьбою для Росії». Він переїхав до Лондона, призупинив діяльність «Акваріума» та гастролює під назвою «БГ+», даючи благодійні концерти, кошти від яких ішли на гуманітарну допомогу Україні, зокрема на карети швидкої допомоги та медичні засоби. 30 червня 2023 року Мін'юст Росії визнав його «іноземним агентом».",
+    "ru": "Основатель рок-группы «Аквариум». 25 февраля 2022 года он назвал войну против Украины «безумием и позором для России». Он переехал в Лондон, приостановил деятельность «Аквариума» и гастролирует под названием «БГ+», давая благотворительные концерты, средства от которых шли на гуманитарную помощь Украине, включая машины скорой помощи и медицинские принадлежности. 30 июня 2023 года Минюст России признал его «иностранным агентом»."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-25",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Calls the war 'madness and a disgrace for Russia'",
+        "uk": "Називає війну «божевіллям і ганьбою для Росії»",
+        "ru": "Называет войну «безумием и позором для России»"
+      },
+      "detail": {
+        "en": "The day after the full-scale invasion began, Grebenshchikov published a post calling Russia's war against Ukraine madness and a disgrace for Russia.",
+        "uk": "Наступного дня після початку повномасштабного вторгнення Гребенщиков опублікував допис, у якому назвав війну Росії проти України божевіллям і ганьбою для Росії.",
+        "ru": "На следующий день после начала полномасштабного вторжения Гребенщиков опубликовал пост, в котором назвал войну России против Украины безумием и позором для России."
+      },
+      "sources": [
+        {"url": "https://charter97.org/en/news/2022/2/25/456207/", "publisher": "Charter97", "date": "2022-02-25"}
+      ]
+    },
+    {
+      "date": "2022-06-02",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Benefit concert for Ukraine in The Hague",
+        "uk": "Благодійний концерт на підтримку України в Гаазі",
+        "ru": "Благотворительный концерт в поддержку Украины в Гааге"
+      },
+      "detail": {
+        "en": "Grebenshchikov played a benefit concert at Paard (The Hague) with all profits donated to Zeilen van Vrijheid to buy and equip ambulances with medical supplies for hospitals in Ukraine's war zone; one of a series of charity concerts he gave after leaving Russia.",
+        "uk": "Гребенщиков дав благодійний концерт у залі Paard (Гаага), увесь прибуток від якого було передано організації Zeilen van Vrijheid на закупівлю та оснащення карет швидкої допомоги медичними засобами для лікарень у зоні бойових дій в Україні; це один із низки благодійних концертів після його від'їзду з Росії.",
+        "ru": "Гребенщиков дал благотворительный концерт в зале Paard (Гаага), вся прибыль от которого была передана организации Zeilen van Vrijheid на покупку и оснащение машин скорой помощи медицинскими принадлежностями для больниц в зоне боевых действий в Украине; один из серии благотворительных концертов после его отъезда из России."
+      },
+      "sources": [
+        {"url": "https://www.paard.nl/en/event/boris-grebenshikov-2/", "publisher": "Paard (venue)", "date": "2022-06-02"}
+      ]
+    },
+    {
+      "date": "2023-06-30",
+      "title": {
+        "en": "Designated 'foreign agent' by Russia",
+        "uk": "Визнаний у Росії «іноземним агентом»",
+        "ru": "Признан в России «иностранным агентом»"
+      },
+      "detail": {
+        "en": "Russia's Justice Ministry added Grebenshchikov to its 'foreign agent' registry, citing his activities abroad in support of Ukraine and opposition to the war.",
+        "uk": "Мін'юст Росії вніс Гребенщикова до реєстру «іноземних агентів», пославшись на його діяльність за кордоном на підтримку України та проти війни.",
+        "ru": "Минюст России внёс Гребенщикова в реестр «иностранных агентов», сославшись на его деятельность за рубежом в поддержку Украины и против войны."
+      },
+      "sources": [
+        {"url": "https://russianlife.com/the-russia-file/rockstar-declared-foreign-agent/", "publisher": "Russian Life"}
+      ]
+    },
+    {
+      "date": "2024-11-29",
+      "title": {
+        "en": "Interview on life in exile",
+        "uk": "Інтерв'ю про життя в еміграції",
+        "ru": "Интервью о жизни в эмиграции"
+      },
+      "detail": {
+        "en": "In an interview with The Insider, Grebenshchikov, based in London, said being unable to perform in Russia 'is a tragedy' but continued touring abroad under the 'BG+' name.",
+        "uk": "В інтерв'ю The Insider Гребенщиков, який мешкає в Лондоні, сказав, що неможливість виступати в Росії — «це трагедія», але продовжив гастролювати за кордоном під назвою «БГ+».",
+        "ru": "В интервью The Insider Гребенщиков, живущий в Лондоне, сказал, что невозможность выступать в России — «это трагедия», но продолжил гастролировать за рубежом под названием «БГ+»."
+      },
+      "sources": [
+        {"url": "https://theins.press/en/society/276728", "publisher": "The Insider", "date": "2024-11-29"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

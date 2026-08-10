@@ -1,0 +1,53 @@
+{
+  "slug": "markul",
+  "name": "Markul",
+  "nameLocal": "Маркул",
+  "country": "other",
+  "basedIn": "gb",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "disputed": true,
+  "summary": {
+    "en": "Riga-born, London-based rapper (Latvian citizen, real name Mark Markulis) prominent on the Russian-language rap scene. Immediately after the February 2022 invasion he wrote that no one who could justify what was happening would remain in his circle, and flew to London. He nevertheless continued releasing joint tracks with Russian artists and touring Russia, and in February 2024 accepted Russian citizenship, contravening Latvia's ban on dual citizenship with Russia.",
+    "uk": "Народжений у Ризі та осілий у Лондоні репер (громадянин Латвії, справжнє ім'я Марк Маркуліс), помітна постать російськомовної реп-сцени. Одразу після повномасштабного вторгнення в лютому 2022 року він написав, що в його оточенні ніколи не буде людей, здатних виправдати те, що відбувається, і вилетів до Лондона. Попри це він продовжив випускати спільні треки з російськими артистами й гастролювати Росією, а в лютому 2024 року прийняв російське громадянство, порушивши латвійську заборону на подвійне громадянство з Росією.",
+    "ru": "Родившийся в Риге и живущий в Лондоне рэпер (гражданин Латвии, настоящее имя Марк Маркулис), заметная фигура русскоязычной рэп-сцены. Сразу после полномасштабного вторжения в феврале 2022 года он написал, что в его окружении никогда не будет людей, способных оправдать происходящее, и улетел в Лондон. Тем не менее он продолжил выпускать совместные треки с российскими артистами и гастролировать по России, а в феврале 2024 года принял российское гражданство, нарушив латвийский запрет на двойное гражданство с Россией."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "title": {
+        "en": "Condemns the invasion on social media, flies to London",
+        "uk": "Засуджує вторгнення в соцмережах, вилітає до Лондона",
+        "ru": "Осуждает вторжение в соцсетях, улетает в Лондон"
+      },
+      "detail": {
+        "en": "Right after the start of the full-scale invasion, Markul posted that there would never be people in his circle who could justify what was happening, and left for London.",
+        "uk": "Одразу після початку повномасштабного вторгнення Маркул написав, що в його оточенні ніколи не буде людей, здатних виправдати те, що відбувається, і виїхав до Лондона.",
+        "ru": "Сразу после начала полномасштабного вторжения Маркул написал, что в его окружении никогда не будет людей, способных оправдать происходящее, и уехал в Лондон."
+      },
+      "sources": [
+        {"url": "https://eadaily.com/en/news/2026/02/23/the-latvian-rapper-who-condemned-smo-received-russian-citizenship", "publisher": "EADaily (pro-Kremlin outlet)", "date": "2026-02-23"}
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "Receives Russian citizenship while continuing Russian career",
+        "uk": "Отримує російське громадянство, продовжуючи кар'єру в Росії",
+        "ru": "Получает российское гражданство, продолжая карьеру в России"
+      },
+      "detail": {
+        "en": "Markul received Russian citizenship, in violation of Latvia's prohibition on dual citizenship with Russia, having continued to release collaborations with Russian artists and tour Russia after 2022.",
+        "uk": "Маркул отримав російське громадянство, порушивши латвійську заборону на подвійне громадянство з Росією; після 2022 року він продовжував випускати колаборації з російськими артистами та гастролювати Росією.",
+        "ru": "Маркул получил российское гражданство, нарушив латвийский запрет на двойное гражданство с Россией; после 2022 года он продолжал выпускать коллаборации с российскими артистами и гастролировать по России."
+      },
+      "sources": [
+        {"url": "https://eadaily.com/en/news/2026/02/23/the-latvian-rapper-who-condemned-smo-received-russian-citizenship", "publisher": "EADaily (pro-Kremlin outlet)", "date": "2026-02-23"},
+        {"url": "https://latvia.news-pravda.com/en/russia/2026/02/22/31193.html", "publisher": "News-Pravda (Russian propaganda aggregator)", "date": "2026-02-22"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "max-korzh",
+  "name": "Max Korzh",
+  "nameLocal": "Макс Корж",
+  "country": "by",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Max Korzh is a Belarusian singer who on the first day of the full-scale invasion condemned 'the invasion and bombardment of a sovereign state' and wished peace to Ukraine, though without naming Russia as the aggressor. In mid-2022 he released the anti-war track 'Svoy dom' ('He who defends his home is right') and his Russian tour was cancelled. At large diaspora concerts — Riga 2023, Warsaw 2025, Turkey 2026 — he led 'No to war' chants and called to 'stop the war', while continuing to avoid direct condemnation of Russia, which draws criticism from Ukrainian commentators.",
+    "uk": "Макс Корж — білоруський співак, який у перший день повномасштабного вторгнення засудив «вторгнення та бомбардування суверенної держави» і побажав миру Україні, хоча й не назвав Росію агресором. У середині 2022 року він випустив антивоєнний трек «Свой дом» («Той правий, хто захищає свій дім»), після чого його російський тур було скасовано. На великих концертах для діаспори — Рига 2023, Варшава 2025, Туреччина 2026 — він запускав скандування «Ні війні» та закликав «зупинити війну», але й далі уникає прямого засудження Росії, за що його критикують українські коментатори.",
+    "ru": "Макс Корж — белорусский певец, который в первый день полномасштабного вторжения осудил «вторжение и бомбардировку суверенного государства» и пожелал мира Украине, не назвав, однако, Россию агрессором. В середине 2022 года он выпустил антивоенный трек «Свой дом» («Тот прав, кто защищает свой дом»), после чего его российский тур был отменён. На больших концертах для диаспоры — Рига 2023, Варшава 2025, Турция 2026 — он запускал скандирование «Нет войне» и призывал «остановить войну», продолжая при этом избегать прямого осуждения России, за что его критикуют украинские комментаторы."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Condemns invasion on day one",
+        "uk": "Засуджує вторгнення в перший день",
+        "ru": "Осуждает вторжение в первый день"
+      },
+      "detail": {
+        "en": "Korzh posted on Instagram condemning the invasion and bombardment of a sovereign state, writing that 'this is a war that will change everyone's life forever' and 'Peace to Ukraine', without naming Russia as the aggressor.",
+        "uk": "Корж опублікував в Instagram допис із засудженням вторгнення та бомбардування суверенної держави, написавши, що «це війна, яка назавжди змінить життя кожного», і «Миру Україні», не назвавши Росію агресором.",
+        "ru": "Корж опубликовал в Instagram пост с осуждением вторжения и бомбардировки суверенного государства, написав, что «это война, которая навсегда изменит жизнь каждого», и «Мира Украине», не назвав Россию агрессором."
+      },
+      "sources": [
+        { "url": "https://focus.ua/lifestyle/755187-koncert-maksa-korzha-ukraincy-massovo-edut-na-vystuplenie-belorusskogo-repera-chto-on-govoril-o-voyne", "publisher": "Focus (Ukraine)" }
+      ]
+    },
+    {
+      "date": "2022-06",
+      "title": {
+        "en": "Anti-war song 'Svoy dom'; Russian tour cancelled",
+        "uk": "Антивоєнна пісня «Свой дом»; російський тур скасовано",
+        "ru": "Антивоенная песня «Свой дом»; российский тур отменён"
+      },
+      "detail": {
+        "en": "Korzh released the track 'Svoy dom', with the line 'he who defends his home is right', widely read as an anti-war song about Ukraine; after its premiere his tour of Russia was cancelled.",
+        "uk": "Корж випустив трек «Свой дом» із рядком «той правий, хто захищає свій дім», який широко сприйняли як антивоєнну пісню про Україну; після прем'єри його тур Росією було скасовано.",
+        "ru": "Корж выпустил трек «Свой дом» со строкой «тот прав, кто защищает свой дом», широко воспринятый как антивоенная песня об Украине; после премьеры его тур по России был отменён."
+      },
+      "sources": [
+        { "url": "https://tsn.ua/ru/glamur/belorusskiy-pevec-maks-korzh-vypustil-pesnyu-o-voyne-v-ukraine-tot-prav-kto-zaschischaet-svoy-dom-2079184.html", "publisher": "TSN (Ukraine)", "date": "2022-06" }
+      ]
+    },
+    {
+      "date": "2023-09-02",
+      "title": {
+        "en": "Riga stadium concert with 'No to war!' chant",
+        "uk": "Стадіонний концерт у Ризі зі скандуванням «Ні війні!»",
+        "ru": "Стадионный концерт в Риге со скандированием «Нет войне!»"
+      },
+      "detail": {
+        "en": "At his first big concert in two years, at the Daugava stadium in Riga before about 35,000 people, Korzh called on the audience to chant 'No to war!'.",
+        "uk": "На своєму першому за два роки великому концерті, на стадіоні «Даугава» в Ризі перед приблизно 35 000 глядачів, Корж закликав публіку скандувати «Ні війні!».",
+        "ru": "На своём первом за два года большом концерте, на стадионе «Даугава» в Риге перед примерно 35 000 зрителей, Корж призвал публику скандировать «Нет войне!»."
+      },
+      "sources": [
+        { "url": "https://news.zerkalo.io/life/47933.html", "publisher": "Zerkalo (Belarusian independent media)", "date": "2023-09" },
+        { "url": "https://the-flow.ru/news/max-korzh-riga-2-sentyabrya", "publisher": "The Flow (Russia)" }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "title": {
+        "en": "Warsaw National Stadium concert; calls to 'stop the war'",
+        "uk": "Концерт на Національному стадіоні у Варшаві; заклики «зупинити війну»",
+        "ru": "Концерт на Национальном стадионе в Варшаве; призывы «остановить войну»"
+      },
+      "detail": {
+        "en": "Korzh played to over 60,000 people at Warsaw's National Stadium, telling the crowd the war must be stopped and speaking of a whole country held hostage; Ukrainian and white-red-white flags were reportedly confiscated at entry by stewards, a red-and-black flag incident on the stands caused a scandal in Poland, and Polish authorities later deported 63 attendees.",
+        "uk": "Корж виступив перед понад 60 000 глядачів на Національному стадіоні у Варшаві, сказавши натовпу, що війну треба зупинити, і говорячи про цілу країну в заручниках; за повідомленнями, стюарди вилучали на вході українські та біло-червоно-білі прапори, інцидент із червоно-чорним прапором на трибунах спричинив скандал у Польщі, а польська влада згодом депортувала 63 відвідувачів.",
+        "ru": "Корж выступил перед более чем 60 000 зрителей на Национальном стадионе в Варшаве, сказав толпе, что войну нужно остановить, и говоря о целой стране в заложниках; по сообщениям, стюарды изымали на входе украинские и бело-красно-белые флаги, инцидент с красно-чёрным флагом на трибунах вызвал скандал в Польше, а польские власти позднее депортировали 63 посетителей."
+      },
+      "sources": [
+        { "url": "https://lite.rbc.ua/ukr/news/zupini-viynu-maks-korzh-varshavi-zaklikav-1754810793.html", "publisher": "RBC-Ukraine", "date": "2025-08-10" },
+        { "url": "https://tsn.ua/ru/glamur/kontsert-maksa-korzha-v-varshave-zakonchilsya-skandalom-chto-razozlilo-polyakov-i-pri-chem-zdes-ukraintsy-2888729.html", "publisher": "TSN (Ukraine)" }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "title": {
+        "en": "First wartime concert in Turkey",
+        "uk": "Перший воєнний концерт у Туреччині",
+        "ru": "Первый концерт военного времени в Турции"
+      },
+      "detail": {
+        "en": "Korzh gave his first concert since the start of the war in Turkey, a country Russians can visit visa-free; spectators with Ukrainian and Russian flags danced together and he said everyone can stop the war 'simply by not participating in quarrels', prompting arguments online.",
+        "uk": "Корж дав свій перший від початку війни концерт у Туреччині — країні, куди росіяни можуть їздити без віз; глядачі з українськими та російськими прапорами танцювали разом, а він сказав, що кожен може зупинити війну, «просто не беручи участі в чварах», що викликало суперечки в мережі.",
+        "ru": "Корж дал свой первый с начала войны концерт в Турции — стране, куда россияне могут ездить без виз; зрители с украинскими и российскими флагами танцевали вместе, а он сказал, что каждый может остановить войну, «просто не участвуя в ссорах», что вызвало споры в сети."
+      },
+      "sources": [
+        { "url": "https://meduza.io/feature/2026/06/08/maks-korzh-vpervye-s-nachala-voyny-dal-kontsert-v-turtsii-strane-kuda-rossiyane-mogut-poehat-bez-vizy-zriteli-s-flagami-ukrainy-i-rossii-tantsevali-vmeste", "publisher": "Meduza", "date": "2026-06-08" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

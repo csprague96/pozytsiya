@@ -1,0 +1,85 @@
+{
+  "slug": "tvorchi",
+  "name": "TVORCHI",
+  "nameLocal": "Творчі",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Electronic duo TVORCHI (producer Andrii Hutsuliak and Nigerian-born vocalist Jeffery Kenny), based in Ternopil, represented Ukraine at Eurovision 2023 with 'Heart of Steel', a song inspired by the defenders of the Azovstal plant in Mariupol. They won Ukraine's national selection held in a Kyiv bomb shelter, and after Russian missiles struck Ternopil during their Eurovision performance they publicly called on Europe to 'unite against evil'.",
+    "uk": "Електронний дует TVORCHI (продюсер Андрій Гуцуляк і вокаліст нігерійського походження Джеффрі Кенні) з Тернополя представляв Україну на Євробаченні-2023 з піснею «Heart of Steel», натхненною захисниками заводу «Азовсталь» у Маріуполі. Дует переміг у національному відборі України, що проходив у бомбосховищі в Києві, а після того, як російські ракети вдарили по Тернополю під час їхнього виступу на Євробаченні, публічно закликав Європу «об'єднатися проти зла».",
+    "ru": "Электронный дуэт TVORCHI (продюсер Андрий Гуцуляк и вокалист нигерийского происхождения Джеффри Кенни) из Тернополя представлял Украину на Евровидении-2023 с песней «Heart of Steel», вдохновлённой защитниками завода «Азовсталь» в Мариуполе. Дуэт победил в национальном отборе Украины, проходившем в бомбоубежище в Киеве, а после того, как российские ракеты ударили по Тернополю во время их выступления на Евровидении, публично призвал Европу «объединиться против зла»."
+  },
+  "timeline": [
+    {
+      "date": "2022-12-17",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Wins Ukraine's Eurovision selection in a bomb shelter",
+        "uk": "Перемога в нацвідборі на Євробачення в бомбосховищі",
+        "ru": "Победа в нацотборе на Евровидение в бомбоубежище"
+      },
+      "detail": {
+        "en": "TVORCHI won Ukraine's national Eurovision selection with 'Heart of Steel', a song inspired by the defenders of Azovstal; the contest was held in a bomb shelter in Kyiv due to Russian air attacks.",
+        "uk": "TVORCHI переміг у національному відборі України на Євробачення з піснею «Heart of Steel», натхненною захисниками «Азовсталі»; через російські повітряні атаки конкурс проходив у бомбосховищі в Києві.",
+        "ru": "TVORCHI победил в национальном отборе Украины на Евровидение с песней «Heart of Steel», вдохновлённой защитниками «Азовстали»; из-за российских воздушных атак конкурс проходил в бомбоубежище в Киеве."
+      },
+      "sources": [
+        {
+          "url": "https://www.euronews.com/2022/12/18/heart-of-steel-ukraine-chooses-eurovision-act-in-bomb-shelter-contest",
+          "publisher": "Euronews",
+          "date": "2022-12-18"
+        }
+      ]
+    },
+    {
+      "date": "2023-04",
+      "title": {
+        "en": "Pre-Eurovision interviews on the war",
+        "uk": "Інтерв'ю про війну напередодні Євробачення",
+        "ru": "Интервью о войне накануне Евровидения"
+      },
+      "detail": {
+        "en": "Ahead of Eurovision 2023 the duo spoke about the war shaping their entry and their experience living in Ternopil under Russian attacks.",
+        "uk": "Напередодні Євробачення-2023 дует розповідав, як війна вплинула на їхню пісню, та про досвід життя в Тернополі під російськими ударами.",
+        "ru": "Накануне Евровидения-2023 дуэт рассказывал, как война повлияла на их песню, и о жизни в Тернополе под российскими ударами."
+      },
+      "sources": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/world-europe-65300406",
+          "publisher": "BBC News",
+          "date": "2023-04"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-13",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Ternopil struck during Eurovision final; public statement",
+        "uk": "Удар по Тернополю під час фіналу Євробачення; публічна заява",
+        "ru": "Удар по Тернополю во время финала Евровидения; публичное заявление"
+      },
+      "detail": {
+        "en": "Russian missiles hit the duo's hometown Ternopil as they performed 'Heart of Steel' at the Eurovision final in Liverpool; TVORCHI responded on Instagram that Russia bombed their city while they sang about 'steel hearts' and urged 'Europe, unite against evil for the sake of peace'.",
+        "uk": "Російські ракети вдарили по рідному місту дуету Тернополю, коли вони виконували «Heart of Steel» у фіналі Євробачення в Ліверпулі; TVORCHI відповіли в Instagram, що Росія бомбила їхнє місто, поки вони співали про «сталеві серця», і закликали: «Європо, об'єднайся проти зла заради миру».",
+        "ru": "Российские ракеты ударили по родному городу дуэта Тернополю, когда они исполняли «Heart of Steel» в финале Евровидения в Ливерпуле; TVORCHI ответили в Instagram, что Россия бомбила их город, пока они пели о «стальных сердцах», и призвали: «Европа, объединись против зла ради мира»."
+      },
+      "sources": [
+        {
+          "url": "https://www.npr.org/2023/05/15/1176214531/russia-missile-attack-ukraine-ternopil-eurovision-tvorchi",
+          "publisher": "NPR",
+          "date": "2023-05-15"
+        },
+        {
+          "url": "https://feeds.bbci.co.uk/news/world-europe-65586701",
+          "publisher": "BBC News",
+          "date": "2023-05"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "timati",
+  "name": "Timati",
+  "nameLocal": "Тимати",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "performed_in_occupied_territories", "sanctioned"],
+  "summary": {
+    "en": "Rapper and entrepreneur Timati (Timur Yunusov), a longtime Putin campaign proxy (2012, 2018, 2024), spoke at the pro-war Luzhniki rally on 18 March 2022, has spread 'SVO' symbols and narratives, and has repeatedly traveled to occupied Crimea for propaganda events. Ukraine's SBU charged him in 2025 and issued an arrest warrant; the EU sanctioned him in its 20th package in April 2026, following earlier Canadian, Latvian and Ukrainian measures.",
+    "uk": "Репер і підприємець Тіматі (Тимур Юнусов), багаторічна довірена особа передвиборчих кампаній Путіна (2012, 2018, 2024), 18 березня 2022 року виступив на провоєнному мітингу в «Лужниках», поширював символіку та наративи «СВО» і неодноразово їздив до окупованого Криму на пропагандистські заходи. У 2025 році СБУ повідомила йому про підозру, а український суд видав ордер на арешт; у квітні 2026 року ЄС запровадив проти нього санкції в межах 20-го пакета — після раніших заходів Канади, Латвії та України.",
+    "ru": "Рэпер и предприниматель Тимати (Тимур Юнусов), многолетнее доверенное лицо предвыборных кампаний Путина (2012, 2018, 2024), 18 марта 2022 года выступил на провоенном митинге в «Лужниках», распространял символику и нарративы «СВО» и неоднократно ездил в оккупированный Крым на пропагандистские мероприятия. В 2025 году СБУ предъявила ему подозрение, а украинский суд выдал ордер на арест; в апреле 2026 года ЕС ввел против него санкции в рамках 20-го пакета — после более ранних мер Канады, Латвии и Украины."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-18",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Speaks at Luzhniki pro-war rally",
+        "uk": "Виступ на провоєнному мітингу в «Лужниках»",
+        "ru": "Выступление на провоенном митинге в «Лужниках»"
+      },
+      "detail": {
+        "en": "Appeared at the 18 March 2022 Luzhniki propaganda rally marking the Crimea annexation anniversary; EU listing materials cite this appearance and his spreading of 'special military operation' symbols.",
+        "uk": "З'явився на пропагандистському мітингу в «Лужниках» 18 березня 2022 року з нагоди річниці анексії Криму; у матеріалах санкційного списку ЄС згадуються цей виступ і поширення ним символіки «спеціальної воєнної операції».",
+        "ru": "Появился на пропагандистском митинге в «Лужниках» 18 марта 2022 года по случаю годовщины аннексии Крыма; в материалах санкционного списка ЕС упоминаются это выступление и распространение им символики «специальной военной операции»."
+      },
+      "sources": [
+        { "url": "https://ukranews.com/en/news/1134104-eu-plans-to-impose-sanctions-against-rapper-timati-who-was-confidant-of-putin-and-boasted", "publisher": "Ukrainian News (ukranews.com)" }
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "title": {
+        "en": "SBU notice of suspicion",
+        "uk": "СБУ повідомила про підозру",
+        "ru": "СБУ предъявила подозрение"
+      },
+      "detail": {
+        "en": "Ukraine's Security Service served Timati a notice of suspicion over propaganda activity in occupied Crimea, where investigators say he performed at least seven times since the 2014 annexation, including wartime propaganda events.",
+        "uk": "Служба безпеки України повідомила Тіматі про підозру через пропагандистську діяльність в окупованому Криму, де, за даними слідства, він виступав щонайменше сім разів після анексії 2014 року, зокрема на пропагандистських заходах воєнного часу.",
+        "ru": "Служба безопасности Украины предъявила Тимати подозрение из-за пропагандистской деятельности в оккупированном Крыму, где, по данным следствия, он выступал не менее семи раз после аннексии 2014 года, в том числе на пропагандистских мероприятиях военного времени."
+      },
+      "sources": [
+        { "url": "https://www.pravda.com.ua/eng/news/2025/06/13/7516954/", "publisher": "Ukrainska Pravda", "date": "2025-06-13" },
+        { "url": "https://mezha.net/eng/bukvy/ukrainian-security-service-charges-russian-rapper-timati-for-propaganda-in-crimea/", "publisher": "Mezha" }
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "title": {
+        "en": "Ukrainian arrest warrant",
+        "uk": "Український ордер на арешт",
+        "ru": "Украинский ордер на арест"
+      },
+      "detail": {
+        "en": "A Ukrainian court issued an arrest warrant for Timati over repeated illegal entry into Russian-occupied territories of Ukraine.",
+        "uk": "Український суд видав ордер на арешт Тіматі через неодноразовий незаконний в'їзд на окуповані Росією території України.",
+        "ru": "Украинский суд выдал ордер на арест Тимати из-за неоднократного незаконного въезда на оккупированные Россией территории Украины."
+      },
+      "sources": [
+        { "url": "https://meduza.io/en/news/2025/09/08/ukraine-issues-arrest-warrant-for-pro-putin-russian-rapper-timati", "publisher": "Meduza", "date": "2025-09-08" }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "title": {
+        "en": "EU sanctions (20th package)",
+        "uk": "Санкції ЄС (20-й пакет)",
+        "ru": "Санкции ЕС (20-й пакет)"
+      },
+      "detail": {
+        "en": "The EU imposed an asset freeze and travel ban on Timati among 37 individuals, citing his support for Russian aggression against Ukraine, spreading of Kremlin propaganda narratives and 'SVO' symbols, stated readiness to fight against Ukraine, and support for the occupation of Crimea.",
+        "uk": "ЄС запровадив замороження активів і заборону на в'їзд для Тіматі серед 37 осіб, вказавши на його підтримку російської агресії проти України, поширення кремлівських пропагандистських наративів і символіки «СВО», заявлену готовність воювати проти України та підтримку окупації Криму.",
+        "ru": "ЕС ввел заморозку активов и запрет на въезд для Тимати в числе 37 лиц, указав на его поддержку российской агрессии против Украины, распространение кремлевских пропагандистских нарративов и символики «СВО», заявленную готовность воевать против Украины и поддержку оккупации Крыма."
+      },
+      "sources": [
+        { "url": "https://charter97.org/en/news/2026/4/24/681668", "publisher": "Charter97", "date": "2026-04-24" },
+        { "url": "https://www.opensanctions.org/entities/Q176846/", "publisher": "OpenSanctions" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

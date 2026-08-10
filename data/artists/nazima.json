@@ -1,0 +1,50 @@
+{
+  "slug": "nazima",
+  "name": "NAZIMA",
+  "nameLocal": "НАZИМА",
+  "country": "kz",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "silent",
+  "flags": [],
+  "summary": {
+    "en": "NAZIMA (Nazima Janibekova) is a Kazakhstani singer who built her career in the Russian pop market, formerly with the Black Star label and later with Lotus Music. No public statement by her on Russia's full-scale invasion of Ukraine was found in Russian, Ukrainian or Kazakh media, and she does not appear in the main Ukrainian databases tracking artists' war positions. She has continued her Russian-language pop career during the war.",
+    "uk": "НАZИМА (Назіма Джанібекова) — казахстанська співачка, яка збудувала кар'єру на російському поп-ринку, раніше на лейблі Black Star, згодом на Lotus Music. Жодної її публічної заяви щодо повномасштабного вторгнення Росії в Україну в російських, українських чи казахських медіа не знайдено, і вона не фігурує в основних українських базах, що відстежують позиції артистів щодо війни. Під час війни вона продовжила російськомовну поп-кар'єру.",
+    "ru": "НАZИМА (Назима Джанибекова) — казахстанская певица, построившая карьеру на российском поп-рынке, ранее на лейбле Black Star, затем на Lotus Music. Ни одного её публичного заявления о полномасштабном вторжении России в Украину в российских, украинских или казахских СМИ не найдено, и она не фигурирует в основных украинских базах, отслеживающих позиции артистов по войне. Во время войны она продолжила русскоязычную поп-карьеру."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "title": {
+        "en": "No public reaction to the full-scale invasion",
+        "uk": "Відсутність публічної реакції на повномасштабне вторгнення",
+        "ru": "Отсутствие публичной реакции на полномасштабное вторжение"
+      },
+      "detail": {
+        "en": "Searches of Russian, Ukrainian and Kazakh media found no statement by NAZIMA on the invasion; biographical coverage of her career makes no mention of any war-related position.",
+        "uk": "Пошук у російських, українських і казахських медіа не виявив жодної заяви НАZИМИ про вторгнення; біографічні матеріали про її кар'єру не згадують жодної позиції щодо війни.",
+        "ru": "Поиск в российских, украинских и казахских СМИ не выявил ни одного заявления НАZИМЫ о вторжении; биографические материалы о её карьере не упоминают какой-либо позиции по войне."
+      },
+      "sources": [
+        { "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B7%D0%B8%D0%BC%D0%B0", "publisher": "Wikipedia (Russian)" }
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": {
+        "en": "Continued Russian-market pop career",
+        "uk": "Продовження поп-кар'єри на російському ринку",
+        "ru": "Продолжение поп-карьеры на российском рынке"
+      },
+      "detail": {
+        "en": "Russian entertainment media continued to profile NAZIMA as an active artist in the Russian pop scene into 2026, with no recorded commentary on the war.",
+        "uk": "Російські розважальні медіа й у 2026 році продовжували писати про НАZИМУ як про активну артистку російської поп-сцени, без жодних зафіксованих коментарів про війну.",
+        "ru": "Российские развлекательные СМИ и в 2026 году продолжали освещать НАZИМУ как активную артистку российской поп-сцены, без каких-либо зафиксированных комментариев о войне."
+      },
+      "sources": [
+        { "url": "https://24smi.org/celebrity/49768-nazima.html", "publisher": "24SMI (Russia)" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

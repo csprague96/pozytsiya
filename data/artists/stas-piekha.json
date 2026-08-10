@@ -1,0 +1,108 @@
+{
+  "slug": "stas-piekha",
+  "name": "Stas Piekha",
+  "nameLocal": "Стас Пьеха",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "performed_in_occupied_territories"],
+  "summary": {
+    "en": "Russian singer, grandson of Edita Piekha. He has been banned from entering Ukraine since 2015 over his support for the annexation of Crimea, and in 2015 performed a song celebrating Russian 'humanitarian convoys' to Donbas; he toured occupied Donetsk in 2017. After the full-scale invasion he stayed in Russia and performed in newly occupied Ukrainian territory: in August 2022 he sang at a Russian Flag Day concert in occupied Starobilsk (Luhansk region), saying 'We are not afraid. We come and we will keep coming.' Russian state media list him among artists who supported the 'special military operation.'",
+    "uk": "Російський співак, онук Едіти П'єхи. З 2015 року йому заборонено в'їзд в Україну через підтримку анексії Криму; того ж 2015 року він виконав пісню, що прославляла російські «гумконвої» на Донбас, а 2017 року виступав в окупованому Донецьку. Після повномасштабного вторгнення він залишився в Росії та виступав на новоокупованій українській території: у серпні 2022 року він співав на концерті до Дня російського прапора в окупованому Старобільську (Луганська область), заявивши: «Ми не боїмося. Ми приїжджаємо і будемо приїжджати». Російські державні ЗМІ включають його до переліку артистів, які підтримали «спеціальну воєнну операцію».",
+    "ru": "Российский певец, внук Эдиты Пьехи. С 2015 года ему запрещен въезд в Украину из-за поддержки аннексии Крыма; в том же 2015 году он исполнил песню, прославлявшую российские «гумконвои» на Донбасс, а в 2017 году выступал в оккупированном Донецке. После полномасштабного вторжения он остался в России и выступал на новооккупированной украинской территории: в августе 2022 года он пел на концерте ко Дню российского флага в оккупированном Старобельске (Луганская область), заявив: «Мы не боимся. Мы приезжаем и будем приезжать». Российские государственные СМИ включают его в число артистов, поддержавших «специальную военную операцию»."
+  },
+  "timeline": [
+    {
+      "date": "2015-12",
+      "stanceAfter": -2,
+      "title": {
+        "en": "Song about Russian 'humanitarian convoys' to Donbas",
+        "uk": "Пісня про російські «гумконвої» на Донбас",
+        "ru": "Песня о российских «гумконвоях» на Донбасс"
+      },
+      "detail": {
+        "en": "Piekha performed the new song 'Donbass' celebrating Russian humanitarian convoys at a concert for Russia's Emergencies Ministry; by then he was already banned from entering Ukraine over his support for the annexation of Crimea.",
+        "uk": "П'єха виконав нову пісню «Донбас», що прославляла російські гуманітарні конвої, на концерті для МНС Росії; на той момент йому вже було заборонено в'їзд в Україну через підтримку анексії Криму.",
+        "ru": "Пьеха исполнил новую песню «Донбасс», прославлявшую российские гуманитарные конвои, на концерте для МЧС России; к тому моменту ему уже был запрещен въезд в Украину из-за поддержки аннексии Крыма."
+      },
+      "sources": [
+        {
+          "url": "https://korrespondent.net/world/russia/3608738-stas-pekha-spel-o-humkonvoiakh-rossyy",
+          "publisher": "Korrespondent.net"
+        },
+        {
+          "url": "https://gordonua.com/news/war/stas-peha-vospel-bratskuyu-pomoshch-v-vide-rossiyskih-gumkonvoev-donbassu-video-112966.html",
+          "publisher": "Gordonua.com"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-30",
+      "title": {
+        "en": "Performed in occupied Donetsk",
+        "uk": "Виступ в окупованому Донецьку",
+        "ru": "Выступление в оккупированном Донецке"
+      },
+      "detail": {
+        "en": "Piekha traveled to occupied Donetsk for a performance, telling Russian press he was not afraid of the hostilities.",
+        "uk": "П'єха поїхав з виступом до окупованого Донецька, заявивши російській пресі, що не боїться бойових дій.",
+        "ru": "Пьеха поехал с выступлением в оккупированный Донецк, заявив российской прессе, что не боится боевых действий."
+      },
+      "sources": [
+        {
+          "url": "https://www.donetsk.kp.ru/daily/26738.5/3765970/",
+          "publisher": "Komsomolskaya Pravda (Russian state-aligned media)",
+          "date": "2017-09-30"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-07",
+      "title": {
+        "en": "Confirmed he stayed in Russia",
+        "uk": "Підтвердив, що залишився в Росії",
+        "ru": "Подтвердил, что остался в России"
+      },
+      "detail": {
+        "en": "Piekha denied rumors of leaving Russia amid the war in Ukraine, telling Gazeta.Ru he remained in the country.",
+        "uk": "П'єха спростував чутки про виїзд із Росії на тлі війни в Україні, заявивши Gazeta.Ru, що залишається в країні.",
+        "ru": "Пьеха опроверг слухи об отъезде из России на фоне войны в Украине, заявив Gazeta.Ru, что остается в стране."
+      },
+      "sources": [
+        {
+          "url": "https://www.gazeta.ru/culture/news/2022/04/07/n_17537875.shtml",
+          "publisher": "Gazeta.Ru (Russian outlet)",
+          "date": "2022-04-07"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-22",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Concert in occupied Starobilsk for Russian Flag Day",
+        "uk": "Концерт в окупованому Старобільську до Дня російського прапора",
+        "ru": "Концерт в оккупированном Старобельске ко Дню российского флага"
+      },
+      "detail": {
+        "en": "Piekha performed at a Russian Flag Day concert in occupied Starobilsk, Luhansk region, saying: 'We are not afraid. We come. We will keep coming'; Russian state media (RIA Novosti, November 2022) listed him among artists who helped the 'SVO.'",
+        "uk": "П'єха виступив на концерті до Дня російського прапора в окупованому Старобільську Луганської області, заявивши: «Ми не боїмося. Ми приїжджаємо. І будемо приїжджати»; російські державні ЗМІ (РИА Новости, листопад 2022) включили його до переліку артистів, які допомагали «СВО».",
+        "ru": "Пьеха выступил на концерте ко Дню российского флага в оккупированном Старобельске Луганской области, заявив: «Мы не боимся. Мы приезжаем. И будем приезжать»; российские государственные СМИ (РИА Новости, ноябрь 2022) включили его в список артистов, помогавших «СВО»."
+      },
+      "sources": [
+        {
+          "url": "https://lnr-news.ru/society/2022/08/22/47174.html",
+          "publisher": "LNR News (occupation administration outlet)",
+          "date": "2022-08-22"
+        },
+        {
+          "url": "https://ria.ru/20221103/artisty-1828413821.html",
+          "publisher": "RIA Novosti (Russian state media)",
+          "date": "2022-11-03"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

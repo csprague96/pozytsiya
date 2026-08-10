@@ -1,0 +1,85 @@
+{
+  "slug": "zemfira",
+  "name": "Zemfira",
+  "nameLocal": "Земфира",
+  "country": "ru",
+  "basedIn": "fr",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Rock singer Zemfira Ramazanova opposed the invasion from its start, releasing the anti-war track 'Ne strelyaite' (Don't Shoot) in March 2022 and displaying 'No to war' on her website. She left Russia and settled in France. In February 2023 Russia's Justice Ministry declared her a 'foreign agent', citing her support for Ukraine and anti-war statements at concerts in 'unfriendly countries'; by 2026 she had reportedly disposed of her remaining real estate in Russia.",
+    "uk": "Рок-співачка Земфіра Рамазанова виступила проти вторгнення від самого початку: у березні 2022 року вона випустила антивоєнну пісню «Не стреляйте» («Не стріляйте») і розмістила на своєму сайті напис «Ні війні». Вона виїхала з Росії й оселилася у Франції. У лютому 2023 року Міністерство юстиції Росії визнало її «іноземною агенткою», посилаючись на її підтримку України та антивоєнні заяви на концертах у «недружніх країнах»; за повідомленнями, до 2026 року вона позбулася своєї нерухомості, що залишалася в Росії.",
+    "ru": "Рок-певица Земфира Рамазанова выступила против вторжения с самого начала: в марте 2022 года она выпустила антивоенную песню «Не стреляйте» и разместила на своём сайте надпись «Нет войне». Она покинула Россию и поселилась во Франции. В феврале 2023 года Министерство юстиции России признало её «иностранным агентом», сославшись на её поддержку Украины и антивоенные заявления на концертах в «недружественных странах»; по сообщениям, к 2026 году она избавилась от оставшейся у неё недвижимости в России."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Releases anti-war song 'Ne strelyaite' and leaves Russia",
+        "uk": "Випускає антивоєнну пісню «Не стреляйте» та виїжджає з Росії",
+        "ru": "Выпускает антивоенную песню «Не стреляйте» и уезжает из России"
+      },
+      "detail": {
+        "en": "Zemfira released the anti-war track 'Don't Shoot' in response to the invasion, featured 'No to war' on her website, and relocated to France.",
+        "uk": "У відповідь на вторгнення Земфіра випустила антивоєнну пісню «Не стреляйте», розмістила на своєму сайті напис «Ні війні» та переїхала до Франції.",
+        "ru": "В ответ на вторжение Земфира выпустила антивоенную песню «Не стреляйте», разместила на своём сайте надпись «Нет войне» и переехала во Францию."
+      },
+      "sources": [
+        {
+          "url": "https://russianlife.com/the-russia-file/russia-cuts-ties-with-a-rock-star/",
+          "publisher": "Russian Life",
+          "date": "2023-02"
+        }
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": {
+        "en": "Designated a 'foreign agent' in Russia",
+        "uk": "Визнана «іноземною агенткою» в Росії",
+        "ru": "Признана «иностранным агентом» в России"
+      },
+      "detail": {
+        "en": "The Justice Ministry placed Zemfira on the 'foreign agents' list, accusing her of openly supporting Ukraine and making anti-war appeals at concerts abroad.",
+        "uk": "Міністерство юстиції внесло Земфіру до списку «іноземних агентів», звинувативши її у відкритій підтримці України та антивоєнних закликах на концертах за кордоном.",
+        "ru": "Министерство юстиции внесло Земфиру в список «иностранных агентов», обвинив её в открытой поддержке Украины и антивоенных призывах на концертах за рубежом."
+      },
+      "sources": [
+        {
+          "url": "https://www.rferl.org/a/russia-zemfira-foreign-agent-ukraine-war/32266516.html",
+          "publisher": "RFE/RL",
+          "date": "2023-02"
+        },
+        {
+          "url": "https://www.arabnews.com/node/2248786/amp",
+          "publisher": "Arab News / AFP",
+          "date": "2023-02"
+        }
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": {
+        "en": "Reportedly sells last real estate in Russia",
+        "uk": "За повідомленнями, продає останню нерухомість у Росії",
+        "ru": "По сообщениям, продаёт последнюю недвижимость в России"
+      },
+      "detail": {
+        "en": "Russian media reported that Zemfira disposed of her last remaining property in Russia while continuing to live abroad.",
+        "uk": "Російські ЗМІ повідомили, що Земфіра позбулася останньої нерухомості в Росії, продовжуючи жити за кордоном.",
+        "ru": "Российские СМИ сообщили, что Земфира избавилась от последней недвижимости в России, продолжая жить за границей."
+      },
+      "sources": [
+        {
+          "url": "https://france.news-pravda.com/en/russia/2026/07/29/107260.html",
+          "publisher": "News-Pravda (Russian state-affiliated aggregator)",
+          "date": "2026-07-29"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

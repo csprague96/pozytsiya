@@ -1,0 +1,176 @@
+{
+  "slug": "misha-marvin",
+  "name": "Misha Marvin",
+  "nameLocal": "Миша Марвин",
+  "country": "ua",
+  "basedIn": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Chernivtsi-born singer (real name Mykhailo Reshetnyak, brother of Ukrainian singer TAYANNA) who built his career from 2015 on Russia's Black Star label. In February 2022 he condemned the invasion from Dubai, left Black Star (losing his stage name), and briefly reoriented toward the Ukrainian market as 'Misha M' with Ukrainian-language tracks, but by September 2022 he had deleted his war-related posts and returned to Russia and to Black Star. Since then he has continued his Russian career, performing alongside artists who openly support the war — a reversal Ukrainian media have described as a betrayal.",
+    "uk": "Співак родом із Чернівців (справжнє ім'я — Михайло Решетняк, брат української співачки TAYANNA), який з 2015 року будував кар'єру на російському лейблі Black Star. У лютому 2022 року він засудив вторгнення, перебуваючи в Дубаї, пішов з Black Star (втративши сценічне ім'я) і ненадовго переорієнтувався на український ринок як «Misha M» з україномовними треками, але до вересня 2022 року видалив дописи про війну та повернувся до Росії і до Black Star. Відтоді він продовжує російську кар'єру, виступаючи поряд з артистами, які відкрито підтримують війну, — українські медіа назвали цей розворот зрадою.",
+    "ru": "Певец родом из Черновцов (настоящее имя — Михаил Решетняк, брат украинской певицы TAYANNA), с 2015 года строивший карьеру на российском лейбле Black Star. В феврале 2022 года он осудил вторжение, находясь в Дубае, ушёл с Black Star (потеряв сценическое имя) и ненадолго переориентировался на украинский рынок как «Misha M» с украиноязычными треками, но к сентябрю 2022 года удалил посты о войне и вернулся в Россию и на Black Star. С тех пор он продолжает российскую карьеру, выступая рядом с артистами, открыто поддерживающими войну, — украинские медиа назвали этот разворот предательством."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemned the invasion from Dubai",
+        "uk": "Засудив вторгнення, перебуваючи в Дубаї",
+        "ru": "Осудил вторжение, находясь в Дубае"
+      },
+      "detail": {
+        "en": "On the first day of the full-scale invasion Marvin, then in Dubai, publicly rejected the 'military operation without civilian casualties' framing, asking followers to think about killed soldiers and about children, the elderly and civilians in Ukraine.",
+        "uk": "У перший день повномасштабного вторгнення Марвін, який перебував у Дубаї, публічно відкинув формулювання про «воєнну операцію без жертв серед цивільних», закликавши підписників подумати про загиблих солдатів і про дітей, літніх людей та цивільних в Україні.",
+        "ru": "В первый день полномасштабного вторжения Марвин, находившийся в Дубае, публично отверг формулировку о «военной операции без жертв среди мирного населения», призвав подписчиков подумать о погибших солдатах и о детях, стариках и мирных жителях в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/mysha-marvyn",
+          "publisher": "StarsAboutWar.in.ua"
+        },
+        {
+          "url": "https://78.ru/articles/2024-07-15/misha-marvin-biografiya-lichnaya-zhizn-karera-svo-poslednie-novosti",
+          "publisher": "78.ru (Russian media)",
+          "date": "2024-07-15"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-04",
+      "title": {
+        "en": "Left Black Star label, losing songs and stage name",
+        "uk": "Пішов з лейбла Black Star, втративши пісні та сценічне ім'я",
+        "ru": "Ушёл с лейбла Black Star, потеряв песни и сценическое имя"
+      },
+      "detail": {
+        "en": "Marvin's departure from the Russian label Black Star was announced; under the contract terms the label retained rights to his compositions and to the 'Misha Marvin' stage name.",
+        "uk": "Було оголошено про вихід Марвіна з російського лейбла Black Star; за умовами контракту лейбл зберіг права на його композиції та на сценічне ім'я «Миша Марвин».",
+        "ru": "Было объявлено об уходе Марвина с российского лейбла Black Star; по условиям контракта лейбл сохранил права на его композиции и на сценическое имя «Миша Марвин»."
+      },
+      "sources": [
+        {
+          "url": "https://then24.com/2022/05/04/artist-misha-marvin-left-black-star-and-lost-his-songs/",
+          "publisher": "Then24",
+          "date": "2022-05-04"
+        }
+      ]
+    },
+    {
+      "date": "2022-07",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Pivot to Ukrainian market as 'Misha M'",
+        "uk": "Переорієнтація на український ринок під ім'ям «Misha M»",
+        "ru": "Переориентация на украинский рынок под именем «Misha M»"
+      },
+      "detail": {
+        "en": "Having lost rights to his Russian-registered stage name, he began performing as 'Misha M', released Ukrainian-language tracks and planned to build a career based in Kyiv.",
+        "uk": "Втративши права на зареєстроване в Росії сценічне ім'я, він почав виступати як «Misha M», випустив україномовні треки та планував будувати кар'єру з базою в Києві.",
+        "ru": "Потеряв права на зарегистрированное в России сценическое имя, он начал выступать как «Misha M», выпустил украиноязычные треки и планировал строить карьеру с базой в Киеве."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/mysha-marvyn",
+          "publisher": "StarsAboutWar.in.ua"
+        },
+        {
+          "url": "https://telegraf.com.ua/lifestyle/2022-09-17/5716750-rodnoy-brat-tayanna-misha-marvin-predal-ukrainu-i-vernulsya-v-rf-chtoby-stroit-kareru",
+          "publisher": "Telegraf",
+          "date": "2022-09-17"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-17",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Deleted war posts and returned to Russia and Black Star",
+        "uk": "Видалив дописи про війну та повернувся до Росії і Black Star",
+        "ru": "Удалил посты о войне и вернулся в Россию и на Black Star"
+      },
+      "detail": {
+        "en": "Ukrainian media reported that Marvin had deleted all his posts about the war and support for Ukraine, returned to Russia and rejoined Black Star to continue his career there — a reversal widely described in Ukraine as a betrayal.",
+        "uk": "Українські медіа повідомили, що Марвін видалив усі свої дописи про війну та підтримку України, повернувся до Росії та знову приєднався до Black Star, щоб продовжити там кар'єру, — цей розворот в Україні широко називали зрадою.",
+        "ru": "Украинские медиа сообщили, что Марвин удалил все свои посты о войне и поддержке Украины, вернулся в Россию и снова присоединился к Black Star, чтобы продолжить там карьеру, — этот разворот в Украине широко называли предательством."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/lifestyle/2022-09-17/5716750-rodnoy-brat-tayanna-misha-marvin-predal-ukrainu-i-vernulsya-v-rf-chtoby-stroit-kareru",
+          "publisher": "Telegraf",
+          "date": "2022-09-17"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-18",
+      "title": {
+        "en": "Publicly explained his return to Russia",
+        "uk": "Публічно пояснив своє повернення до Росії",
+        "ru": "Публично объяснил своё возвращение в Россию"
+      },
+      "detail": {
+        "en": "Marvin said he returned to Russia and Black Star after a failed attempt to build a career from Dubai, explaining that 'everything I have is here' — his team, audience and infrastructure.",
+        "uk": "Марвін розповів, що повернувся до Росії та Black Star після невдалої спроби будувати кар'єру з Дубая, пояснивши, що «все, що в мене є, — тут»: його команда, аудиторія та інфраструктура.",
+        "ru": "Марвин рассказал, что вернулся в Россию и на Black Star после неудачной попытки строить карьеру из Дубая, объяснив, что «всё, что у меня есть, — здесь»: его команда, аудитория и инфраструктура."
+      },
+      "sources": [
+        {
+          "url": "https://www.starhit.ru/novosti/misha-marvin-obyasnil-pochemu-vernulsya-v-rossiyu-885239/",
+          "publisher": "StarHit (Russian media)",
+          "date": "2023-05-18"
+        },
+        {
+          "url": "https://go.zvuk.com/news/pevec-misha-marvin-obyasnil-pochemu-vernulsya-v-rossiyu-k-black-star-posle-neudachi-v-dubae-18-05-2023.htm",
+          "publisher": "Zvuk (Russian media)",
+          "date": "2023-05-18"
+        }
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": {
+        "en": "Russian concert cancelled over his 2022 anti-war remarks",
+        "uk": "У Росії скасували концерт через його антивоєнні висловлювання 2022 року",
+        "ru": "В России отменили концерт из-за его антивоенных высказываний 2022 года"
+      },
+      "detail": {
+        "en": "A Marvin concert in North Ossetia was cancelled at the request of local authorities because of his earlier statements about Russia's 'special military operation', showing lingering distrust of him in Russia despite his return.",
+        "uk": "Концерт Марвіна в Північній Осетії скасували на вимогу місцевої влади через його попередні висловлювання про російську «спеціальну воєнну операцію», що свідчило про недовіру до нього в Росії попри повернення.",
+        "ru": "Концерт Марвина в Северной Осетии отменили по требованию местных властей из-за его прежних высказываний о российской «специальной военной операции», что свидетельствовало о сохраняющемся недоверии к нему в России несмотря на возвращение."
+      },
+      "sources": [
+        {
+          "url": "https://78.ru/articles/2024-07-15/misha-marvin-biografiya-lichnaya-zhizn-karera-svo-poslednie-novosti",
+          "publisher": "78.ru (Russian media)",
+          "date": "2024-07-15"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-10",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Performing in Russia alongside openly pro-war artists",
+        "uk": "Виступає в Росії поряд з відкрито провоєнними артистами",
+        "ru": "Выступает в России рядом с открыто провоенными артистами"
+      },
+      "detail": {
+        "en": "Ukrainian media reported that Marvin was recording songs with artists who openly support the war and performing at Kremlin-linked venues, while avoiding any public statements about Ukraine; he has made no known pro-war statements himself.",
+        "uk": "Українські медіа повідомили, що Марвін записує пісні з артистами, які відкрито підтримують війну, і виступає на пов'язаних із Кремлем майданчиках, уникаючи будь-яких публічних заяв про Україну; його власних провоєнних заяв не зафіксовано.",
+        "ru": "Украинские медиа сообщили, что Марвин записывает песни с артистами, открыто поддерживающими войну, и выступает на связанных с Кремлём площадках, избегая любых публичных заявлений об Украине; его собственных провоенных заявлений не зафиксировано."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/shou-biznes/2024-12-10/5889731-brat-izvestnoy-ukrainskoy-pevitsy-zapisyvaet-pesni-s-putinistami-kuda-propal-misha-marvin",
+          "publisher": "Telegraf",
+          "date": "2024-12-10"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

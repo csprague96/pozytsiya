@@ -1,0 +1,70 @@
+{
+  "slug": "andrei-makarevich",
+  "name": "Andrei Makarevich",
+  "nameLocal": "Андрей Макаревич",
+  "country": "ru",
+  "basedIn": "il",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Founder of rock band Mashina Vremeni, a critic of Moscow's policy toward Ukraine since 2014, when his concerts in Russia began to be cancelled. He condemned the full-scale invasion in February 2022 and emigrated to Israel that spring. In September 2022 the Russian Justice Ministry declared him a 'foreign agent'. He has said he does not donate to the Ukrainian armed forces, citing fear that a missile could kill his son in Moscow.",
+    "uk": "Засновник рок-гурту «Машина времени», критик політики Москви щодо України з 2014 року, коли його концерти в Росії почали скасовувати. Він засудив повномасштабне вторгнення в лютому 2022 року і тієї ж весни емігрував до Ізраїлю. У вересні 2022 року Мін'юст Росії оголосив його «іноземним агентом». Він заявляв, що не жертвує на ЗСУ, пояснюючи це страхом, що ракета може вбити його сина в Москві.",
+    "ru": "Основатель рок-группы «Машина времени», критик политики Москвы в отношении Украины с 2014 года, когда его концерты в России начали отменять. Он осудил полномасштабное вторжение в феврале 2022 года и той же весной эмигрировал в Израиль. В сентябре 2022 года Минюст России объявил его «иностранным агентом». Он говорил, что не жертвует на украинскую армию, объясняя это страхом, что ракета может убить его сына в Москве."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns the invasion and leaves Russia",
+        "uk": "Засуджує вторгнення та виїжджає з Росії",
+        "ru": "Осуждает вторжение и уезжает из России"
+      },
+      "detail": {
+        "en": "Makarevich publicly condemned Russia's invasion of Ukraine and left the country in spring 2022, settling in Israel.",
+        "uk": "Макаревич публічно засудив вторгнення Росії в Україну та навесні 2022 року залишив країну, оселившись в Ізраїлі.",
+        "ru": "Макаревич публично осудил вторжение России в Украину и весной 2022 года покинул страну, поселившись в Израиле."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/russia-makarevich-zhdanov-zimin-foreign-agents-ukraine/32016826.html", "publisher": "RFE/RL", "date": "2022-09-30"},
+        {"url": "https://easternherald.com/2023/03/11/how-russian-show-business-stars-who-fled-to-israel-are-surviving/", "publisher": "The Eastern Herald", "date": "2023-03-11"}
+      ]
+    },
+    {
+      "date": "2022-09",
+      "title": {
+        "en": "Declared 'foreign agent' by Russia",
+        "uk": "Оголошений у Росії «іноземним агентом»",
+        "ru": "Объявлен в России «иностранным агентом»"
+      },
+      "detail": {
+        "en": "The Russian Justice Ministry designated Makarevich a 'foreign agent', accusing him of political activities while allegedly receiving funding from Ukraine.",
+        "uk": "Мін'юст Росії визнав Макаревича «іноземним агентом», звинувативши його в політичній діяльності за нібито фінансування з України.",
+        "ru": "Минюст России признал Макаревича «иностранным агентом», обвинив его в политической деятельности при предполагаемом финансировании из Украины."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/russia-makarevich-zhdanov-zimin-foreign-agents-ukraine/32016826.html", "publisher": "RFE/RL", "date": "2022-09-30"},
+        {"url": "https://inoteka.io/en/ino/andrey-vadimovich-makarevich", "publisher": "Inoteka (foreign agent registry tracker)"}
+      ]
+    },
+    {
+      "date": "2024-05-14",
+      "title": {
+        "en": "Threat of arrest after pranksters' fake 'Zelensky' call",
+        "uk": "Загроза арешту після фейкового дзвінка пранкерів від імені «Зеленського»",
+        "ru": "Угроза ареста после фейкового звонка пранкеров от имени «Зеленского»"
+      },
+      "detail": {
+        "en": "Russian media reported Makarevich could face arrest in Russia over statements about Ukraine made in a video call with pranksters posing as President Zelensky.",
+        "uk": "Російські ЗМІ повідомили, що Макаревичу може загрожувати арешт у Росії через висловлювання про Україну під час відеодзвінка з пранкерами, які видавали себе за президента Зеленського.",
+        "ru": "Российские СМИ сообщили, что Макаревичу может грозить арест в России из-за высказываний об Украине во время видеозвонка с пранкерами, выдававшими себя за президента Зеленского."
+      },
+      "sources": [
+        {"url": "https://eng.obozrevatel.com/section-entertainment/news-mashina-vremeni-lead-singer-makarevich-faces-arrest-in-russia-after-fake-conversation-with-zelenskyy-what-he-said-about-ukraine-14-05-2024.html", "publisher": "OBOZ.UA", "date": "2024-05-14"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

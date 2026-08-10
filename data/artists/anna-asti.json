@@ -1,0 +1,125 @@
+{
+  "slug": "anna-asti",
+  "name": "ANNA ASTI",
+  "nameLocal": "Анна Асти",
+  "country": "ua",
+  "basedIn": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Ukrainian-born singer (Anna Dziuba, from Cherkasy), former vocalist of ARTIK & ASTI. She was reportedly in Kyiv on 24 February 2022 but soon relocated to Russia, where her solo career made her one of the country's biggest stars; she has never publicly mentioned the war or her Ukrainian origins since the invasion began. She obtained Russian citizenship in October 2023 and continues to perform at major Russian industry events, being named VK Music Artist of the Year for 2025. Her hometown of Cherkasy has come under Russian shelling during the same period.",
+    "uk": "Співачка українського походження (Анна Дзюба, родом із Черкас), колишня вокалістка ARTIK & ASTI. За повідомленнями, 24 лютого 2022 року вона перебувала в Києві, але невдовзі переїхала до Росії, де сольна кар'єра зробила її однією з найбільших зірок країни; від початку вторгнення вона жодного разу публічно не згадала ні війну, ні своє українське походження. У жовтні 2023 року вона отримала російське громадянство і продовжує виступати на головних подіях російської індустрії — за підсумками 2025 року її визнано артисткою року за версією VK Music. Її рідні Черкаси в цей самий період зазнавали російських обстрілів.",
+    "ru": "Певица украинского происхождения (Анна Дзюба, родом из Черкасс), бывшая вокалистка ARTIK & ASTI. По сообщениям, 24 февраля 2022 года она находилась в Киеве, но вскоре переехала в Россию, где сольная карьера сделала ее одной из крупнейших звезд страны; с начала вторжения она ни разу публично не упомянула ни войну, ни свое украинское происхождение. В октябре 2023 года она получила российское гражданство и продолжает выступать на главных событиях российской индустрии — по итогам 2025 года она названа артисткой года по версии VK Music. Ее родные Черкассы в этот же период подвергались российским обстрелам."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": -1,
+      "title": {
+        "en": "In Kyiv at the start of the invasion; relocates to Russia",
+        "uk": "У Києві на початку вторгнення; переїзд до Росії",
+        "ru": "В Киеве в начале вторжения; переезд в Россию"
+      },
+      "detail": {
+        "en": "Ukrainian media reported Asti was in Kyiv when Russian bombing began; she soon relocated to Russia and continued her career there without commenting on the war.",
+        "uk": "Українські медіа повідомляли, що Асті була в Києві, коли почалися російські бомбардування; невдовзі вона переїхала до Росії і продовжила там кар'єру, не коментуючи війну.",
+        "ru": "Украинские медиа сообщали, что Асти находилась в Киеве, когда начались российские бомбардировки; вскоре она переехала в Россию и продолжила там карьеру, не комментируя войну."
+      },
+      "sources": [
+        {
+          "url": "https://meduza.io/en/feature/2024/01/04/silence-and-success",
+          "publisher": "Meduza",
+          "date": "2024-01-04"
+        }
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": {
+        "en": "Named best female singer at Russian award show",
+        "uk": "Визнана найкращою співачкою на російській премії",
+        "ru": "Названа лучшей певицей на российской премии"
+      },
+      "detail": {
+        "en": "Asti was named singer of the year at the RU TV awards in Moscow, one of a string of major Russian industry honors during the full-scale war.",
+        "uk": "Асті визнали співачкою року на премії RU TV у Москві — однією з низки головних нагород російської індустрії, отриманих під час повномасштабної війни.",
+        "ru": "Асти назвали певицей года на премии RU TV в Москве — одной из череды главных наград российской индустрии, полученных во время полномасштабной войны."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-ukrainian-woman-becomes-best-singer-of-the-year-in-russia-which-traitors-supported-her-25-05-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    {
+      "date": "2023-10",
+      "title": {
+        "en": "Obtained Russian citizenship",
+        "uk": "Отримала російське громадянство",
+        "ru": "Получила российское гражданство"
+      },
+      "detail": {
+        "en": "Russian media reported that Asti received Russian citizenship in fall 2023; in Ukraine she was subsequently listed in the Myrotvorets database, accused of violating Ukrainian citizenship law.",
+        "uk": "Російські медіа повідомили, що восени 2023 року Асті отримала російське громадянство; в Україні її згодом внесли до бази «Миротворець», звинувативши в порушенні українського законодавства про громадянство.",
+        "ru": "Российские медиа сообщили, что осенью 2023 года Асти получила российское гражданство; в Украине ее впоследствии внесли в базу «Миротворец», обвинив в нарушении украинского законодательства о гражданстве."
+      },
+      "sources": [
+        {
+          "url": "https://meduza.io/en/feature/2024/01/04/silence-and-success",
+          "publisher": "Meduza",
+          "date": "2024-01-04"
+        },
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-traitorous-singer-anna-asti-is-about-to-be-taken-away-her-russian-citizenship-for-participating-in-a-naked-party-28-12-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-12-28"
+        }
+      ]
+    },
+    {
+      "date": "2023-12",
+      "title": {
+        "en": "'Almost naked' party fallout",
+        "uk": "Скандал навколо «голої вечірки»",
+        "ru": "Скандал вокруг «голой вечеринки»"
+      },
+      "detail": {
+        "en": "After attending Anastasia Ivleeva's 'almost naked' party in Moscow, Asti had concerts canceled and faced calls from pro-Kremlin activists to revoke her new Russian citizenship for violating 'traditional values.'",
+        "uk": "Після відвідання «майже голої» вечірки Анастасії Івлєєвої в Москві концерти Асті скасовували, а прокремлівські активісти закликали позбавити її нового російського громадянства за порушення «традиційних цінностей».",
+        "ru": "После посещения «почти голой» вечеринки Анастасии Ивлеевой в Москве концерты Асти отменяли, а прокремлевские активисты призывали лишить ее нового российского гражданства за нарушение «традиционных ценностей»."
+      },
+      "sources": [
+        {
+          "url": "https://meduza.io/en/feature/2024/01/04/silence-and-success",
+          "publisher": "Meduza",
+          "date": "2024-01-04"
+        }
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": {
+        "en": "VK Music Artist of the Year 2025",
+        "uk": "Артистка року за версією VK Music за 2025 рік",
+        "ru": "Артистка года по версии VK Music за 2025 год"
+      },
+      "detail": {
+        "en": "Asti was named Artist of the Year by VK Music with over 280 million streams in 2025, remaining among Russia's most popular performers while continuing to say nothing publicly about the war.",
+        "uk": "VK Music назвав Асті артисткою року з понад 280 мільйонами прослуховувань у 2025 році; вона залишається серед найпопулярніших виконавців Росії, і далі публічно нічого не кажучи про війну.",
+        "ru": "VK Music назвал Асти артисткой года — более 280 миллионов прослушиваний в 2025 году; она остается в числе самых популярных исполнителей России, по-прежнему публично ничего не говоря о войне."
+      },
+      "sources": [
+        {
+          "url": "https://meduza.io/en/feature/2026/01/08/the-sound-of-silence",
+          "publisher": "Meduza",
+          "date": "2026-01-08"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

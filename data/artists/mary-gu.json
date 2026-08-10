@@ -1,0 +1,65 @@
+{
+  "slug": "mary-gu",
+  "name": "Mary Gu",
+  "nameLocal": "Мэри Гу",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "silent",
+  "flags": ["banned_in_ukraine"],
+  "summary": {
+    "en": "Russian pop singer (Maria Gusarova). In December 2021, before the full-scale invasion, she was denied entry to Ukraine and banned for three years over an unlawful visit to occupied Crimea. Since February 2022 she has made no known public statement about the war and has continued releasing music and touring actively in Russia, including the album 'luvcore' (February 2024) and ongoing 2025–2026 concert schedules.",
+    "uk": "Російська попспівачка (Марія Гусарова). У грудні 2021 року, ще до повномасштабного вторгнення, їй відмовили у в'їзді в Україну та заборонили в'їзд на три роки через незаконне відвідування окупованого Криму. Від лютого 2022 року вона не робила жодних відомих публічних заяв про війну та продовжує активно випускати музику й гастролювати Росією, зокрема випустила альбом «luvcore» (лютий 2024) і має концертні графіки на 2025–2026 роки.",
+    "ru": "Российская поп-певица (Мария Гусарова). В декабре 2021 года, еще до полномасштабного вторжения, ей отказали во въезде в Украину и запретили въезд на три года из-за незаконного посещения оккупированного Крыма. С февраля 2022 года она не делала никаких известных публичных заявлений о войне и продолжает активно выпускать музыку и гастролировать по России, включая альбом «luvcore» (февраль 2024) и концертные графики на 2025–2026 годы."
+  },
+  "timeline": [
+    {
+      "date": "2021-12-11",
+      "title": {
+        "en": "Denied entry to Ukraine over Crimea visit",
+        "uk": "Відмова у в'їзді в Україну через відвідування Криму",
+        "ru": "Отказ во въезде в Украину из-за посещения Крыма"
+      },
+      "detail": {
+        "en": "Ukrainian border authorities refused Mary Gu entry and imposed a three-year ban for having visited occupied Crimea in violation of Ukrainian law; her planned Kyiv concert was postponed.",
+        "uk": "Українські прикордонники відмовили Мері Гу у в'їзді та заборонили в'їзд на три роки за відвідування окупованого Криму з порушенням українського законодавства; її запланований київський концерт було перенесено.",
+        "ru": "Украинские пограничники отказали Мэри Гу во въезде и наложили трехлетний запрет за посещение оккупированного Крыма в нарушение украинского законодательства; ее запланированный киевский концерт был перенесен."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/lifestyle/2021-12-11/5690981-populyarnu-rosiysku-spivachku-ne-pustili-do-ukraini-vsi-podrobitsi",
+          "publisher": "Telegraf (Ukraine)",
+          "date": "2021-12-11"
+        },
+        {
+          "url": "https://www.bfm.ru/news/488231",
+          "publisher": "BFM.ru (Russian outlet)"
+        }
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "Continued career in Russia without public position",
+        "uk": "Продовження кар'єри в Росії без публічної позиції",
+        "ru": "Продолжение карьеры в России без публичной позиции"
+      },
+      "detail": {
+        "en": "Mary Gu released her second studio album 'luvcore' and continued an active touring schedule across Russia through 2026, with no known public statements about the war in Ukraine.",
+        "uk": "Мері Гу випустила другий студійний альбом «luvcore» і продовжила активний гастрольний графік Росією до 2026 року, не зробивши жодних відомих публічних заяв про війну в Україні.",
+        "ru": "Мэри Гу выпустила второй студийный альбом «luvcore» и продолжила активный гастрольный график по России вплоть до 2026 года, не сделав никаких известных публичных заявлений о войне в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Gu",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://afisha.yandex.ru/artist/mary-gu?city=moscow",
+          "publisher": "Yandex Afisha"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

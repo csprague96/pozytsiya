@@ -1,0 +1,85 @@
+{
+  "slug": "emin",
+  "name": "EMIN",
+  "nameLocal": "Эмин Агаларов",
+  "country": "az",
+  "basedIn": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Emin Agalarov is an Azerbaijani-Russian singer and businessman, vice-president of the Moscow-based Crocus Group founded by his father Aras Agalarov. He has made no known public statement condemning or supporting Russia's full-scale invasion of Ukraine and has continued his concert and business career in Russia throughout the war. In July 2022 he commented on Valery Meladze's criticism of the 'special military operation' without stating his own position. His family's Crocus City Hall venue was the site of the March 2024 terrorist attack, after which he continued performing in Russia.",
+    "uk": "Емін Агаларов — азербайджансько-російський співак і бізнесмен, віцепрезидент московської Crocus Group, заснованої його батьком Арасом Агаларовим. Жодної відомої публічної заяви із засудженням чи підтримкою повномасштабного вторгнення Росії в Україну він не робив і протягом усієї війни продовжував концертну та бізнесову діяльність у Росії. У липні 2022 року він прокоментував критику «спеціальної воєнної операції» Валерієм Меладзе, не висловивши власної позиції. Концертний зал його родини Crocus City Hall став місцем терористичного нападу в березні 2024 року, після якого він продовжив виступати в Росії.",
+    "ru": "Эмин Агаларов — азербайджано-российский певец и бизнесмен, вице-президент московской Crocus Group, основанной его отцом Арасом Агаларовым. Ни одного известного публичного заявления с осуждением или поддержкой полномасштабного вторжения России в Украину он не делал и на протяжении всей войны продолжал концертную и деловую деятельность в России. В июле 2022 года он прокомментировал критику «специальной военной операции» Валерием Меладзе, не обозначив собственной позиции. Принадлежащий его семье зал Crocus City Hall стал местом террористической атаки в марте 2024 года, после которой он продолжил выступать в России."
+  },
+  "timeline": [
+    {
+      "date": "2022-06-13",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Continues Crocus business career in wartime Russia",
+        "uk": "Продовжує бізнес-кар'єру в Crocus у воєнній Росії",
+        "ru": "Продолжает бизнес-карьеру в Crocus в воюющей России"
+      },
+      "detail": {
+        "en": "Agalarov gave an interview to RBC as a Crocus Group executive about the group's Russian business under wartime conditions, making no statement on the invasion itself.",
+        "uk": "Агаларов дав інтерв'ю РБК як топменеджер Crocus Group про російський бізнес групи в умовах воєнного часу, не зробивши жодної заяви про саме вторгнення.",
+        "ru": "Агаларов дал интервью РБК как топ-менеджер Crocus Group о российском бизнесе группы в условиях военного времени, не сделав никаких заявлений о самом вторжении."
+      },
+      "sources": [
+        { "url": "https://www.rbc.ru/business/13/06/2022/629f7ebc9a7947332c2d4867", "publisher": "RBC (Russia)", "date": "2022-06-13" }
+      ]
+    },
+    {
+      "date": "2022-07",
+      "title": {
+        "en": "Comments on Meladze's anti-war criticism without stating own position",
+        "uk": "Коментує антивоєнну критику Меладзе, не висловлюючи власної позиції",
+        "ru": "Комментирует антивоенную критику Меладзе, не обозначая собственной позиции"
+      },
+      "detail": {
+        "en": "Agalarov told Russian media that audiences would keep loving Valery Meladze despite Meladze's criticism of the 'SVO' and departure abroad; he avoided expressing his own view of the war.",
+        "uk": "Агаларов заявив російським медіа, що публіка й далі любитиме Валерія Меладзе попри його критику «СВО» та від'їзд за кордон; власного погляду на війну він не висловив.",
+        "ru": "Агаларов заявил российским СМИ, что публика продолжит любить Валерия Меладзе несмотря на его критику «СВО» и отъезд за границу; собственного взгляда на войну он не высказал."
+      },
+      "sources": [
+        { "url": "https://www.pravda.ru/news/showbiz/1730082-valerii_meladze/", "publisher": "Pravda.ru (Russian pro-government media)" }
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "title": {
+        "en": "Comments after Crocus City Hall terrorist attack",
+        "uk": "Коментарі після теракту в Crocus City Hall",
+        "ru": "Комментарии после теракта в Crocus City Hall"
+      },
+      "detail": {
+        "en": "After the 22 March 2024 attack on his family's Crocus City Hall venue, Agalarov publicly discussed the venue's fire exits and said restoration would depend on the opinion of Putin and governor Vorobyov.",
+        "uk": "Після нападу 22 березня 2024 року на концертний зал його родини Crocus City Hall Агаларов публічно говорив про пожежні виходи зали й сказав, що відновлення залежатиме від думки Путіна та губернатора Воробйова.",
+        "ru": "После атаки 22 марта 2024 года на принадлежащий его семье зал Crocus City Hall Агаларов публично рассказал о пожарных выходах зала и заявил, что восстановление будет зависеть от мнения Путина и губернатора Воробьёва."
+      },
+      "sources": [
+        { "url": "https://www.vedomosti.ru/society/news/2024/03/28/1028493-emin-agalarov", "publisher": "Vedomosti (Russia)", "date": "2024-03-28" },
+        { "url": "https://www.kommersant.ru/doc/6596290", "publisher": "Kommersant (Russia)", "date": "2024-03" }
+      ]
+    },
+    {
+      "date": "2024-05-20",
+      "title": {
+        "en": "First concert after Crocus attack",
+        "uk": "Перший концерт після теракту в «Крокусі»",
+        "ru": "Первый концерт после теракта в «Крокусе»"
+      },
+      "detail": {
+        "en": "Agalarov gave his first concert after the Crocus City Hall attack, a charity show in Derbent, Russia, attended by around 7,000 people, and has continued performing in Russia since.",
+        "uk": "Агаларов дав перший концерт після нападу на Crocus City Hall — благодійний виступ у Дербенті (Росія), який відвідали близько 7 000 людей, — і відтоді продовжує виступати в Росії.",
+        "ru": "Агаларов дал первый концерт после атаки на Crocus City Hall — благотворительное выступление в Дербенте (Россия), которое посетили около 7 000 человек, — и с тех пор продолжает выступать в России."
+      },
+      "sources": [
+        { "url": "https://rg.ru/2024/05/20/emin-agalarov-dal-pervyj-koncert-posle-terakta-v-krokuse-siti-holle.html", "publisher": "Rossiyskaya Gazeta (Russian state media)", "date": "2024-05-20" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "yaktak",
+  "name": "YAKTAK",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "YAKTAK (Yaroslav Karpuk) is a young Ukrainian singer from Volyn Oblast who rose to fame during the full-scale war. He has consistently combined touring with fundraising for the Armed Forces of Ukraine, reporting nearly 2.5 million UAH raised by early 2024 for vehicles, drones and other military needs, and close to another million UAH during a 25-day tour in 2024. He received regional honors for his contribution.",
+    "uk": "YAKTAK (Ярослав Карпук) — молодий український співак із Волинської області, який здобув популярність під час повномасштабної війни. Він послідовно поєднує гастролі зі зборами коштів для ЗСУ: на початок 2024 року звітував про майже 2,5 мільйона гривень, зібраних на автомобілі, дрони та інші потреби військових, і ще близько мільйона гривень — під час 25-денного туру 2024 року. За свій внесок він отримав регіональні відзнаки.",
+    "ru": "YAKTAK (Ярослав Карпук) — молодой украинский певец из Волынской области, получивший известность во время полномасштабной войны. Он последовательно совмещает гастроли со сборами средств для Вооруженных сил Украины: к началу 2024 года отчитался о почти 2,5 миллиона гривен, собранных на автомобили, дроны и другие нужды военных, и еще около миллиона гривен — во время 25-дневного тура 2024 года. За свой вклад он получил региональные награды."
+  },
+  "timeline": [
+    {
+      "date": "2024-01",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Reports nearly 2.5 million UAH raised for the Armed Forces",
+        "uk": "Звітує про майже 2,5 мільйона гривень, зібраних для ЗСУ",
+        "ru": "Отчитывается о почти 2,5 миллиона гривен, собранных для ВСУ"
+      },
+      "detail": {
+        "en": "YAKTAK announced he had raised 2,492,744 UAH for the Armed Forces of Ukraine, with funds going to pickups, jeeps, Mavic drones, buses, fuel and repairs.",
+        "uk": "YAKTAK повідомив, що зібрав 2 492 744 гривні для ЗСУ; кошти пішли на пікапи, джипи, дрони Mavic, автобуси, пальне та ремонт техніки.",
+        "ru": "YAKTAK сообщил, что собрал 2 492 744 гривны для Вооруженных сил Украины; средства пошли на пикапы, джипы, дроны Mavic, автобусы, топливо и ремонт техники."
+      },
+      "sources": [
+        {"url": "https://uagit.tv/2024/1/4/41469-vidomyy-spivak-iz-volyni-yaktak-zibrav-mayzhe-25-milyona-hryven-na-pidtrymku-zsu", "publisher": "uaGit.tv", "date": "2024-01-04"},
+        {"url": "https://konkurent.ua/publication/129717/spivak-z-volini-yaktak-zibrav-na-zsu-mayzhe-25-milyona-griven/", "publisher": "Konkurent", "date": "2024-01"}
+      ]
+    },
+    {
+      "date": "2024-04",
+      "title": {
+        "en": "25-day tour raises nearly 1 million UAH for the military",
+        "uk": "25-денний тур приносить майже мільйон гривень для військових",
+        "ru": "25-дневный тур приносит почти миллион гривен для военных"
+      },
+      "detail": {
+        "en": "During a 25-day concert tour of Ukraine, YAKTAK collected nearly one million UAH for the Armed Forces of Ukraine.",
+        "uk": "Під час 25-денного концертного туру Україною YAKTAK зібрав майже мільйон гривень для ЗСУ.",
+        "ru": "Во время 25-дневного концертного тура по Украине YAKTAK собрал почти миллион гривен для Вооруженных сил Украины."
+      },
+      "sources": [
+        {"url": "https://life.rayon.in.ua/news/697176-artist-z-volini-yaktak-zibrav-na-zsu-mayzhe-milyon-griven", "publisher": "Rayon.in.ua", "date": "2024-04-16"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

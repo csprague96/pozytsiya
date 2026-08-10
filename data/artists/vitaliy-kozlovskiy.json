@@ -1,0 +1,85 @@
+{
+  "slug": "vitaliy-kozlovskiy",
+  "name": "Vitaliy Kozlovskiy",
+  "nameLocal": "Віталій Козловський",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Lviv-born pop singer. After receiving a mobilization summons in June 2023 he joined the National Guard 'Rubizh' brigade, serving initially with an artillery unit in Donbas, and was later transferred to Kyiv and to a military orchestra as a driver. In spring 2024 he continued service in the 22nd Separate Mechanized Brigade of the AFU and was discharged to the reserve by his commander's order on 28 June 2024. His discharge and the non-combat character of much of his service drew public debate in Ukraine.",
+    "uk": "Львівський поп-співак. Після отримання повістки в червні 2023 року приєднався до бригади Нацгвардії «Рубіж», де спочатку служив в артилерійському підрозділі на Донбасі, а згодом був переведений до Києва та до військового оркестру водієм. Навесні 2024 року продовжив службу у 22-й окремій механізованій бригаді ЗСУ, а 28 червня 2024 року був звільнений у запас наказом командира. Його звільнення та небойовий характер значної частини служби викликали публічну дискусію в Україні.",
+    "ru": "Поп-певец родом из Львова. После получения повестки в июне 2023 года вступил в бригаду Нацгвардии «Рубіж», где сначала служил в артиллерийском подразделении на Донбассе, а позже был переведён в Киев и в военный оркестр водителем. Весной 2024 года продолжил службу в 22-й отдельной механизированной бригаде ВСУ, а 28 июня 2024 года был уволен в запас приказом командира. Его увольнение и небоевой характер значительной части службы вызвали публичную дискуссию в Украине."
+  },
+  "timeline": [
+    {
+      "date": "2023-06",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Mobilized after summons; joined National Guard 'Rubizh' brigade",
+        "uk": "Мобілізований після повістки; приєднався до бригади НГУ «Рубіж»",
+        "ru": "Мобилизован после повестки; вступил в бригаду НГУ «Рубіж»"
+      },
+      "detail": {
+        "en": "Kozlovskiy received a call-up in June 2023 and was mobilized in summer 2023, joining the National Guard 'Rubizh' brigade, where he served with an artillery unit in the Donbas before being transferred to Kyiv.",
+        "uk": "Козловський отримав повістку в червні 2023 року і влітку 2023-го був мобілізований до бригади Національної гвардії «Рубіж», де служив в артилерійському підрозділі на Донбасі, перш ніж його перевели до Києва.",
+        "ru": "Козловский получил повестку в июне 2023 года и летом 2023-го был мобилизован в бригаду Национальной гвардии «Рубіж», где служил в артиллерийском подразделении на Донбассе, прежде чем его перевели в Киев."
+      },
+      "sources": [
+        { "url": "https://24tv.ua/show24/vitaliy-kozlovskiy-zsu-mobilizatsiya-de-sluzhiv-naspravdi-chomu_n3020608", "publisher": "24 Kanal" },
+        { "url": "https://www.unian.ua/lite/stars/vitaliy-kozlovskiy-u-zsu-chim-zaymayetsya-spivak-13144341.html", "publisher": "UNIAN" }
+      ]
+    },
+    {
+      "date": "2024-04-05",
+      "title": {
+        "en": "Described service as driver in military orchestra",
+        "uk": "Розповів про службу водієм у військовому оркестрі",
+        "ru": "Рассказал о службе водителем в военном оркестре"
+      },
+      "detail": {
+        "en": "Kozlovskiy said that after transfer from the National Guard he was serving as a driver in the National Presidential Orchestra, also performing for troops to support morale.",
+        "uk": "Козловський розповів, що після переведення з Нацгвардії служить водієм у Національному президентському оркестрі, а також виступає перед військовими для підтримки бойового духу.",
+        "ru": "Козловский рассказал, что после перевода из Нацгвардии служит водителем в Национальном президентском оркестре, а также выступает перед военными для поддержания боевого духа."
+      },
+      "sources": [
+        { "url": "https://apostrophe.ua/ua/article/lime/learn/2024-04-05/kozlovskiy-priznalsya-kem-rabotaet-posle-perevoda-iz-natsgvardii-v-voennyiy-orkestr/57450", "publisher": "Apostrophe", "date": "2024-04-05" }
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": {
+        "en": "Transferred to 22nd Separate Mechanized Brigade",
+        "uk": "Переведений до 22-ї окремої механізованої бригади",
+        "ru": "Переведён в 22-ю отдельную механизированную бригаду"
+      },
+      "detail": {
+        "en": "In May 2024 Kozlovskiy was transferred to the 22nd Separate Mechanized Brigade of the AFU, where he reportedly held concerts for units to raise morale rather than serving in a combat role.",
+        "uk": "У травні 2024 року Козловського перевели до 22-ї окремої механізованої бригади ЗСУ, де він, за повідомленнями, давав концерти для підрозділів для підняття бойового духу, а не служив на бойовій посаді.",
+        "ru": "В мае 2024 года Козловского перевели в 22-ю отдельную механизированную бригаду ВСУ, где он, по сообщениям, давал концерты для подразделений для поднятия боевого духа, а не служил на боевой должности."
+      },
+      "sources": [
+        { "url": "https://112.ua/en/vitalij-kozlovskij-zvilnenij-zi-zsu-so-stalo-pricinou-ta-aki-obovazki-vin-vikonuvav-97502", "publisher": "112.ua" }
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "title": {
+        "en": "Discharged from the AFU",
+        "uk": "Звільнений зі ЗСУ",
+        "ru": "Уволен из ВСУ"
+      },
+      "detail": {
+        "en": "By order of his commander Kozlovskiy was dismissed from service on 28 June 2024, less than two months after joining the 22nd brigade; the discharge triggered widespread discussion on Ukrainian social media.",
+        "uk": "Наказом командира Козловського звільнили зі служби 28 червня 2024 року, менш ніж через два місяці після приходу до 22-ї бригади; звільнення викликало широке обговорення в українських соцмережах.",
+        "ru": "Приказом командира Козловский был уволен со службы 28 июня 2024 года, менее чем через два месяца после прихода в 22-ю бригаду; увольнение вызвало широкое обсуждение в украинских соцсетях."
+      },
+      "sources": [
+        { "url": "https://prm.ua/en/was-that-even-possible-social-media-exploded-after-kozlovskys-dismissal-from-the-ukrainian-armed-forces/", "publisher": "Prm.ua" },
+        { "url": "https://focus.ua/uk/lifestyle/758651-sluzhba-kozlovskogo-chomu-spivaka-spisali", "publisher": "Focus" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

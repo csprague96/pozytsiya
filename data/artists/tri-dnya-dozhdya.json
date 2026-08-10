@@ -1,0 +1,68 @@
+{
+  "slug": "tri-dnya-dozhdya",
+  "name": "Tri Dnya Dozhdya",
+  "nameLocal": "Три дня дождя",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -2,
+  "status": "positioned",
+  "flags": [],
+  "disputed": true,
+  "summary": {
+    "en": "Russian rock project fronted by Gleb Viktorov. Russian media report that Viktorov earlier publicly supported the 'special military operation,' announced (unrealized) concerts in the occupied Luhansk and Donetsk regions and Crimea, and advised those dissatisfied to leave the country. On 12 July 2026, at a concert in Yekaterinburg, he criticized the war and the term 'SVO' from the stage, saying his childhood friends were dying; two days later his management called the speech 'unconscious delirium,' claimed he had been drugged without his knowledge, and sent him to rehab, after which he apologized for the disrupted concert.",
+    "uk": "Російський рокпроєкт, фронтменом якого є Гліб Вікторов. Російські ЗМІ повідомляють, що Вікторов раніше публічно підтримував «спеціальну воєнну операцію», анонсував (нереалізовані) концерти в окупованих Луганській і Донецькій областях та Криму й радив незадоволеним виїхати з країни. 12 липня 2026 року на концерті в Єкатеринбурзі він зі сцени розкритикував війну та термін «СВО», сказавши, що гинуть його друзі дитинства; за два дні його менеджмент назвав цю промову «несвідомим маренням», заявив, що йому без його відома підмішали наркотики, і відправив його на реабілітацію, після якої він вибачився за зірваний концерт.",
+    "ru": "Российский рок-проект, фронтменом которого является Глеб Викторов. Российские СМИ сообщают, что Викторов ранее публично поддерживал «специальную военную операцию», анонсировал (нереализованные) концерты в оккупированных Луганской и Донецкой областях и Крыму и советовал недовольным уехать из страны. 12 июля 2026 года на концерте в Екатеринбурге он со сцены раскритиковал войну и термин «СВО», сказав, что гибнут его друзья детства; через два дня его менеджмент назвал эту речь «бессознательным бредом», заявил, что ему без его ведома подмешали наркотики, и отправил его на реабилитацию, после которой он извинился за сорванный концерт."
+  },
+  "timeline": [
+    {
+      "date": "2026-07-12",
+      "title": {
+        "en": "On-stage criticism of the war in Yekaterinburg",
+        "uk": "Критика війни зі сцени в Єкатеринбурзі",
+        "ru": "Критика войны со сцены в Екатеринбурге"
+      },
+      "detail": {
+        "en": "Viktorov disrupted his own concert with a political speech criticizing the war and the use of the term 'SVO' ('When my boys, who I grew up with, die, they don't even say this word'), and urged fans to vote for the Communist Party; witnesses said he appeared intoxicated. Media noted he had previously supported the 'SVO' and announced concerts in the occupied Luhansk/Donetsk regions and Crimea.",
+        "uk": "Вікторов зірвав власний концерт політичною промовою з критикою війни та вживання терміна «СВО» («Коли гинуть мої хлопці, з якими я виріс, це слово навіть не вимовляють») і закликав фанатів голосувати за компартію; за словами очевидців, він виглядав нетверезим. ЗМІ зазначали, що раніше він підтримував «СВО» й анонсував концерти в окупованих Луганській і Донецькій областях та Криму.",
+        "ru": "Викторов сорвал собственный концерт политической речью с критикой войны и употребления термина «СВО» («Когда гибнут мои пацаны, с которыми я вырос, это слово даже не произносят») и призвал фанатов голосовать за КПРФ; по словам очевидцев, он выглядел нетрезвым. СМИ отмечали, что ранее он поддерживал «СВО» и анонсировал концерты в оккупированных Луганской и Донецкой областях и Крыму."
+      },
+      "sources": [
+        {
+          "url": "https://spletnik.ru/solista-gruppy-tri-dnya-dozhdya-gleba-viktorova-otpravili-v-rekhab-posle-vystupleniya-s-kritikoy-svo-341796",
+          "publisher": "Spletnik (Russian outlet)",
+          "date": "2026-07-14"
+        },
+        {
+          "url": "https://www.gazeta.press/amp/social/2026/07/14/23241853.shtml",
+          "publisher": "Gazeta.press (Russian outlet)",
+          "date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "title": {
+        "en": "Label disavows speech; Viktorov sent to rehab",
+        "uk": "Лейбл відхрещується від промови; Вікторова відправляють на реабілітацію",
+        "ru": "Лейбл открещивается от речи; Викторова отправляют на реабилитацию"
+      },
+      "detail": {
+        "en": "The band's representatives said everything Viktorov said on stage was 'unconscious delirium,' claiming he had been given drugs without his consent, and announced he was undergoing treatment; remaining tour dates were kept, and he later apologized for the Yekaterinburg concert.",
+        "uk": "Представники гурту заявили, що все сказане Вікторовим зі сцени було «несвідомим маренням», стверджуючи, що йому без його згоди дали наркотики, і повідомили, що він проходить лікування; решту турових дат зберегли, а згодом він вибачився за єкатеринбурзький концерт.",
+        "ru": "Представители группы заявили, что все сказанное Викторовым со сцены было «бессознательным бредом», утверждая, что ему без его согласия дали наркотики, и сообщили, что он проходит лечение; остальные даты тура сохранили, а позже он извинился за екатеринбургский концерт."
+      },
+      "sources": [
+        {
+          "url": "https://meduza.io/news/2026/07/14/solista-tri-dnya-dozhdya-vystupivshego-s-politicheskoy-rechyu-otpravili-na-lechenie-predstaviteli-gruppy-zayavili-chto-vse-skazannoe-im-so-stseny-bylo-bessoznatelnym-bredom",
+          "publisher": "Meduza",
+          "date": "2026-07-14"
+        },
+        {
+          "url": "https://www.vesti.ru/ns/frontmen-gruppy-tri-dnya-dozhdya-vyshel-iz-rekhaba-i-izvinilsya-za-koncert-na-urale",
+          "publisher": "Vesti.ru (Russian state media)"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

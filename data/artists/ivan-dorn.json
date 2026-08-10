@@ -1,0 +1,133 @@
+{
+  "slug": "ivan-dorn",
+  "name": "Ivan Dorn",
+  "nameLocal": "Іван Дорн",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "Ivan Dorn, a Ukrainian singer with a large pre-war Russian audience, drew lasting criticism for calling Russians and Ukrainians 'younger and older brothers' in a 2017 Yuri Dud interview. He condemned the 2022 full-scale invasion, closed his Masterskaya label's catalogue to Russia and Belarus, and was banned from performing in Russia; in 2023 he apologized for his 2017 remarks. However, repeated later episodes — a planned release with a Russian DJ, a New Year's Eve 2024 show for Russian audiences in Bali, and 2024 concerts alongside 'good Russians' — have kept his record contradictory in Ukrainian public opinion. He has lived abroad since 2022.",
+    "uk": "Іван Дорн, український співак із великою довоєнною російською аудиторією, зазнав тривалої критики за те, що в інтерв'ю Юрію Дудю 2017 року назвав росіян та українців «молодшими і старшими братами». Він засудив повномасштабне вторгнення 2022 року, закрив каталог свого лейблу Masterskaya для Росії та Білорусі й потрапив під заборону виступів у Росії; 2023 року він вибачився за свої висловлювання 2017 року. Проте подальші повторювані епізоди — запланований реліз із російським діджеєм, новорічний виступ для російської публіки на Балі напередодні 2024 року та концерти 2024 року разом із «хорошими росіянами» — зберігають суперечливість його репутації в українській громадській думці. Із 2022 року він живе за кордоном.",
+    "ru": "Иван Дорн, украинский певец с большой довоенной российской аудиторией, подвергся длительной критике за то, что в интервью Юрию Дудю в 2017 году назвал россиян и украинцев «младшими и старшими братьями». Он осудил полномасштабное вторжение 2022 года, закрыл каталог своего лейбла Masterskaya для России и Беларуси и попал под запрет на выступления в России; в 2023 году он извинился за свои высказывания 2017 года. Однако последующие повторяющиеся эпизоды — запланированный релиз с российским диджеем, новогоднее выступление для российской публики на Бали в канун 2024 года и концерты 2024 года вместе с «хорошими русскими» — сохраняют противоречивость его репутации в украинском общественном мнении. С 2022 года он живёт за границей."
+  },
+  "timeline": [
+    {
+      "date": "2017-04-11",
+      "title": {
+        "en": "'Brothers' interview with Yuri Dud",
+        "uk": "Інтерв'ю про «братів» Юрію Дудю",
+        "ru": "Интервью о «братьях» Юрию Дудю"
+      },
+      "detail": {
+        "en": "In a viral interview with Russian blogger Yuri Dud, Dorn called the Donbas war a 'quarrel' between 'younger and older brothers', drawing broad criticism in Ukraine.",
+        "uk": "У вірусному інтерв'ю російському блогеру Юрію Дудю Дорн назвав війну на Донбасі «сваркою» між «молодшими і старшими братами», що викликало широку критику в Україні.",
+        "ru": "В вирусном интервью российскому блогеру Юрию Дудю Дорн назвал войну на Донбассе «ссорой» между «младшими и старшими братьями», что вызвало широкую критику в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.kyivpost.com/post/8007",
+          "publisher": "Kyiv Post",
+          "date": "2017-04"
+        }
+      ]
+    },
+    {
+      "date": "2022-02",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns the full-scale invasion; label exits Russia",
+        "uk": "Засуджує повномасштабне вторгнення; лейбл іде з Росії",
+        "ru": "Осуждает полномасштабное вторжение; лейбл уходит из России"
+      },
+      "detail": {
+        "en": "Dorn publicly condemned Russia's invasion; his Masterskaya label closed its catalogue for Russia and Belarus, and he was placed on a list of artists banned from performing in Russia.",
+        "uk": "Дорн публічно засудив вторгнення Росії; його лейбл Masterskaya закрив свій каталог для Росії та Білорусі, а самого артиста внесли до списку виконавців, яким заборонено виступати в Росії.",
+        "ru": "Дорн публично осудил вторжение России; его лейбл Masterskaya закрыл свой каталог для России и Беларуси, а самого артиста внесли в список исполнителей, которым запрещено выступать в России."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ivan_Dorn",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://inkstickmedia.com/ukraines-eccentric-pop-superstar-takes-on-the-war/",
+          "publisher": "Inkstick Media"
+        }
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": {
+        "en": "Postpones release over Russian DJ's remix; apologizes for 2017 remarks",
+        "uk": "Відкладає реліз через ремікс російського діджея; вибачається за слова 2017 року",
+        "ru": "Откладывает релиз из-за ремикса российского диджея; извиняется за слова 2017 года"
+      },
+      "detail": {
+        "en": "Criticism over a planned 24 February 2023 release including a remix by Russian DJ Philipp Gorbachev led Dorn to postpone the single; amid the scandal he apologized for his 2017 'brotherly nations' comments, adding he was sorry it took five years.",
+        "uk": "Через критику запланованого на 24 лютого 2023 року релізу з реміксом російського діджея Філіпа Горбачова Дорн відклав сингл; на тлі скандалу він вибачився за свої коментарі 2017 року про «братні народи», додавши, що шкодує, що на це пішло п'ять років.",
+        "ru": "Из-за критики запланированного на 24 февраля 2023 года релиза с ремиксом российского диджея Филиппа Горбачёва Дорн отложил сингл; на фоне скандала он извинился за свои комментарии 2017 года о «братских народах», добавив, что сожалеет, что на это ушло пять лет."
+      },
+      "sources": [
+        {
+          "url": "https://bunatimes.com/lifestyle/116908.html",
+          "publisher": "Buna Time",
+          "date": "2023"
+        },
+        {
+          "url": "https://eng.obozrevatel.com/section-news/news-ukrainian-singer-ivan-dorn-who-apologized-for-his-brotherly-nations-narrative-to-entertain-russians-in-bali-on-new-years-eve-01-11-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-11-01"
+        }
+      ]
+    },
+    {
+      "date": "2023-11",
+      "stanceAfter": null,
+      "title": {
+        "en": "Announces New Year's Eve show for Russian audience in Bali",
+        "uk": "Анонсує новорічний виступ для російської публіки на Балі",
+        "ru": "Анонсирует новогоднее выступление для российской публики на Бали"
+      },
+      "detail": {
+        "en": "Dorn was announced as a New Year's Eve performer at a Bali event catering to Russians, prompting renewed accusations in Ukraine of courting the Russian market.",
+        "uk": "Дорна анонсували як новорічного виконавця на заході на Балі, орієнтованому на росіян, що спричинило нові звинувачення в Україні в заграванні з російським ринком.",
+        "ru": "Дорна анонсировали как новогоднего исполнителя на мероприятии на Бали, ориентированном на россиян, что вызвало в Украине новые обвинения в заигрывании с российским рынком."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-news/news-ukrainian-singer-ivan-dorn-who-apologized-for-his-brotherly-nations-narrative-to-entertain-russians-in-bali-on-new-years-eve-01-11-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-11-01"
+        }
+      ]
+    },
+    {
+      "date": "2024-04",
+      "title": {
+        "en": "Concert with 'good Russians' and singer Luna criticized",
+        "uk": "Критика концерту з «хорошими росіянами» та співачкою Луною",
+        "ru": "Критика концерта с «хорошими русскими» и певицей Луной"
+      },
+      "detail": {
+        "en": "Dorn announced a joint concert with Russian artists positioning themselves as anti-war, including singer Luna; Ukrainian media and audiences criticized the shared stage during the full-scale war.",
+        "uk": "Дорн анонсував спільний концерт із російськими артистами, які позиціонують себе як антивоєнні, зокрема зі співачкою Луною; українські медіа та аудиторія розкритикували спільну сцену під час повномасштабної війни.",
+        "ru": "Дорн анонсировал совместный концерт с российскими артистами, позиционирующими себя как антивоенные, в том числе с певицей Луной; украинские медиа и аудитория раскритиковали общую сцену во время полномасштабной войны."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-ivan-dorn-will-give-a-concert-with-good-russians-and-singer-luna-who-does-not-feel-ukrainian-language-11-04-2024.html",
+          "publisher": "Obozrevatel",
+          "date": "2024-04-11"
+        },
+        {
+          "url": "https://meduza.io/en/feature/2024/06/10/i-m-sick-and-tired-of-this-war",
+          "publisher": "Meduza",
+          "date": "2024-06-10"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

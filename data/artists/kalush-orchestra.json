@@ -1,0 +1,103 @@
+{
+  "slug": "kalush-orchestra",
+  "name": "Kalush Orchestra",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Ukrainian rap/folk group Kalush Orchestra won Eurovision 2022 with 'Stefania' and used their platform to fundraise for Ukraine. They auctioned their Eurovision trophy for $900,000 to buy drones for the Ukrainian military, toured Europe and North America with proceeds going to Ukrainian causes, and reported raising around $1.5 million through the UNITED24 initiative in 2022.",
+    "uk": "Український реп-фолк-гурт Kalush Orchestra переміг на Євробаченні-2022 з піснею «Stefania» та використав свою популярність для збору коштів на підтримку України. Гурт продав свій кубок Євробачення на аукціоні за 900 тисяч доларів для купівлі дронів для українського війська, гастролював Європою та Північною Америкою, спрямовуючи виручку на українські потреби, і повідомив про збір близько 1,5 мільйона доларів через ініціативу UNITED24 у 2022 році.",
+    "ru": "Украинская рэп-фолк-группа Kalush Orchestra победила на Евровидении-2022 с песней «Stefania» и использовала свою популярность для сбора средств в поддержку Украины. Группа продала свой кубок Евровидения на аукционе за 900 тысяч долларов для покупки дронов для украинской армии, гастролировала по Европе и Северной Америке, направляя выручку на украинские нужды, и сообщила о сборе около 1,5 миллиона долларов через инициативу UNITED24 в 2022 году."
+  },
+  "timeline": [
+    {
+      "date": "2022-05-14",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Wins Eurovision 2022, appeals for Mariupol",
+        "uk": "Перемога на Євробаченні-2022, заклик допомогти Маріуполю",
+        "ru": "Победа на Евровидении-2022, призыв помочь Мариуполю"
+      },
+      "detail": {
+        "en": "Kalush Orchestra won the Eurovision Song Contest in Turin with 'Stefania', sweeping the public vote; frontman Oleh Psiuk used the stage to appeal for help for Mariupol and the Azovstal defenders.",
+        "uk": "Kalush Orchestra переміг на пісенному конкурсі Євробачення в Турині з піснею «Stefania», здобувши абсолютну перевагу в глядацькому голосуванні; фронтмен Олег Псюк зі сцени закликав допомогти Маріуполю та захисникам «Азовсталі».",
+        "ru": "Kalush Orchestra победила на песенном конкурсе Евровидение в Турине с песней «Stefania», получив подавляющее преимущество в зрительском голосовании; фронтмен Олег Псюк со сцены призвал помочь Мариуполю и защитникам «Азовстали»."
+      },
+      "sources": [
+        {
+          "url": "https://www.nationalworld.com/culture/music/ukraine-eurovision-2022-who-are-kalush-orchestra-members-meaning-behind-winning-song-stefania-3680735",
+          "publisher": "NationalWorld",
+          "date": "2022-05-14"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-30",
+      "title": {
+        "en": "Eurovision trophy sold to buy drones",
+        "uk": "Кубок Євробачення продано заради купівлі дронів",
+        "ru": "Кубок Евровидения продан ради покупки дронов"
+      },
+      "detail": {
+        "en": "The band auctioned its Eurovision trophy for $900,000 to crypto exchange WhiteBIT to fund PD-2 drone systems for the Ukrainian armed forces; with Psiuk's pink bucket hat raffle, the effort raised over $1.2 million.",
+        "uk": "Гурт продав свій кубок Євробачення на аукціоні за 900 тисяч доларів криптобіржі WhiteBIT для фінансування дронових комплексів PD-2 для українського війська; разом із розіграшем рожевої панами Псюка збір перевищив 1,2 мільйона доларів.",
+        "ru": "Группа продала свой кубок Евровидения на аукционе за 900 тысяч долларов криптобирже WhiteBIT для финансирования дроновых комплексов PD-2 для украинской армии; вместе с розыгрышем розовой панамы Псюка сбор превысил 1,2 миллиона долларов."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/eurovision-song-contest-ukraine-trophy-sale-drones-1235078859/",
+          "publisher": "Billboard",
+          "date": "2022-05-30"
+        },
+        {
+          "url": "https://www.axios.com/2022/05/30/eurovision-winners-trophy-sold-ukraine-drones-war",
+          "publisher": "Axios",
+          "date": "2022-05-30"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-03",
+      "title": {
+        "en": "North American charity tour announced",
+        "uk": "Анонс благодійного туру Північною Америкою",
+        "ru": "Анонс благотворительного тура по Северной Америке"
+      },
+      "detail": {
+        "en": "Kalush Orchestra announced a 13-city North American tour with proceeds going to support Ukraine, following an 18-show European promotional tour that included Glastonbury.",
+        "uk": "Kalush Orchestra анонсував тур 13 містами Північної Америки, виручка від якого мала піти на підтримку України, після європейського промотуру з 18 концертів, зокрема на фестивалі Гластонбері.",
+        "ru": "Kalush Orchestra анонсировала тур по 13 городам Северной Америки, выручка от которого должна была пойти на поддержку Украины, после европейского промотура из 18 концертов, включая фестиваль Гластонбери."
+      },
+      "sources": [
+        {
+          "url": "https://wiwibloggs.com/2022/07/03/kalush-orchestra-north-american-tour/272861/",
+          "publisher": "Wiwibloggs",
+          "date": "2022-07-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-10",
+      "title": {
+        "en": "Reports $1.5 million raised for Ukraine",
+        "uk": "Повідомляє про зібрані 1,5 мільйона доларів для України",
+        "ru": "Сообщает о собранных 1,5 миллиона долларов для Украины"
+      },
+      "detail": {
+        "en": "The band reported raising about $1.5 million (54 million hryvnias) for Ukraine in 2022, partly via QR-code donations at concerts channelled through the UNITED24 initiative.",
+        "uk": "Гурт повідомив, що у 2022 році зібрав для України близько 1,5 мільйона доларів (54 мільйони гривень), зокрема через донати за QR-кодами на концертах, які надходили через ініціативу UNITED24.",
+        "ru": "Группа сообщила, что в 2022 году собрала для Украины около 1,5 миллиона долларов (54 миллиона гривен), в том числе через донаты по QR-кодам на концертах, поступавшие через инициативу UNITED24."
+      },
+      "sources": [
+        {
+          "url": "https://essentiallypop.com/epop/2022/10/kalush-orchestra-raise-1-5-million-dollars-for-ukraine/",
+          "publisher": "Essentially Pop",
+          "date": "2022-10"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

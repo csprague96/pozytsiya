@@ -1,0 +1,51 @@
+{
+  "slug": "skofka",
+  "name": "SKOFKA",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "SKOFKA (Volodymyr Samoliuk) is a Ukrainian rapper from Rivne Oblast whose wartime songs became some of the most widely heard music of the full-scale war. His 2022 track 'Chuty himn' ('Hear the Anthem'), dedicated to a childhood friend killed defending Ukraine, has tens of millions of YouTube views, was sung by soldiers at the front and became associated with Ukraine's counteroffensives. His lyrics explicitly frame Russia as the aggressor.",
+    "uk": "SKOFKA (Володимир Самолюк) — український репер із Рівненської області, чиї воєнні пісні стали однією з наймасовіших музичних тем повномасштабної війни. Його трек 2022 року «Чути гімн», присвячений другу дитинства, який загинув, захищаючи Україну, має десятки мільйонів переглядів на YouTube, його співали солдати на фронті, і він став асоціюватися з українськими контрнаступами. У його текстах Росія прямо називається агресором.",
+    "ru": "SKOFKA (Владимир Самолюк) — украинский рэпер из Ровенской области, чьи военные песни стали одними из самых широко звучащих во время полномасштабной войны. Его трек 2022 года «Чути гімн» («Слышать гимн»), посвященный другу детства, погибшему при защите Украины, набрал десятки миллионов просмотров на YouTube, его пели солдаты на фронте, и он стал ассоциироваться с украинскими контрнаступлениями. В его текстах Россия прямо называется агрессором."
+  },
+  "timeline": [
+    {
+      "date": "2022-07-29",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Releases 'Chuty himn' dedicated to fallen friend",
+        "uk": "Випускає «Чути гімн», присвячену загиблому другу",
+        "ru": "Выпускает «Чути гімн», посвященную погибшему другу"
+      },
+      "detail": {
+        "en": "SKOFKA released 'Chuty himn', dedicated to Valentyn Konovodov, a childhood friend from Rivne Oblast who died defending Ukraine. The song topped Ukrainian charts on YouTube, Apple Music and Spotify within weeks.",
+        "uk": "SKOFKA випустив пісню «Чути гімн», присвячену Валентину Коноводову — другу дитинства з Рівненської області, який загинув, захищаючи Україну. За кілька тижнів пісня очолила українські чарти на YouTube, Apple Music і Spotify.",
+        "ru": "SKOFKA выпустил песню «Чути гімн», посвященную Валентину Коноводову — другу детства из Ровенской области, погибшему при защите Украины. За несколько недель песня возглавила украинские чарты на YouTube, Apple Music и Spotify."
+      },
+      "sources": [
+        {"url": "https://suspilne.media/rivne/266672-cuti-gimn-skofka-prisvativ-novij-trek-drugu-z-rivnensini-akij-zaginuv-za-ukrainu/", "publisher": "Suspilne", "date": "2022-08"},
+        {"url": "https://maximum.fm/mi-obovyazkovo-vistoyimo-skofka-vipustiv-novij-zvorushlivij-trek-chuti-gimn_n205491", "publisher": "Radio Maximum", "date": "2022"}
+      ]
+    },
+    {
+      "date": "2024-04",
+      "title": {
+        "en": "Profiled as a leading voice of Ukrainian wartime rap",
+        "uk": "Представлений як один із провідних голосів українського воєнного репу",
+        "ru": "Представлен как один из ведущих голосов украинского военного рэпа"
+      },
+      "detail": {
+        "en": "RFE/RL profiled SKOFKA among the rappers whose music became a soundtrack to the war, noting 'Chuty himn' had been viewed over 40 million times on YouTube and served as an anthem-like song during Ukraine's counteroffensives.",
+        "uk": "RFE/RL включило SKOFKA до матеріалу про реперів, чия музика стала саундтреком війни, зазначивши, що «Чути гімн» переглянули на YouTube понад 40 мільйонів разів і що пісня звучала як своєрідний гімн під час українських контрнаступів.",
+        "ru": "RFE/RL включило SKOFKA в материал о рэперах, чья музыка стала саундтреком войны, отметив, что «Чути гімн» посмотрели на YouTube более 40 миллионов раз и что песня звучала как своеобразный гимн во время украинских контрнаступлений."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/ukraine-war-music-rap-culture-arts/32915615.html", "publisher": "RFE/RL", "date": "2024"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

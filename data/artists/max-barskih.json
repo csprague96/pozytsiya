@@ -1,0 +1,84 @@
+{
+  "slug": "max-barskih",
+  "name": "MAX BARSKIH",
+  "nameLocal": "Макс Барських",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Max Barskih (Mykola Bortnyk, b. 1990, Kherson) was one of the most commercially successful Ukrainian pop artists in Russia before 2022. After the full-scale invasion he cancelled a planned Russian tour, pulled his music from Russia, joined the Armed Forces of Ukraine, and released the protest anthem 'Don't F*ck With Ukraine'. He has repeatedly described the war as Russian aggression, calling it 'a war between good and evil'.",
+    "uk": "Макс Барських (Микола Бортник, нар. 1990, Херсон) до 2022 року був одним із комерційно найуспішніших українських поп-артистів у Росії. Після повномасштабного вторгнення він скасував запланований російський тур, вилучив свою музику з Росії, вступив до лав ЗСУ та випустив протестний гімн «Don't F*ck With Ukraine». Він неодноразово називав війну російською агресією, характеризуючи її як «війну добра зі злом».",
+    "ru": "Макс Барских (Николай Бортник, род. 1990, Херсон) до 2022 года был одним из самых коммерчески успешных украинских поп-артистов в России. После полномасштабного вторжения он отменил запланированный российский тур, изъял свою музыку из России, вступил в Вооруженные силы Украины и выпустил протестный гимн «Don't F*ck With Ukraine». Он неоднократно называл войну российской агрессией, характеризуя ее как «войну добра со злом»."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Joins the Armed Forces of Ukraine",
+        "uk": "Вступає до лав ЗСУ",
+        "ru": "Вступает в Вооруженные силы Украины"
+      },
+      "detail": {
+        "en": "After helping his family reach safety abroad, Barskih returned to Kyiv and enlisted in the Ukrainian military, cancelling a planned tour of Russia where he had a large fan base.",
+        "uk": "Допомігши родині виїхати в безпечне місце за кордон, Барських повернувся до Києва та вступив до українського війська, скасувавши запланований тур Росією, де мав велику фан-базу.",
+        "ru": "Помогши семье добраться до безопасного места за границей, Барских вернулся в Киев и вступил в украинскую армию, отменив запланированный тур по России, где у него была большая фан-база."
+      },
+      "sources": [
+        {"url": "https://www.rollingstone.com/music/music-features/dont-fuck-with-ukraine-max-barskih-army-russia-1344499/", "publisher": "Rolling Stone"},
+        {"url": "https://en.wikipedia.org/wiki/Max_Barskih", "publisher": "Wikipedia"}
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Releases protest anthem 'Don't F*ck With Ukraine'",
+        "uk": "Випускає протестний гімн «Don't F*ck With Ukraine»",
+        "ru": "Выпускает протестный гимн «Don't F*ck With Ukraine»"
+      },
+      "detail": {
+        "en": "Barskih released a wartime protest song and stated the conflict was 'not just a war between Russia and Ukraine, it's a war between good and evil'.",
+        "uk": "Барських випустив воєнну протестну пісню та заявив, що цей конфлікт — «не просто війна між Росією та Україною, це війна між добром і злом».",
+        "ru": "Барских выпустил военную протестную песню и заявил, что этот конфликт — «не просто война между Россией и Украиной, это война между добром и злом»."
+      },
+      "sources": [
+        {"url": "https://www.rollingstone.com/music/music-features/dont-fuck-with-ukraine-max-barskih-army-russia-1344499/", "publisher": "Rolling Stone"}
+      ]
+    },
+    {
+      "date": "2022-05",
+      "title": {
+        "en": "Speaks at Billboard MusicCon on pulling music from Russia",
+        "uk": "Виступає на Billboard MusicCon щодо вилучення музики з Росії",
+        "ru": "Выступает на Billboard MusicCon по поводу изъятия музыки из России"
+      },
+      "detail": {
+        "en": "At Billboard MusicCon he discussed removing his catalogue from Russia and losing most of his Russian audience after calling on Russian fans to oppose totalitarianism, which drew threats and hate messages.",
+        "uk": "На Billboard MusicCon він розповів про вилучення свого каталогу з Росії та втрату більшості російської аудиторії після заклику до російських фанатів протистояти тоталітаризму, що спричинило погрози та повідомлення з ненавистю.",
+        "ru": "На Billboard MusicCon он рассказал об изъятии своего каталога из России и потере большей части российской аудитории после призыва к российским фанатам противостоять тоталитаризму, что повлекло угрозы и сообщения с ненавистью."
+      },
+      "sources": [
+        {"url": "https://www.billboard.com/music/music-news/max-barskih-ukraine-musiccon-panel-recap-1235070830/", "publisher": "Billboard"}
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": {
+        "en": "Profiled as 'pop star turned soldier' while continuing service and advocacy",
+        "uk": "Міжнародна преса пише про «поп-зірку, що стала солдатом»; він продовжує службу та адвокацію",
+        "ru": "Международная пресса пишет о «поп-звезде, ставшей солдатом»; он продолжает службу и адвокацию"
+      },
+      "detail": {
+        "en": "International press profiled Barskih on his military service and continued use of his platform to advocate for Ukraine abroad.",
+        "uk": "Міжнародні видання опублікували матеріали про військову службу Барських та його подальше використання власної платформи для підтримки України за кордоном.",
+        "ru": "Международные издания опубликовали материалы о военной службе Барских и его дальнейшем использовании собственной платформы для поддержки Украины за рубежом."
+      },
+      "sources": [
+        {"url": "https://www.kaltblut-magazine.com/on-the-ground-in-conversation-with-ukrainian-pop-star-turned-soldier-maxbarskih/", "publisher": "KALTBLUT Magazine"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

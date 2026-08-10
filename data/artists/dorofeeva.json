@@ -1,0 +1,85 @@
+{
+  "slug": "dorofeeva",
+  "name": "DOROFEEVA",
+  "nameLocal": "Надя Дорофєєва",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Nadya Dorofeeva, formerly half of the Russian-language duo Vremya i Steklo (2010-2020), which was hugely popular across the post-Soviet market, switched to Ukrainian-language work after the 2022 invasion. She has played extensive charity tours in Ukraine and abroad, raising tens of millions of hryvnias for the military and humanitarian causes, including multi-million-dollar air-defense fundraisers.",
+    "uk": "Надя Дорофєєва, колишня учасниця російськомовного дуету «Время и Стекло» (2010–2020), надзвичайно популярного на пострадянському ринку, після вторгнення 2022 року перейшла на українськомовну творчість. Вона провела численні благодійні тури Україною та за кордоном, зібравши десятки мільйонів гривень на потреби військових і гуманітарні цілі, включно з багатомільйонними (у доларах) зборами на протиповітряну оборону.",
+    "ru": "Надя Дорофеева, в прошлом участница русскоязычного дуэта «Время и Стекло» (2010–2020), чрезвычайно популярного на постсоветском рынке, после вторжения 2022 года перешла на украиноязычное творчество. Она провела многочисленные благотворительные туры по Украине и за рубежом, собрав десятки миллионов гривен на нужды военных и гуманитарные цели, включая многомиллионные (в долларах) сборы на противовоздушную оборону."
+  },
+  "timeline": [
+    {
+      "date": "2022-06-16",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Performs at World Unite for Ukraine global benefit",
+        "uk": "Виступає на глобальному благодійному концерті World Unite for Ukraine",
+        "ru": "Выступает на глобальном благотворительном концерте World Unite for Ukraine"
+      },
+      "detail": {
+        "en": "Dorofeeva took part in the World Unite for Ukraine streamed benefit concert raising funds for Ukrainian humanitarian relief; from 2022 she moved her output to the Ukrainian language.",
+        "uk": "Дорофєєва взяла участь у стрімінговому благодійному концерті World Unite for Ukraine зі збору коштів на гуманітарну допомогу Україні; з 2022 року вона перевела свою творчість на українську мову.",
+        "ru": "Дорофеева приняла участие в стриминговом благотворительном концерте World Unite for Ukraine по сбору средств на гуманитарную помощь Украине; с 2022 года она перевела свое творчество на украинский язык."
+      },
+      "sources": [
+        {"url": "https://www.businesswire.com/news/home/20220511005398/en/World-Unite-for-Ukraine-Announces-Global-Concert-Event-Featuring-Pink-Floyd-AJR-and-Other-International-Artists-and-Celebrities-to-Stream-on-June-16-2022", "publisher": "Business Wire", "date": "2022-05-11"},
+        {"url": "https://en.wikipedia.org/wiki/Dorofeeva", "publisher": "Wikipedia"}
+      ]
+    },
+    {
+      "date": "2023-04",
+      "title": {
+        "en": "Charity tours in Ukraine and North America",
+        "uk": "Благодійні тури Україною та Північною Америкою",
+        "ru": "Благотворительные туры по Украине и Северной Америке"
+      },
+      "detail": {
+        "en": "She played sold-out charity concerts across 17 Ukrainian cities and toured the US and Canada (partly with ex-bandmate POSITIFF), directing proceeds to military and humanitarian aid.",
+        "uk": "Вона відіграла аншлагові благодійні концерти в 17 українських містах і здійснила тур США та Канадою (частково з колишнім колегою по дуету POSITIFF), спрямовуючи виручені кошти на військову та гуманітарну допомогу.",
+        "ru": "Она отыграла аншлаговые благотворительные концерты в 17 украинских городах и совершила тур по США и Канаде (частично с бывшим коллегой по дуэту POSITIFF), направляя вырученные средства на военную и гуманитарную помощь."
+      },
+      "sources": [
+        {"url": "https://concert.ua/en/event/dorofeeva", "publisher": "Concert.UA"},
+        {"url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/", "publisher": "Club Sur Seattle"}
+      ]
+    },
+    {
+      "date": "2024-09",
+      "title": {
+        "en": "Kyiv shows raise 3 million UAH for Azov brigade needs",
+        "uk": "Київські концерти збирають 3 мільйони гривень на потреби бригади «Азов»",
+        "ru": "Киевские концерты собирают 3 миллиона гривен на нужды бригады «Азов»"
+      },
+      "detail": {
+        "en": "Around the release of her Ukrainian-language album 'Heartbeat', her Kyiv concerts raised a reported 3 million hryvnias for the military.",
+        "uk": "Під час виходу її українськомовного альбому «Heartbeat» її київські концерти зібрали, за повідомленнями, 3 мільйони гривень для військових.",
+        "ru": "Во время выхода ее украиноязычного альбома «Heartbeat» ее киевские концерты собрали, по сообщениям, 3 миллиона гривен для военных."
+      },
+      "sources": [
+        {"url": "https://pro-ukraine-magazine.com/nadia-dorofeeva-hot-show-in-kyiv-3-million-hryvnias-for-azov-duet-with-katsurin-and-star-guests/", "publisher": "PRO UKRAINE Magazine"}
+      ]
+    },
+    {
+      "date": "2025-05",
+      "title": {
+        "en": "Co-fronts UNITED24 'Sky Sentinel' air-defense fundraiser",
+        "uk": "Очолює разом з POSITIFF збір UNITED24 «Sky Sentinel» на протиповітряну оборону",
+        "ru": "Возглавляет вместе с POSITIFF сбор UNITED24 «Sky Sentinel» на противовоздушную оборону"
+      },
+      "detail": {
+        "en": "Dorofeeva and POSITIFF backed a UNITED24 campaign for Sky Sentinel air-defense turrets that ultimately raised $3.3 million for 22 units.",
+        "uk": "Дорофєєва та POSITIFF підтримали кампанію UNITED24 зі збору на турелі протиповітряної оборони Sky Sentinel, яка в підсумку зібрала 3,3 мільйона доларів на 22 установки.",
+        "ru": "Дорофеева и POSITIFF поддержали кампанию UNITED24 по сбору на турели противовоздушной обороны Sky Sentinel, которая в итоге собрала 3,3 миллиона долларов на 22 установки."
+      },
+      "sources": [
+        {"url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units", "publisher": "UNITED24 (official)"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

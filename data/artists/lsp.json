@@ -1,0 +1,66 @@
+{
+  "slug": "lsp",
+  "name": "LSP",
+  "nameLocal": "ЛСП",
+  "country": "by",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "LSP is a Belarusian musician who supported the 2020 Belarus protests and has been effectively blacklisted from performing in Belarus since. In April 2022 he postponed his concerts in Russia, saying his team considered it 'inappropriate to hold concerts in the current situation', and released songs read as anti-war ('Ne ubezhal', 'Uragany'). In 2023 he returned with a new album and by March 2024 resumed full-scale touring in Russia with an 'Unhappy People' tour, while avoiding direct statements naming Russia as the aggressor.",
+    "uk": "ЛСП — білоруський музикант, який підтримав білоруські протести 2020 року і відтоді фактично потрапив у чорний список для виступів у Білорусі. У квітні 2022 року він відклав свої концерти в Росії, заявивши, що його команда вважає «недоречним проводити концерти в нинішній ситуації», і випустив пісні, які сприйняли як антивоєнні («Не убежал», «Ураганы»). У 2023 році він повернувся з новим альбомом, а до березня 2024 року відновив повноцінні гастролі в Росії з туром «Несчастные люди», уникаючи при цьому прямих заяв із називанням Росії агресором.",
+    "ru": "ЛСП — белорусский музыкант, поддержавший белорусские протесты 2020 года и с тех пор фактически попавший в чёрный список для выступлений в Беларуси. В апреле 2022 года он отложил свои концерты в России, заявив, что его команда считает «неуместным проводить концерты в текущей ситуации», и выпустил песни, воспринятые как антивоенные («Не убежал», «Ураганы»). В 2023 году он вернулся с новым альбомом, а к марту 2024 года возобновил полноценные гастроли в России с туром «Несчастные люди», избегая при этом прямых заявлений с называнием России агрессором."
+  },
+  "timeline": [
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Postpones Russian concerts",
+        "uk": "Відкладає російські концерти",
+        "ru": "Откладывает российские концерты"
+      },
+      "detail": {
+        "en": "LSP announced the postponement of his concerts in Russia, stating: 'Friends, my team and I consider it inappropriate to hold concerts in the current situation.'",
+        "uk": "ЛСП оголосив про перенесення своїх концертів у Росії, заявивши: «Друзі, ми з командою вважаємо недоречним проводити концерти в нинішній ситуації».",
+        "ru": "ЛСП объявил о переносе своих концертов в России, заявив: «Друзья, мы с командой считаем неуместным проводить концерты в текущей ситуации»."
+      },
+      "sources": [
+        { "url": "https://starsaboutwar.in.ua/ru/oleg-lsp", "publisher": "Stars About War (Ukraine)" }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Interview on life after 24 February",
+        "uk": "Інтерв'ю про життя після 24 лютого",
+        "ru": "Интервью о жизни после 24 февраля"
+      },
+      "detail": {
+        "en": "LSP gave a long interview to Belarusian outlet Nasha Niva about life after 24 February 2022, creativity in Belarusian, and bans on his work in both Belarus and Russia.",
+        "uk": "ЛСП дав велике інтерв'ю білоруському виданню Nasha Niva про життя після 24 лютого 2022 року, творчість білоруською мовою та заборони на його творчість і в Білорусі, і в Росії.",
+        "ru": "ЛСП дал большое интервью белорусскому изданию Nasha Niva о жизни после 24 февраля 2022 года, творчестве на белорусском языке и запретах на его творчество и в Беларуси, и в России."
+      },
+      "sources": [
+        { "url": "https://nashaniva.com/ru/292503", "publisher": "Nasha Niva (Belarusian independent media)" }
+      ]
+    },
+    {
+      "date": "2024-03",
+      "title": {
+        "en": "Resumes touring in Russia",
+        "uk": "Відновлює гастролі в Росії",
+        "ru": "Возобновляет гастроли в России"
+      },
+      "detail": {
+        "en": "LSP played the 'Unhappy People' tour with concerts at MTS Live Hall in St. Petersburg (1-2 March 2024) and in Moscow (15-16 March 2024), resuming a full Russian touring schedule.",
+        "uk": "ЛСП відіграв тур «Несчастные люди» з концертами в MTS Live Hall у Санкт-Петербурзі (1–2 березня 2024 року) та в Москві (15–16 березня 2024 року), відновивши повноцінний російський гастрольний графік.",
+        "ru": "ЛСП отыграл тур «Несчастные люди» с концертами в MTS Live Hall в Санкт-Петербурге (1–2 марта 2024 года) и в Москве (15–16 марта 2024 года), возобновив полноценный российский гастрольный график."
+      },
+      "sources": [
+        { "url": "https://www.kp.ru/afisha/msk/konczerty/konczert-gruppy-lsp-v-moskve-15-16-marta-2024/", "publisher": "Komsomolskaya Pravda afisha (Russia)", "date": "2024-03" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

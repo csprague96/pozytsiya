@@ -1,0 +1,85 @@
+{
+  "slug": "melovin",
+  "name": "MELOVIN",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Odesa-born singer and Eurovision 2018 entrant. Since February 2022 he has performed numerous charity concerts in Ukraine and Europe to raise funds for Ukraine and released war-themed music. In April 2025 he mobilized into the State Border Guard Service of Ukraine, serving in its Academic Song and Dance Ensemble, and announced this publicly at a Kyiv concert in July 2025.",
+    "uk": "Співак родом з Одеси, учасник Євробачення-2018. Від лютого 2022 року дав численні благодійні концерти в Україні та Європі для збору коштів на підтримку України і випустив музику воєнної тематики. У квітні 2025 року мобілізувався до Державної прикордонної служби України, де служить в Академічному ансамблі пісні і танцю, про що публічно оголосив на концерті в Києві в липні 2025 року.",
+    "ru": "Певец родом из Одессы, участник Евровидения-2018. С февраля 2022 года дал многочисленные благотворительные концерты в Украине и Европе для сбора средств в поддержку Украины и выпустил музыку военной тематики. В апреле 2025 года мобилизовался в Государственную пограничную службу Украины, где служит в Академическом ансамбле песни и танца, о чём публично объявил на концерте в Киеве в июле 2025 года."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Charity concerts and war-themed single after invasion",
+        "uk": "Благодійні концерти та сингл воєнної тематики після вторгнення",
+        "ru": "Благотворительные концерты и сингл военной тематики после вторжения"
+      },
+      "detail": {
+        "en": "After the full-scale invasion MELOVIN became an active volunteer, held charity concerts across Ukraine, Germany and Poland in support of Ukraine, and released the war-related single 'Ne zvolikay'.",
+        "uk": "Після повномасштабного вторгнення MELOVIN став активним волонтером, провів благодійні концерти в Україні, Німеччині та Польщі на підтримку України і випустив сингл воєнної тематики «Не зволікай».",
+        "ru": "После полномасштабного вторжения MELOVIN стал активным волонтёром, провёл благотворительные концерты в Украине, Германии и Польше в поддержку Украины и выпустил сингл военной тематики «Не зволікай»."
+      },
+      "sources": [
+        { "url": "https://www.eurovisionuniverse.com/encyclopedia/melovin/", "publisher": "Eurovision Universe" },
+        { "url": "https://www.esccovers.com/anti-lgbt-protests-at-melovin-charity-concert-in-ukraine/", "publisher": "ESC Covers" }
+      ]
+    },
+    {
+      "date": "2022-05-29",
+      "title": {
+        "en": "Performed at Save Ukraine — #StopWar charity telethon",
+        "uk": "Виступ на благодійному телемарафоні Save Ukraine — #StopWar",
+        "ru": "Выступление на благотворительном телемарафоне Save Ukraine — #StopWar"
+      },
+      "detail": {
+        "en": "MELOVIN was among the headline performers of the international charity telethon 'Save Ukraine — #StopWar', broadcast from Kyiv and Berlin to raise funds for Ukrainians affected by the war.",
+        "uk": "MELOVIN був серед хедлайнерів міжнародного благодійного телемарафону «Save Ukraine — #StopWar», який транслювався з Києва та Берліна для збору коштів на допомогу українцям, постраждалим від війни.",
+        "ru": "MELOVIN был среди хедлайнеров международного благотворительного телемарафона «Save Ukraine — #StopWar», транслировавшегося из Киева и Берлина для сбора средств в помощь украинцам, пострадавшим от войны."
+      },
+      "sources": [
+        { "url": "https://wiwibloggs.com/2022/05/24/save-ukraine-stopwar-charity-telethon-airs-sunday-from-kyiv-and-berlin-with-go_a-kalush-orchestra-melovin-and-more/272586/", "publisher": "wiwibloggs", "date": "2022-05-24" }
+      ]
+    },
+    {
+      "date": "2025-04-09",
+      "title": {
+        "en": "Took military oath after mobilizing to the State Border Guard Service",
+        "uk": "Склав військову присягу після мобілізації до Держприкордонслужби",
+        "ru": "Принял военную присягу после мобилизации в Госпогранслужбу"
+      },
+      "detail": {
+        "en": "MELOVIN swore the military oath on 9 April 2025 after mobilizing into the State Border Guard Service of Ukraine, later publishing video of the ceremony to refute claims he had joined a year earlier.",
+        "uk": "9 квітня 2025 року MELOVIN склав військову присягу після мобілізації до Державної прикордонної служби України, а згодом оприлюднив відео церемонії, щоб спростувати твердження, ніби він долучився роком раніше.",
+        "ru": "9 апреля 2025 года MELOVIN принял военную присягу после мобилизации в Государственную пограничную службу Украины, а позднее опубликовал видео церемонии, чтобы опровергнуть утверждения, будто он присоединился годом ранее."
+      },
+      "sources": [
+        { "url": "https://nv.ua/ukr/life/znamenitosti/melovin-pokazav-yak-skladav-viyskovu-prisyagu-pislya-mobilizaciji-do-ansamblyu-dpsu-video-50527998.html", "publisher": "NV" },
+        { "url": "https://24tv.ua/show24/melovin-mobilizuvavsya-koli-tse-stalosya-video-zi-skladannya_n2864882", "publisher": "24 Kanal" }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "title": {
+        "en": "Publicly announced service in Border Guard ensemble",
+        "uk": "Публічно оголосив про службу в ансамблі Держприкордонслужби",
+        "ru": "Публично объявил о службе в ансамбле Госпогранслужбы"
+      },
+      "detail": {
+        "en": "At a Kyiv concert MELOVIN announced from the stage that he had mobilized and would serve in the Academic Song and Dance Ensemble of the State Border Guard Service of Ukraine.",
+        "uk": "На концерті в Києві MELOVIN оголосив зі сцени, що мобілізувався і служитиме в Академічному ансамблі пісні і танцю Державної прикордонної служби України.",
+        "ru": "На концерте в Киеве MELOVIN объявил со сцены, что мобилизовался и будет служить в Академическом ансамбле песни и танца Государственной пограничной службы Украины."
+      },
+      "sources": [
+        { "url": "https://detector.media/infospace/article/242395/2025-07-07-spivak-melovin-mobilizuvavsya-do-lav-derzhavnoi-prykordonnoi-sluzhby/", "publisher": "Detector Media", "date": "2025-07-07" },
+        { "url": "https://zaxid.net/melovin_zi_stseni_zayaviv_shho_mobilizuvavsya_do_ansamblyu_derzhprikordonsluzhbi_n1614107", "publisher": "Zaxid.net" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "rauf-faik",
+  "name": "Rauf & Faik",
+  "nameLocal": "Рауф и Фаик",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "silent",
+  "flags": [],
+  "summary": {
+    "en": "Rauf & Faik are a Russian pop duo of Azerbaijani origin, twin brothers Rauf and Faik Mirzaev from Izhevsk. No verifiable public statement by the duo on Russia's full-scale invasion of Ukraine was found in Russian, Ukrainian or English-language media. They continued regular commercial concert activity in Russia from 2022 onward, including Moscow shows in July and November 2022, and remain on Russian concert schedules through 2026.",
+    "uk": "Rauf & Faik — російський поп-дует азербайджанського походження, брати-близнюки Рауф і Фаік Мірзаєви з Іжевська. Жодної перевіреної публічної заяви дуету щодо повномасштабного вторгнення Росії в Україну в російських, українських чи англомовних медіа не знайдено. З 2022 року вони продовжували регулярну комерційну концертну діяльність у Росії, зокрема з московськими виступами в липні та листопаді 2022 року, і залишаються в російських концертних афішах до 2026 року.",
+    "ru": "Rauf & Faik — российский поп-дуэт азербайджанского происхождения, братья-близнецы Рауф и Фаик Мирзаевы из Ижевска. Ни одного проверяемого публичного заявления дуэта о полномасштабном вторжении России в Украину в российских, украинских или англоязычных СМИ не найдено. С 2022 года они продолжали регулярную коммерческую концертную деятельность в России, включая московские выступления в июле и ноябре 2022 года, и остаются в российских концертных афишах вплоть до 2026 года."
+  },
+  "timeline": [
+    {
+      "date": "2022-07-24",
+      "title": {
+        "en": "Resumed/continued Moscow concert activity",
+        "uk": "Продовження концертної діяльності в Москві",
+        "ru": "Продолжение концертной деятельности в Москве"
+      },
+      "detail": {
+        "en": "The duo performed in Moscow (Flakon design factory, 24 July 2022) with a further Moscow concert on 10 November 2022, continuing their Russian touring career during the full-scale war without public comment on it.",
+        "uk": "Дует виступив у Москві (дизайн-завод «Флакон», 24 липня 2022 року), а 10 листопада 2022 року дав ще один московський концерт, продовжуючи гастрольну кар'єру в Росії під час повномасштабної війни без публічних коментарів щодо неї.",
+        "ru": "Дуэт выступил в Москве (дизайн-завод «Флакон», 24 июля 2022 года), а 10 ноября 2022 года дал ещё один московский концерт, продолжая гастрольную карьеру в России во время полномасштабной войны без публичных комментариев о ней."
+      },
+      "sources": [
+        { "url": "https://www.kp.ru/afisha/msk/konczerty/konczert-rauf-faik-v-moskve-24-iyulya-2022/", "publisher": "Komsomolskaya Pravda afisha (Russia)" }
+      ]
+    },
+    {
+      "date": "2025-01",
+      "title": {
+        "en": "Ongoing Russian concert schedule",
+        "uk": "Незмінний російський концертний графік",
+        "ru": "Продолжающийся российский концертный график"
+      },
+      "detail": {
+        "en": "Rauf & Faik continued to be listed for Moscow concerts in the 2025-2026 seasons, indicating an uninterrupted career in Russia.",
+        "uk": "Rauf & Faik і далі значилися в афішах московських концертів у сезонах 2025–2026 років, що свідчить про безперервну кар'єру в Росії.",
+        "ru": "Rauf & Faik продолжали значиться в афишах московских концертов в сезонах 2025–2026 годов, что указывает на непрерывную карьеру в России."
+      },
+      "sources": [
+        { "url": "https://www.kp.ru/afisha/msk/artist/rauf-faik-gruppa/", "publisher": "Komsomolskaya Pravda afisha (Russia)" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

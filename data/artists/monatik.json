@@ -1,0 +1,75 @@
+{
+  "slug": "monatik",
+  "name": "MONATIK",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Pop artist MONATIK (Dmytro Monatik), previously one of Ukraine's biggest Russian-language pop stars, switched to performing in Ukrainian after the full-scale invasion. In April 2022 he released 'ART Oborona' thanking Ukrainian troops and linking to a donation platform for the armed forces, followed by an EP of the same name whose proceeds went to the Armed Forces of Ukraine. Within nine months of the invasion he reported raising over 20 million hryvnias (about half a million euros) for the military and war victims.",
+    "uk": "Поп-артист MONATIK (Дмитро Монатік), раніше одна з найбільших російськомовних поп-зірок України, після повномасштабного вторгнення перейшов на виступи українською. У квітні 2022 року він випустив пісню «ART Оборона» з подякою українським військовим і посиланням на платформу для донатів на армію, а згодом — однойменний мініальбом, виручка від якого йшла на ЗСУ. За дев'ять місяців вторгнення він повідомив про зібрані понад 20 мільйонів гривень (близько пів мільйона євро) для війська та постраждалих від війни.",
+    "ru": "Поп-артист MONATIK (Дмитрий Монатик), ранее одна из крупнейших русскоязычных поп-звёзд Украины, после полномасштабного вторжения перешёл на выступления на украинском языке. В апреле 2022 года он выпустил песню «ART Оборона» с благодарностью украинским военным и ссылкой на платформу для пожертвований на армию, а затем — одноимённый мини-альбом, выручка от которого шла на Вооружённые силы Украины. За девять месяцев вторжения он сообщил о собранных более 20 миллионах гривен (около полумиллиона евро) для армии и пострадавших от войны."
+  },
+  "timeline": [
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Releases 'ART Oborona', switches to Ukrainian",
+        "uk": "Випускає «ART Оборона», переходить на українську",
+        "ru": "Выпускает «ART Оборона», переходит на украинский язык"
+      },
+      "detail": {
+        "en": "MONATIK made a symbolic switch from performing in Russian to Ukrainian with the song 'ART Oborona', which thanked Ukrainian troops and linked to an online donation platform for the armed forces.",
+        "uk": "MONATIK символічно перейшов з російської на українську мову виконання піснею «ART Оборона», у якій подякував українським військовим і додав посилання на онлайн-платформу для донатів на армію.",
+        "ru": "MONATIK символически перешёл с русского на украинский язык исполнения с песней «ART Оборона», в которой поблагодарил украинских военных и добавил ссылку на онлайн-платформу для пожертвований на армию."
+      },
+      "sources": [
+        {
+          "url": "https://www.zois-berlin.de/en/publications/zois-spotlight/the-war-divides-unequivocal-statements-in-the-russian-and-ukrainian-rap-scene",
+          "publisher": "ZOiS Berlin"
+        }
+      ]
+    },
+    {
+      "date": "2022-07",
+      "title": {
+        "en": "'ART Oborona' EP with proceeds to the AFU",
+        "uk": "Мініальбом «ART Оборона» з виручкою на ЗСУ",
+        "ru": "Мини-альбом «ART Оборона» с выручкой в пользу ВСУ"
+      },
+      "detail": {
+        "en": "He released the nine-track EP 'ART Oborona' reflecting personal responses to the war, with proceeds allocated to support the Armed Forces of Ukraine, and ran charity initiatives under the same banner including a tour of Ukrainian cities to aid displaced children and families.",
+        "uk": "Він випустив мініальбом «ART Оборона» з дев'яти треків, що відображають особисті переживання війни; виручка спрямовувалася на підтримку ЗСУ, а під тією ж назвою він проводив благодійні ініціативи, зокрема тур українськими містами на допомогу переселеним дітям і родинам.",
+        "ru": "Он выпустил мини-альбом «ART Оборона» из девяти треков, отражающих личные переживания войны; выручка направлялась на поддержку Вооружённых сил Украины, а под тем же названием он проводил благотворительные инициативы, включая тур по украинским городам в помощь перемещённым детям и семьям."
+      },
+      "sources": [
+        {
+          "url": "https://www.zois-berlin.de/en/publications/zois-spotlight/the-war-divides-unequivocal-statements-in-the-russian-and-ukrainian-rap-scene",
+          "publisher": "ZOiS Berlin"
+        }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Reports ~20 million UAH raised in nine months",
+        "uk": "Повідомляє про ~20 мільйонів гривень, зібраних за дев'ять місяців",
+        "ru": "Сообщает о ~20 миллионах гривен, собранных за девять месяцев"
+      },
+      "detail": {
+        "en": "MONATIK stated that in nine months of the full-scale war he had collected about half a million euros (over 20 million hryvnias), given to the Armed Forces of Ukraine and Ukrainians affected by the invasion.",
+        "uk": "MONATIK заявив, що за дев'ять місяців повномасштабної війни зібрав близько пів мільйона євро (понад 20 мільйонів гривень), які передав ЗСУ та українцям, постраждалим від вторгнення.",
+        "ru": "MONATIK заявил, что за девять месяцев полномасштабной войны собрал около полумиллиона евро (более 20 миллионов гривен), переданных Вооружённым силам Украины и украинцам, пострадавшим от вторжения."
+      },
+      "sources": [
+        {
+          "url": "https://bunatimes.com/lifestyle/84118.html",
+          "publisher": "Buna Times"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

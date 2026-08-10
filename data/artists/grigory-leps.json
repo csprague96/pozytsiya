@@ -1,0 +1,70 @@
+{
+  "slug": "grigory-leps",
+  "name": "Grigory Leps",
+  "nameLocal": "Григорий Лепс",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "sanctioned"],
+  "summary": {
+    "en": "Grigory Leps (Lepsveridze) has publicly supported Russia's invasion of Ukraine and materially incentivized combat: in 2023 he promised to pay 1 million rubles (about $11,000) for each destroyed Ukrainian tank, with award certificates handed to Russian soldiers in November 2023. He has been under EU sanctions since December 2022, and Ukraine's SBU served him a notice of suspicion in absentia in March 2025 for supporting, justifying and financing Russia's war.",
+    "uk": "Григорій Лепс (Лепсверідзе) публічно підтримав вторгнення Росії в Україну і матеріально стимулював бойові дії: 2023 року він пообіцяв виплачувати 1 мільйон рублів (близько 11 000 доларів) за кожен знищений український танк, а в листопаді 2023 року сертифікати на цю виплату вручили російським солдатам. З грудня 2022 року він перебуває під санкціями ЄС, а в березні 2025 року СБУ заочно повідомила йому про підозру за підтримку, виправдовування та фінансування війни Росії.",
+    "ru": "Григорий Лепс (Лепсверидзе) публично поддержал вторжение России в Украину и материально стимулировал боевые действия: в 2023 году он пообещал выплачивать 1 миллион рублей (около 11 000 долларов) за каждый уничтоженный украинский танк, а в ноябре 2023 года сертификаты на эту выплату вручили российским солдатам. С декабря 2022 года он находится под санкциями ЕС, а в марте 2025 года СБУ заочно предъявила ему подозрение в поддержке, оправдании и финансировании войны России."
+  },
+  "timeline": [
+    {
+      "date": "2022-12",
+      "stanceAfter": -3,
+      "title": {
+        "en": "EU sanctions",
+        "uk": "Санкції ЄС",
+        "ru": "Санкции ЕС"
+      },
+      "detail": {
+        "en": "Placed under EU sanctions over his public support for Russia's war against Ukraine.",
+        "uk": "Потрапив під санкції ЄС через публічну підтримку війни Росії проти України.",
+        "ru": "Внесен в санкционный список ЕС за публичную поддержку войны России против Украины."
+      },
+      "sources": [
+        { "url": "https://meduza.io/en/news/2026/07/17/russian-singer-grigory-leps-sanctioned-by-the-european-union-over-his-support-for-russia-s-war-in-ukraine-apologizes-for-dismissive-remarks-about-russian-family-incomes", "publisher": "Meduza", "date": "2026-07-17" },
+        { "url": "https://www.opensanctions.org/entities/Q1187527/", "publisher": "OpenSanctions" }
+      ]
+    },
+    {
+      "date": "2023-11",
+      "title": {
+        "en": "Tank-bounty certificates presented to soldiers",
+        "uk": "Солдатам вручили сертифікати «премії за танки»",
+        "ru": "Солдатам вручили сертификаты «премии за танки»"
+      },
+      "detail": {
+        "en": "After promising in summer 2023 to pay 1 million rubles for each destroyed Ukrainian tank, certificates for the award were presented to Russian military personnel at the Golden Gramophone award ceremony in November 2023.",
+        "uk": "Після обіцянки, даної влітку 2023 року, виплачувати 1 мільйон рублів за кожен знищений український танк, сертифікати на цю виплату вручили російським військовим на церемонії премії «Золотий грамофон» у листопаді 2023 року.",
+        "ru": "После данного летом 2023 года обещания выплачивать 1 миллион рублей за каждый уничтоженный украинский танк сертификаты на эту выплату вручили российским военным на церемонии премии «Золотой граммофон» в ноябре 2023 года."
+      },
+      "sources": [
+        { "url": "https://www.pravda.com.ua/eng/news/2025/03/03/7501065/", "publisher": "Ukrainska Pravda", "date": "2025-03-03" },
+        { "url": "https://mind.ua/en/news/20258723-baskov-leps-and-antonov-promised-to-pay-1-million-rubles-for-each-ukrainian-tank-they-destroyed", "publisher": "Mind.ua" }
+      ]
+    },
+    {
+      "date": "2025-03-03",
+      "title": {
+        "en": "SBU notice of suspicion in absentia",
+        "uk": "СБУ заочно повідомила про підозру",
+        "ru": "СБУ заочно предъявила подозрение"
+      },
+      "detail": {
+        "en": "Ukraine's Security Service served Leps a notice of suspicion in absentia for supporting Russia's full-scale invasion and for justifying and financing the war, citing the tank bounty.",
+        "uk": "Служба безпеки України заочно повідомила Лепсу про підозру за підтримку повномасштабного вторгнення Росії, а також виправдовування та фінансування війни, посилаючись на «премію за танки».",
+        "ru": "Служба безопасности Украины заочно предъявила Лепсу подозрение в поддержке полномасштабного вторжения России, а также в оправдании и финансировании войны, сославшись на «премию за танки»."
+      },
+      "sources": [
+        { "url": "https://www.pravda.com.ua/eng/news/2025/03/03/7501065/", "publisher": "Ukrainska Pravda", "date": "2025-03-03" },
+        { "url": "https://eng.obozrevatel.com/section-entertainment/news-he-promised-a-fee-for-destroyed-tanks-of-the-armed-forces-of-ukraine-grigory-leps-received-a-suspicion-from-the-ssu-in-absentia-03-03-2025.html", "publisher": "Obozrevatel", "date": "2025-03-03" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

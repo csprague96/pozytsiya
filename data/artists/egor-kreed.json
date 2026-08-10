@@ -1,0 +1,76 @@
+{
+  "slug": "egor-kreed",
+  "name": "Egor Kreed",
+  "nameLocal": "Егор Крид",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine"],
+  "summary": {
+    "en": "Russian pop singer and rapper (real name Egor Bulatkin). On 25 February 2022 he posted 'Let us pray for peace' with Russian and Ukrainian flag emojis and days later described himself as politically neutral; he has not named Russia as the aggressor and subsequently stopped commenting on the war. He has continued a top-tier mainstream career in Russia, including stadium concerts, and in March 2024 raised about 7 million rubles for residents of Belgorod affected by shelling and for victims of the Crocus City Hall attack. He has been on Ukraine's list of persons deemed a threat to national security since 2017 over appearances in occupied Crimea.",
+    "uk": "Російський поп-співак і репер (справжнє ім'я — Єгор Булаткін). 25 лютого 2022 року він опублікував допис «Помолімося за мир» з емодзі російського та українського прапорів, а за кілька днів назвав себе політично нейтральним; він не назвав Росію агресором і згодом перестав коментувати війну. Він продовжив успішну мейнстримну кар'єру в Росії, зокрема зі стадіонними концертами, а в березні 2024 року зібрав близько 7 мільйонів рублів для мешканців Бєлгорода, що постраждали від обстрілів, та для жертв теракту в «Крокус Сіті Холі». З 2017 року він перебуває в українському переліку осіб, які становлять загрозу національній безпеці, через виступи в окупованому Криму.",
+    "ru": "Российский поп-певец и рэпер (настоящее имя — Егор Булаткин). 25 февраля 2022 года он опубликовал пост «Давайте помолимся за мир» с эмодзи российского и украинского флагов, а через несколько дней назвал себя политически нейтральным; он не назвал Россию агрессором и впоследствии перестал комментировать войну. Он продолжил успешную мейнстримную карьеру в России, включая стадионные концерты, а в марте 2024 года собрал около 7 миллионов рублей для жителей Белгорода, пострадавших от обстрелов, и для жертв теракта в «Крокус Сити Холле». С 2017 года он находится в украинском списке лиц, представляющих угрозу национальной безопасности, из-за выступлений в оккупированном Крыму."
+  },
+  "timeline": [
+    {
+      "date": "2017-09-20",
+      "title": {
+        "en": "Placed on Ukraine's national security threat list",
+        "uk": "Внесений до українського переліку загроз національній безпеці",
+        "ru": "Внесен в украинский список угроз национальной безопасности"
+      },
+      "detail": {
+        "en": "Kreed was included in Ukraine's list of persons posing a threat to national security, following earlier appearances in occupied Crimea; he had been added to the Myrotvorets database in April 2016.",
+        "uk": "Кріда внесли до українського переліку осіб, які становлять загрозу національній безпеці, після його попередніх виступів в окупованому Криму; до бази «Миротворець» його додали у квітні 2016 року.",
+        "ru": "Крида включили в украинский список лиц, представляющих угрозу национальной безопасности, после его выступлений в оккупированном Крыму; в базу «Миротворец» его добавили в апреле 2016 года."
+      },
+      "sources": [
+        {
+          "url": "https://uk.wikipedia.org/wiki/%D0%84%D0%B3%D0%BE%D1%80_%D0%9A%D1%80%D1%96%D0%B4",
+          "publisher": "Wikipedia (Ukrainian)"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-25",
+      "title": {
+        "en": "'Pray for peace' post after the invasion",
+        "uk": "Допис «Помолімося за мир» після вторгнення",
+        "ru": "Пост «Помолимся за мир» после вторжения"
+      },
+      "detail": {
+        "en": "The day after the full-scale invasion began, Kreed posted 'Let us pray for peace' with Russian and Ukrainian flag emojis; days later he said he was politically neutral and spoke of panic attacks, without naming Russia as the aggressor.",
+        "uk": "Наступного дня після початку повномасштабного вторгнення Крід опублікував допис «Помолімося за мир» з емодзі російського та українського прапорів; за кілька днів він заявив, що є політично нейтральним, і розповів про панічні атаки, не називаючи Росію агресором.",
+        "ru": "На следующий день после начала полномасштабного вторжения Крид опубликовал пост «Давайте помолимся за мир» с эмодзи российского и украинского флагов; через несколько дней он заявил, что политически нейтрален, и рассказал о панических атаках, не называя Россию агрессором."
+      },
+      "sources": [
+        {
+          "url": "https://news.ru/show-business/kritika-svo-podderzhka-ukrainy-pereezd-v-oae-gde-sejchas-egor-krid",
+          "publisher": "News.ru"
+        }
+      ]
+    },
+    {
+      "date": "2024-03",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Charity livestream for Belgorod and Crocus victims; career in Russia continues",
+        "uk": "Благодійний стрим для Бєлгорода і жертв «Крокуса»; кар'єра в Росії триває",
+        "ru": "Благотворительный стрим для Белгорода и жертв «Крокуса»; карьера в России продолжается"
+      },
+      "detail": {
+        "en": "Kreed raised about 7 million rubles via a charity livestream for Belgorod residents affected by shelling, and donated to Crocus City Hall attack victims, while continuing large-scale concerts in Russia and remaining silent on the war itself.",
+        "uk": "Крід зібрав близько 7 мільйонів рублів у благодійному стримі для мешканців Бєлгорода, що постраждали від обстрілів, і зробив пожертву жертвам теракту в «Крокус Сіті Холі», водночас продовжуючи масштабні концерти в Росії та зберігаючи мовчання щодо самої війни.",
+        "ru": "Крид собрал около 7 миллионов рублей в благотворительном стриме для жителей Белгорода, пострадавших от обстрелов, и сделал пожертвование жертвам теракта в «Крокус Сити Холле», продолжая при этом масштабные концерты в России и сохраняя молчание о самой войне."
+      },
+      "sources": [
+        {
+          "url": "https://news.ru/show-business/kritika-svo-podderzhka-ukrainy-pereezd-v-oae-gde-sejchas-egor-krid",
+          "publisher": "News.ru"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

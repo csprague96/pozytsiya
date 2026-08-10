@@ -1,0 +1,108 @@
+{
+  "slug": "jamala",
+  "name": "Jamala",
+  "nameLocal": "Джамала",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Jamala (Susana Jamaladinova), the Crimean Tatar singer who won Eurovision 2016 with '1944', fled Kyiv with her two children at the start of the full-scale invasion and publicly called Russia's actions 'terrorism'. She has performed extensively abroad to raise funds and morale for Ukraine. Russia banned her from entry for 50 years in April 2022 and placed her on its wanted list in 2023 on charges of spreading 'fakes' about the Russian army.",
+    "uk": "Джамала (Сусана Джамаладінова), кримськотатарська співачка, яка перемогла на Євробаченні-2016 з піснею «1944», на початку повномасштабного вторгнення виїхала з Києва з двома дітьми та публічно назвала дії Росії «тероризмом». Вона багато виступає за кордоном, збираючи кошти та підтримуючи моральний дух України. У квітні 2022 року Росія заборонила їй в'їзд на 50 років, а 2023 року оголосила її в розшук за звинуваченням у поширенні «фейків» про російську армію.",
+    "ru": "Джамала (Сусана Джамаладинова), крымскотатарская певица, победившая на Евровидении-2016 с песней «1944», в начале полномасштабного вторжения уехала из Киева с двумя детьми и публично назвала действия России «терроризмом». Она много выступает за рубежом, собирая средства и поддерживая моральный дух Украины. В апреле 2022 года Россия запретила ей въезд на 50 лет, а в 2023 году объявила её в розыск по обвинению в распространении «фейков» о российской армии."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-09",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Flees Ukraine, condemns invasion as 'terrorism'",
+        "uk": "Виїжджає з України, засуджує вторгнення як «тероризм»",
+        "ru": "Уезжает из Украины, осуждает вторжение как «терроризм»"
+      },
+      "detail": {
+        "en": "Having fled Kyiv with her two children, Jamala told reporters in Istanbul that 'what Russia is doing right now is terrorism because innocent people... are being killed in my country', and began performing abroad to boost Ukrainian morale and raise support.",
+        "uk": "Виїхавши з Києва з двома дітьми, Джамала заявила журналістам у Стамбулі: «Те, що Росія робить зараз, — це тероризм, бо в моїй країні вбивають невинних людей», і почала виступати за кордоном, щоб підтримати моральний дух українців і зібрати допомогу.",
+        "ru": "Уехав из Киева с двумя детьми, Джамала заявила журналистам в Стамбуле: «То, что Россия делает сейчас, — это терроризм, потому что в моей стране убивают невинных людей», и начала выступать за рубежом, чтобы поддержать моральный дух украинцев и собрать помощь."
+      },
+      "sources": [
+        {
+          "url": "https://www.france24.com/en/live-news/20220309-now-a-refugee-eurovision-s-jamala-lifts-ukraine-spirits-from-abroad",
+          "publisher": "France 24",
+          "date": "2022-03-09"
+        },
+        {
+          "url": "https://www.dailysabah.com/arts/music/ukraines-eurovision-winner-calls-on-world-to-stop-russias-invasion",
+          "publisher": "Daily Sabah"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Banned from entering Russia for 50 years",
+        "uk": "Заборона на в'їзд до Росії на 50 років",
+        "ru": "Запрет на въезд в Россию на 50 лет"
+      },
+      "detail": {
+        "en": "Jamala was included in a Russian list of Ukrainian artists banned from entering the Russian Federation for 50 years.",
+        "uk": "Джамалу внесли до російського списку українських артистів, яким заборонено в'їзд до Російської Федерації на 50 років.",
+        "ru": "Джамалу включили в российский список украинских артистов, которым запрещён въезд в Российскую Федерацию на 50 лет."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2023/11/20/russia-places-ukrainian-singer-jamala-on-wanted-list-a83156",
+          "publisher": "The Moscow Times",
+          "date": "2023-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": {
+        "en": "Crimean Tatar folk-song project at Eurovision 2023",
+        "uk": "Проєкт кримськотатарських народних пісень на Євробаченні-2023",
+        "ru": "Проект крымскотатарских народных песен на Евровидении-2023"
+      },
+      "detail": {
+        "en": "Around Eurovision 2023 in Liverpool, Jamala presented her project preserving Crimean folk songs, framed as rescuing Crimean Tatar heritage from Russian occupation.",
+        "uk": "Під час Євробачення-2023 у Ліверпулі Джамала представила свій проєкт зі збереження кримських народних пісень, який позиціонувався як порятунок кримськотатарської спадщини від російської окупації.",
+        "ru": "Во время Евровидения-2023 в Ливерпуле Джамала представила свой проект по сохранению крымских народных песен, который позиционировался как спасение крымскотатарского наследия от российской оккупации."
+      },
+      "sources": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/entertainment-arts-65542799",
+          "publisher": "BBC News",
+          "date": "2023-05"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-20",
+      "title": {
+        "en": "Placed on Russia's wanted list",
+        "uk": "Оголошена в розшук у Росії",
+        "ru": "Объявлена в розыск в России"
+      },
+      "detail": {
+        "en": "Russia's Interior Ministry placed Jamala on its wanted list on charges of spreading 'fakes' about the Russian army; she dismissed the move publicly.",
+        "uk": "МВС Росії оголосило Джамалу в розшук за звинуваченням у поширенні «фейків» про російську армію; співачка публічно відкинула цей крок.",
+        "ru": "МВД России объявило Джамалу в розыск по обвинению в распространении «фейков» о российской армии; певица публично отвергла этот шаг."
+      },
+      "sources": [
+        {
+          "url": "https://www.pravda.com.ua/eng/news/2023/11/20/7429500/",
+          "publisher": "Ukrainska Pravda",
+          "date": "2023-11-20"
+        },
+        {
+          "url": "https://newsukraine.rbc.ua/news/ukrainian-eurovision-winner-jamala-on-wanted-1700477273.html",
+          "publisher": "RBC-Ukraine",
+          "date": "2023-11-20"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "verka-serduchka",
+  "name": "Verka Serduchka",
+  "nameLocal": "Вєрка Сердючка",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Andriy Danylko's drag persona Verka Serduchka was for years a superstar in both Ukraine and Russia. After February 2022 Danylko cut ties with the Russian market, permanently changed the lyric of his 2007 Eurovision hit to 'Russia Goodbye', performed for soldiers and civilians in wartime Ukraine, auctioned personal assets for rehabilitation projects, and toured North America to raise funds for Ukraine. Russia banned him from entry for 50 years.",
+    "uk": "Драг-персонаж Андрія Данилка Вєрка Сердючка роками був суперзіркою і в Україні, і в Росії. Після лютого 2022 року Данилко розірвав зв'язки з російським ринком, назавжди змінив рядок свого євробаченнєвого хіта 2007 року на «Russia Goodbye», виступав для військових і цивільних у воюючій Україні, продавав на аукціонах особисті активи на реабілітаційні проєкти та гастролював Північною Америкою, збираючи кошти для України. Росія заборонила йому в'їзд на 50 років.",
+    "ru": "Драг-персонаж Андрея Данилко Верка Сердючка годами был суперзвездой и в Украине, и в России. После февраля 2022 года Данилко разорвал связи с российским рынком, навсегда изменил строчку своего евровидийного хита 2007 года на «Russia Goodbye», выступал для военных и гражданских в воюющей Украине, продавал на аукционах личные активы на реабилитационные проекты и гастролировал по Северной Америке, собирая средства для Украины. Россия запретила ему въезд на 50 лет."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Declares 'Lasha Tumbai' is now 'Russia Goodbye'",
+        "uk": "Оголошує, що «Lasha Tumbai» тепер — «Russia Goodbye»",
+        "ru": "Объявляет, что «Lasha Tumbai» теперь — «Russia Goodbye»"
+      },
+      "detail": {
+        "en": "Danylko said that from 24 February 2022 there is 'no longer any Lasha Tumbai' in his Eurovision song — 'it's just Russia Goodbye' — and first performed it in wartime for the military, doctors and volunteers, including in a Kyiv railway station bomb shelter in June 2022.",
+        "uk": "Данилко заявив, що з 24 лютого 2022 року в його євробаченнєвій пісні «більше немає жодної Lasha Tumbai» — «це просто Russia Goodbye» — і вперше виконав її у воєнний час для військових, лікарів і волонтерів, зокрема в укритті київського залізничного вокзалу в червні 2022 року.",
+        "ru": "Данилко заявил, что с 24 февраля 2022 года в его евровидийной песне «больше нет никакой Lasha Tumbai» — «это просто Russia Goodbye» — и впервые исполнил ее в военное время для военных, врачей и волонтеров, в том числе в укрытии киевского железнодорожного вокзала в июне 2022 года."
+      },
+      "sources": [
+        {"url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/", "publisher": "48 Hills", "date": "2023-09"},
+        {"url": "https://eng.obozrevatel.com/section-entertainment/news-verka-serdyuchka-made-a-grandiose-show-in-new-york-even-americans-wished-glory-to-ukraine-and-told-putin-to-get-out-11-09-2023.html", "publisher": "Obozrevatel", "date": "2023-09-11"}
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Banned from entering Russia for 50 years",
+        "uk": "Заборона на в'їзд до Росії на 50 років",
+        "ru": "Запрет на въезд в Россию на 50 лет"
+      },
+      "detail": {
+        "en": "Kremlin-linked media reported that Danylko was among 31 Ukrainian celebrities banned from entering Russia for 50 years.",
+        "uk": "Пов'язані з Кремлем медіа повідомили, що Данилко опинився серед 31 української знаменитості, яким заборонили в'їзд до Росії на 50 років.",
+        "ru": "Связанные с Кремлем медиа сообщили, что Данилко оказался среди 31 украинской знаменитости, которым запретили въезд в Россию на 50 лет."
+      },
+      "sources": [
+        {"url": "https://eurovisionfun.com/en/2022/04/russia-has-banned-jamala-verka-serduchka-and-more-other-eurostars-from-entering-the-country-for-50-years/", "publisher": "EurovisionFun", "date": "2022-04"}
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Auctions Freddie Mercury's Rolls-Royce for war rehabilitation center",
+        "uk": "Продає на аукціоні Rolls-Royce Фредді Мерк'юрі на користь реабілітаційного центру",
+        "ru": "Продает на аукционе Rolls-Royce Фредди Меркьюри в пользу реабилитационного центра"
+      },
+      "detail": {
+        "en": "Danylko auctioned a 1974 Rolls-Royce once owned by Freddie Mercury, directing proceeds to a rehabilitation center for Ukrainians affected by the war.",
+        "uk": "Данилко виставив на аукціон Rolls-Royce 1974 року, що колись належав Фредді Мерк'юрі, спрямувавши виручені кошти реабілітаційному центру для українців, які постраждали від війни.",
+        "ru": "Данилко выставил на аукцион Rolls-Royce 1974 года, некогда принадлежавший Фредди Меркьюри, направив вырученные средства реабилитационному центру для украинцев, пострадавших от войны."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Verka_Serduchka", "publisher": "Wikipedia"}
+      ]
+    },
+    {
+      "date": "2023-09",
+      "title": {
+        "en": "'Ukraine Will Win' charity tour of US and Canada",
+        "uk": "Благодійний тур «Ukraine Will Win» США та Канадою",
+        "ru": "Благотворительный тур «Ukraine Will Win» по США и Канаде"
+      },
+      "detail": {
+        "en": "Serduchka's first tour outside Ukraine since the invasion played Miami, Chicago, New York, Toronto, San Francisco and Los Angeles, raising money for the Help Heroes of Ukraine charity.",
+        "uk": "Перший тур Сердючки за межами України після вторгнення охопив Маямі, Чикаго, Нью-Йорк, Торонто, Сан-Франциско та Лос-Анджелес, збираючи кошти для благодійної організації Help Heroes of Ukraine.",
+        "ru": "Первый тур Сердючки за пределами Украины после вторжения охватил Майами, Чикаго, Нью-Йорк, Торонто, Сан-Франциско и Лос-Анджелес, собирая средства для благотворительной организации Help Heroes of Ukraine."
+      },
+      "sources": [
+        {"url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/", "publisher": "48 Hills", "date": "2023-09"},
+        {"url": "https://sfarts.org/event/-verka-serduchka-ukraine-will-win-tour-4Zcs2UmQRW9DEmbW5DNOFQ/", "publisher": "SF/Arts"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

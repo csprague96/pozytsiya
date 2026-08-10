@@ -1,0 +1,65 @@
+{
+  "slug": "onuka",
+  "name": "ONUKA",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Electro-folk project ONUKA, led by Nata Zhyzhchenko with producer Yevhen Filatov, briefly relocated to western Ukraine after the invasion began, then returned to Kyiv with their young son. The band performed at underground and international charity events raising funds for Ukraine, and its 2023 album 'ROOM' was dedicated to Ukrainians living through the war, with streaming and tour income directed to charities buying medical equipment for military medics.",
+    "uk": "Електрофолк-проєкт ONUKA на чолі з Натою Жижченко та продюсером Євгеном Філатовим після початку вторгнення ненадовго перебрався на захід України, а потім повернувся до Києва з маленьким сином. Гурт виступав на підземних і міжнародних благодійних заходах, збираючи кошти для України, а його альбом «ROOM» 2023 року був присвячений українцям, які переживають війну; доходи від стримінгу й туру спрямовувалися благодійним організаціям, що купують медичне обладнання для військових медиків.",
+    "ru": "Электрофолк-проект ONUKA во главе с Натой Жижченко и продюсером Евгением Филатовым после начала вторжения ненадолго перебрался на запад Украины, а затем вернулся в Киев с маленьким сыном. Группа выступала на подземных и международных благотворительных мероприятиях, собирая средства для Украины, а её альбом «ROOM» 2023 года был посвящён украинцам, переживающим войну; доходы от стриминга и тура направлялись благотворительным организациям, закупающим медицинское оборудование для военных медиков."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Returns to Kyiv, performs amid the war",
+        "uk": "Повернення до Києва, виступи під час війни",
+        "ru": "Возвращение в Киев, выступления во время войны"
+      },
+      "detail": {
+        "en": "After six days of bombardment Zhyzhchenko and Filatov relocated to the Lviv area for three weeks, then returned to Kyiv with their one-year-old son; ONUKA featured among Ukrainian musicians performing at underground wartime shows and international charity events.",
+        "uk": "Після шести днів обстрілів Жижченко та Філатов на три тижні переїхали в район Львова, а потім повернулися до Києва з однорічним сином; ONUKA була серед українських музикантів, які виступали на підземних воєнних концертах і міжнародних благодійних заходах.",
+        "ru": "После шести дней обстрелов Жижченко и Филатов на три недели переехали в район Львова, а затем вернулись в Киев с годовалым сыном; ONUKA была среди украинских музыкантов, выступавших на подземных военных концертах и международных благотворительных мероприятиях."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/pro/ukrainian-musicians-taking-shows-underground-russia-war/",
+          "publisher": "Billboard",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.billboard.com/photos/2022-ukraine-war-musicians-photos-1235069684/",
+          "publisher": "Billboard"
+        }
+      ]
+    },
+    {
+      "date": "2023-07",
+      "title": {
+        "en": "Album 'ROOM' released as wartime manifesto",
+        "uk": "Альбом «ROOM» — маніфест воєнного часу",
+        "ru": "Альбом «ROOM» — манифест военного времени"
+      },
+      "detail": {
+        "en": "ONUKA released the album 'ROOM', described by Zhyzhchenko as a manifesto dedicated to Ukrainians during the war; income from streaming and tour tickets went to charities purchasing medical equipment for military doctors and other war-related needs.",
+        "uk": "ONUKA випустила альбом «ROOM», який Жижченко описала як маніфест, присвячений українцям під час війни; доходи від стримінгу та квитків на тур ішли благодійним організаціям, що купують медичне обладнання для військових лікарів, та на інші потреби, пов'язані з війною.",
+        "ru": "ONUKA выпустила альбом «ROOM», который Жижченко описала как манифест, посвящённый украинцам во время войны; доходы от стриминга и билетов на тур шли благотворительным организациям, закупающим медицинское оборудование для военных врачей, и на другие связанные с войной нужды."
+      },
+      "sources": [
+        {
+          "url": "https://www.onuka.ua/en/albums/room",
+          "publisher": "ONUKA official site"
+        },
+        {
+          "url": "https://www.pohodafestival.sk/en/news/one-of-ukraine-s-top-contemporary-bands-onuka-to-perform-at-pohoda-2025",
+          "publisher": "Pohoda Festival"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

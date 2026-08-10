@@ -1,0 +1,127 @@
+{
+  "slug": "ani-lorak",
+  "name": "Ani Lorak",
+  "nameLocal": "Ані Лорак",
+  "country": "ua",
+  "basedIn": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": ["sanctioned", "banned_in_ukraine"],
+  "summary": {
+    "en": "Ukrainian-born pop star (Eurovision 2008 runner-up) who built a major career in Russia and continued living and performing there after February 2022 without condemning the invasion or naming Russia as the aggressor. Ukraine sanctioned her in October 2022 and barred her entry until 2027, and in November 2024 she was stripped of her state honorary titles. In June 2025 she received Russian citizenship. In Russia she has simultaneously faced pro-war activists' suspicions of covertly sympathizing with Ukraine, leading to concert cancellations.",
+    "uk": "Українська попзірка (друге місце на Євробаченні-2008), яка збудувала велику кар'єру в Росії та після лютого 2022 року продовжила жити й виступати там, не засудивши вторгнення і не назвавши Росію агресором. У жовтні 2022 року Україна запровадила проти неї санкції та заборонила в'їзд до 2027 року, а в листопаді 2024 року її позбавили державних почесних звань. У червні 2025 року вона отримала російське громадянство. Водночас у Росії провоєнні активісти підозрювали її в прихованих симпатіях до України, що призводило до скасування концертів.",
+    "ru": "Родившаяся в Украине поп-звезда (второе место на Евровидении-2008), построившая крупную карьеру в России и после февраля 2022 года продолжившая жить и выступать там, не осудив вторжение и не назвав Россию агрессором. В октябре 2022 года Украина ввела против неё санкции и запретила въезд до 2027 года, а в ноябре 2024 года её лишили государственных почётных званий. В июне 2025 года она получила российское гражданство. При этом в России провоенные активисты подозревали её в скрытых симпатиях к Украине, что приводило к отменам концертов."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Stayed in Russia without condemning the invasion",
+        "uk": "Залишилася в Росії, не засудивши вторгнення",
+        "ru": "Осталась в России, не осудив вторжение"
+      },
+      "detail": {
+        "en": "Lorak did not openly speak out against the Russian invasion, remaining in Russia and continuing her career; her rare public references to the war were vague and did not name Russia as the aggressor.",
+        "uk": "Лорак відкрито не висловилася проти російського вторгнення, залишившись у Росії та продовживши кар'єру; її нечисленні публічні згадки про війну були розмитими і не називали Росію агресором.",
+        "ru": "Лорак открыто не выступила против российского вторжения, оставшись в России и продолжив карьеру; её редкие публичные упоминания о войне были размытыми и не называли Россию агрессором."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ani_Lorak",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-19",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Added to Ukraine's sanctions list",
+        "uk": "Внесена до санкційного списку України",
+        "ru": "Внесена в санкционный список Украины"
+      },
+      "detail": {
+        "en": "Ukraine sanctioned Lorak for continuing to live and work in Russia after the invasion; she was stripped of related privileges and banned from entering Ukraine until 2027.",
+        "uk": "Україна запровадила санкції проти Лорак за те, що після вторгнення вона продовжила жити і працювати в Росії; їй заборонили в'їзд в Україну до 2027 року.",
+        "ru": "Украина ввела санкции против Лорак за то, что после вторжения она продолжила жить и работать в России; ей запретили въезд в Украину до 2027 года."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ani_Lorak",
+          "publisher": "Wikipedia",
+          "date": "2022-10-19"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-25",
+      "title": {
+        "en": "Krasnodar concert cancelled by Russian authorities",
+        "uk": "Російська влада скасувала концерт у Краснодарі",
+        "ru": "Российские власти отменили концерт в Краснодаре"
+      },
+      "detail": {
+        "en": "The mayor of Krasnodar cancelled Lorak's concert, saying there was no guarantee her earnings would not be donated to Ukrainian forces — part of recurring pressure on her from pro-war Russian activists.",
+        "uk": "Мер Краснодара скасував концерт Лорак, заявивши, що немає гарантій, що її заробітки не підуть на підтримку українських військ, — прояв постійного тиску на неї з боку провоєнних російських активістів.",
+        "ru": "Мэр Краснодара отменил концерт Лорак, заявив, что нет гарантий, что её заработки не пойдут на поддержку украинских войск, — проявление постоянного давления на неё со стороны провоенных российских активистов."
+      },
+      "sources": [
+        {
+          "url": "https://novayagazeta.eu/articles/2023/03/25/russias-krasnodar-cancels-concert-of-ukrainian-singer-ani-lorak-mayor-believes-she-could-donate-earnings-to-ukrainian-forces-en-news",
+          "publisher": "Novaya Gazeta Europe",
+          "date": "2023-03-25"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-22",
+      "title": {
+        "en": "Stripped of Ukrainian state honorary titles",
+        "uk": "Позбавлена державних почесних звань України",
+        "ru": "Лишена государственных почётных званий Украины"
+      },
+      "detail": {
+        "en": "By presidential decree implementing an NSDC decision, Lorak was among 34 people deprived of Ukrainian state awards, losing her honorary artist titles as one of those deemed to have sided with the aggressor.",
+        "uk": "Указом президента на виконання рішення РНБО Лорак увійшла до числа 34 осіб, позбавлених державних нагород України, втративши почесні артистичні звання як одна з тих, кого визнали такими, що стали на бік агресора.",
+        "ru": "Указом президента во исполнение решения СНБО Лорак вошла в число 34 человек, лишённых государственных наград Украины, утратив почётные артистические звания как одна из тех, кого сочли вставшими на сторону агрессора."
+      },
+      "sources": [
+        {
+          "url": "https://www.president.gov.ua/en/news/34-zradniki-ukrayini-pozbavleni-derzhavnih-nagorod-ukrayini-94617",
+          "publisher": "Office of the President of Ukraine",
+          "date": "2024-11-22"
+        },
+        {
+          "url": "https://english.nv.ua/nation/zelenskyy-signs-decree-to-strip-34-traitors-of-state-awards-50468571.html",
+          "publisher": "NV",
+          "date": "2024-11-22"
+        }
+      ]
+    },
+    {
+      "date": "2025-06",
+      "title": {
+        "en": "Received Russian citizenship",
+        "uk": "Отримала російське громадянство",
+        "ru": "Получила российское гражданство"
+      },
+      "detail": {
+        "en": "After applying in March 2024, Lorak was reported to have received a Russian passport issued on 9 June 2025 in the name Karolina Kuek, drawing condemnation in Ukraine.",
+        "uk": "Після подання заяви в березні 2024 року Лорак, за повідомленнями, отримала російський паспорт, виданий 9 червня 2025 року на ім'я Кароліна Куєк, що викликало осуд в Україні.",
+        "ru": "После подачи заявления в марте 2024 года Лорак, по сообщениям, получила российский паспорт, выданный 9 июня 2025 года на имя Каролина Куек, что вызвало осуждение в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://unn.ua/en/news/ani-lorak-who-lives-in-russia-received-citizenship-of-the-aggressor-country",
+          "publisher": "UNN"
+        },
+        {
+          "url": "https://112.ua/en/ani-lorak-otrimala-rosijske-gromadanstvo-66625",
+          "publisher": "112.ua"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

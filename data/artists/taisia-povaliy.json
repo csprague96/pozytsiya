@@ -1,0 +1,133 @@
+{
+  "slug": "taisia-povaliy",
+  "name": "Taisia Povaliy",
+  "nameLocal": "Таїсія Повалій",
+  "country": "ua",
+  "basedIn": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["sanctioned", "banned_in_ukraine"],
+  "summary": {
+    "en": "Ukrainian-born singer and former People's Artist of Ukraine who moved to Moscow after the 2013-14 Revolution of Dignity. After February 2022 she publicly supported Russia's war, performing at concerts backing the 'special military operation' and at events marking the occupation of Ukrainian territories, and appearing in Russian propaganda media. Ukraine sanctioned her in October 2022, stripped her titles in 2024, charged her in absentia, and in 2026 a Ukrainian court sentenced her in absentia to 12 years in prison with confiscation of property. She received Russian citizenship in 2023.",
+    "uk": "Українська співачка, колишня народна артистка України, яка після Революції гідності 2013–2014 років переїхала до Москви. Після лютого 2022 року публічно підтримала війну Росії: виступала на концертах на підтримку «спеціальної воєнної операції» та на заходах з нагоди окупації українських територій, з'являлася в російських пропагандистських медіа. У жовтні 2022 року Україна запровадила проти неї санкції, у 2024 році позбавила звань і заочно висунула підозру, а у 2026 році український суд заочно засудив її до 12 років позбавлення волі з конфіскацією майна. У 2023 році отримала російське громадянство.",
+    "ru": "Родившаяся в Украине певица, бывшая народная артистка Украины, переехавшая в Москву после Революции достоинства 2013–2014 годов. После февраля 2022 года публично поддержала войну России: выступала на концертах в поддержку «специальной военной операции» и на мероприятиях по случаю оккупации украинских территорий, появлялась в российских пропагандистских медиа. В октябре 2022 года Украина ввела против неё санкции, в 2024 году лишила званий и заочно предъявила подозрение, а в 2026 году украинский суд заочно приговорил её к 12 годам лишения свободы с конфискацией имущества. В 2023 году получила российское гражданство."
+  },
+  "timeline": [
+    {
+      "date": "2022-10",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Sanctioned by Ukraine's NSDC over pro-war activity",
+        "uk": "Санкції РНБО України за провоєнну діяльність",
+        "ru": "Санкции СНБО Украины за провоенную деятельность"
+      },
+      "detail": {
+        "en": "Ukraine's National Security and Defense Council imposed sanctions on Povaliy, who had settled in Moscow and supported Russia's aggression, including performing at concerts backing the so-called 'SMO' and events tied to the occupation of Ukrainian territories.",
+        "uk": "Рада національної безпеки і оборони України запровадила санкції проти Повалій, яка оселилася в Москві та підтримувала російську агресію, зокрема виступала на концертах на підтримку так званої «СВО» та на заходах, пов'язаних з окупацією українських територій.",
+        "ru": "Совет национальной безопасности и обороны Украины ввёл санкции против Повалий, которая обосновалась в Москве и поддерживала российскую агрессию, в том числе выступала на концертах в поддержку так называемой «СВО» и на мероприятиях, связанных с оккупацией украинских территорий."
+      },
+      "sources": [
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/24513",
+          "publisher": "Defence Intelligence of Ukraine (War & Sanctions portal)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Taisia_Povaliy",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": {
+        "en": "Received Russian citizenship",
+        "uk": "Отримала російське громадянство",
+        "ru": "Получила российское гражданство"
+      },
+      "detail": {
+        "en": "Povaliy, living in Moscow since leaving Ukraine, received Russian citizenship in 2023 while continuing to appear in Russian state media and at pro-war events.",
+        "uk": "Повалій, яка після виїзду з України жила в Москві, у 2023 році отримала російське громадянство, продовжуючи з'являтися в російських державних медіа та на провоєнних заходах.",
+        "ru": "Повалий, жившая в Москве после отъезда из Украины, в 2023 году получила российское гражданство, продолжая появляться в российских государственных медиа и на провоенных мероприятиях."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taisia_Povaliy",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://www.fair.org.ua/en/tayisiya-mykolayivna-povalij/",
+          "publisher": "Fair.org.ua"
+        }
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "In-absentia notice of suspicion for justifying aggression",
+        "uk": "Заочна підозра у виправдовуванні агресії",
+        "ru": "Заочное подозрение в оправдании агрессии"
+      },
+      "detail": {
+        "en": "Ukrainian prosecutors issued Povaliy an in-absentia notice of suspicion under Article 436-2 of the Criminal Code for publicly justifying Russian armed aggression.",
+        "uk": "Українська прокуратура заочно повідомила Повалій про підозру за статтею 436-2 Кримінального кодексу — публічне виправдовування збройної агресії Росії.",
+        "ru": "Украинская прокуратура заочно уведомила Повалий о подозрении по статье 436-2 Уголовного кодекса — публичное оправдание вооружённой агрессии России."
+      },
+      "sources": [
+        {
+          "url": "https://www.fair.org.ua/en/tayisiya-mykolayivna-povalij/",
+          "publisher": "Fair.org.ua"
+        },
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/24513",
+          "publisher": "Defence Intelligence of Ukraine (War & Sanctions portal)"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-22",
+      "title": {
+        "en": "Stripped of Ukrainian state awards",
+        "uk": "Позбавлена державних нагород України",
+        "ru": "Лишена государственных наград Украины"
+      },
+      "detail": {
+        "en": "By presidential decree implementing an NSDC decision, Povaliy was among 34 people stripped of Ukrainian state awards, losing her honorary artist titles.",
+        "uk": "Указом президента на виконання рішення РНБО Повалій увійшла до числа 34 осіб, позбавлених державних нагород України, втративши почесні артистичні звання.",
+        "ru": "Указом президента во исполнение решения СНБО Повалий вошла в число 34 человек, лишённых государственных наград Украины, утратив почётные артистические звания."
+      },
+      "sources": [
+        {
+          "url": "https://www.president.gov.ua/en/news/34-zradniki-ukrayini-pozbavleni-derzhavnih-nagorod-ukrayini-94617",
+          "publisher": "Office of the President of Ukraine",
+          "date": "2024-11-22"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "title": {
+        "en": "Sentenced in absentia to 12 years in prison",
+        "uk": "Заочно засуджена до 12 років позбавлення волі",
+        "ru": "Заочно приговорена к 12 годам лишения свободы"
+      },
+      "detail": {
+        "en": "A Ukrainian court sentenced Povaliy in absentia to 12 years' imprisonment with confiscation of all property; property rights to her musical works were transferred to the state.",
+        "uk": "Український суд заочно засудив Повалій до 12 років позбавлення волі з конфіскацією всього майна; майнові права на її музичні твори передано державі.",
+        "ru": "Украинский суд заочно приговорил Повалий к 12 годам лишения свободы с конфискацией всего имущества; имущественные права на её музыкальные произведения переданы государству."
+      },
+      "sources": [
+        {
+          "url": "https://unn.ua/en/news/taisiya-povaliy-sentenced-to-12-years-in-prison",
+          "publisher": "UNN"
+        },
+        {
+          "url": "https://spain.news-pravda.com/en/russia/2026/05/29/18345.html",
+          "publisher": "News-Pravda (Russian state-aligned mirror)",
+          "date": "2026-05-29"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

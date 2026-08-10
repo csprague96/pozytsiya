@@ -1,0 +1,79 @@
+{
+  "slug": "artik-asti",
+  "name": "ARTIK & ASTI",
+  "nameLocal": "Артик и Асти",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Pop duo founded in 2010 by Zaporizhzhia-born producer-singer Artem Umrikhin (Artik); original vocalist Anna Dziuba (Asti, from Cherkasy) left the project in late 2021 and was replaced by Sevil Velieva. After February 2022 the project continued performing, recording and accepting awards in Russia; Umrikhin declined to condemn the invasion, saying he was 'more focused on family.' In 2024 Umrikhin relocated with his family to Dubai, and by early 2025 the duo was effectively inactive, with Sevil performing solo.",
+    "uk": "Поп-дует, заснований 2010 року продюсером і співаком родом із Запоріжжя Артемом Умріхіним (Artik); перша вокалістка Анна Дзюба (Asti, родом із Черкас) покинула проєкт наприкінці 2021 року, її замінила Севіль Велієва. Після лютого 2022 року проєкт продовжив виступати, записуватися та отримувати нагороди в Росії; Умріхін відмовився засудити вторгнення, сказавши, що «більше зайнятий сім'єю». У 2024 році Умріхін переїхав із родиною до Дубая, а на початок 2025 року дует фактично припинив діяльність — Севіль виступає сольно.",
+    "ru": "Поп-дуэт, основанный в 2010 году продюсером и певцом родом из Запорожья Артемом Умрихиным (Artik); первая вокалистка Анна Дзюба (Asti, родом из Черкасс) покинула проект в конце 2021 года, ее заменила Севиль Велиева. После февраля 2022 года проект продолжил выступать, записываться и получать награды в России; Умрихин отказался осудить вторжение, сказав, что «больше занят семьей». В 2024 году Умрихин переехал с семьей в Дубай, а к началу 2025 года дуэт фактически прекратил деятельность — Севиль выступает сольно."
+  },
+  "timeline": [
+    {
+      "date": "2022-05-19",
+      "stanceAfter": -1,
+      "title": {
+        "en": "First wartime social media activity — Russian music award",
+        "uk": "Перша активність у соцмережах під час війни — російська музична нагорода",
+        "ru": "Первая активность в соцсетях во время войны — российская музыкальная награда"
+      },
+      "detail": {
+        "en": "In their first Instagram activity since the invasion began, the act showcased a Russian music award, continuing its Russia-based career without commenting on the war.",
+        "uk": "У своїй першій активності в Instagram від початку вторгнення гурт похвалився російською музичною нагородою, продовжуючи кар'єру в Росії без жодних коментарів про війну.",
+        "ru": "В своей первой активности в Instagram с начала вторжения группа продемонстрировала российскую музыкальную награду, продолжая карьеру в России без каких-либо комментариев о войне."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/lifestyle/2022-05-19/5705536-ukraintsy-artik-asti-vpervye-za-vremya-voyny-obyavilis-v-instagram-pokhvastalis-nagradoy-ot-rossii",
+          "publisher": "Telegraf (Ukraine)",
+          "date": "2022-05-19"
+        }
+      ]
+    },
+    {
+      "date": "2024-06",
+      "title": {
+        "en": "Artik relocates to Dubai",
+        "uk": "Artik переїжджає до Дубая",
+        "ru": "Artik переезжает в Дубай"
+      },
+      "detail": {
+        "en": "Umrikhin moved with his wife and children to the UAE in 2024 while remaining silent on the war; asked about Russia's invasion of his native Ukraine, he had answered that he was 'more occupied with family.'",
+        "uk": "У 2024 році Умріхін переїхав із дружиною та дітьми до ОАЕ, зберігаючи мовчання щодо війни; на запитання про вторгнення Росії в його рідну Україну він відповів, що «більше зайнятий сім'єю».",
+        "ru": "В 2024 году Умрихин переехал с женой и детьми в ОАЭ, сохраняя молчание о войне; на вопрос о вторжении России в его родную Украину он ответил, что «больше занят семьей»."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/shou-biznes/2025-02-05/5896766-pripiniv-vistupati-ta-pereikhav-z-rodinoyu-u-dubay-shcho-kazhe-pro-viynu-urodzhenets-zaporizhzhya-artik",
+          "publisher": "Telegraf (Ukraine)",
+          "date": "2025-02-05"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-05",
+      "title": {
+        "en": "Duo effectively inactive; Sevil goes solo",
+        "uk": "Дует фактично неактивний; Севіль виступає сольно",
+        "ru": "Дуэт фактически неактивен; Севиль выступает сольно"
+      },
+      "detail": {
+        "en": "Ukrainian media reported that Artik had stopped performing with Sevil Velieva, who now performs solo, leaving ARTIK & ASTI effectively dissolved as a performing unit.",
+        "uk": "Українські медіа повідомили, що Artik припинив виступати із Севіль Велієвою, яка тепер виступає сольно, тож ARTIK & ASTI фактично припинили існування як концертний проєкт.",
+        "ru": "Украинские медиа сообщили, что Artik перестал выступать с Севиль Велиевой, которая теперь выступает сольно, так что ARTIK & ASTI фактически прекратили существование как концертный проект."
+      },
+      "sources": [
+        {
+          "url": "https://telegraf.com.ua/shou-biznes/2025-02-05/5896766-pripiniv-vistupati-ta-pereikhav-z-rodinoyu-u-dubay-shcho-kazhe-pro-viynu-urodzhenets-zaporizhzhya-artik",
+          "publisher": "Telegraf (Ukraine)",
+          "date": "2025-02-05"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "okean-elzy",
+  "name": "Okean Elzy",
+  "nameLocal": "Океан Ельзи",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Okean Elzy is one of Ukraine's most popular rock bands, fronted by Sviatoslav Vakarchuk. After the full-scale invasion began in February 2022, Vakarchuk joined a territorial defence unit in Lviv Oblast and received the rank of lieutenant in the Armed Forces of Ukraine. He has performed regularly for troops near the front line in the Kharkiv, Sumy and Zaporizhzhia regions, and the band has run international benefit tours; by mid-2023 the band said it had raised over 25 million hryvnias in aid.",
+    "uk": "«Океан Ельзи» — один із найпопулярніших рок-гуртів України, фронтменом якого є Святослав Вакарчук. Після початку повномасштабного вторгнення в лютому 2022 року Вакарчук приєднався до підрозділу територіальної оборони Львівської області й отримав звання лейтенанта Збройних сил України. Він регулярно виступає перед військовими поблизу лінії фронту в Харківській, Сумській та Запорізькій областях, а гурт проводить міжнародні благодійні тури; до середини 2023 року гурт повідомив, що зібрав понад 25 мільйонів гривень допомоги.",
+    "ru": "«Океан Эльзы» — одна из самых популярных рок-групп Украины, фронтменом которой является Святослав Вакарчук. После начала полномасштабного вторжения в феврале 2022 года Вакарчук вступил в подразделение территориальной обороны Львовской области и получил звание лейтенанта Вооружённых сил Украины. Он регулярно выступает перед военными вблизи линии фронта в Харьковской, Сумской и Запорожской областях, а группа проводит международные благотворительные туры; к середине 2023 года группа сообщила, что собрала более 25 миллионов гривен помощи."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-07",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Vakarchuk joins territorial defence",
+        "uk": "Вакарчук приєднується до тероборони",
+        "ru": "Вакарчук вступает в территориальную оборону"
+      },
+      "detail": {
+        "en": "Sviatoslav Vakarchuk joined the territorial defence battalion of Lviv Oblast and was later given the rank of lieutenant in Ukraine's Armed Forces. From March 2022 he began visiting front-line positions to perform for troops.",
+        "uk": "Святослав Вакарчук приєднався до батальйону територіальної оборони Львівської області, а згодом отримав звання лейтенанта ЗСУ. З березня 2022 року він почав відвідувати передові позиції, виступаючи перед військовими.",
+        "ru": "Святослав Вакарчук вступил в батальон территориальной обороны Львовской области, а позднее получил звание лейтенанта Вооружённых сил Украины. С марта 2022 года он начал посещать передовые позиции, выступая перед военными."
+      },
+      "sources": [
+        {
+          "url": "https://kyivindependent.com/musician-svyatoslav-vakarchuk-joins-territorial-defense-unit/",
+          "publisher": "Kyiv Independent",
+          "date": "2022-03-07"
+        },
+        {
+          "url": "https://americansongwriter.com/from-rockstar-to-lieutenant-in-ukraines-army-svyatoslav-vakarchuk-asks-for-help-in-the-fight-against-russian-invasion/",
+          "publisher": "American Songwriter"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Front-line and public performances during wartime",
+        "uk": "Виступи на фронті та публічні концерти під час війни",
+        "ru": "Фронтовые и публичные выступления во время войны"
+      },
+      "detail": {
+        "en": "Vakarchuk gave interviews describing his role in Ukraine's war effort and performed impromptu shows in the Kharkiv metro, at railway stations and near front-line positions.",
+        "uk": "Вакарчук давав інтерв'ю про свою роль у обороні України та виступав з імпровізованими концертами в харківському метро, на залізничних вокзалах і поблизу передових позицій.",
+        "ru": "Вакарчук давал интервью о своей роли в обороне Украины и выступал с импровизированными концертами в харьковском метро, на железнодорожных вокзалах и вблизи передовых позиций."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-features/ukraine-svyatoslav-vakarchuk-war-1325608/",
+          "publisher": "Rolling Stone"
+        },
+        {
+          "url": "https://globalvoices.org/2022/04/06/the-worlds-perception-of-ukraine-has-changed-says-singer-from-cult-band-okean-elzy/",
+          "publisher": "Global Voices",
+          "date": "2022-04-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-06",
+      "title": {
+        "en": "Release of wartime song 'City of Mary'",
+        "uk": "Вихід воєнної пісні «Місто Марії»",
+        "ru": "Выход военной песни «Мисто Марии» («Город Марии»)"
+      },
+      "detail": {
+        "en": "Vakarchuk presented 'Misto Marii' (City of Mary), dedicated to the defenders of Mariupol, one of several wartime songs released in 2022.",
+        "uk": "Вакарчук представив пісню «Місто Марії», присвячену захисникам Маріуполя, — одну з кількох воєнних пісень, випущених у 2022 році.",
+        "ru": "Вакарчук представил песню «Мисто Марии» («Город Марии»), посвящённую защитникам Мариуполя, — одну из нескольких военных песен, выпущенных в 2022 году."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/City_of_Mary_(song)",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-03",
+      "title": {
+        "en": "'Help for Ukraine' international benefit tour",
+        "uk": "Міжнародний благодійний тур «Help for Ukraine»",
+        "ru": "Международный благотворительный тур «Help for Ukraine»"
+      },
+      "detail": {
+        "en": "Okean Elzy toured internationally from 3 November to 2 December 2023, with proceeds donated to children affected by the war and to medical facilities; in the first half of 2023 the band reported raising more than 25 million hryvnias in aid.",
+        "uk": "«Океан Ельзи» гастролював за кордоном з 3 листопада до 2 грудня 2023 року, а виручені кошти передавалися дітям, постраждалим від війни, та медичним закладам; у першій половині 2023 року гурт повідомив, що зібрав понад 25 мільйонів гривень допомоги.",
+        "ru": "«Океан Эльзы» гастролировал за рубежом с 3 ноября по 2 декабря 2023 года, а вырученные средства передавались детям, пострадавшим от войны, и медицинским учреждениям; в первой половине 2023 года группа сообщила, что собрала более 25 миллионов гривен помощи."
+      },
+      "sources": [
+        {
+          "url": "https://euromaidanpress.com/2023/10/26/meet-the-bands-touring-to-raise-funds-for-ukraines-army-and-save-the-dates/",
+          "publisher": "Euromaidan Press",
+          "date": "2023-10-26"
+        },
+        {
+          "url": "https://english.nv.ua/life/okean-elzy-marks-29-years-with-inspirational-anthems-for-wartime-ukraine-50360266.html",
+          "publisher": "The New Voice of Ukraine"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

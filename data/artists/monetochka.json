@@ -1,0 +1,126 @@
+{
+  "slug": "monetochka",
+  "name": "Monetochka",
+  "nameLocal": "Монеточка",
+  "country": "ru",
+  "basedIn": "lt",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Singer Yelizaveta Gyrdymova (Monetochka) left Russia shortly after the February 2022 full-scale invasion and has openly supported Ukrainians. With Noize MC she ran the 'Voices of Peace' benefit concert series, raising more than 420,000 euros for aid to Ukrainian refugees; the two were nominated for the Nobel Peace Prize in December 2024. Russia designated her a 'foreign agent' in January 2023 and in July 2026 a Moscow court sentenced her in absentia to one year in prison for violating the 'foreign agents' law.",
+    "uk": "Співачка Єлизавета Гирдимова (Монеточка) виїхала з Росії невдовзі після повномасштабного вторгнення в лютому 2022 року та відкрито підтримує українців. Разом із Noize MC вона провела серію благодійних концертів «Голоси миру», що зібрали понад 420 000 євро на допомогу українським біженцям; у грудні 2024 року обох номінували на Нобелівську премію миру. У січні 2023 року Росія визнала її «іноземною агенткою», а в липні 2026 року московський суд заочно засудив її до року ув'язнення за порушення закону про «іноземних агентів».",
+    "ru": "Певица Елизавета Гырдымова (Монеточка) покинула Россию вскоре после полномасштабного вторжения в феврале 2022 года и открыто поддерживает украинцев. Вместе с Noize MC она провела серию благотворительных концертов «Голоса мира», собравших более 420 000 евро на помощь украинским беженцам; в декабре 2024 года обоих номинировали на Нобелевскую премию мира. В январе 2023 года Россия признала её «иностранным агентом», а в июле 2026 года московский суд заочно приговорил её к году лишения свободы за нарушение закона об «иностранных агентах»."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Opposes the war and leaves Russia",
+        "uk": "Виступає проти війни та виїжджає з Росії",
+        "ru": "Выступает против войны и уезжает из России"
+      },
+      "detail": {
+        "en": "Monetochka left Russia shortly after the full-scale invasion of Ukraine, taking a public anti-war position.",
+        "uk": "Монеточка виїхала з Росії невдовзі після повномасштабного вторгнення в Україну, зайнявши публічну антивоєнну позицію.",
+        "ru": "Монеточка покинула Россию вскоре после полномасштабного вторжения в Украину, заняв публичную антивоенную позицию."
+      },
+      "sources": [
+        {
+          "url": "https://www.france24.com/en/live-news/20251014-monetochka-voice-of-resistance-and-hope-for-anti-putin-russians",
+          "publisher": "France 24",
+          "date": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "'Voices of Peace' benefit concerts with Noize MC",
+        "uk": "Благодійні концерти «Голоси миру» разом із Noize MC",
+        "ru": "Благотворительные концерты «Голоса мира» вместе с Noize MC"
+      },
+      "detail": {
+        "en": "She performed a series of benefit concerts with Noize MC in the Czech Republic, Germany, Latvia, Lithuania and Poland; the 'Voices of Peace' project raised more than 420,000 euros for medical, humanitarian and legal assistance to Ukrainian refugees.",
+        "uk": "Разом із Noize MC вона відіграла серію благодійних концертів у Чехії, Німеччині, Латвії, Литві та Польщі; проєкт «Голоси миру» зібрав понад 420 000 євро на медичну, гуманітарну та юридичну допомогу українським біженцям.",
+        "ru": "Вместе с Noize MC она отыграла серию благотворительных концертов в Чехии, Германии, Латвии, Литве и Польше; проект «Голоса мира» собрал более 420 000 евро на медицинскую, гуманитарную и юридическую помощь украинским беженцам."
+      },
+      "sources": [
+        {
+          "url": "https://www.euronews.com/culture/2022/04/26/voices-of-peace-meet-the-russian-musicians-taking-a-stand-against-the-war-in-ukraine",
+          "publisher": "Euronews",
+          "date": "2022-04-26"
+        },
+        {
+          "url": "https://www.france24.com/en/live-news/20251014-monetochka-voice-of-resistance-and-hope-for-anti-putin-russians",
+          "publisher": "France 24",
+          "date": "2025-10-14"
+        }
+      ]
+    },
+    {
+      "date": "2023-01",
+      "title": {
+        "en": "Designated a 'foreign agent' in Russia",
+        "uk": "Визнана «іноземною агенткою» в Росії",
+        "ru": "Признана «иностранным агентом» в России"
+      },
+      "detail": {
+        "en": "Russian authorities added Monetochka to the 'foreign agents' register over her anti-war stance.",
+        "uk": "Російська влада внесла Монеточку до реєстру «іноземних агентів» через її антивоєнну позицію.",
+        "ru": "Российские власти внесли Монеточку в реестр «иностранных агентов» из-за её антивоенной позиции."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/09/06/russia-charges-singer-monetochka-for-breaking-foreign-agents-law-a86292",
+          "publisher": "The Moscow Times",
+          "date": "2024-09-06"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "title": {
+        "en": "Jailed in absentia for breaking 'foreign agents' law",
+        "uk": "Заочний арешт за порушення закону про «іноземних агентів»",
+        "ru": "Заочный арест за нарушение закона об «иностранных агентах»"
+      },
+      "detail": {
+        "en": "A Moscow court ordered her arrest in absentia for violating 'foreign agent' labeling requirements.",
+        "uk": "Московський суд ухвалив рішення про її заочний арешт за порушення вимог щодо маркування «іноземного агента».",
+        "ru": "Московский суд заочно постановил её арестовать за нарушение требований о маркировке «иностранного агента»."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/10/27/moscow-court-jails-singer-monetochka-in-absentia-for-breaking-foreign-agents-law-a90946",
+          "publisher": "The Moscow Times",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "title": {
+        "en": "Sentenced in absentia to one year in prison",
+        "uk": "Заочно засуджена до року ув'язнення",
+        "ru": "Заочно приговорена к году лишения свободы"
+      },
+      "detail": {
+        "en": "A Moscow judge sentenced Monetochka in absentia to a year in prison over Instagram posts published in May 2024 without the 'foreign agent' disclaimer.",
+        "uk": "Московський суддя заочно засудив Монеточку до року ув'язнення через дописи в Instagram, опубліковані у травні 2024 року без позначки «іноземного агента».",
+        "ru": "Московский судья заочно приговорил Монеточку к году лишения свободы из-за постов в Instagram, опубликованных в мае 2024 года без плашки «иностранного агента»."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2026/07/07/moscow-judge-sentences-singer-monetochka-to-year-in-prison-in-absentia-a93187",
+          "publisher": "The Moscow Times",
+          "date": "2026-07-07"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

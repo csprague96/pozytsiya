@@ -1,0 +1,54 @@
+{
+  "slug": "alyona-alyona",
+  "name": "alyona alyona",
+  "nameLocal": "альона альона",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "alyona alyona (Alyona Savranenko) is a Ukrainian rapper who has remained in Ukraine since the full-scale invasion and has consistently supported the country through her music and fundraising. Together with Jerry Heil she represented Ukraine at Eurovision 2024 with 'Teresa & Maria', finishing third, and used the contest to run a UNITED24 fundraiser that raised 10 million UAH to rebuild a school destroyed by Russian missiles.",
+    "uk": "альона альона (Альона Савраненко) — українська реперка, яка від початку повномасштабного вторгнення залишається в Україні та послідовно підтримує країну своєю музикою і зборами коштів. Разом із Jerry Heil вона представляла Україну на Євробаченні-2024 з піснею «Teresa & Maria», посівши третє місце, і використала конкурс для збору UNITED24, який зібрав 10 мільйонів гривень на відбудову школи, зруйнованої російськими ракетами.",
+    "ru": "альона альона (Алена Савраненко) — украинская рэперша, которая с начала полномасштабного вторжения остается в Украине и последовательно поддерживает страну своей музыкой и сборами средств. Вместе с Jerry Heil она представляла Украину на Евровидении-2024 с песней «Teresa & Maria», заняв третье место, и использовала конкурс для сбора UNITED24, в рамках которого было собрано 10 миллионов гривен на восстановление школы, разрушенной российскими ракетами."
+  },
+  "timeline": [
+    {
+      "date": "2024-02",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Wins Ukraine's Eurovision selection with Jerry Heil",
+        "uk": "Перемагає в українському нацвідборі на Євробачення разом із Jerry Heil",
+        "ru": "Побеждает в украинском нацотборе на Евровидение вместе с Jerry Heil"
+      },
+      "detail": {
+        "en": "alyona alyona and Jerry Heil won Ukraine's national selection (Vidbir) with 'Teresa & Maria', a song celebrating the resilience of Ukrainian women during Russia's war.",
+        "uk": "альона альона та Jerry Heil перемогли в національному відборі України (Відбір) з піснею «Teresa & Maria», присвяченою стійкості українських жінок під час війни Росії проти України.",
+        "ru": "альона альона и Jerry Heil победили в национальном отборе Украины (Відбір) с песней «Teresa & Maria», посвященной стойкости украинских женщин во время войны России против Украины."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Alyona_Alyona", "publisher": "Wikipedia"},
+        {"url": "https://www.billboard.com/music/music-news/alyona-alyona-jerry-heil-eurovision-ukraine-1235670029/", "publisher": "Billboard", "date": "2024-05"}
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": {
+        "en": "Eurovision third place and UNITED24 school fundraiser",
+        "uk": "Третє місце на Євробаченні та збір UNITED24 на відбудову школи",
+        "ru": "Третье место на Евровидении и сбор UNITED24 на восстановление школы"
+      },
+      "detail": {
+        "en": "At Eurovision 2024 in Malmo the duo placed third and ran the 'Unlock the future for children' UNITED24 fundraiser, which raised 10 million UAH to rebuild the Velykokostromska school in Dnipropetrovsk Oblast destroyed by Russian missiles in October 2022. In interviews they spoke about the war and representing Ukraine, with alyona alyona describing the toll of Russia's invasion.",
+        "uk": "На Євробаченні-2024 у Мальме дует посів третє місце і провів збір UNITED24 «Unlock the future for children», який зібрав 10 мільйонів гривень на відбудову Великокостромської школи в Дніпропетровській області, зруйнованої російськими ракетами в жовтні 2022 року. В інтерв'ю вони говорили про війну та представництво України, а альона альона розповідала про наслідки російського вторгнення.",
+        "ru": "На Евровидении-2024 в Мальме дуэт занял третье место и провел сбор UNITED24 «Unlock the future for children», в рамках которого было собрано 10 миллионов гривен на восстановление Великокостромской школы в Днепропетровской области, разрушенной российскими ракетами в октябре 2022 года. В интервью они говорили о войне и представительстве Украины, а альона альона рассказывала о последствиях российского вторжения."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/ukraine-eurovision-alyona-russia-war-school-charity/32939589.html", "publisher": "RFE/RL", "date": "2024-05"},
+        {"url": "https://u24.gov.ua/news/eurovision2024", "publisher": "UNITED24", "date": "2024-05"},
+        {"url": "https://www.euronews.com/culture/2024/05/08/all-war-is-sht-alyona-alyona-jerry-heil-on-representing-ukraine-at-eurovision", "publisher": "Euronews", "date": "2024-05-08"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

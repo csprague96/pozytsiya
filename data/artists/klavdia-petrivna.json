@@ -1,0 +1,86 @@
+{
+  "slug": "klavdia-petrivna",
+  "name": "Klavdia Petrivna",
+  "nameLocal": "Клавдія Петрівна",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Klavdia Petrivna is a Ukrainian singing project that emerged anonymously on TikTok in July 2023, with the performer initially hiding her face; the stage name comes from a character in a Volodymyr Vynnychenko novel. Ukrainian media speculated about the identity behind the project before the singer showed her face at a Kyiv concert on 30 August 2024, identified in Ukrainian press as Solomiia Opryshko. Her concerts and tours have included charity auctions and fundraisers for the Armed Forces of Ukraine.",
+    "uk": "Клавдія Петрівна — український музичний проєкт, що анонімно з'явився в TikTok у липні 2023 року: виконавиця спочатку приховувала обличчя, а сценічне ім'я походить від персонажки роману Володимира Винниченка. Українські медіа будували припущення щодо особи за проєктом, доки співачка не показала обличчя на концерті в Києві 30 серпня 2024 року; в українській пресі її ідентифікували як Соломію Опришко. Її концерти й тури включали благодійні аукціони та збори на підтримку ЗСУ.",
+    "ru": "Клавдия Петровна — украинский музыкальный проект, анонимно появившийся в TikTok в июле 2023 года: исполнительница сначала скрывала лицо, а сценическое имя происходит от персонажа романа Владимира Винниченко. Украинские медиа строили предположения о личности за проектом, пока певица не показала лицо на концерте в Киеве 30 августа 2024 года; в украинской прессе её идентифицировали как Соломию Опрышко. Её концерты и туры включали благотворительные аукционы и сборы в поддержку Вооружённых сил Украины."
+  },
+  "timeline": [
+    {
+      "date": "2023-07",
+      "title": {
+        "en": "Anonymous project debuts on TikTok",
+        "uk": "Анонімний проєкт дебютує в TikTok",
+        "ru": "Анонимный проект дебютирует в TikTok"
+      },
+      "detail": {
+        "en": "Klavdia Petrivna appeared in the Ukrainian music space in July 2023, publishing demo songs on TikTok while concealing the performer's identity; the Ukrainian-language project quickly became one of the most-streamed new acts in the country.",
+        "uk": "Клавдія Петрівна з'явилася в українському музичному просторі в липні 2023 року, публікуючи демозаписи в TikTok і приховуючи особу виконавиці; україномовний проєкт швидко став одним із найбільш прослуховуваних нових виконавців у країні.",
+        "ru": "Клавдия Петровна появилась в украинском музыкальном пространстве в июле 2023 года, публикуя демозаписи в TikTok и скрывая личность исполнительницы; украиноязычный проект быстро стал одним из самых прослушиваемых новых исполнителей в стране."
+      },
+      "sources": [
+        {
+          "url": "https://show.24tv.ua/hto-taka-klavdia-petrivna-biografiya-pisni-spravzhnye-imya-spivachki_n2548495",
+          "publisher": "24 Kanal"
+        },
+        {
+          "url": "https://tabloid.pravda.com.ua/person/hto-taka-klavdiya-petrivna-ta-hto-mozhe-hovatisya-za-zagadkovim-obrazom-spivachki-2003811/",
+          "publisher": "Ukrainska Pravda (TabloID)"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-30",
+      "title": {
+        "en": "Reveals her face at Kyiv concert",
+        "uk": "Розкриває обличчя на концерті в Києві",
+        "ru": "Раскрывает лицо на концерте в Киеве"
+      },
+      "detail": {
+        "en": "During a concert in Kyiv the singer showed her face for the first time; Ukrainian media identified her as Solomiia Opryshko, ending a year of public speculation about the project's identity.",
+        "uk": "Під час концерту в Києві співачка вперше показала обличчя; українські медіа ідентифікували її як Соломію Опришко, поклавши край річним публічним припущенням щодо особи за проєктом.",
+        "ru": "Во время концерта в Киеве певица впервые показала лицо; украинские медиа идентифицировали её как Соломию Опрышко, положив конец годичным публичным предположениям о личности за проектом."
+      },
+      "sources": [
+        {
+          "url": "https://life.nv.ua/ukr/znamenitosti/klavdiya-petrivna-im-ya-biografiya-foto-bez-maski-50447296.html",
+          "publisher": "NV",
+          "date": "2024"
+        }
+      ]
+    },
+    {
+      "date": "2025-09",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Tour concerts include fundraising for the Armed Forces",
+        "uk": "Концерти туру включають збори на підтримку ЗСУ",
+        "ru": "Концерты тура включают сборы в поддержку ВСУ"
+      },
+      "detail": {
+        "en": "Her Ukrainian tour concerts, including a show in Lutsk, featured charity auctions with proceeds donated to support the Armed Forces of Ukraine; she also joined fundraising collections for the military together with other Ukrainian public figures.",
+        "uk": "Концерти її українського туру, зокрема виступ у Луцьку, включали благодійні аукціони, виручку з яких передавали на підтримку ЗСУ; вона також долучалася до зборів на військо разом з іншими українськими публічними особами.",
+        "ru": "Концерты её украинского тура, включая выступление в Луцке, сопровождались благотворительными аукционами, выручка с которых передавалась на поддержку Вооружённых сил Украины; она также присоединялась к сборам для военных вместе с другими украинскими публичными фигурами."
+      },
+      "sources": [
+        {
+          "url": "https://vsn.ua/news/klavdia-petrivna-yide-do-lutska-neymovirne-shou-blagodiynist-i-hiti-yaki-spivaje-vsya-krayina-65374",
+          "publisher": "VSN",
+          "date": "2025"
+        },
+        {
+          "url": "https://www.obozrevatel.com/ukr/shou-oboz/kvitkova-zachitala-rep-iz-klavdia-petrivna-neochikuvanij-duet-iz-blagodijnoyu-metoyu-rozirvav-merezhu-video.htm",
+          "publisher": "Obozrevatel"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

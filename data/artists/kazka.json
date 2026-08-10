@@ -1,0 +1,68 @@
+{
+  "slug": "kazka",
+  "name": "KAZKA",
+  "nameLocal": "КАЗКА",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "KAZKA is a Ukrainian pop band fronted by Oleksandra (Sasha) Zaritska. Since February 2022 the band has campaigned internationally under the #IAMUKRAINE message, performed charity concerts in Europe and the US to raise money for Ukrainian children, refugees and the military, and released the anti-war single 'I AM NOT OK' written in the first days of the invasion. Band members' relatives and bandmates were directly affected by the war, and the group used high-profile stages such as SXSW to protest Russia's invasion.",
+    "uk": "KAZKA — український поп-гурт, фронтвуменкою якого є Олександра (Саша) Заріцька. Від лютого 2022 року гурт веде міжнародну кампанію під гаслом #IAMUKRAINE, дає благодійні концерти в Європі та США, збираючи кошти для українських дітей, біженців і військових, та випустив антивоєнний сингл «I AM NOT OK», написаний у перші дні вторгнення. Родичі учасників гурту та самі музиканти безпосередньо постраждали від війни, а колектив використовував такі гучні сцени, як SXSW, для протесту проти російського вторгнення.",
+    "ru": "KAZKA — украинская поп-группа, фронтвумен которой является Александра (Саша) Зарицкая. С февраля 2022 года группа ведет международную кампанию под лозунгом #IAMUKRAINE, дает благотворительные концерты в Европе и США, собирая средства для украинских детей, беженцев и военных, и выпустила антивоенный сингл «I AM NOT OK», написанный в первые дни вторжения. Родственники участников группы и сами музыканты напрямую пострадали от войны, а коллектив использовал такие заметные площадки, как SXSW, для протеста против российского вторжения."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Closes SXSW with anti-war protest performance",
+        "uk": "Закриває SXSW виступом-протестом проти війни",
+        "ru": "Закрывает SXSW выступлением-протестом против войны"
+      },
+      "detail": {
+        "en": "KAZKA closed the SXSW festival in Austin with a performance framed as a protest against Russia's invasion, including a cover of Bob Dylan's 'Masters of War', while some bandmates remained in Ukraine.",
+        "uk": "KAZKA закрила фестиваль SXSW в Остіні виступом, задуманим як протест проти російського вторгнення, зокрема з кавером на пісню Боба Ділана «Masters of War», тоді як частина учасників гурту залишалася в Україні.",
+        "ru": "KAZKA закрыла фестиваль SXSW в Остине выступлением, задуманным как протест против российского вторжения, в том числе с кавером на песню Боба Дилана «Masters of War», в то время как часть участников группы оставалась в Украине."
+      },
+      "sources": [
+        {"url": "https://www.rollingstone.com/music/music-features/sxsw-kazka-ukraine-bob-dylan-charlie-sexton-1324257/", "publisher": "Rolling Stone", "date": "2022-03"}
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "US tour and awareness campaign while bandmates are in Ukraine",
+        "uk": "Тур США та інформаційна кампанія, поки учасники гурту в Україні",
+        "ru": "Тур по США и информационная кампания, пока участники группы в Украине"
+      },
+      "detail": {
+        "en": "Frontwoman Sasha Zaritska toured the US raising awareness of the war while bandmates and relatives remained in Ukraine, with some involved in the defense effort.",
+        "uk": "Фронтвуменка Саша Заріцька гастролювала США, привертаючи увагу до війни, тоді як учасники гурту та родичі залишалися в Україні, а дехто з них долучився до оборони країни.",
+        "ru": "Фронтвумен Саша Зарицкая гастролировала по США, привлекая внимание к войне, в то время как участники группы и родственники оставались в Украине, а некоторые из них участвовали в обороне страны."
+      },
+      "sources": [
+        {"url": "https://www.washingtonpost.com/nation/2022/04/15/ukrainian-pop-singer-kazka/", "publisher": "The Washington Post", "date": "2022-04-15"}
+      ]
+    },
+    {
+      "date": "2022-05",
+      "title": {
+        "en": "Charity concerts and 'I AM NOT OK' single",
+        "uk": "Благодійні концерти та сингл «I AM NOT OK»",
+        "ru": "Благотворительные концерты и сингл «I AM NOT OK»"
+      },
+      "detail": {
+        "en": "KAZKA performed charity concerts in Europe and the US to raise money for children, refugees and Ukraine's military, and released 'I AM NOT OK', written in the first days of the Russian invasion, as part of the #IAMUKRAINE campaign.",
+        "uk": "KAZKA дала благодійні концерти в Європі та США, збираючи кошти для дітей, біженців і українських військових, та випустила пісню «I AM NOT OK», написану в перші дні російського вторгнення, в межах кампанії #IAMUKRAINE.",
+        "ru": "KAZKA дала благотворительные концерты в Европе и США, собирая средства для детей, беженцев и украинских военных, и выпустила песню «I AM NOT OK», написанную в первые дни российского вторжения, в рамках кампании #IAMUKRAINE."
+      },
+      "sources": [
+        {"url": "https://www.forbes.com/sites/scottking/2022/05/29/what-kazkas-sasha-zaritska-wants-americans-to-know-about-the-war-in-ukraine/", "publisher": "Forbes", "date": "2022-05-29"},
+        {"url": "https://americansongwriter.com/ukrainian-band-kazka-and-frontwoman-sasha-zaritska-working-to-spread-iamukraine-awareness/", "publisher": "American Songwriter", "date": "2022"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "ic3peak",
+  "name": "IC3PEAK",
+  "nameLocal": "Айспик",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia"],
+  "summary": {
+    "en": "Electronic duo IC3PEAK (Anastasia Kreslina and Nikolay Kostylev), long targeted by Russian authorities for anti-government art, condemned the invasion of Ukraine in February 2022. Their VK page was banned over anti-war statements, and they collected funds for Ukrainian humanitarian aid while releasing the anti-Putin video 'Kiss of Death'. Kreslina left Russia within a week of the invasion, saying it was unsafe to speak out from inside the country, and the duo has since toured in exile across Europe.",
+    "uk": "Електронний дует IC3PEAK (Анастасія Кресліна та Микола Костильов), який російська влада давно переслідувала за антиурядову творчість, засудив вторгнення в Україну в лютому 2022 року. Їхню сторінку у VK заблокували через антивоєнні заяви, а вони збирали кошти на гуманітарну допомогу Україні та випустили антипутінське відео «Kiss of Death». Кресліна виїхала з Росії протягом тижня після початку вторгнення, пояснивши, що висловлюватися зсередини країни небезпечно, і відтоді дует гастролює в еміграції Європою.",
+    "ru": "Электронный дуэт IC3PEAK (Анастасия Креслина и Николай Костылев), давно преследуемый российскими властями за антиправительственное творчество, осудил вторжение в Украину в феврале 2022 года. Их страницу во «ВКонтакте» заблокировали из-за антивоенных заявлений, а они собирали средства на гуманитарную помощь Украине и выпустили антипутинское видео «Kiss of Death». Креслина уехала из России в течение недели после начала вторжения, объяснив, что говорить о войне изнутри страны небезопасно, и с тех пор дуэт гастролирует в эмиграции по Европе."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Kreslina leaves Russia to speak out against the war",
+        "uk": "Кресліна залишає Росію, щоб відкрито виступати проти війни",
+        "ru": "Креслина покидает Россию, чтобы открыто выступать против войны"
+      },
+      "detail": {
+        "en": "Anastasia Kreslina left Russia the week after the invasion, saying she could not stay because it was not safe to speak out about the war from inside the country.",
+        "uk": "Анастасія Кресліна виїхала з Росії через тиждень після початку повномасштабного вторгнення, пояснивши, що не могла залишитися, бо висловлюватися про війну зсередини країни було небезпечно.",
+        "ru": "Анастасия Креслина уехала из России через неделю после начала полномасштабного вторжения, объяснив, что не могла остаться, поскольку говорить о войне изнутри страны было небезопасно."
+      },
+      "sources": [
+        {"url": "https://www.nme.com/features/music-interviews/ic3peak-interview-coming-home-album-3841714", "publisher": "NME", "date": "2023"}
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "VK ban over anti-war posts; fundraising for Ukrainian aid",
+        "uk": "Блокування у VK за антивоєнні дописи; збір коштів на допомогу Україні",
+        "ru": "Блокировка во «ВКонтакте» за антивоенные посты; сбор средств в помощь Украине"
+      },
+      "detail": {
+        "en": "After VK banned the band's page over anti-war statements, IC3PEAK released the anti-Putin video 'Kiss of Death' and began collecting funds to support Ukrainian humanitarian aid.",
+        "uk": "Після того як VK заблокував сторінку гурту через антивоєнні заяви, IC3PEAK випустили антипутінське відео «Kiss of Death» і почали збирати кошти на гуманітарну допомогу Україні.",
+        "ru": "После того как «ВКонтакте» заблокировал страницу группы из-за антивоенных заявлений, IC3PEAK выпустили антипутинское видео «Kiss of Death» и начали собирать средства на гуманитарную помощь Украине."
+      },
+      "sources": [
+        {"url": "https://www.side-line.com/russian-band-ic3peak-gets-banned-on-vk-for-anti-war-comments-their-reaction-an-anti-putin-video/", "publisher": "Side-Line", "date": "2022"}
+      ]
+    },
+    {
+      "date": "2023-03",
+      "title": {
+        "en": "Continues touring in exile",
+        "uk": "Продовжує гастролювати в еміграції",
+        "ru": "Продолжает гастролировать в эмиграции"
+      },
+      "detail": {
+        "en": "In exile the duo performed across Spain, Germany, Bulgaria, the Czech Republic, France, Belgium and the UK while maintaining their anti-war position.",
+        "uk": "В еміграції дует виступав в Іспанії, Німеччині, Болгарії, Чехії, Франції, Бельгії та Великій Британії, зберігаючи свою антивоєнну позицію.",
+        "ru": "В эмиграции дуэт выступал в Испании, Германии, Болгарии, Чехии, Франции, Бельгии и Великобритании, сохраняя свою антивоенную позицию."
+      },
+      "sources": [
+        {"url": "https://lossi36.com/2023/03/30/protest-exile-seven-musicians-from-russia-against-the-war/", "publisher": "Lossi 36", "date": "2023-03-30"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

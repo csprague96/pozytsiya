@@ -1,0 +1,66 @@
+{
+  "slug": "elena-temnikova",
+  "name": "Elena Temnikova",
+  "nameLocal": "Елена Темникова",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": ["left_russia"],
+  "summary": {
+    "en": "Russian pop singer and former SEREBRO member. On 24 February 2022 she published an anti-war statement on Instagram, saying she was ashamed of what was happening and expressing solidarity with friends in Kyiv, Odesa and Kharkiv. In August 2022 Russian media reported she had emigrated with her family, with Portugal named as the destination, and had deleted her posts. She subsequently became unwelcome on Russian television and was reportedly cut or blurred from Russian TV programs because of her position on the war.",
+    "uk": "Російська попспівачка, колишня учасниця гурту SEREBRO. 24 лютого 2022 року вона опублікувала в Instagram антивоєнну заяву, написавши, що їй соромно за те, що відбувається, і висловивши солідарність із друзями в Києві, Одесі та Харкові. У серпні 2022 року російські ЗМІ повідомили, що вона емігрувала з родиною — як напрямок називали Португалію — і видалила свої дописи. Згодом вона стала небажаною на російському телебаченні: за повідомленнями, її вирізали або заблюрювали в російських телепрограмах через її позицію щодо війни.",
+    "ru": "Российская поп-певица, бывшая участница группы SEREBRO. 24 февраля 2022 года она опубликовала в Instagram антивоенное заявление, написав, что ей стыдно за происходящее, и выразив солидарность с друзьями в Киеве, Одессе и Харькове. В августе 2022 года российские СМИ сообщили, что она эмигрировала с семьей — в качестве направления называли Португалию — и удалила свои посты. Впоследствии она стала нежелательной на российском телевидении: по сообщениям, ее вырезали или заблюривали в российских телепрограммах из-за ее позиции по войне."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Anti-war Instagram statement",
+        "uk": "Антивоєнна заява в Instagram",
+        "ru": "Антивоенное заявление в Instagram"
+      },
+      "detail": {
+        "en": "On the day the full-scale invasion began, Temnikova posted an anti-war statement expressing shame and solidarity with the Ukrainian people, mentioning friends in Kyiv, Odesa and Kharkiv.",
+        "uk": "У день початку повномасштабного вторгнення Темникова опублікувала антивоєнну заяву, у якій висловила сором і солідарність з українським народом, згадавши друзів у Києві, Одесі та Харкові.",
+        "ru": "В день начала полномасштабного вторжения Темникова опубликовала антивоенное заявление, выразив стыд и солидарность с украинским народом и упомянув друзей в Киеве, Одессе и Харькове."
+      },
+      "sources": [
+        {
+          "url": "https://news.obozrevatel.com/show/people/skandalnuyu-pevitsu-temnikovu-otmenili-na-rostv-chto-ona-govorila-o-putine-vojne-i-kak-ej-pomog-zelenskij.htm",
+          "publisher": "Obozrevatel"
+        },
+        {
+          "url": "https://news.ru/show-business/ssora-s-seryabkinoj-kritika-svo-otezd-iz-rf-kuda-propala-elena-temnikova",
+          "publisher": "News.ru"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-25",
+      "title": {
+        "en": "Reported emigration from Russia",
+        "uk": "Повідомлення про еміграцію з Росії",
+        "ru": "Сообщения об эмиграции из России"
+      },
+      "detail": {
+        "en": "Russian media, citing a journalist, reported that Temnikova had left Russia with her family, deleted her posts and stopped public activity; Portugal was named as her destination.",
+        "uk": "Російські ЗМІ з посиланням на журналістку повідомили, що Темникова виїхала з Росії з родиною, видалила свої дописи та припинила публічну активність; як напрямок називали Португалію.",
+        "ru": "Российские СМИ со ссылкой на журналистку сообщили, что Темникова уехала из России с семьей, удалила свои посты и прекратила публичную активность; в качестве направления называли Португалию."
+      },
+      "sources": [
+        {
+          "url": "https://ruposters.ru/news/25-08-2022/udalila-posti-perestala-otsvechivat-zhurnalistka-rasskazala-emigrirovala-elena-temnikova",
+          "publisher": "Ruposters (Russian outlet)",
+          "date": "2022-08-25"
+        },
+        {
+          "url": "https://tsn.ua/ru/glamur/v-rossii-izvestnuyu-pevicu-zarisovali-v-dokumentalnom-filme-iz-za-ee-pozicii-2312464.html",
+          "publisher": "TSN (Ukraine)"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

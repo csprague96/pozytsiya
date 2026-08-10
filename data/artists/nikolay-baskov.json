@@ -1,0 +1,86 @@
+{
+  "slug": "nikolay-baskov",
+  "name": "Nikolay Baskov",
+  "nameLocal": "Николай Басков",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "performed_in_occupied_territories", "sanctioned"],
+  "summary": {
+    "en": "Pop-opera singer Nikolay Baskov endorsed the invasion from its first days, arguing on social media that the attack was 'absolutely appropriate' and consistent with the UN Charter. On 22 June 2022 he sang 'Holy War' at Savur-Mohyla in occupied Donetsk region, and in 2023 he was among artists who promised 1 million rubles for each destroyed Ukrainian tank. He is under Ukrainian sanctions, and his YouTube channel is blocked in Ukraine.",
+    "uk": "Естрадно-оперний співак Микола Басков підтримав вторгнення з перших днів, стверджуючи в соцмережах, що напад був «абсолютно доречним» і відповідав Статуту ООН. 22 червня 2022 року він заспівав «Священну війну» на Савур-Могилі в окупованій частині Донецької області, а у 2023 році був серед артистів, які пообіцяли 1 мільйон рублів за кожен знищений український танк. Він перебуває під українськими санкціями, а його YouTube-канал заблоковано в Україні.",
+    "ru": "Эстрадно-оперный певец Николай Басков поддержал вторжение с первых дней, утверждая в соцсетях, что нападение было «абсолютно уместным» и соответствовало Уставу ООН. 22 июня 2022 года он спел «Священную войну» на Саур-Могиле в оккупированной части Донецкой области, а в 2023 году был среди артистов, пообещавших 1 миллион рублей за каждый уничтоженный украинский танк. Он находится под украинскими санкциями, а его YouTube-канал заблокирован в Украине."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "stanceAfter": -2,
+      "title": {
+        "en": "Endorses the invasion as lawful",
+        "uk": "Виправдовує вторгнення як законне",
+        "ru": "Оправдывает вторжение как законное"
+      },
+      "detail": {
+        "en": "In the first days of the full-scale invasion, argued on his social networks that Russia's attack was 'absolutely appropriate' and complied with international law, citing Article 51 of the UN Charter.",
+        "uk": "У перші дні повномасштабного вторгнення стверджував у своїх соцмережах, що напад Росії був «абсолютно доречним» і відповідав міжнародному праву, посилаючись на статтю 51 Статуту ООН.",
+        "ru": "В первые дни полномасштабного вторжения утверждал в своих соцсетях, что нападение России было «абсолютно уместным» и соответствовало международному праву, ссылаясь на статью 51 Устава ООН."
+      },
+      "sources": [
+        {"url": "https://holodomormuseum.org.ua/en/propaganda/nikolay-baskov-russian-singer/", "publisher": "National Museum of the Holodomor-Genocide"}
+      ]
+    },
+    {
+      "date": "2022-06-22",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Sings 'Holy War' in occupied Donetsk region",
+        "uk": "Співає «Священну війну» в окупованій частині Донецької області",
+        "ru": "Поёт «Священную войну» в оккупированной части Донецкой области"
+      },
+      "detail": {
+        "en": "Performed the Soviet wartime song 'Holy War' at the Savur-Mohyla memorial in the temporarily occupied part of Donetsk region.",
+        "uk": "Виконав радянську воєнну пісню «Священна війна» біля меморіалу на Савур-Могилі на тимчасово окупованій частині Донецької області.",
+        "ru": "Исполнил советскую военную песню «Священная война» у мемориала на Саур-Могиле на временно оккупированной части Донецкой области."
+      },
+      "sources": [
+        {"url": "https://holodomormuseum.org.ua/en/propaganda/nikolay-baskov-russian-singer/", "publisher": "National Museum of the Holodomor-Genocide"},
+        {"url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/2096", "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)"}
+      ]
+    },
+    {
+      "date": "2023-03",
+      "title": {
+        "en": "YouTube channel blocked in Ukraine under NSDC sanctions",
+        "uk": "YouTube-канал заблоковано в Україні за санкціями РНБО",
+        "ru": "YouTube-канал заблокирован в Украине по санкциям СНБО"
+      },
+      "detail": {
+        "en": "YouTube restricted access within Ukraine to Baskov's channel among those of Russian artists subject to Ukrainian NSDC sanctions, which include asset blocks and entry bans.",
+        "uk": "YouTube обмежив доступ в Україні до каналу Баскова серед каналів російських артистів, що перебувають під санкціями РНБО України, які передбачають блокування активів і заборону на в'їзд.",
+        "ru": "YouTube ограничил доступ в Украине к каналу Баскова среди каналов российских артистов, находящихся под санкциями СНБО Украины, которые включают блокировку активов и запрет на въезд."
+      },
+      "sources": [
+        {"url": "https://ua.news/en/ukraine/v-ukrayini-youtube-zablokuvav-kanali-rosiiskikh-artistiv-iaki-pidtrimuiut-viinu-proti-ukrayini", "publisher": "UA.News"},
+        {"url": "https://www.opensanctions.org/entities/Q194917/", "publisher": "OpenSanctions"}
+      ]
+    },
+    {
+      "date": "2023-11",
+      "title": {
+        "en": "Tank bounty pledge",
+        "uk": "Обіцянка винагороди за знищені танки",
+        "ru": "Обещание вознаграждения за уничтоженные танки"
+      },
+      "detail": {
+        "en": "Together with Grigory Leps and Yuri Antonov, promised to pay 1 million rubles for each destroyed Ukrainian tank, with certificates presented to Russian soldiers at the Golden Gramophone ceremony.",
+        "uk": "Разом із Григорієм Лепсом і Юрієм Антоновим пообіцяв виплачувати 1 мільйон рублів за кожен знищений український танк; сертифікати вручали російським військовим на церемонії «Золотий грамофон».",
+        "ru": "Вместе с Григорием Лепсом и Юрием Антоновым пообещал выплачивать 1 миллион рублей за каждый уничтоженный украинский танк; сертификаты вручали российским военным на церемонии «Золотой граммофон»."
+      },
+      "sources": [
+        {"url": "https://mind.ua/en/news/20258723-baskov-leps-and-antonov-promised-to-pay-1-million-rubles-for-each-ukrainian-tank-they-destroyed", "publisher": "Mind.ua"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

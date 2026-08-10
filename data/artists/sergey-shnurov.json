@@ -1,0 +1,68 @@
+{
+  "slug": "sergey-shnurov",
+  "name": "Sergey Shnurov",
+  "nameLocal": "Сергей Шнуров",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "Frontman of the band Leningrad. He remained in Russia after the full-scale invasion and has avoided taking an explicit position on the war, saying it is his right 'to choose or not to choose'. His post-2022 output is satirical in multiple directions: songs mocking Russian celebrities who emigrated, mockery of the word ban on 'war', and a November 2023 song praising state defense conglomerate Rostec. In 2025 he reportedly declined a public request to donate money to the front.",
+    "uk": "Фронтмен гурту «Ленинград». Після повномасштабного вторгнення він залишився в Росії й уникає чіткої позиції щодо війни, кажучи, що має право «обирати або не обирати». Його творчість після 2022 року сатирична в різних напрямках: пісні, що висміюють російських знаменитостей-емігрантів, глузування із заборони слова «війна» та пісня від листопада 2023 року з вихвалянням державного оборонного концерну «Ростех». У 2025 році він, за повідомленнями, відмовився від публічного прохання пожертвувати гроші на фронт.",
+    "ru": "Фронтмен группы «Ленинград». После полномасштабного вторжения он остался в России и избегает чёткой позиции по войне, говоря, что его право — «выбирать или не выбирать». Его творчество после 2022 года сатирично в разных направлениях: песни, высмеивающие уехавших российских знаменитостей, насмешки над запретом слова «война» и песня от ноября 2023 года с восхвалением государственного оборонного концерна «Ростех». В 2025 году он, по сообщениям, отклонил публичную просьбу пожертвовать деньги на фронт."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Satirical songs mocking emigrating elites",
+        "uk": "Сатиричні пісні, що висміюють еліти-емігранти",
+        "ru": "Сатирические песни, высмеивающие уехавшие элиты"
+      },
+      "detail": {
+        "en": "Shnurov released songs ridiculing Russian celebrities and elites who left the country after 24 February 2022, portraying them as fearing for their money rather than opposing the war, while also mocking Russian censorship of the word 'war'.",
+        "uk": "Шнуров випустив пісні, що висміюють російських знаменитостей та еліти, які залишили країну після 24 лютого 2022 року, зображуючи їх як таких, що бояться за свої гроші, а не виступають проти війни, і водночас глузував із російської цензури слова «війна».",
+        "ru": "Шнуров выпустил песни, высмеивающие российских знаменитостей и элиты, покинувших страну после 24 февраля 2022 года, изображая их боящимися за свои деньги, а не выступающими против войны, и одновременно насмехался над российской цензурой слова «война»."
+      },
+      "sources": [
+        {"url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html", "publisher": "UNIAN", "date": "2025-08-29"},
+        {"url": "https://www.obozrevatel.com/shou-oboz/otkazalsya-finansirovat-vojnu-lider-leningrada-shnurov-kotoryij-ezdil-na-donbass-zaputal-rossiyan-i-popal-v-chernyij-spisok-kremlya.htm", "publisher": "OBOZ.UA"}
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "title": {
+        "en": "Leningrad releases song praising defense conglomerate Rostec",
+        "uk": "«Ленинград» випускає пісню з вихвалянням оборонного концерну «Ростех»",
+        "ru": "«Ленинград» выпускает песню с восхвалением оборонного концерна «Ростех»"
+      },
+      "detail": {
+        "en": "Leningrad released a song praising Russian state defense conglomerate Rostec amid the war, which critics cited as evidence of alignment with the state.",
+        "uk": "«Ленинград» випустив пісню з вихвалянням російського державного оборонного концерну «Ростех» в умовах війни, що критики наводили як свідчення лояльності до держави.",
+        "ru": "«Ленинград» выпустил песню с восхвалением российского государственного оборонного концерна «Ростех» в условиях войны, что критики приводили как свидетельство лояльности государству."
+      },
+      "sources": [
+        {"url": "https://www.themoscowtimes.com/2023/11/29/russian-rock-group-leningrad-praises-state-defense-conglomerate-in-new-song-a83251", "publisher": "The Moscow Times", "date": "2023-11-29"}
+      ]
+    },
+    {
+      "date": "2025-08",
+      "title": {
+        "en": "Reportedly refuses to donate to the Russian front",
+        "uk": "За повідомленнями, відмовляється жертвувати на російський фронт",
+        "ru": "По сообщениям, отказывается жертвовать на российский фронт"
+      },
+      "detail": {
+        "en": "Pro-war activist Vitaly Borodin claimed Shnurov refused his request to financially support Russian troops; Shnurov deflected, saying soldiers he knows had never heard of Borodin. He continued performing in Russia without stating a position on the war.",
+        "uk": "Провоєнний активіст Віталій Бородін заявив, що Шнуров відмовився на його прохання фінансово підтримати російські війська; Шнуров ухилився від відповіді, сказавши, що знайомі йому солдати ніколи не чули про Бородіна. Він продовжив виступати в Росії, не висловлюючи позиції щодо війни.",
+        "ru": "Провоенный активист Виталий Бородин заявил, что Шнуров отказался на его просьбу финансово поддержать российские войска; Шнуров ушёл от ответа, сказав, что знакомые ему солдаты никогда не слышали о Бородине. Он продолжил выступать в России, не заявляя позиции по войне."
+      },
+      "sources": [
+        {"url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html", "publisher": "UNIAN", "date": "2025-08-29"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09",
+  "disputed": true
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "nk-nastia-kamenskykh",
+  "name": "NK",
+  "nameLocal": "Настя Каменських",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Nastia Kamenskykh (NK), formerly of the Russian-language duo Potap i Nastya, publicly condemned Russia's invasion, telling the Latin American Music Awards audience in April 2022 that 'Russia is committing genocide against Ukrainians'. She has spent much of the full-scale war abroad, building a Spanish-language international career while supporting Ukrainian refugee causes. Her continued marriage to Potap, whose wartime conduct drew heavy criticism in Ukraine, has kept her under public scrutiny.",
+    "uk": "Настя Каменських (NK), колишня учасниця російськомовного дуету «Потап і Настя», публічно засудила вторгнення Росії, заявивши в квітні 2022 року аудиторії Latin American Music Awards, що «Росія чинить геноцид проти українців». Більшу частину повномасштабної війни вона провела за кордоном, розбудовуючи іспаномовну міжнародну кар'єру та водночас підтримуючи ініціативи допомоги українським біженцям. Її шлюб із Потапом, чия поведінка під час війни зазнала гострої критики в Україні, тримає її під пильною увагою громадськості.",
+    "ru": "Настя Каменских (NK), в прошлом участница русскоязычного дуэта «Потап и Настя», публично осудила вторжение России, заявив в апреле 2022 года аудитории Latin American Music Awards, что «Россия совершает геноцид против украинцев». Большую часть полномасштабной войны она провела за границей, выстраивая испаноязычную международную карьеру и при этом поддерживая инициативы помощи украинским беженцам. Ее брак с Потапом, чье поведение во время войны подверглось острой критике в Украине, держит ее под пристальным вниманием общественности."
+  },
+  "timeline": [
+    {
+      "date": "2022-04-21",
+      "stanceAfter": 2,
+      "title": {
+        "en": "'Russia is committing genocide' speech at Latin AMAs",
+        "uk": "Промова «Росія чинить геноцид» на Latin AMAs",
+        "ru": "Речь «Россия совершает геноцид» на Latin AMAs"
+      },
+      "detail": {
+        "en": "In a Spanish-language speech at the 2022 Latin American Music Awards, NK said Russia was committing genocide against Ukrainians, that 'every country has a right to live independently', and asked viewers to donate to Ukraine.",
+        "uk": "В іспаномовній промові на Latin American Music Awards 2022 NK сказала, що Росія чинить геноцид проти українців, що «кожна країна має право жити незалежно», і попросила глядачів донатити на Україну.",
+        "ru": "В испаноязычной речи на Latin American Music Awards 2022 NK сказала, что Россия совершает геноцид против украинцев, что «каждая страна имеет право жить независимо», и попросила зрителей жертвовать в пользу Украины."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/latin/nk-speech-latin-amas-russia-ukraine-1235062245/",
+          "publisher": "Billboard",
+          "date": "2022-04-22"
+        },
+        {
+          "url": "https://nkofficial.com/news/nk-na-latin-american-music-awards-zaklikala-ves-svit-pidtrima-2/",
+          "publisher": "NK official site"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-16",
+      "title": {
+        "en": "Appears in World Unite for Ukraine benefit lineup",
+        "uk": "Бере участь у благодійному концерті World Unite for Ukraine",
+        "ru": "Участвует в благотворительном концерте World Unite for Ukraine"
+      },
+      "detail": {
+        "en": "NK was among the Ukrainian artists featured in the World Unite for Ukraine global streamed benefit for humanitarian relief.",
+        "uk": "NK була серед українських артистів, які взяли участь у глобальному стрімінговому благодійному концерті World Unite for Ukraine на користь гуманітарної допомоги.",
+        "ru": "NK была среди украинских артистов, принявших участие в глобальном стриминговом благотворительном концерте World Unite for Ukraine в пользу гуманитарной помощи."
+      },
+      "sources": [
+        {
+          "url": "https://www.worlduniteforukraine.com/kickoffevent/",
+          "publisher": "World Unite for Ukraine"
+        }
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": {
+        "en": "Lives mostly abroad while directing brand proceeds to refugee support",
+        "uk": "Живе переважно за кордоном, спрямовуючи доходи бренду на підтримку біженців",
+        "ru": "Живет преимущественно за границей, направляя доходы бренда на поддержку беженцев"
+      },
+      "detail": {
+        "en": "Since 2022 NK has lived largely between Riga and Los Angeles, reportedly channeling proceeds from her clothing brand into support for Ukrainian refugees while pursuing a Latin-market career.",
+        "uk": "З 2022 року NK живе здебільшого між Ригою та Лос-Анджелесом; за повідомленнями, вона спрямовує доходи від свого бренду одягу на підтримку українських біженців, розвиваючи кар'єру на латиноамериканському ринку.",
+        "ru": "С 2022 года NK живет в основном между Ригой и Лос-Анджелесом; по сообщениям, она направляет доходы от своего бренда одежды на поддержку украинских беженцев, развивая карьеру на латиноамериканском рынке."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NK_(singer)",
+          "publisher": "Wikipedia"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

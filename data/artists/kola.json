@@ -1,0 +1,50 @@
+{
+  "slug": "kola",
+  "name": "KOLA",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "KOLA (Anastasiia Prudius) is a Ukrainian singer from Kharkiv who has remained active in Ukraine during the war. She released the wartime song 'Ukraino — my syla' dedicated to Ukraine's defenders, tours Ukraine with charity concerts whose proceeds go in part to the Armed Forces and to civilians affected by Russian missile strikes, and has publicly condemned artists who continue performing in Russia.",
+    "uk": "KOLA (Анастасія Прудіус) — українська співачка з Харкова, яка під час війни продовжує активну діяльність в Україні. Вона випустила воєнну пісню «Україно — ми сила», присвячену захисникам України, гастролює Україною з благодійними концертами, частина зборів з яких іде на потреби ЗСУ та цивільних, постраждалих від російських ракетних ударів, і публічно засудила артистів, які продовжують виступати в Росії.",
+    "ru": "KOLA (Анастасия Прудиус) — украинская певица из Харькова, которая во время войны продолжает активную деятельность в Украине. Она выпустила военную песню «Україно — ми сила», посвященную защитникам Украины, гастролирует по Украине с благотворительными концертами, часть сборов с которых идет на нужды ВСУ и гражданских, пострадавших от российских ракетных ударов, и публично осудила артистов, продолжающих выступать в России."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Dedicates song to Ukraine's defenders",
+        "uk": "Присвячує пісню захисникам України",
+        "ru": "Посвящает песню защитникам Украины"
+      },
+      "detail": {
+        "en": "KOLA released 'Ukraino — my syla', dedicating it to those defending Ukraine from Russian aggression and to the women waiting for them.",
+        "uk": "KOLA випустила пісню «Україно — ми сила», присвятивши її тим, хто захищає Україну від російської агресії, та жінкам, які на них чекають.",
+        "ru": "KOLA выпустила песню «Україно — ми сила», посвятив ее тем, кто защищает Украину от российской агрессии, и женщинам, которые их ждут."
+      },
+      "sources": [
+        {"url": "https://suspilne.media/culture/215476-spivacka-kola-prisvatila-pisnu-ludam-aki-boronat-krainu-vid-rosijskoi-agresii/", "publisher": "Suspilne", "date": "2022"}
+      ]
+    },
+    {
+      "date": "2022-12",
+      "title": {
+        "en": "Condemns artists performing in Russia",
+        "uk": "Засуджує артистів, які виступають у Росії",
+        "ru": "Осуждает артистов, выступающих в России"
+      },
+      "detail": {
+        "en": "In an interview KOLA called performing in Russia during the war 'a shame and the bottom', criticizing artists from and in the aggressor country.",
+        "uk": "В інтерв'ю KOLA назвала виступи в Росії під час війни «ганьбою і дном», розкритикувавши артистів із країни-агресора та тих, хто там виступає.",
+        "ru": "В интервью KOLA назвала выступления в России во время войны «позором и дном», раскритиковав артистов из страны-агрессора и тех, кто там выступает."
+      },
+      "sources": [
+        {"url": "https://womanmagazine-npp.com/en/2022/12/21/this-is-a-shame-and-the-bottom-kola-about-a-performance-in-russia-and-artists-from-the-aggressor-country/", "publisher": "Woman Magazine", "date": "2022-12-21"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

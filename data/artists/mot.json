@@ -1,0 +1,80 @@
+{
+  "slug": "mot",
+  "name": "MOT",
+  "nameLocal": "Мот",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -2,
+  "status": "positioned",
+  "flags": ["sanctioned", "performed_in_occupied_territories"],
+  "summary": {
+    "en": "MOT (Matvey Melnikov) is a Russian rapper who supported the full-scale invasion: at its start he published since-deleted social media posts about a 'leader' and 'neo-Nazis' echoing Russian state framing, and Ukrainian colleagues cut ties with him. He has performed multiple times in annexed Crimea. In October 2022 Ukraine imposed personal sanctions on him. He continues an active concert career in Russia and has also performed in Kazakhstan.",
+    "uk": "MOT (Матвій Мельников) — російський репер, який підтримав повномасштабне вторгнення: на його початку він опублікував згодом видалені дописи в соцмережах про «лідера» та «неонацистів», що повторювали російську державну риторику, і українські колеги розірвали з ним стосунки. Він неодноразово виступав в анексованому Криму. У жовтні 2022 року Україна запровадила проти нього персональні санкції. Він продовжує активну концертну кар'єру в Росії, а також виступав у Казахстані.",
+    "ru": "MOT (Матвей Мельников) — российский рэпер, поддержавший полномасштабное вторжение: в его начале он опубликовал впоследствии удаленные посты в соцсетях о «лидере» и «неонацистах», повторявшие российскую государственную риторику, и украинские коллеги разорвали с ним отношения. Он неоднократно выступал в аннексированном Крыму. В октябре 2022 года Украина ввела против него персональные санкции. Он продолжает активную концертную карьеру в России, а также выступал в Казахстане."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": -2,
+      "title": {
+        "en": "Posts supporting invasion framing",
+        "uk": "Дописи на підтримку риторики вторгнення",
+        "ru": "Посты в поддержку риторики вторжения"
+      },
+      "detail": {
+        "en": "At the start of the full-scale invasion MOT published social media posts referencing a 'leader' and 'neo-Nazis' in line with Russian state narratives; the posts were later deleted, and Ukrainian colleagues ended contact with him.",
+        "uk": "На початку повномасштабного вторгнення MOT опублікував у соцмережах дописи зі згадками про «лідера» та «неонацистів» у дусі російських державних наративів; згодом дописи було видалено, а українські колеги припинили з ним контакти.",
+        "ru": "В начале полномасштабного вторжения MOT опубликовал в соцсетях посты с упоминаниями «лидера» и «неонацистов» в духе российских государственных нарративов; позже посты были удалены, а украинские коллеги прекратили с ним контакты."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/mot",
+          "publisher": "Stars About War (Ukraine)"
+        }
+      ]
+    },
+    {
+      "date": "2022-10",
+      "title": {
+        "en": "Ukraine imposes personal sanctions",
+        "uk": "Україна запроваджує персональні санкції",
+        "ru": "Украина вводит персональные санкции"
+      },
+      "detail": {
+        "en": "In October 2022 Ukraine imposed personal sanctions against MOT, citing his support for the war and his performances in annexed Crimea.",
+        "uk": "У жовтні 2022 року Україна запровадила персональні санкції проти MOT, посилаючись на його підтримку війни та виступи в анексованому Криму.",
+        "ru": "В октябре 2022 года Украина ввела персональные санкции против MOT, сославшись на его поддержку войны и выступления в аннексированном Крыму."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/mot",
+          "publisher": "Stars About War (Ukraine)"
+        },
+        {
+          "url": "https://aktobetimes.kz/novosti/10871-popavshij-pod-sankcii-rjeper-iz-rossii-vystupit-v-aktobe.html",
+          "publisher": "Aktobe Times (Kazakhstan)"
+        }
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": {
+        "en": "Continues large concerts in Russia",
+        "uk": "Продовжує великі концерти в Росії",
+        "ru": "Продолжает крупные концерты в России"
+      },
+      "detail": {
+        "en": "MOT maintained an active concert career in Russia; Ukrainian outlet UNIAN, covering a shooting incident at his Moscow concert, described him as a 'Putinist'.",
+        "uk": "MOT продовжував активну концертну кар'єру в Росії; українське видання УНІАН, висвітлюючи інцидент зі стріляниною на його московському концерті, назвало його «путіністом».",
+        "ru": "MOT продолжал активную концертную карьеру в России; украинское издание УНИАН, освещая инцидент со стрельбой на его московском концерте, назвало его «путинистом»."
+      },
+      "sources": [
+        {
+          "url": "https://www.unian.net/lite/stars/v-moskve-na-koncerte-putinista-mota-nachalas-strelba-12151932.html",
+          "publisher": "UNIAN (Ukraine)"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

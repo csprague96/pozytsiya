@@ -1,0 +1,100 @@
+{
+  "slug": "olya-polyakova",
+  "name": "Olya Polyakova",
+  "nameLocal": "Оля Полякова",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Olya Polyakova, who sang mostly in Russian before 2022 (her last Russian performance was in 2015), condemned the full-scale invasion, called on Russians to protest, and re-recorded her hits in Ukrainian. She has fundraised for Ukraine's military and war-wounded via UNITED24 and rehabilitation charities. In 2025 she publicly challenged Ukraine's Eurovision national-selection rule barring artists who performed in Russia after March 2014, and in 2026 faced criticism over a video with a Russian artist in Latvia.",
+    "uk": "Оля Полякова, яка до 2022 року співала переважно російською (останній виступ у Росії — 2015 рік), засудила повномасштабне вторгнення, закликала росіян протестувати та перезаписала свої хіти українською. Вона збирала кошти для українських військових і поранених через UNITED24 та реабілітаційні благодійні організації. У 2025 році вона публічно оскаржила правило українського нацвідбору на Євробачення, що не допускає артистів, які виступали в Росії після березня 2014 року, а у 2026 році зазнала критики через відео з російським артистом у Латвії.",
+    "ru": "Оля Полякова, которая до 2022 года пела преимущественно на русском (последнее выступление в России — 2015 год), осудила полномасштабное вторжение, призвала россиян протестовать и перезаписала свои хиты на украинском. Она собирала средства для украинских военных и раненых через UNITED24 и реабилитационные благотворительные организации. В 2025 году она публично оспорила правило украинского нацотбора на Евровидение, не допускающее артистов, выступавших в России после марта 2014 года, а в 2026 году подверглась критике из-за видео с российским артистом в Латвии."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Condemns invasion and urges Russians to protest",
+        "uk": "Засуджує вторгнення та закликає росіян протестувати",
+        "ru": "Осуждает вторжение и призывает россиян протестовать"
+      },
+      "detail": {
+        "en": "In early March 2022 Polyakova urged Russians to join anti-war rallies and said Ukrainians should remove 'any reason to associate Russians with Ukrainians, even my hits in Russian'.",
+        "uk": "На початку березня 2022 року Полякова закликала росіян долучатися до антивоєнних мітингів і сказала, що українцям слід прибрати «будь-який привід асоціювати росіян з українцями, навіть мої хіти російською».",
+        "ru": "В начале марта 2022 года Полякова призвала россиян присоединяться к антивоенным митингам и сказала, что украинцам следует убрать «любой повод ассоциировать россиян с украинцами, даже мои хиты на русском»."
+      },
+      "sources": [
+        {"url": "https://myukraineis.org/people/singer_olya_polyakova_we_need_to_remove_any_reason_to_associate_russians_with_ukrainians_even_my_hits_in_russian-149.html", "publisher": "My Ukraine Is"}
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Ambassador of 'Childhood Without War' project",
+        "uk": "Амбасадорка проєкту «Дитинство без війни»",
+        "ru": "Амбассадор проекта «Детство без войны»"
+      },
+      "detail": {
+        "en": "Polyakova became the first ambassador of a charity project evacuating orphaned children from the war zone; she later fronted a campaign that raised over 2 million UAH for bionic prostheses via the Unbroken rehabilitation center.",
+        "uk": "Полякова стала першою амбасадоркою благодійного проєкту з евакуації дітей-сиріт із зони бойових дій; згодом вона очолила кампанію, що зібрала понад 2 мільйони гривень на біонічні протези через реабілітаційний центр Unbroken.",
+        "ru": "Полякова стала первым амбассадором благотворительного проекта по эвакуации детей-сирот из зоны боевых действий; позже она возглавила кампанию, собравшую более 2 миллионов гривен на бионические протезы через реабилитационный центр Unbroken."
+      },
+      "sources": [
+        {"url": "https://womanmagazine-npp.com/en/2022/11/29/olya-polyakova-became-the-ambassador-of-the-project-childhood-without-war/", "publisher": "Woman Magazine", "date": "2022-11-29"}
+      ]
+    },
+    {
+      "date": "2023-04",
+      "title": {
+        "en": "US fundraising tour with UNITED24",
+        "uk": "Тур США зі збору коштів у партнерстві з UNITED24",
+        "ru": "Тур по США по сбору средств в партнерстве с UNITED24"
+      },
+      "detail": {
+        "en": "Polyakova toured multiple US cities raising money for humanitarian and military aid to Ukraine in partnership with the presidential UNITED24 initiative.",
+        "uk": "Полякова відвідала з концертами низку міст США, збираючи кошти на гуманітарну та військову допомогу Україні у партнерстві з президентською ініціативою UNITED24.",
+        "ru": "Полякова посетила с концертами ряд городов США, собирая средства на гуманитарную и военную помощь Украине в партнерстве с президентской инициативой UNITED24."
+      },
+      "sources": [
+        {"url": "https://edition.mv/report/24780", "publisher": "The Edition (Maldives)"}
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "title": {
+        "en": "Team complains to EBU over Vidbir 2026 eligibility rule",
+        "uk": "Команда скаржиться до EBU на правила допуску Нацвідбору-2026",
+        "ru": "Команда жалуется в EBU на правила допуска Нацотбора-2026"
+      },
+      "detail": {
+        "en": "Her management appealed to the EBU against the Ukrainian national-selection rule excluding artists who performed in Russia or Crimea after 15 March 2014; Polyakova last performed in Russia in 2015, making her ineligible. Suspilne declined to change the rules.",
+        "uk": "Її менеджмент звернувся до EBU зі скаргою на правило українського нацвідбору, що виключає артистів, які виступали в Росії чи Криму після 15 березня 2014 року; Полякова востаннє виступала в Росії у 2015 році, що робить її недопущеною. Суспільне відмовилося змінювати правила.",
+        "ru": "Ее менеджмент обратился в EBU с жалобой на правило украинского нацотбора, исключающее артистов, выступавших в России или Крыму после 15 марта 2014 года; Полякова в последний раз выступала в России в 2015 году, что делает ее недопущенной. Суспильне отказалось менять правила."
+      },
+      "sources": [
+        {"url": "https://eurovoix.com/2025/10/23/ukraine-singers-management-team-appeals-to-ebu-over-vidbir-2026-rules/", "publisher": "Eurovoix", "date": "2025-10-23"},
+        {"url": "https://unn.ua/en/news/olya-polyakovas-management-complains-to-ebu-about-the-rules-of-the-national-selection-for-eurovision-2026", "publisher": "UNN"}
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": {
+        "en": "Criticized over video with Russian artist in Latvia",
+        "uk": "Критика через відео з російським артистом у Латвії",
+        "ru": "Критика из-за видео с российским артистом в Латвии"
+      },
+      "detail": {
+        "en": "A video from the Laima Rendezvous Jurmala festival showing Polyakova alongside Russian musician Grey Wiese (Sergey Grigoryev-Apollonov) drew criticism from Ukrainians; the clip was deleted and she initially did not comment.",
+        "uk": "Відео з фестивалю Laima Rendezvous Jurmala, на якому Полякова з'явилася поряд із російським музикантом Grey Wiese (Сергієм Григор'євим-Аполлоновим), викликало критику українців; ролик видалили, і спершу вона не коментувала ситуацію.",
+        "ru": "Видео с фестиваля Laima Rendezvous Jurmala, на котором Полякова появилась рядом с российским музыкантом Grey Wiese (Сергеем Григорьевым-Аполлоновым), вызвало критику украинцев; ролик удалили, и поначалу она не комментировала ситуацию."
+      },
+      "sources": [
+        {"url": "https://ua.news/en/znamenitosti/olia-poliakova-potrapila-u-skandal-cherez-video-z-rosiianinom-u-latviyi", "publisher": "UA.News"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

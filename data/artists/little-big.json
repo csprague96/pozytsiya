@@ -1,0 +1,86 @@
+{
+  "slug": "little-big",
+  "name": "Little Big",
+  "nameLocal": "Литл Биг",
+  "country": "ru",
+  "basedIn": "us",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": ["left_russia"],
+  "summary": {
+    "en": "Punk-rave band Little Big posted 'No war' on social media on 24 February 2022 and, after receiving an anonymous threatening call demanding they delete it, left Russia for Los Angeles in March 2022. In June 2022 they released 'Generation Cancellation', which they described as an anti-war manifesto, announcing their relocation. Frontman Ilya Prusikin said the band opposes the war in Ukraine and left because of Russia's military propaganda.",
+    "uk": "Панк-рейв-гурт Little Big 24 лютого 2022 року опублікував у соцмережах допис «Ні війні», а після анонімного дзвінка з погрозами та вимогою видалити його в березні 2022 року виїхав з Росії до Лос-Анджелеса. У червні 2022 року гурт випустив «Generation Cancellation», який назвав антивоєнним маніфестом, оголосивши про свій переїзд. Фронтмен Ілля Прусікін заявив, що гурт виступає проти війни в Україні та поїхав через російську воєнну пропаганду.",
+    "ru": "Панк-рейв-группа Little Big 24 февраля 2022 года опубликовала в соцсетях пост «Нет войне», а после анонимного звонка с угрозами и требованием удалить его в марте 2022 года уехала из России в Лос-Анджелес. В июне 2022 года группа выпустила «Generation Cancellation», который назвала антивоенным манифестом, объявив о своём переезде. Фронтмен Илья Прусикин заявил, что группа выступает против войны в Украине и уехала из-за российской военной пропаганды."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Posts 'No war' on day of invasion",
+        "uk": "Публікує «Ні війні» в день вторгнення",
+        "ru": "Публикует «Нет войне» в день вторжения"
+      },
+      "detail": {
+        "en": "The band posted 'No war' on social media on the day of the invasion; hours later an anonymous caller ordered them to take it down.",
+        "uk": "У день вторгнення гурт опублікував у соцмережах допис «Ні війні»; за кілька годин анонімний абонент зажадав його видалити.",
+        "ru": "В день вторжения группа опубликовала в соцсетях пост «Нет войне»; спустя несколько часов анонимный звонивший потребовал его удалить."
+      },
+      "sources": [
+        {
+          "url": "https://www.newsweek.com/russia-eurovision-little-big-ukraine-anti-war-1718901",
+          "publisher": "Newsweek",
+          "date": "2022-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Leaves Russia for Los Angeles",
+        "uk": "Виїжджає з Росії до Лос-Анджелеса",
+        "ru": "Уезжает из России в Лос-Анджелес"
+      },
+      "detail": {
+        "en": "The band relocated from Russia to Los Angeles, citing the war and Russian military propaganda.",
+        "uk": "Гурт переїхав з Росії до Лос-Анджелеса, пояснивши це війною та російською воєнною пропагандою.",
+        "ru": "Группа переехала из России в Лос-Анджелес, объяснив это войной и российской военной пропагандой."
+      },
+      "sources": [
+        {
+          "url": "https://www.rferl.org/a/little-big-band-leaves-russia/31913654.html",
+          "publisher": "RFE/RL",
+          "date": "2022-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-24",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Releases anti-war single 'Generation Cancellation'",
+        "uk": "Випускає антивоєнний сингл «Generation Cancellation»",
+        "ru": "Выпускает антивоенный сингл «Generation Cancellation»"
+      },
+      "detail": {
+        "en": "Little Big released the English-language single and video 'Generation Cancellation', described by the band as an anti-war manifesto, and publicly announced they had left Russia in opposition to the war in Ukraine.",
+        "uk": "Little Big випустив англомовний сингл і кліп «Generation Cancellation», який гурт назвав антивоєнним маніфестом, і публічно оголосив, що залишив Росію на знак незгоди з війною в Україні.",
+        "ru": "Little Big выпустила англоязычный сингл и клип «Generation Cancellation», который группа назвала антивоенным манифестом, и публично объявила, что покинула Россию в знак несогласия с войной в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.rferl.org/a/little-big-band-leaves-russia/31913654.html",
+          "publisher": "RFE/RL",
+          "date": "2022-06"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Generation_Cancellation",
+          "publisher": "Wikipedia",
+          "date": "2022-06-24"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

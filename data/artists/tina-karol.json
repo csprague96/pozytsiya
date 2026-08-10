@@ -1,0 +1,84 @@
+{
+  "slug": "tina-karol",
+  "name": "Tina Karol",
+  "nameLocal": "Тіна Кароль",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Tina Karol, one of Ukraine's biggest pop stars, has campaigned internationally for Ukraine since February 2022, performing benefit concerts across Europe, Israel, Japan and North America. Her charitable foundation has funded medicine for hospitals, aid for children, and direct support to the Armed Forces of Ukraine, including vehicles and equipment; she has also performed for troops near the front line.",
+    "uk": "Тіна Кароль, одна з найбільших поп-зірок України, з лютого 2022 року веде міжнародну кампанію на підтримку України, даючи благодійні концерти в Європі, Ізраїлі, Японії та Північній Америці. Її благодійний фонд фінансував ліки для лікарень, допомогу дітям і пряму підтримку ЗСУ, зокрема транспорт і спорядження; вона також виступала для військових поблизу лінії фронту.",
+    "ru": "Тина Кароль, одна из крупнейших поп-звезд Украины, с февраля 2022 года ведет международную кампанию в поддержку Украины, давая благотворительные концерты в Европе, Израиле, Японии и Северной Америке. Ее благотворительный фонд финансировал лекарства для больниц, помощь детям и прямую поддержку Вооруженных сил Украины, включая транспорт и снаряжение; она также выступала для военных вблизи линии фронта."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-26",
+      "stanceAfter": 3,
+      "title": {
+        "en": "'Unite for Ukraine' benefit concert in Tel Aviv",
+        "uk": "Благодійний концерт «Unite for Ukraine» у Тель-Авіві",
+        "ru": "Благотворительный концерт «Unite for Ukraine» в Тель-Авиве"
+      },
+      "detail": {
+        "en": "Karol raised 2 million hryvnias for medicines for a hospital in Dnipro at a charity concert in Tel Aviv, one of a series of fundraising appearances across Europe and Israel in the first weeks of the invasion.",
+        "uk": "На благодійному концерті в Тель-Авіві Кароль зібрала 2 мільйони гривень на ліки для лікарні у Дніпрі — це один із серії благодійних виступів у Європі та Ізраїлі в перші тижні вторгнення.",
+        "ru": "На благотворительном концерте в Тель-Авиве Кароль собрала 2 миллиона гривен на лекарства для больницы в Днепре — это одно из серии благотворительных выступлений в Европе и Израиле в первые недели вторжения."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+      ]
+    },
+    {
+      "date": "2022-05-10",
+      "title": {
+        "en": "Advocacy visit to Japan highlighting the humanitarian crisis",
+        "uk": "Адвокаційний візит до Японії з акцентом на гуманітарній кризі",
+        "ru": "Адвокационный визит в Японию с акцентом на гуманитарном кризисе"
+      },
+      "detail": {
+        "en": "Karol made a surprise visit to Japan hosted by Rakuten to draw attention to the plight of Ukrainians, urging the world to 'never let this happen again'.",
+        "uk": "Кароль здійснила несподіваний візит до Японії на запрошення Rakuten, щоб привернути увагу до становища українців, закликавши світ «ніколи не допустити, щоб це повторилося».",
+        "ru": "Кароль совершила неожиданный визит в Японию по приглашению Rakuten, чтобы привлечь внимание к положению украинцев, призвав мир «никогда не допустить, чтобы это повторилось»."
+      },
+      "sources": [
+        {"url": "https://global.rakuten.com/corp/news/update/2022/0510_03.html", "publisher": "Rakuten Group", "date": "2022-05-10"},
+        {"url": "https://rakuten.today/blog/never-let-this-happen-again-tina-karol-message-to-world.html", "publisher": "Rakuten Today"}
+      ]
+    },
+    {
+      "date": "2022-08-28",
+      "title": {
+        "en": "Concert for Armed Forces personnel at a military base",
+        "uk": "Концерт для військовослужбовців ЗСУ на військовій базі",
+        "ru": "Концерт для военнослужащих ВСУ на военной базе"
+      },
+      "detail": {
+        "en": "Karol delivered an unpublicized concert for Armed Forces of Ukraine personnel; her foundation has purchased a vehicle for a reconnaissance group and waterproof uniforms for border units.",
+        "uk": "Кароль дала неанонсований концерт для військовослужбовців ЗСУ; її фонд придбав автомобіль для розвідувальної групи та водонепроникну форму для прикордонних підрозділів.",
+        "ru": "Кароль дала неанонсированный концерт для военнослужащих Вооруженных сил Украины; ее фонд приобрел автомобиль для разведывательной группы и водонепроницаемую форму для пограничных подразделений."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+      ]
+    },
+    {
+      "date": "2022-07-31",
+      "title": {
+        "en": "'Voice of Peace' concert in Almaty, Kazakhstan",
+        "uk": "Концерт «Voice of Peace» в Алмати, Казахстан",
+        "ru": "Концерт «Voice of Peace» в Алматы, Казахстан"
+      },
+      "detail": {
+        "en": "An anti-war concert of Ukrainian and Kazakh artists raised $50,000, transferred to Karol's foundation for humanitarian aid to Ukrainian children and children's oncology hospitals.",
+        "uk": "Антивоєнний концерт українських і казахських артистів зібрав 50 000 доларів, які передали фонду Кароль на гуманітарну допомогу українським дітям і дитячим онкологічним лікарням.",
+        "ru": "Антивоенный концерт украинских и казахских артистов собрал 50 000 долларов, которые передали фонду Кароль на гуманитарную помощь украинским детям и детским онкологическим больницам."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

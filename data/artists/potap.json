@@ -1,0 +1,108 @@
+{
+  "slug": "potap",
+  "name": "Potap",
+  "nameLocal": "Потап",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "Oleksiy Potapenko (Potap), rapper-producer and half of the formerly Russia-popular duo Potap i Nastya, left Ukraine for Spain days before the full-scale invasion and has not returned permanently. He initially voiced support for Ukraine, but from 2025 rebranded himself abroad as 'Slavik Balagan', said he no longer represents Ukraine, resumed using Russian publicly, and gave a long interview to Russian blogger Yuri Dud — moves widely condemned in Ukraine, with some calls to strip his citizenship. He has not endorsed Russia's invasion.",
+    "uk": "Олексій Потапенко (Потап), репер і продюсер, учасник колись популярного в Росії дуету «Потап і Настя», виїхав з України до Іспанії за кілька днів до повномасштабного вторгнення та остаточно не повернувся. Спочатку він висловлював підтримку Україні, але з 2025 року ребрендувався за кордоном як «Славік Балаган», заявив, що більше не представляє Україну, знову почав публічно послуговуватися російською та дав велике інтерв'ю російському блогеру Юрію Дудю — кроки, які в Україні широко засудили, зокрема з закликами позбавити його громадянства. Вторгнення Росії він не підтримував.",
+    "ru": "Алексей Потапенко (Потап), рэпер и продюсер, участник некогда популярного в России дуэта «Потап и Настя», уехал из Украины в Испанию за несколько дней до полномасштабного вторжения и окончательно не вернулся. Сначала он выражал поддержку Украине, но с 2025 года провёл за рубежом ребрендинг под именем «Славик Балаган», заявил, что больше не представляет Украину, вновь начал публично говорить по-русски и дал длинное интервью российскому блогеру Юрию Дудю — шаги, широко осуждённые в Украине, вплоть до призывов лишить его гражданства. Вторжение России он не поддерживал."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "title": {
+        "en": "Leaves Ukraine shortly before the invasion",
+        "uk": "Виїжджає з України незадовго до вторгнення",
+        "ru": "Уезжает из Украины незадолго до вторжения"
+      },
+      "detail": {
+        "en": "Potap and Kamenskykh departed for Spain days before 24 February 2022; Potap later said he left legally with official permission and cited advice from then-commander-in-chief Zaluzhnyi. His prolonged absence drew persistent criticism in Ukraine.",
+        "uk": "Потап і Каменських виїхали до Іспанії за кілька днів до 24 лютого 2022 року; згодом Потап заявив, що виїхав легально з офіційним дозволом, і посилався на пораду тодішнього головнокомандувача Залужного. Його тривала відсутність викликала постійну критику в Україні.",
+        "ru": "Потап и Каменских уехали в Испанию за несколько дней до 24 февраля 2022 года; позже Потап заявил, что выехал легально с официальным разрешением, и сослался на совет тогдашнего главнокомандующего Залужного. Его длительное отсутствие вызывало постоянную критику в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://ukranews.com/en/news/1063689-potap-tells-how-he-went-abroad-and-what-instructions-zaluzhnyi-gave-him",
+          "publisher": "Ukrainian News Agency",
+          "date": "2025-02"
+        },
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-i-have-a-legal-way-potap-tells-how-he-left-ukraine-for-the-first-time-and-what-fatherly-advice-he-received-from-zaluzhnyi-10-02-2025.html",
+          "publisher": "Obozrevatel",
+          "date": "2025-02-10"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "stanceAfter": null,
+      "title": {
+        "en": "Rebrands as 'Slavik Balagan', says he no longer represents Ukraine",
+        "uk": "Ребрендинг у «Славіка Балагана»: заявляє, що більше не представляє Україну",
+        "ru": "Ребрендинг в «Славика Балагана»: заявляет, что больше не представляет Украину"
+      },
+      "detail": {
+        "en": "Potap announced a new stage persona, 'Slavik Balagan', releasing a first song dedicated to Donald Trump and framing himself as an 'Eastern European' rather than Ukrainian artist, saying there was 'nothing left for Ukraine'.",
+        "uk": "Потап оголосив про новий сценічний образ «Славік Балаган», випустивши першу пісню, присвячену Дональду Трампу, та позиціонуючи себе як «східноєвропейського», а не українського артиста, сказавши, що «для України нічого не залишилося».",
+        "ru": "Потап объявил о новом сценическом образе «Славик Балаган», выпустив первую песню, посвящённую Дональду Трампу, и позиционируя себя как «восточноевропейского», а не украинского артиста, заявив, что «для Украины ничего не осталось»."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-potap-released-his-first-song-under-a-new-name-which-he-dedicated-to-trump-kim-jong-un-elon-musk-and-charles-iii-starred-in-the-video-21-01-2025.html",
+          "publisher": "Obozrevatel",
+          "date": "2025-01-21"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-30",
+      "title": {
+        "en": "Announces Israel concert in Russian, sings Russian songs at parties",
+        "uk": "Анонсує концерт в Ізраїлі російською та співає російські пісні на вечірках",
+        "ru": "Анонсирует концерт в Израиле на русском и поёт русские песни на вечеринках"
+      },
+      "detail": {
+        "en": "Potap announced concerts in Russian and was filmed entertaining guests with Russian-language songs abroad, prompting a wave of criticism from Ukrainians, including demands to revoke his citizenship.",
+        "uk": "Потап анонсував концерти російською мовою, а також потрапив на відео, розважаючи гостей російськомовними піснями за кордоном, що викликало хвилю критики з боку українців, зокрема вимоги позбавити його громадянства.",
+        "ru": "Потап анонсировал концерты на русском языке, а также попал на видео, развлекая гостей русскоязычными песнями за границей, что вызвало волну критики со стороны украинцев, включая требования лишить его гражданства."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-potap-unexpectedly-spoke-russian-and-announced-a-concert-in-israel-ukrainians-responded-to-him-30-01-2025.html",
+          "publisher": "Obozrevatel",
+          "date": "2025-01-30"
+        },
+        {
+          "url": "https://unn.ua/en/news/potap-offered-vodka-to-passers-by-in-valencia-ukrainians-demand-to-be-deprived-of-citizenship",
+          "publisher": "UNN"
+        }
+      ]
+    },
+    {
+      "date": "2025-02",
+      "title": {
+        "en": "Three-hour interview with Russian blogger Yuri Dud",
+        "uk": "Тригодинне інтерв'ю російському блогеру Юрію Дудю",
+        "ru": "Трёхчасовое интервью российскому блогеру Юрию Дудю"
+      },
+      "detail": {
+        "en": "Potap gave a 3+ hour interview to Russian opposition journalist Yuri Dud, which many Ukrainians considered inappropriate during the full-scale war; his refusal to criticize President Zelensky in it also drew attention.",
+        "uk": "Потап дав понад тригодинне інтерв'ю російському опозиційному журналісту Юрію Дудю, що багато українців вважали недоречним під час повномасштабної війни; увагу також привернула його відмова критикувати президента Зеленського.",
+        "ru": "Потап дал более чем трёхчасовое интервью российскому оппозиционному журналисту Юрию Дудю, что многие украинцы сочли неуместным во время полномасштабной войны; внимание также привлёк его отказ критиковать президента Зеленского."
+      },
+      "sources": [
+        {
+          "url": "https://baltimorechronicle.com/raznoe/2025/02/10/why-potap-does-not-criticize-president-zelensky-dudys-response-that-has-stirred-up-the-network/",
+          "publisher": "Baltimore Chronicle",
+          "date": "2025-02-10"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

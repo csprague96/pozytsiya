@@ -1,0 +1,67 @@
+{
+  "slug": "volodymyr-dantes",
+  "name": "Volodymyr Dantes",
+  "nameLocal": "Володимир Дантес",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Ukrainian singer and TV host. Since the start of the full-scale invasion he has volunteered, helping both the military and civilians affected by Russian aggression, switched to performing exclusively in Ukrainian, and toured abroad with charity concerts. In 2022-2023 he hosted the show 'Mama, ya hanyayu tachky', delivering vehicles from Europe to the Ukrainian military.",
+    "uk": "Український співак і телеведучий. Від початку повномасштабного вторгнення займається волонтерством, допомагаючи як військовим, так і цивільним, постраждалим від російської агресії, перейшов на виступи виключно українською мовою та гастролює за кордоном із благодійними концертами. У 2022–2023 роках вів шоу «Мама, я ганяю тачки», доставляючи автомобілі з Європи для українських військових.",
+    "ru": "Украинский певец и телеведущий. С начала полномасштабного вторжения занимается волонтёрством, помогая как военным, так и гражданским, пострадавшим от российской агрессии, перешёл на выступления исключительно на украинском языке и гастролирует за рубежом с благотворительными концертами. В 2022–2023 годах вёл шоу «Мама, я ганяю тачки», доставляя автомобили из Европы для украинских военных."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Began volunteering and switched to Ukrainian-language performing",
+        "uk": "Почав волонтерити та перейшов на українську мову у виступах",
+        "ru": "Начал волонтёрить и перешёл на украинский язык в выступлениях"
+      },
+      "detail": {
+        "en": "After February 2022 Dantes joined volunteer activities helping the military and civilians affected by Russian aggression and began performing exclusively in Ukrainian, touring abroad with charity concerts.",
+        "uk": "Після лютого 2022 року Дантес долучився до волонтерської діяльності, допомагаючи військовим і цивільним, постраждалим від російської агресії, та почав виступати виключно українською, гастролюючи за кордоном із благодійними концертами.",
+        "ru": "После февраля 2022 года Дантес присоединился к волонтёрской деятельности, помогая военным и гражданским, пострадавшим от российской агрессии, и начал выступать исключительно на украинском языке, гастролируя за рубежом с благотворительными концертами."
+      },
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes", "publisher": "Wikipedia" }
+      ]
+    },
+    {
+      "date": "2022-11-13",
+      "title": {
+        "en": "Interview on wartime priorities and donations",
+        "uk": "Інтерв'ю про пріоритети воєнного часу та донати",
+        "ru": "Интервью о приоритетах военного времени и донатах"
+      },
+      "detail": {
+        "en": "In an interview Dantes discussed wartime stress and said personal matters were secondary to victory, urging Ukrainians to donate and stressing that he volunteers without publicizing it.",
+        "uk": "В інтерв'ю Дантес говорив про стрес воєнного часу і сказав, що особисті справи є другорядними порівняно з перемогою, закликав українців донатити та наголосив, що волонтерить без розголосу.",
+        "ru": "В интервью Дантес говорил о стрессе военного времени и сказал, что личные дела вторичны по сравнению с победой, призвал украинцев донатить и подчеркнул, что занимается волонтёрством без огласки."
+      },
+      "sources": [
+        { "url": "https://womanmagazine-npp.com/en/2022/11/13/volodymyr-dantes-about-stress-during-the-war-and-divorce-from-dorofeeva/", "publisher": "Woman Magazine", "date": "2022-11-13" }
+      ]
+    },
+    {
+      "date": "2023-01",
+      "title": {
+        "en": "Hosted show delivering cars for the military",
+        "uk": "Вів шоу з доставки автомобілів для військових",
+        "ru": "Вёл шоу по доставке автомобилей для военных"
+      },
+      "detail": {
+        "en": "In 2022-2023 Dantes hosted the travel show 'Mama, ya hanyayu tachky', delivering vehicles from Europe to Ukraine for the military and profiling volunteer initiatives.",
+        "uk": "У 2022–2023 роках Дантес вів тревел-шоу «Мама, я ганяю тачки», доставляючи автомобілі з Європи в Україну для військових і розповідаючи про волонтерські ініціативи.",
+        "ru": "В 2022–2023 годах Дантес вёл тревел-шоу «Мама, я ганяю тачки», доставляя автомобили из Европы в Украину для военных и рассказывая о волонтёрских инициативах."
+      },
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes", "publisher": "Wikipedia" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

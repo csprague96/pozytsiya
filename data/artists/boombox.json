@@ -1,0 +1,87 @@
+{
+  "slug": "boombox",
+  "name": "BoomBox",
+  "nameLocal": "Бумбокс",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Ukrainian band BoomBox is fronted by Andriy Khlyvniuk, who abandoned the band's US tour when the full-scale invasion began and joined Kyiv's territorial defence. His a cappella rendition of the patriotic march 'Oi u luzi chervona kalyna', filmed in uniform on Kyiv's Sofiyska Square, went viral and became the basis of Pink Floyd's Ukraine fundraiser single 'Hey, Hey, Rise Up!' (April 2022). In March 2022 Khlyvniuk was lightly wounded in the face by mortar shrapnel while serving.",
+    "uk": "Фронтмен українського гурту «Бумбокс» Андрій Хливнюк перервав американський тур гурту з початком повномасштабного вторгнення та приєднався до тероборони Києва. Його акапельне виконання патріотичного маршу «Ой у лузі червона калина», зняте у військовій формі на Софійській площі в Києві, стало вірусним і лягло в основу благодійного синглу Pink Floyd на підтримку України «Hey, Hey, Rise Up!» (квітень 2022 року). У березні 2022 року Хливнюк, перебуваючи на службі, отримав легке осколкове поранення обличчя внаслідок мінометного обстрілу.",
+    "ru": "Фронтмен украинской группы «Бумбокс» Андрей Хлывнюк прервал американский тур группы с началом полномасштабного вторжения и присоединился к территориальной обороне Киева. Его исполнение а капелла патриотического марша «Ой у лузі червона калина», снятое в военной форме на Софийской площади в Киеве, стало вирусным и легло в основу благотворительного сингла Pink Floyd в поддержку Украины «Hey, Hey, Rise Up!» (апрель 2022 года). В марте 2022 года Хлывнюк, находясь на службе, получил лёгкое осколочное ранение лица в результате миномётного обстрела."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Khlyvniuk leaves US tour, joins territorial defence",
+        "uk": "Хливнюк перериває тур США та вступає до тероборони",
+        "ru": "Хлывнюк прерывает тур по США и вступает в тероборону Киева"
+      },
+      "detail": {
+        "en": "At the start of the full-scale invasion Khlyvniuk left BoomBox's American tour, returned to Ukraine and joined Kyiv's territorial defence; he filmed himself in military gear singing 'The Red Viburnum in the Meadow' ('Oi u luzi chervona kalyna') on Kyiv's Sofiyska Square, a video that went viral worldwide.",
+        "uk": "На початку повномасштабного вторгнення Хливнюк залишив американський тур «Бумбокса», повернувся в Україну та приєднався до тероборони Києва; він зняв себе у військовому спорядженні, виконуючи «Ой у лузі червона калина» на Софійській площі в Києві, — відео стало вірусним у всьому світі.",
+        "ru": "В начале полномасштабного вторжения Хлывнюк оставил американский тур «Бумбокса», вернулся в Украину и присоединился к территориальной обороне Киева; он снял себя в военном снаряжении, исполняя «Ой у лузі червона калина» на Софийской площади в Киеве, — видео стало вирусным во всём мире."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hey,_Hey,_Rise_Up!",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/pink-floyd-hey-hey-rise-up-1334338/",
+          "publisher": "Rolling Stone",
+          "date": "2022-04-07"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-26",
+      "title": {
+        "en": "Wounded by mortar fire while serving",
+        "uk": "Поранений унаслідок мінометного обстрілу під час служби",
+        "ru": "Ранен в результате миномётного обстрела во время службы"
+      },
+      "detail": {
+        "en": "Khlyvniuk's unit came under mortar fire and he received a light shrapnel wound to the face; he had been serving in Kyiv's territorial defence since the first days of the war.",
+        "uk": "Підрозділ Хливнюка потрапив під мінометний обстріл, і він отримав легке осколкове поранення обличчя; він служив у теробороні Києва з перших днів війни.",
+        "ru": "Подразделение Хлывнюка попало под миномётный обстрел, и он получил лёгкое осколочное ранение лица; он служил в территориальной обороне Киева с первых дней войны."
+      },
+      "sources": [
+        {
+          "url": "https://ukranews.com/en/news/844342-boombox-band-lead-singer-khlyvniuk-wounded-by-mortar-fire",
+          "publisher": "Ukranews",
+          "date": "2022-03-26"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-08",
+      "title": {
+        "en": "Pink Floyd releases 'Hey, Hey, Rise Up!' with Khlyvniuk",
+        "uk": "Pink Floyd випускає «Hey, Hey, Rise Up!» за участю Хливнюка",
+        "ru": "Pink Floyd выпускает «Hey, Hey, Rise Up!» с участием Хлывнюка"
+      },
+      "detail": {
+        "en": "Pink Floyd released 'Hey, Hey, Rise Up!', built around Khlyvniuk's viral vocal of the 1914 Ukrainian patriotic march, as a fundraiser for Ukrainian humanitarian relief; David Gilmour said he was moved to record it by Khlyvniuk's Sofiyska Square video.",
+        "uk": "Pink Floyd випустили «Hey, Hey, Rise Up!», побудовану навколо вірусного вокалу Хливнюка з українським патріотичним маршем 1914 року, як благодійний сингл на гуманітарну допомогу Україні; Девід Гілмор сказав, що записати пісню його надихнуло відео Хливнюка із Софійської площі.",
+        "ru": "Pink Floyd выпустили «Hey, Hey, Rise Up!», построенную вокруг вирусного вокала Хлывнюка с украинским патриотическим маршем 1914 года, как благотворительный сингл на гуманитарную помощь Украине; Дэвид Гилмор сказал, что записать песню его вдохновило видео Хлывнюка с Софийской площади."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/pink-floyd-hey-hey-rise-up-1334338/",
+          "publisher": "Rolling Stone",
+          "date": "2022-04-07"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hey,_Hey,_Rise_Up!",
+          "publisher": "Wikipedia"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

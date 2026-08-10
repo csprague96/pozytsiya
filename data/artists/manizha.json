@@ -1,0 +1,68 @@
+{
+  "slug": "manizha",
+  "name": "Manizha",
+  "nameLocal": "Манижа",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Singer Manizha Sangin, Russia's 2021 Eurovision entrant, publicly criticized the war against Ukraine, calling it 'fratricide' waged against her will and the will of her family and peoples. Weeks after the invasion she released the song 'Soldier', repeatedly calling on soldiers to stop the war despite Russian laws criminalizing such language. She remained in Russia, where her concerts were cancelled, she was dropped from festivals, and her music is reportedly blacklisted from public venues.",
+    "uk": "Співачка Манижа Сангін, представниця Росії на Євробаченні-2021, публічно розкритикувала війну проти України, назвавши її «братовбивством», що ведеться проти її волі та волі її родини й народів. Через кілька тижнів після початку повномасштабного вторгнення вона випустила пісню «Soldier», у якій неодноразово закликає солдатів зупинити війну, попри російські закони, що криміналізують такі висловлювання. Вона залишилася в Росії, де її концерти скасовували, її знімали з фестивалів, а її музика, за повідомленнями, внесена до чорного списку для публічних майданчиків.",
+    "ru": "Певица Манижа Сангин, представлявшая Россию на «Евровидении-2021», публично раскритиковала войну против Украины, назвав её «братоубийством», которое ведётся против её воли и воли её семьи и народов. Через несколько недель после начала полномасштабного вторжения она выпустила песню «Soldier», в которой неоднократно призывает солдат остановить войну, несмотря на российские законы, криминализирующие такие высказывания. Она осталась в России, где её концерты отменяли, её снимали с фестивалей, а её музыка, по сообщениям, внесена в чёрный список для публичных площадок."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Calls the war 'fratricide'",
+        "uk": "Називає війну «братовбивством»",
+        "ru": "Называет войну «братоубийством»"
+      },
+      "detail": {
+        "en": "After Putin ordered troops into Ukraine, Manizha called the conflict 'fratricide' waged 'against my will, against the will of my family, and, I believe, against the will of our peoples', drawing an online backlash in Russia.",
+        "uk": "Після того як Путін направив війська в Україну, Манижа назвала конфлікт «братовбивством», що ведеться «проти моєї волі, проти волі моєї родини і, вірю, проти волі наших народів», що викликало хвилю критики в російському сегменті інтернету.",
+        "ru": "После того как Путин направил войска в Украину, Манижа назвала конфликт «братоубийством», которое ведётся «против моей воли, против воли моей семьи и, верю, против воли наших народов», что вызвало волну критики в российском сегменте интернета."
+      },
+      "sources": [
+        {"url": "https://www.intellinews.com/russian-eurovision-star-manizha-faces-online-backlash-after-criticising-war-254868/", "publisher": "bne IntelliNews", "date": "2022-03"}
+      ]
+    },
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Releases anti-war song 'Soldier'",
+        "uk": "Випускає антивоєнну пісню «Soldier»",
+        "ru": "Выпускает антивоенную песню «Soldier»"
+      },
+      "detail": {
+        "en": "Weeks after the invasion she released 'Soldier', which repeatedly calls on soldiers to 'stop the war', despite laws threatening up to 15 years in prison for using the words 'war' or 'invasion'.",
+        "uk": "Через кілька тижнів після початку вторгнення вона випустила пісню «Soldier», у якій неодноразово лунає заклик до солдатів «зупинити війну», попри закони, що передбачають до 15 років ув'язнення за використання слів «війна» чи «вторгнення».",
+        "ru": "Через несколько недель после начала вторжения она выпустила песню «Soldier», в которой неоднократно звучит призыв к солдатам «остановить войну», несмотря на законы, предусматривающие до 15 лет лишения свободы за использование слов «война» или «вторжение»."
+      },
+      "sources": [
+        {"url": "https://www.933thedrive.com/2024/05/08/russias-last-eurovision-singer-now-cancelled-still-seeks-to-spread-hope/", "publisher": "Reuters (via 93.3 The Drive)", "date": "2024-05-08"}
+      ]
+    },
+    {
+      "date": "2022-06",
+      "title": {
+        "en": "Dropped from festival, concerts cancelled",
+        "uk": "Знята з фестивалю, концерти скасовано",
+        "ru": "Снята с фестиваля, концерты отменены"
+      },
+      "detail": {
+        "en": "Manizha was dropped from a Russian festival after criticizing the war; many of her summer concerts were cancelled and independent media reported she was placed on an unofficial blacklist barring her music from public venues.",
+        "uk": "Манижу зняли з російського фестивалю після критики війни; багато її літніх концертів було скасовано, а незалежні медіа повідомляли, що її внесли до неофіційного чорного списку, який забороняє її музику на публічних майданчиках.",
+        "ru": "Манижу сняли с российского фестиваля после критики войны; многие её летние концерты были отменены, а независимые медиа сообщали, что её внесли в неофициальный чёрный список, запрещающий её музыку на публичных площадках."
+      },
+      "sources": [
+        {"url": "https://www.rferl.org/a/russia-manizha-dropped-festival/31888828.html", "publisher": "RFE/RL", "date": "2022-06"},
+        {"url": "https://www.933thedrive.com/2024/05/08/russias-last-eurovision-singer-now-cancelled-still-seeks-to-spread-hope/", "publisher": "Reuters (via 93.3 The Drive)", "date": "2024-05-08"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

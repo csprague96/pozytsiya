@@ -1,0 +1,70 @@
+{
+  "slug": "oleg-gazmanov",
+  "name": "Oleg Gazmanov",
+  "nameLocal": "Олег Газманов",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "sanctioned"],
+  "summary": {
+    "en": "Oleg Gazmanov, a veteran patriotic-pop singer and member of the Public Council of the Russian Ministry of Defense, performed 'Made in the USSR' at the pro-war Luzhniki rally on 18 March 2022 attended by Vladimir Putin. The EU sanctioned him in October 2022 for supporting the war in statements and performances; Canada followed in February 2023, and he is under Ukrainian sanctions.",
+    "uk": "Олег Газманов, ветеран патріотичної естради та член Громадської ради при Міністерстві оборони РФ, 18 березня 2022 року виконав пісню «Сделан в СССР» на провоєнному мітингу в «Лужниках», на якому був присутній Володимир Путін. У жовтні 2022 року ЄС запровадив проти нього санкції за підтримку війни у заявах і виступах; у лютому 2023 року санкції ввела Канада, він також перебуває під українськими санкціями.",
+    "ru": "Олег Газманов, ветеран патриотической эстрады и член Общественного совета при Министерстве обороны РФ, 18 марта 2022 года исполнил песню «Сделан в СССР» на провоенном митинге в «Лужниках», на котором присутствовал Владимир Путин. В октябре 2022 года ЕС ввел против него санкции за поддержку войны в заявлениях и выступлениях; в феврале 2023 года санкции ввела Канада, он также находится под украинскими санкциями."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-18",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Performs at Luzhniki pro-war rally",
+        "uk": "Виступ на провоєнному мітингу в «Лужниках»",
+        "ru": "Выступление на провоенном митинге в «Лужниках»"
+      },
+      "detail": {
+        "en": "Performed 'Made in the USSR' at the Luzhniki Stadium rally-concert marking the eighth anniversary of Crimea's annexation and endorsing the invasion, with Putin in attendance.",
+        "uk": "Виконав пісню «Сделан в СССР» на мітингу-концерті на стадіоні «Лужники» з нагоди восьмої річниці анексії Криму та на підтримку вторгнення; на заході був присутній Путін.",
+        "ru": "Исполнил песню «Сделан в СССР» на митинге-концерте на стадионе «Лужники» по случаю восьмой годовщины аннексии Крыма и в поддержку вторжения; на мероприятии присутствовал Путин."
+      },
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/2022_Moscow_rally", "publisher": "Wikipedia" },
+        { "url": "https://holodomormuseum.org.ua/en/propaganda/concert-at-luzhniki-on-18-march-2022/", "publisher": "National Museum of the Holodomor-Genocide" }
+      ]
+    },
+    {
+      "date": "2022-10-06",
+      "title": {
+        "en": "EU sanctions",
+        "uk": "Санкції ЄС",
+        "ru": "Санкции ЕС"
+      },
+      "detail": {
+        "en": "Included in the EU's eighth sanctions package for supporting Russia's war of aggression against Ukraine in his statements and musical performances.",
+        "uk": "Внесений до восьмого пакета санкцій ЄС за підтримку агресивної війни Росії проти України у своїх заявах і музичних виступах.",
+        "ru": "Включен в восьмой пакет санкций ЕС за поддержку агрессивной войны России против Украины в своих заявлениях и музыкальных выступлениях."
+      },
+      "sources": [
+        { "url": "https://novayagazeta.eu/articles/2022/10/06/eu-slaps-sanctions-against-russian-philosopher-alexander-dugin-and-singer-oleg-gazmanov-news", "publisher": "Novaya Gazeta Europe", "date": "2022-10-06" },
+        { "url": "https://data.europa.eu/apps/eusanctionstracker/subjects/144480", "publisher": "EU Sanctions Tracker (data.europa.eu)" }
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": {
+        "en": "Canadian sanctions",
+        "uk": "Санкції Канади",
+        "ru": "Санкции Канады"
+      },
+      "detail": {
+        "en": "Sanctioned by Canada for involvement in Russian propaganda and dissemination of disinformation related to the war in Ukraine.",
+        "uk": "Потрапив під санкції Канади за участь у російській пропаганді та поширення дезінформації, пов'язаної з війною в Україні.",
+        "ru": "Внесен в санкционный список Канады за участие в российской пропаганде и распространение дезинформации, связанной с войной в Украине."
+      },
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Oleg_Gazmanov", "publisher": "Wikipedia" },
+        { "url": "https://www.opensanctions.org/entities/Q2994183/", "publisher": "OpenSanctions" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

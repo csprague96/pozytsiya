@@ -1,0 +1,68 @@
+{
+  "slug": "positiff",
+  "name": "POSITIFF",
+  "nameLocal": "Позитив",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Oleksiy Zavhorodniy (POSITIFF) fronted Vremya i Steklo (2010-2020), a Russian-language Ukrainian duo with a major fanbase in Russia, produced by Yuriy Bardash. After February 2022 he remained in Ukraine, switched to Ukrainian-language music, publicly denounced Bardash's pro-Russian turn as betrayal, and co-fronted major fundraising campaigns for Ukraine's air defense with former bandmate DOROFEEVA.",
+    "uk": "Олексій Завгородній (POSITIFF) був фронтменом дуету «Время и Стекло» (2010–2020) — російськомовного українського проєкту з великою фан-базою в Росії, продюсером якого був Юрій Бардаш. Після лютого 2022 року він залишився в Україні, перейшов на українськомовну музику, публічно засудив проросійський поворот Бардаша як зраду та разом із колишньою колегою по дуету DOROFEEVA очолював масштабні кампанії зі збору коштів на протиповітряну оборону України.",
+    "ru": "Алексей Завгородний (POSITIFF) был фронтменом дуэта «Время и Стекло» (2010–2020) — русскоязычного украинского проекта с большой фан-базой в России, продюсером которого был Юрий Бардаш. После февраля 2022 года он остался в Украине, перешел на украиноязычную музыку, публично осудил пророссийский поворот Бардаша как предательство и вместе с бывшей коллегой по дуэту DOROFEEVA возглавлял масштабные кампании по сбору средств на противовоздушную оборону Украины."
+  },
+  "timeline": [
+    {
+      "date": "2023-05",
+      "stanceAfter": 3,
+      "title": {
+        "en": "North American charity concerts with DOROFEEVA",
+        "uk": "Благодійні концерти в Північній Америці з DOROFEEVA",
+        "ru": "Благотворительные концерты в Северной Америке с DOROFEEVA"
+      },
+      "detail": {
+        "en": "POSITIFF toured the US and Canada with DOROFEEVA and DJ NANA in benefit concerts supporting Ukraine, having remained in Ukraine and moved to Ukrainian-language repertoire after the invasion.",
+        "uk": "POSITIFF здійснив тур США та Канадою разом із DOROFEEVA та DJ NANA з благодійними концертами на підтримку України; після вторгнення він залишився в Україні та перейшов на українськомовний репертуар.",
+        "ru": "POSITIFF совершил тур по США и Канаде вместе с DOROFEEVA и DJ NANA с благотворительными концертами в поддержку Украины; после вторжения он остался в Украине и перешел на украиноязычный репертуар."
+      },
+      "sources": [
+        {"url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/", "publisher": "Club Sur Seattle"},
+        {"url": "https://thephoenixconcerttheatre.com/events/event/dorofeeva-x-positiff-x-dj-nana-formerly-vremya-i-steklo/", "publisher": "The Phoenix Concert Theatre"}
+      ]
+    },
+    {
+      "date": "2024-01-31",
+      "title": {
+        "en": "Calls ex-producer Bardash's pro-Russian stance a betrayal",
+        "uk": "Називає проросійську позицію ексспродюсера Бардаша зрадою",
+        "ru": "Называет пророссийскую позицию экс-продюсера Бардаша предательством"
+      },
+      "detail": {
+        "en": "In an interview he condemned former Vremya i Steklo producer Yuriy Bardash, who took a pro-Russian position, saying such artists 'will be popular in the swamps', and discussed artists who left Ukraine during the war.",
+        "uk": "В інтерв'ю він засудив колишнього продюсера «Время и Стекло» Юрія Бардаша, який зайняв проросійську позицію, сказавши, що такі артисти «будуть популярними на болотах», і висловився про артистів, які виїхали з України під час війни.",
+        "ru": "В интервью он осудил бывшего продюсера «Время и Стекло» Юрия Бардаша, занявшего пророссийскую позицию, сказав, что такие артисты «будут популярны на болотах», и высказался об артистах, уехавших из Украины во время войны."
+      },
+      "sources": [
+        {"url": "https://eng.obozrevatel.com/section-entertainment/news-they-will-be-popular-in-the-swamps-positiff-talks-about-bardashs-betrayal-liar-volunteers-and-why-hes-sad-about-alchem-31-01-2024.html", "publisher": "Obozrevatel", "date": "2024-01-31"}
+      ]
+    },
+    {
+      "date": "2025-05",
+      "title": {
+        "en": "Co-fronts UNITED24 'Sky Sentinel' air-defense fundraiser",
+        "uk": "Очолює разом з DOROFEEVA збір UNITED24 «Sky Sentinel» на протиповітряну оборону",
+        "ru": "Возглавляет вместе с DOROFEEVA сбор UNITED24 «Sky Sentinel» на противовоздушную оборону"
+      },
+      "detail": {
+        "en": "With DOROFEEVA he promoted a UNITED24 campaign to fund Sky Sentinel air-defense turrets; the drive raised $3.3 million for 22 units protecting Ukrainian cities.",
+        "uk": "Разом із DOROFEEVA він просував кампанію UNITED24 зі збору на турелі протиповітряної оборони Sky Sentinel; збір приніс 3,3 мільйона доларів на 22 установки для захисту українських міст.",
+        "ru": "Вместе с DOROFEEVA он продвигал кампанию UNITED24 по сбору на турели противовоздушной обороны Sky Sentinel; сбор принес 3,3 миллиона долларов на 22 установки для защиты украинских городов."
+      },
+      "sources": [
+        {"url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units", "publisher": "UNITED24 (official)"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

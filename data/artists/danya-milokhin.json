@@ -1,0 +1,71 @@
+{
+  "slug": "danya-milokhin",
+  "name": "Danya Milokhin",
+  "nameLocal": "Даня Милохин",
+  "country": "ru",
+  "basedIn": "ae",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": ["left_russia"],
+  "summary": {
+    "en": "Russian TikTok star and singer. He left for Dubai after the partial mobilization announcement of 21 September 2022, citing opposition to the invasion and unwillingness to be conscripted. He briefly returned to Moscow in September 2023 but fled again within days after pro-Kremlin figures, including Ekaterina Mizulina, urged the Defense Ministry to draft him — a backlash triggered in part by his learning the Ukrainian anthem abroad. He has since lived in Dubai working as a courier and does not return to Russia, reportedly due to draft summonses.",
+    "uk": "Російський тікток-блогер і співак. Він виїхав до Дубая після оголошення часткової мобілізації 21 вересня 2022 року, пославшись на незгоду з вторгненням і небажання бути призваним. У вересні 2023 року він ненадовго повернувся до Москви, але за кілька днів знову втік після того, як прокремлівські діячі, зокрема Катерина Мізуліна, закликали Міноборони призвати його до армії — хвилю обурення частково спричинило те, що за кордоном він вивчив гімн України. Відтоді він живе в Дубаї, працює кур'єром і не повертається до Росії — за повідомленнями, через повістки до армії.",
+    "ru": "Российский тикток-блогер и певец. Он уехал в Дубай после объявления частичной мобилизации 21 сентября 2022 года, сославшись на несогласие с вторжением и нежелание быть призванным. В сентябре 2023 года он ненадолго вернулся в Москву, но через несколько дней снова уехал после того, как прокремлёвские деятели, включая Екатерину Мизулину, призвали Минобороны отправить его в армию — волну возмущения отчасти вызвало то, что за границей он выучил гимн Украины. С тех пор он живёт в Дубае, работает курьером и не возвращается в Россию — по сообщениям, из-за повесток в армию."
+  },
+  "timeline": [
+    {
+      "date": "2022-09",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Leaves Russia after mobilization announcement",
+        "uk": "Залишає Росію після оголошення мобілізації",
+        "ru": "Покидает Россию после объявления мобилизации"
+      },
+      "detail": {
+        "en": "Following the 21 September 2022 partial mobilization decree, Milokhin departed for Dubai, citing opposition to the invasion of Ukraine and avoidance of potential conscription.",
+        "uk": "Після указу про часткову мобілізацію від 21 вересня 2022 року Милохін виїхав до Дубая, пославшись на незгоду з вторгненням в Україну та бажання уникнути можливого призову.",
+        "ru": "После указа о частичной мобилизации от 21 сентября 2022 года Милохин уехал в Дубай, сославшись на несогласие с вторжением в Украину и желание избежать возможного призыва."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Danya_Milokhin", "publisher": "Wikipedia"},
+        {"url": "https://vihrogon.bg/one-of-the-most-successful-russian-influencers-left-for-dubai/", "publisher": "Vihrogon.bg"}
+      ]
+    },
+    {
+      "date": "2023-09-11",
+      "title": {
+        "en": "Flees Russia again after draft calls",
+        "uk": "Знову тікає з Росії після закликів призвати його до армії",
+        "ru": "Снова уезжает из России после призывов отправить его в армию"
+      },
+      "detail": {
+        "en": "Days after returning to Moscow saying he wanted to 'give Russia a chance', Milokhin left for Dubai again after Safe Internet League head Ekaterina Mizulina and others publicly urged the Defense Ministry to conscript him, amid backlash over his show of support for Ukraine, including learning the Ukrainian anthem.",
+        "uk": "Через кілька днів після повернення до Москви зі словами, що хоче «дати Росії шанс», Милохін знову виїхав до Дубая після того, як голова «Ліги безпечного інтернету» Катерина Мізуліна та інші публічно закликали Міноборони призвати його — на тлі обурення через його жести підтримки України, зокрема вивчення українського гімну.",
+        "ru": "Через несколько дней после возвращения в Москву со словами, что хочет «дать России шанс», Милохин снова уехал в Дубай после того, как глава «Лиги безопасного интернета» Екатерина Мизулина и другие публично призвали Минобороны призвать его — на фоне возмущения его жестами поддержки Украины, включая изучение украинского гимна."
+      },
+      "sources": [
+        {"url": "https://novayagazeta.eu/en/articles/2023/09/12/russian-tiktoker-reportedly-flees-country-after-attacks-by-online-censorship-advocate-en-news", "publisher": "Novaya Gazeta Europe", "date": "2023-09-12"},
+        {"url": "https://eng.obozrevatel.com/section-entertainment/news-russian-tiktoker-milokhin-who-wanted-to-be-drafted-to-war-in-the-fall-of-2023-for-ukraines-anthem-cowardly-fled-russia-12-09-2023.html", "publisher": "OBOZ.UA", "date": "2023-09-12"}
+      ]
+    },
+    {
+      "date": "2024-11-27",
+      "title": {
+        "en": "Describes courier life in Dubai",
+        "uk": "Розповідає про життя кур'єра в Дубаї",
+        "ru": "Рассказывает о жизни курьера в Дубае"
+      },
+      "detail": {
+        "en": "In a Twitch broadcast Milokhin said he works delivering food in Dubai; he stated he does not return to Russia because he keeps receiving draft summonses.",
+        "uk": "У трансляції на Twitch Милохін розповів, що працює доставником їжі в Дубаї; він заявив, що не повертається до Росії, бо йому продовжують надходити повістки до армії.",
+        "ru": "В трансляции на Twitch Милохин рассказал, что работает доставщиком еды в Дубае; он заявил, что не возвращается в Россию, потому что ему продолжают приходить повестки в армию."
+      },
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Danya_Milokhin", "publisher": "Wikipedia"},
+        {"url": "https://eadaily.com/en/news/2026/02/19/the-russian-top-blogger-who-escaped-from-the-draft-revealed-the-earnings-of-a-courier-in-dubai", "publisher": "EADaily (pro-Kremlin outlet)", "date": "2026-02-19"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

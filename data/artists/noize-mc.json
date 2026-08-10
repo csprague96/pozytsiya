@@ -1,0 +1,101 @@
+{
+  "slug": "noize-mc",
+  "name": "Noize MC",
+  "nameLocal": "Нойз МС",
+  "country": "ru",
+  "basedIn": "lt",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Rapper Ivan Alekseev (Noize MC), a longtime Kremlin critic who has supported Ukraine since 2014, left Russia after the February 2022 invasion and settled in Vilnius, Lithuania. With Monetochka he ran the 'Voices of Peace' benefit tour that raised over 420,000 euros for Ukrainian refugees, and the pair were nominated for the Nobel Peace Prize in December 2024. Russia designated him a 'foreign agent' over his support for Ukraine.",
+    "uk": "Репер Іван Алексєєв (Noize MC), давній критик Кремля, який підтримує Україну з 2014 року, виїхав з Росії після вторгнення в лютому 2022 року й оселився у Вільнюсі, Литва. Разом із Монеточкою він провів благодійний тур «Голоси миру», що зібрав понад 420 000 євро для українських біженців; у грудні 2024 року обох номінували на Нобелівську премію миру. Росія визнала його «іноземним агентом» за підтримку України.",
+    "ru": "Рэпер Иван Алексеев (Noize MC), давний критик Кремля, поддерживающий Украину с 2014 года, покинул Россию после вторжения в феврале 2022 года и поселился в Вильнюсе, Литва. Вместе с Монеточкой он провёл благотворительный тур «Голоса мира», собравший более 420 000 евро для украинских беженцев; в декабре 2024 года обоих номинировали на Нобелевскую премию мира. Россия признала его «иностранным агентом» за поддержку Украины."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns the invasion and leaves Russia",
+        "uk": "Засуджує вторгнення та виїжджає з Росії",
+        "ru": "Осуждает вторжение и уезжает из России"
+      },
+      "detail": {
+        "en": "Noize MC, who had criticized the Kremlin and supported Ukraine since 2014, left Russia after the start of the full-scale invasion.",
+        "uk": "Noize MC, який критикував Кремль і підтримував Україну з 2014 року, виїхав з Росії після початку повномасштабного вторгнення.",
+        "ru": "Noize MC, критиковавший Кремль и поддерживавший Украину с 2014 года, покинул Россию после начала полномасштабного вторжения."
+      },
+      "sources": [
+        {
+          "url": "https://www.euronews.com/culture/2022/04/26/voices-of-peace-meet-the-russian-musicians-taking-a-stand-against-the-war-in-ukraine",
+          "publisher": "Euronews",
+          "date": "2022-04-26"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "'Voices of Peace' benefit tour for Ukrainian refugees",
+        "uk": "Благодійний тур «Голоси миру» на підтримку українських біженців",
+        "ru": "Благотворительный тур «Голоса мира» в поддержку украинских беженцев"
+      },
+      "detail": {
+        "en": "Together with Monetochka he played benefit concerts across the Czech Republic, Germany, Latvia, Lithuania and Poland, raising more than 420,000 euros for medical, humanitarian and legal aid to Ukrainian refugees.",
+        "uk": "Разом із Монеточкою він відіграв благодійні концерти в Чехії, Німеччині, Латвії, Литві та Польщі, зібравши понад 420 000 євро на медичну, гуманітарну та юридичну допомогу українським біженцям.",
+        "ru": "Вместе с Монеточкой он отыграл благотворительные концерты в Чехии, Германии, Латвии, Литве и Польше, собрав более 420 000 евро на медицинскую, гуманитарную и юридическую помощь украинским беженцам."
+      },
+      "sources": [
+        {
+          "url": "https://www.euronews.com/culture/2022/04/26/voices-of-peace-meet-the-russian-musicians-taking-a-stand-against-the-war-in-ukraine",
+          "publisher": "Euronews",
+          "date": "2022-04-26"
+        }
+      ]
+    },
+    {
+      "date": "2023-12",
+      "title": {
+        "en": "Designated a 'foreign agent' in Russia",
+        "uk": "Визнаний «іноземним агентом» у Росії",
+        "ru": "Признан «иностранным агентом» в России"
+      },
+      "detail": {
+        "en": "Russia's Justice Ministry added Noize MC to the 'foreign agents' register over his support for Ukraine and criticism of the war.",
+        "uk": "Міністерство юстиції Росії внесло Noize MC до реєстру «іноземних агентів» через його підтримку України та критику війни.",
+        "ru": "Министерство юстиции России внесло Noize MC в реестр «иностранных агентов» из-за его поддержки Украины и критики войны."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-renowned-russian-rapper-noize-mc-has-been-recognized-as-a-foreign-agent-for-supporting-ukraine-10-12-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-12-10"
+        }
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": {
+        "en": "Nobel Peace Prize nomination for 'Voices of Peace'",
+        "uk": "Номінація на Нобелівську премію миру за «Голоси миру»",
+        "ru": "Номинация на Нобелевскую премию мира за «Голоса мира»"
+      },
+      "detail": {
+        "en": "Professors at Oslo Metropolitan University nominated Noize MC and Monetochka for the Nobel Peace Prize in recognition of the Voices of Peace initiative.",
+        "uk": "Професори Столичного університету Осло номінували Noize MC і Монеточку на Нобелівську премію миру на знак визнання ініціативи «Голоси миру».",
+        "ru": "Профессора Столичного университета Осло номинировали Noize MC и Монеточку на Нобелевскую премию мира в знак признания инициативы «Голоса мира»."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/01/17/can-music-mobilize-the-russian-diaspora-these-anti-war-artists-are-betting-on-it-a87646",
+          "publisher": "The Moscow Times",
+          "date": "2025-01-17"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

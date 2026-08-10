@@ -1,0 +1,111 @@
+{
+  "slug": "oxxxymiron",
+  "name": "Oxxxymiron",
+  "nameLocal": "Оксимирон",
+  "country": "ru",
+  "basedIn": "gb",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Rapper Miron Fyodorov (Oxxxymiron) called the invasion of Ukraine a 'catastrophe and a crime' in February 2022, cancelled his Russian tour and left the country. He staged a series of 'Russians Against War' charity concerts in Istanbul, Berlin and London that raised over $220,000 for Ukrainian refugees. Russia designated him a 'foreign agent' in October 2022 and issued an arrest warrant for him in May 2024.",
+    "uk": "Репер Мирон Федоров (Oxxxymiron) у лютому 2022 року назвав вторгнення в Україну «катастрофою та злочином», скасував свій російський тур і виїхав з країни. Він провів серію благодійних концертів «Russians Against War» у Стамбулі, Берліні та Лондоні, які зібрали понад 220 000 доларів для українських біженців. У жовтні 2022 року Росія визнала його «іноземним агентом», а в травні 2024 року видала ордер на його арешт.",
+    "ru": "Рэпер Мирон Фёдоров (Oxxxymiron) в феврале 2022 года назвал вторжение в Украину «катастрофой и преступлением», отменил свой российский тур и покинул страну. Он провёл серию благотворительных концертов «Russians Against War» в Стамбуле, Берлине и Лондоне, собравших более 220 000 долларов для украинских беженцев. В октябре 2022 года Россия признала его «иностранным агентом», а в мае 2024 года выдала ордер на его арест."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns invasion, cancels Russian tour",
+        "uk": "Засуджує вторгнення, скасовує російський тур",
+        "ru": "Осуждает вторжение, отменяет российский тур"
+      },
+      "detail": {
+        "en": "Oxxxymiron called the Kremlin's offensive against Ukraine a 'catastrophe and a crime' and cancelled sold-out Moscow and St. Petersburg shows in protest, subsequently leaving Russia.",
+        "uk": "Oxxxymiron назвав наступ Кремля на Україну «катастрофою та злочином» і на знак протесту скасував концерти в Москві та Санкт-Петербурзі, на які було розпродано всі квитки, після чого виїхав з Росії.",
+        "ru": "Oxxxymiron назвал наступление Кремля на Украину «катастрофой и преступлением» и в знак протеста отменил концерты в Москве и Санкт-Петербурге, на которые были распроданы все билеты, после чего покинул Россию."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2022/03/16/russian-rapper-oxxxymiron-stages-anti-war-rallying-cry-from-istanbul-a76960",
+          "publisher": "The Moscow Times",
+          "date": "2022-03-16"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-15",
+      "stanceAfter": 3,
+      "title": {
+        "en": "First 'Russians Against War' benefit concert in Istanbul",
+        "uk": "Перший благодійний концерт «Russians Against War» у Стамбулі",
+        "ru": "Первый благотворительный концерт «Russians Against War» в Стамбуле"
+      },
+      "detail": {
+        "en": "He launched the 'Russians Against War' charity concert series in Istanbul, with proceeds going to Ukrainian refugees; later shows in Berlin and London brought total funds raised to over $220,000.",
+        "uk": "Він розпочав серію благодійних концертів «Russians Against War» у Стамбулі, виручка з яких пішла українським біженцям; наступні концерти в Берліні та Лондоні довели загальну зібрану суму до понад 220 000 доларів.",
+        "ru": "Он начал серию благотворительных концертов «Russians Against War» в Стамбуле, выручка от которых пошла украинским беженцам; последующие концерты в Берлине и Лондоне довели общую собранную сумму до более чем 220 000 долларов."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2022/03/16/russian-rapper-oxxxymiron-stages-anti-war-rallying-cry-from-istanbul-a76960",
+          "publisher": "The Moscow Times",
+          "date": "2022-03-16"
+        },
+        {
+          "url": "https://sportskeeda.com/pop-culture/who-oxxxymiron-russian-rapper-announces-anti-war-concerts-raise-money-ukrainian-refugees",
+          "publisher": "Sportskeeda",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-07",
+      "title": {
+        "en": "Designated a 'foreign agent' in Russia",
+        "uk": "Визнаний «іноземним агентом» у Росії",
+        "ru": "Признан «иностранным агентом» в России"
+      },
+      "detail": {
+        "en": "Russia's Justice Ministry added Oxxxymiron to its 'foreign agents' register, citing among other things Ukrainian sources of funding for his activities.",
+        "uk": "Міністерство юстиції Росії внесло Oxxxymiron до реєстру «іноземних агентів», посилаючись, зокрема, на українські джерела фінансування його діяльності.",
+        "ru": "Министерство юстиции России внесло Oxxxymiron в реестр «иностранных агентов», сославшись, среди прочего, на украинские источники финансирования его деятельности."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2022/10/07/russia-labels-star-rapper-oxxxymiron-a-foreign-agent-a79028",
+          "publisher": "The Moscow Times",
+          "date": "2022-10-07"
+        },
+        {
+          "url": "https://www.rferl.org/a/russian-rapper-foreign-agent-russian-justice-ministry/32070998.html",
+          "publisher": "RFE/RL",
+          "date": "2022-10-07"
+        }
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": {
+        "en": "Russia issues arrest warrant",
+        "uk": "Росія видає ордер на арешт",
+        "ru": "Россия выдаёт ордер на арест"
+      },
+      "detail": {
+        "en": "Russian authorities issued an arrest warrant for the exiled rapper.",
+        "uk": "Російська влада видала ордер на арешт репера, який перебуває у вигнанні.",
+        "ru": "Российские власти выдали ордер на арест находящегося в эмиграции рэпера."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/05/09/russia-issues-arrest-warrant-for-exiled-rapper-oxxxymiron-a85079",
+          "publisher": "The Moscow Times",
+          "date": "2024-05-09"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

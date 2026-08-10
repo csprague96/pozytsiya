@@ -1,0 +1,70 @@
+{
+  "slug": "polina-gagarina",
+  "name": "Polina Gagarina",
+  "nameLocal": "Полина Гагарина",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "sanctioned"],
+  "summary": {
+    "en": "Polina Gagarina, Russia's 2015 Eurovision runner-up, sang at the 18 March 2022 Luzhniki Stadium rally endorsing the invasion and has appeared at other Kremlin-sponsored events. She was banned from Latvia and Estonia in 2022, sanctioned by Ukraine in January 2023, and added to the EU sanctions list in the 14th package in June 2024, which she has litigated against at the EU General Court.",
+    "uk": "Поліна Гагаріна, віцечемпіонка Євробачення-2015 від Росії, 18 березня 2022 року співала на мітингу на стадіоні «Лужники» на підтримку вторгнення та брала участь в інших заходах, організованих Кремлем. У 2022 році їй заборонили в'їзд до Латвії та Естонії, у січні 2023 року Україна запровадила проти неї санкції, а в червні 2024 року її внесли до санкційного списку ЄС у межах 14-го пакета — це рішення вона оскаржує в Загальному суді ЄС.",
+    "ru": "Полина Гагарина, занявшая второе место на Евровидении-2015 от России, 18 марта 2022 года пела на митинге на стадионе «Лужники» в поддержку вторжения и участвовала в других мероприятиях, организованных Кремлем. В 2022 году ей запретили въезд в Латвию и Эстонию, в январе 2023 года Украина ввела против нее санкции, а в июне 2024 года она была внесена в санкционный список ЕС в рамках 14-го пакета — это решение она оспаривает в Общем суде ЕС."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-18",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Sings at Luzhniki pro-war rally",
+        "uk": "Спів на провоєнному мітингу в «Лужниках»",
+        "ru": "Выступление на провоенном митинге в «Лужниках»"
+      },
+      "detail": {
+        "en": "Performed at the Luzhniki Stadium rally-concert marking the Crimea annexation anniversary and endorsing Russia's invasion of Ukraine.",
+        "uk": "Виступила на мітингу-концерті на стадіоні «Лужники» з нагоди річниці анексії Криму та на підтримку вторгнення Росії в Україну.",
+        "ru": "Выступила на митинге-концерте на стадионе «Лужники» по случаю годовщины аннексии Крыма и в поддержку вторжения России в Украину."
+      },
+      "sources": [
+        { "url": "https://en.m.wikipedia.org/wiki/Polina_Gagarina", "publisher": "Wikipedia" },
+        { "url": "https://eurovisionfun.com/en/2022/03/latvia-polina-gagarina-and-natalya-podolskaya-banned-from-entering-the-country-over-their-support-of-russias-war-in-ukraine/", "publisher": "EurovisionFun", "date": "2022-03" }
+      ]
+    },
+    {
+      "date": "2023-01-07",
+      "title": {
+        "en": "Ukrainian sanctions",
+        "uk": "Українські санкції",
+        "ru": "Украинские санкции"
+      },
+      "detail": {
+        "en": "Included in Ukraine's sanctions list (asset freeze, entry ban, cessation of commercial operations) for supporting Russia's war against Ukraine.",
+        "uk": "Внесена до санкційного списку України (блокування активів, заборона в'їзду, припинення комерційних операцій) за підтримку війни Росії проти України.",
+        "ru": "Внесена в санкционный список Украины (блокировка активов, запрет на въезд, прекращение коммерческих операций) за поддержку войны России против Украины."
+      },
+      "sources": [
+        { "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/8957", "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)" },
+        { "url": "https://www.aljazeera.com/news/2023/1/8/ukraine-puts-dozens-of-russian-public-figures-on-sanctions-list", "publisher": "Al Jazeera", "date": "2023-01-08" }
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "title": {
+        "en": "EU sanctions (14th package)",
+        "uk": "Санкції ЄС (14-й пакет)",
+        "ru": "Санкции ЕС (14-й пакет)"
+      },
+      "detail": {
+        "en": "Added to the EU sanctions list over her participation in Kremlin-sponsored events supporting the annexation of Ukrainian territories; she later filed suit at the EU General Court seeking removal.",
+        "uk": "Внесена до санкційного списку ЄС через участь в організованих Кремлем заходах на підтримку анексії українських територій; згодом подала позов до Загального суду ЄС з вимогою виключити її зі списку.",
+        "ru": "Внесена в санкционный список ЕС из-за участия в организованных Кремлем мероприятиях в поддержку аннексии украинских территорий; позднее подала иск в Общий суд ЕС с требованием исключить ее из списка."
+      },
+      "sources": [
+        { "url": "https://eurovisionfun.com/en/2024/06/polina-gagarina-included-in-the-new-eu-sanctions-list/", "publisher": "EurovisionFun", "date": "2024-06" },
+        { "url": "https://enlargement.ec.europa.eu/news/eu-adopts-14th-package-sanctions-against-russia-its-continued-illegal-war-against-ukraine-2024-06-24_en", "publisher": "European Commission", "date": "2024-06-24" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

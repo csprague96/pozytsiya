@@ -1,0 +1,68 @@
+{
+  "slug": "jah-khalib",
+  "name": "Jah Khalib",
+  "nameLocal": "Джа Халиб",
+  "country": "kz",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "Jah Khalib is a Kazakhstani rapper who was living in Kyiv when Russia's full-scale invasion began and sheltered there with his pregnant wife before being evacuated to Kazakhstan with the help of Ukrainians, whom he publicly thanked. After Russian State Duma deputies called for banning him over that pro-Ukrainian post, his April 2022 Moscow and St. Petersburg concerts were cancelled. He then publicly assured Russian audiences of his 'good attitude toward the peoples of Russia', drawing criticism in Ukraine. His overall record is contradictory and he has not named Russia as the aggressor.",
+    "uk": "Джа Халіб — казахстанський репер, який на момент початку повномасштабного вторгнення Росії жив у Києві і переховувався там із вагітною дружиною, а потім був евакуйований до Казахстану за допомогою українців, яким публічно подякував. Після того як депутати російської Держдуми закликали заборонити його через цей проукраїнський допис, його московські та петербурзькі концерти у квітні 2022 року скасували. Тоді він публічно запевнив російську аудиторію у своєму «доброму ставленні до народів Росії», що викликало критику в Україні. Загалом його позиція суперечлива, і він не назвав Росію агресором.",
+    "ru": "Джа Халиб — казахстанский рэпер, который на момент начала полномасштабного вторжения России жил в Киеве и укрывался там с беременной женой, а затем был эвакуирован в Казахстан с помощью украинцев, которых публично поблагодарил. После того как депутаты российской Госдумы призвали запретить его из-за этого проукраинского поста, его московские и петербургские концерты в апреле 2022 года были отменены. Тогда он публично заверил российскую аудиторию в своём «хорошем отношении к народам России», что вызвало критику в Украине. В целом его позиция противоречива, и он не назвал Россию агрессором."
+  },
+  "timeline": [
+    {
+      "date": "2022-02",
+      "title": {
+        "en": "Shelters in Kyiv, thanks Ukrainians after evacuation",
+        "uk": "Переховується в Києві, дякує українцям після евакуації",
+        "ru": "Укрывается в Киеве, благодарит украинцев после эвакуации"
+      },
+      "detail": {
+        "en": "At the start of the invasion Jah Khalib was in a Kyiv bomb shelter with his wife, then eight months pregnant; in an Instagram story he thanked ordinary Ukrainians who helped evacuate them and expressed respect for Ukrainians.",
+        "uk": "На початку вторгнення Джа Халіб перебував у київському бомбосховищі з дружиною, яка була на восьмому місяці вагітності; у сторіз в Instagram він подякував звичайним українцям, які допомогли їм евакуюватися, і висловив повагу до українців.",
+        "ru": "В начале вторжения Джа Халиб находился в киевском бомбоубежище с женой, которая была на восьмом месяце беременности; в сторис в Instagram он поблагодарил обычных украинцев, помогших им эвакуироваться, и выразил уважение к украинцам."
+      },
+      "sources": [
+        { "url": "https://24tv.ua/show24/ru/jah-khalib-pozicija-po-vojne-koncerty-v-rossii-sotrudnichestvo-s-rossijskim-lejblom-show24_n2947534", "publisher": "24 Kanal (Ukraine)" },
+        { "url": "https://show-business.znaj.ua/ru/455236-reper-jah-khalib-yakiy-sidiv-pid-raketami-u-kiyevi-teper-ziznayetsya-v-lyubvi-k-narodam-rossii", "publisher": "Znaj.ua (Ukraine)" }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Russian concerts cancelled after Duma calls for ban",
+        "uk": "Російські концерти скасовано після закликів Держдуми до заборони",
+        "ru": "Российские концерты отменены после призывов Госдумы к запрету"
+      },
+      "detail": {
+        "en": "His Moscow and St. Petersburg concerts scheduled for 23-25 April 2022 were cancelled after a State Duma deputy flagged his social media post expressing respect for Ukrainians and called for banning his performances.",
+        "uk": "Його концерти в Москві та Санкт-Петербурзі, заплановані на 23–25 квітня 2022 року, скасували після того, як депутат Держдуми звернув увагу на його допис у соцмережах із висловленням поваги до українців і закликав заборонити його виступи.",
+        "ru": "Его концерты в Москве и Санкт-Петербурге, запланированные на 23–25 апреля 2022 года, были отменены после того, как депутат Госдумы обратил внимание на его пост в соцсетях с выражением уважения к украинцам и призвал запретить его выступления."
+      },
+      "sources": [
+        { "url": "https://kp.ua/culture/a668184-reper-jah-khalib-opravdalsja-za-podderzhku-ukraintsev-posle-otmeny-kontsertov-v-rossii", "publisher": "KP.ua (Ukraine)", "date": "2022-04" },
+        { "url": "https://www.caravan.kz/news/jah-khalib-sprovociroval-diskussiyu-o-vojjne-svoimi-nesostoyavshimisya-koncertami-927523/", "publisher": "Caravan.kz (Kazakhstan)" }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "Justifies himself to Russian audience",
+        "uk": "Виправдовується перед російською аудиторією",
+        "ru": "Оправдывается перед российской аудиторией"
+      },
+      "detail": {
+        "en": "After the cancellations, Jah Khalib stated he always comes to Russia 'with good intentions' and gladly performs there, 'which clearly demonstrates my good attitude toward the peoples of Russia'; the statement was widely criticized in Ukraine as backpedaling.",
+        "uk": "Після скасувань Джа Халіб заявив, що завжди приїздить до Росії «з добрими намірами» і з задоволенням там виступає, «що явно демонструє моє добре ставлення до народів Росії»; в Україні цю заяву широко критикували як задкування.",
+        "ru": "После отмен Джа Халиб заявил, что всегда приезжает в Россию «с добрыми намерениями» и с удовольствием там выступает, «что явно демонстрирует моё хорошее отношение к народам России»; в Украине это заявление широко критиковали как попытку сдать назад."
+      },
+      "sources": [
+        { "url": "https://gordonua.com/bulvar/news/jah-khalib-posle-otmeny-koncertov-v-strane-agressory-rf-opravdalsya-pered-rossiyanami-za-podderzhku-ukraincev-v-seti-otreagirovali-1660847.html", "publisher": "Gordonua.com (Ukraine)", "date": "2022-04" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

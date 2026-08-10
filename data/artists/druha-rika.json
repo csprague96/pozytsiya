@@ -1,0 +1,98 @@
+{
+  "slug": "druha-rika",
+  "name": "Druha Rika",
+  "nameLocal": "Друга Ріка",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Ukrainian rock band led by Valeriy Kharchyshyn, whose house in Hostomel was destroyed by Russian forces in 2022 and whose brother and son serve in the AFU. Since spring 2022 the band has toured Europe raising millions of dollars for the Armed Forces of Ukraine and, through its 'Neskoreni' charity tour, donated around 1,000 FPV drones to the military by mid-2024.",
+    "uk": "Український рок-гурт на чолі з Валерієм Харчишиним, чий будинок у Гостомелі був зруйнований російськими військами у 2022 році, а брат і син служать у ЗСУ. З весни 2022 року гурт гастролює Європою, зібравши мільйони доларів для Збройних сил України, а в межах благодійного туру «Нескорені» до середини 2024 року передав військовим близько 1000 FPV-дронів.",
+    "ru": "Украинская рок-группа во главе с Валерием Харчишиным, чей дом в Гостомеле был разрушен российскими войсками в 2022 году, а брат и сын служат в ВСУ. С весны 2022 года группа гастролирует по Европе, собрав миллионы долларов для Вооружённых сил Украины, а в рамках благотворительного тура «Нескорені» к середине 2024 года передала военным около 1000 FPV-дронов."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Frontman's house destroyed; fundraising for the military began",
+        "uk": "Зруйновано будинок фронтмена; початок зборів для військових",
+        "ru": "Разрушен дом фронтмена; начало сборов для военных"
+      },
+      "detail": {
+        "en": "After Russian forces destroyed Kharchyshyn's house in Hostomel near Kyiv, he raised about 1 million UAH within days for ammunition for the military unit his brother had joined.",
+        "uk": "Після того як російські війська зруйнували будинок Харчишина в Гостомелі під Києвом, він за кілька днів зібрав близько 1 мільйона гривень на боєприпаси для військової частини, до якої долучився його брат.",
+        "ru": "После того как российские войска разрушили дом Харчишина в Гостомеле под Киевом, он за несколько дней собрал около 1 миллиона гривен на боеприпасы для воинской части, в которую вступил его брат."
+      },
+      "sources": [
+        {
+          "url": "https://euromaidanpress.com/2023/10/26/meet-the-bands-touring-to-raise-funds-for-ukraines-army-and-save-the-dates/",
+          "publisher": "Euromaidan Press",
+          "date": "2023-10-26"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "title": {
+        "en": "European charity tour for the AFU",
+        "uk": "Європейський благодійний тур на підтримку ЗСУ",
+        "ru": "Европейский благотворительный тур в поддержку ВСУ"
+      },
+      "detail": {
+        "en": "Druha Rika launched a charity tour starting in the Baltic states and Czech Republic to raise funds for the Armed Forces of Ukraine, alongside the online benefit concert 'Mariupol'.",
+        "uk": "«Друга Ріка» розпочала благодійний тур країнами Балтії та Чехією для збору коштів на потреби Збройних сил України, а також долучилася до онлайн-концерту «Маріуполь».",
+        "ru": "«Друга Ріка» начала благотворительный тур по странам Балтии и Чехии для сбора средств на нужды Вооружённых сил Украины, а также приняла участие в онлайн-концерте «Мариуполь»."
+      },
+      "sources": [
+        {
+          "url": "https://www.weareukraine.info/ukrainian-band-druha-rika-goes-on-a-charity-tour-of-europe-to-raise-funds-for-the-armed-forces/",
+          "publisher": "We Are Ukraine"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-03",
+      "title": {
+        "en": "Reported ~$4 million raised abroad",
+        "uk": "Повідомлено про близько 4 млн доларів, зібраних за кордоном",
+        "ru": "Сообщено о примерно 4 млн долларов, собранных за рубежом"
+      },
+      "detail": {
+        "en": "Kharchyshyn said the band had collected about 4 million dollars for the Armed Forces during its concerts abroad, not counting the most recent shows.",
+        "uk": "Харчишин розповів, що під час концертів за кордоном гурт зібрав для ЗСУ близько 4 мільйонів доларів, не враховуючи останніх виступів.",
+        "ru": "Харчишин рассказал, что во время концертов за рубежом группа собрала для ВСУ около 4 миллионов долларов, не считая последних выступлений."
+      },
+      "sources": [
+        {
+          "url": "https://www.txtreport.com/news/2022-10-03-valeriy-kharchyshyn-admitted-how-much-money-the-band-%22druha-rika%22-collected-for-the-armed-forces-abroad.ryzdkiOGs.html",
+          "publisher": "TXT Report",
+          "date": "2022-10-03"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-25",
+      "title": {
+        "en": "1,000 FPV drones donated via 'Neskoreni' tour",
+        "uk": "1000 FPV-дронів передано в межах туру «Нескорені»",
+        "ru": "1000 FPV-дронов передано в рамках тура «Нескорені»"
+      },
+      "detail": {
+        "en": "As part of the 'Neskoreni' charity tour with Skai, Druha Rika handed over another 200 FPV drones to the AFU, bringing the total donated through the tour to about 1,000.",
+        "uk": "У межах благодійного туру «Нескорені» разом із гуртом «Скай» «Друга Ріка» передала ЗСУ ще 200 FPV-дронів, довівши загальну кількість переданих у турі дронів до близько 1000.",
+        "ru": "В рамках благотворительного тура «Нескорені» вместе с группой «Скай» «Друга Ріка» передала ВСУ ещё 200 FPV-дронов, доведя общее число переданных в туре дронов примерно до 1000."
+      },
+      "sources": [
+        {
+          "url": "https://rubryka.com/en/2024/07/25/gurt-druga-rika-v-ramkah-blagodijnogo-turu-neskoreni-peredav-shhe-200-fpv-droniv-dlya-zsu/",
+          "publisher": "Rubryka",
+          "date": "2024-07-25"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

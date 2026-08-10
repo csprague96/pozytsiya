@@ -1,0 +1,81 @@
+{
+  "slug": "go-a",
+  "name": "Go_A",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["serving_or_supported_afu"],
+  "summary": {
+    "en": "Electro-folk band Go_A, Ukraine's Eurovision 2021 entrants, were displaced in the first days of the full-scale invasion. They resumed touring explicitly to raise funds for Ukraine and to keep international attention on the war, performing at charity events and telethons including the 'Save Ukraine — #StopWar' broadcast and benefit concerts for Ukrainian refugees abroad.",
+    "uk": "Електрофолк-гурт Go_A, представник України на Євробаченні-2021, був змушений покинути домівки в перші дні повномасштабного вторгнення. Гурт відновив концертну діяльність саме для того, щоб збирати кошти для України та утримувати міжнародну увагу до війни, виступаючи на благодійних заходах і телемарафонах, зокрема в ефірі «Save Ukraine — #StopWar» та на благодійних концертах для українських біженців за кордоном.",
+    "ru": "Электрофолк-группа Go_A, представлявшая Украину на Евровидении-2021, была вынуждена покинуть свои дома в первые дни полномасштабного вторжения. Группа возобновила концертную деятельность именно для того, чтобы собирать средства для Украины и удерживать международное внимание к войне, выступая на благотворительных мероприятиях и телемарафонах, включая эфир «Save Ukraine — #StopWar» и благотворительные концерты для украинских беженцев за рубежом."
+  },
+  "timeline": [
+    {
+      "date": "2022-04-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Peace performance of 'Imagine' with Gaia",
+        "uk": "Виконання «Imagine» разом із Gaia як жест миру",
+        "ru": "Исполнение «Imagine» вместе с Gaia как жест мира"
+      },
+      "detail": {
+        "en": "Lead singer Kateryna Pavlenko performed 'Imagine' with Italian-Brazilian singer Gaia before the Juventus–Inter match in Italy as a gesture for Ukraine amid the invasion.",
+        "uk": "Солістка Катерина Павленко виконала «Imagine» разом з італійсько-бразильською співачкою Gaia перед матчем «Ювентус» — «Інтер» в Італії як жест підтримки України під час вторгнення.",
+        "ru": "Солистка Катерина Павленко исполнила «Imagine» вместе с итальянско-бразильской певицей Gaia перед матчем «Ювентус» — «Интер» в Италии как жест поддержки Украины во время вторжения."
+      },
+      "sources": [
+        {
+          "url": "https://eurovisionireland.net/2022/04/05/italy-ukraine-kateryna-pavlenko-go_a-gaia-perform-imagine/",
+          "publisher": "Eurovision Ireland",
+          "date": "2022-04-05"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-24",
+      "title": {
+        "en": "Save Ukraine — #StopWar charity telethon",
+        "uk": "Благодійний телемарафон «Save Ukraine — #StopWar»",
+        "ru": "Благотворительный телемарафон «Save Ukraine — #StopWar»"
+      },
+      "detail": {
+        "en": "Go_A took part in the international 'Save Ukraine — #StopWar' charity telethon aired from Kyiv and Berlin alongside Kalush Orchestra and other Ukrainian artists to raise funds for Ukraine.",
+        "uk": "Go_A взяв участь у міжнародному благодійному телемарафоні «Save Ukraine — #StopWar», який транслювався з Києва та Берліна, разом із Kalush Orchestra та іншими українськими артистами, щоб зібрати кошти для України.",
+        "ru": "Go_A приняла участие в международном благотворительном телемарафоне «Save Ukraine — #StopWar», транслировавшемся из Киева и Берлина, вместе с Kalush Orchestra и другими украинскими артистами, чтобы собрать средства для Украины."
+      },
+      "sources": [
+        {
+          "url": "https://wiwibloggs.com/2022/05/24/save-ukraine-stopwar-charity-telethon-airs-sunday-from-kyiv-and-berlin-with-go_a-kalush-orchestra-melovin-and-more/272586/",
+          "publisher": "Wiwibloggs",
+          "date": "2022-05-24"
+        }
+      ]
+    },
+    {
+      "date": "2022-09",
+      "title": {
+        "en": "Touring framed as fundraising for Ukraine",
+        "uk": "Гастролі як збір коштів для України",
+        "ru": "Гастроли как сбор средств для Украины"
+      },
+      "detail": {
+        "en": "The band stated that all members were forced from their homes in the first days of the war and that they returned to concert activity to raise funds to help Ukraine and keep the world's attention on the ongoing war; they also played benefit shows for Ukrainian students and refugees in the Netherlands.",
+        "uk": "Гурт заявив, що всі учасники були змушені покинути свої домівки в перші дні війни та що вони повернулися до концертної діяльності, щоб збирати кошти на допомогу Україні й утримувати увагу світу до триваючої війни; вони також дали благодійні концерти для українських студентів і біженців у Нідерландах.",
+        "ru": "Группа заявила, что все участники были вынуждены покинуть свои дома в первые дни войны и что они вернулись к концертной деятельности, чтобы собирать средства в помощь Украине и удерживать внимание мира к продолжающейся войне; они также дали благотворительные концерты для украинских студентов и беженцев в Нидерландах."
+      },
+      "sources": [
+        {
+          "url": "https://go-a-band.com/about-us/",
+          "publisher": "Go_A official site"
+        },
+        {
+          "url": "https://www.alamy.com/kateryna-pavlenko-singer-of-the-ukrainian-band-go-a-performs-while-interacting-with-the-audience-during-the-night-termed-support-each-other-the-ukrainian-band-go-a-played-exclusively-for-ukrainian-students-at-breda-university-of-applied-sciences-the-band-wanted-to-bring-the-ukrainian-students-together-during-the-night-to-support-each-other-during-the-event-there-was-a-voluntary-collection-of-funds-for-the-support-of-ukraine-all-donated-to-the-sails-of-freedom-foundation-in-the-netherlands-the-charity-performance-was-possible-with-the-support-of-the-rector-of-breda-university-of-image552020052.html",
+          "publisher": "Alamy (photo caption)"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

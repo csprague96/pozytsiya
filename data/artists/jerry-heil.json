@@ -1,0 +1,70 @@
+{
+  "slug": "jerry-heil",
+  "name": "Jerry Heil",
+  "nameLocal": "Джері Хейл",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Jerry Heil (Yana Shemaieva) is a Ukrainian singer-songwriter who has actively supported Ukraine throughout the full-scale war. She co-represented Ukraine at Eurovision 2024 with alyona alyona, ran a UNITED24 fundraiser that rebuilt a war-destroyed school, was appointed Ukraine's ambassador for humanitarian demining in 2025, and has hosted large charity concerts for the Armed Forces of Ukraine.",
+    "uk": "Jerry Heil (Яна Шемаєва) — українська співачка й авторка пісень, яка активно підтримує Україну впродовж усієї повномасштабної війни. Разом з альоною альоною вона представляла Україну на Євробаченні-2024, провела збір UNITED24, завдяки якому відбудували зруйновану війною школу, у 2025 році була призначена амбасадоркою України з гуманітарного розмінування та проводить великі благодійні концерти на підтримку ЗСУ.",
+    "ru": "Jerry Heil (Яна Шемаева) — украинская певица и автор песен, активно поддерживающая Украину на протяжении всей полномасштабной войны. Вместе с альоной альоной она представляла Украину на Евровидении-2024, провела сбор UNITED24, благодаря которому была восстановлена разрушенная войной школа, в 2025 году была назначена послом Украины по гуманитарному разминированию и проводит крупные благотворительные концерты в поддержку Вооруженных сил Украины."
+  },
+  "timeline": [
+    {
+      "date": "2024-05",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Eurovision 2024 and UNITED24 school fundraiser",
+        "uk": "Євробачення-2024 та збір UNITED24 на відбудову школи",
+        "ru": "Евровидение-2024 и сбор UNITED24 на восстановление школы"
+      },
+      "detail": {
+        "en": "With alyona alyona, Jerry Heil placed third at Eurovision 2024 with 'Teresa & Maria' and co-led the UNITED24 'Unlock the future for children' campaign, raising 10 million UAH to rebuild the Velykokostromska school destroyed by Russian missiles.",
+        "uk": "Разом з альоною альоною Jerry Heil посіла третє місце на Євробаченні-2024 з піснею «Teresa & Maria» та була співорганізаторкою кампанії UNITED24 «Unlock the future for children», яка зібрала 10 мільйонів гривень на відбудову Великокостромської школи, зруйнованої російськими ракетами.",
+        "ru": "Вместе с альоной альоной Jerry Heil заняла третье место на Евровидении-2024 с песней «Teresa & Maria» и была соорганизатором кампании UNITED24 «Unlock the future for children», собравшей 10 миллионов гривен на восстановление Великокостромской школы, разрушенной российскими ракетами."
+      },
+      "sources": [
+        {"url": "https://u24.gov.ua/news/eurovision2024", "publisher": "UNITED24", "date": "2024-05"},
+        {"url": "https://www.rferl.org/a/ukraine-eurovision-alyona-russia-war-school-charity/32939589.html", "publisher": "RFE/RL", "date": "2024-05"}
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": {
+        "en": "Named Ukraine's humanitarian demining ambassador",
+        "uk": "Призначена амбасадоркою України з гуманітарного розмінування",
+        "ru": "Назначена послом Украины по гуманитарному разминированию"
+      },
+      "detail": {
+        "en": "Jerry Heil was appointed Ukraine's official ambassador for humanitarian demining at the initiative of the Ministry of Economy, Environment and Agriculture and the Demine Ukraine platform, ahead of the Ukraine Mine Action Conference 2025 in Tokyo.",
+        "uk": "Jerry Heil була призначена офіційною амбасадоркою України з гуманітарного розмінування за ініціативою Міністерства економіки, довкілля та сільського господарства і платформи Demine Ukraine напередодні конференції Ukraine Mine Action Conference 2025 у Токіо.",
+        "ru": "Jerry Heil была назначена официальным послом Украины по гуманитарному разминированию по инициативе Министерства экономики, окружающей среды и сельского хозяйства и платформы Demine Ukraine в преддверии конференции Ukraine Mine Action Conference 2025 в Токио."
+      },
+      "sources": [
+        {"url": "https://odessa-journal.com/jerry-heil-appointed-ukraines-humanitarian-demining-ambassador", "publisher": "Odessa Journal", "date": "2025-10"},
+        {"url": "https://x.com/thejerryheil/status/1973765102420492558", "publisher": "Jerry Heil (X)", "date": "2025-10"}
+      ]
+    },
+    {
+      "date": "2026-04",
+      "title": {
+        "en": "Hosts major charity concert for the Armed Forces",
+        "uk": "Проводить великий благодійний концерт на підтримку ЗСУ",
+        "ru": "Проводит крупный благотворительный концерт в поддержку ВСУ"
+      },
+      "detail": {
+        "en": "Jerry Heil hosted a major charity concert in Kyiv in support of the Ukrainian Armed Forces, with international artists joining the wartime event.",
+        "uk": "Jerry Heil провела в Києві великий благодійний концерт на підтримку ЗСУ, до якого у воєнний час долучилися міжнародні артисти.",
+        "ru": "Jerry Heil провела в Киеве крупный благотворительный концерт в поддержку Вооруженных сил Украины, к которому в военное время присоединились международные артисты."
+      },
+      "sources": [
+        {"url": "https://united24media.com/life-in-ukraine/inside-jerry-heils-kyiv-concert-where-international-artists-unite-in-wartime-ukraine-17631", "publisher": "United24 Media", "date": "2026"},
+        {"url": "https://x.com/United24media/status/2040854034521759875", "publisher": "United24 Media (X)", "date": "2026"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

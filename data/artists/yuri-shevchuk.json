@@ -1,0 +1,86 @@
+{
+  "slug": "yuri-shevchuk",
+  "name": "Yuri Shevchuk",
+  "nameLocal": "Юрий Шевчук",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Leader of rock band DDT and a consistent anti-war voice since the 1990s. In May 2022 he denounced the war on stage in Ufa ('the motherland is not the president's ass') and was charged with 'discrediting' the army, receiving a 50,000-ruble fine in August 2022. His concerts in Russia were cancelled, and DDT has since performed abroad while Shevchuk continued releasing anti-war music. As of 2025 he had not been designated a 'foreign agent' despite calls for it.",
+    "uk": "Лідер рок-гурту «ДДТ» і послідовний антивоєнний голос ще з 1990-х. У травні 2022 року він засудив війну зі сцени в Уфі («батьківщина — це не дупа президента») і був звинувачений у «дискредитації» армії, отримавши у серпні 2022 року штраф у 50 000 рублів. Його концерти в Росії скасували, і відтоді «ДДТ» виступає за кордоном, а Шевчук продовжує випускати антивоєнну музику. Станом на 2025 рік його не було визнано «іноземним агентом», попри відповідні заклики.",
+    "ru": "Лидер рок-группы «ДДТ» и последовательный антивоенный голос ещё с 1990-х. В мае 2022 года он осудил войну со сцены в Уфе («родина — это не жопа президента») и был обвинён в «дискредитации» армии, получив в августе 2022 года штраф в 50 000 рублей. Его концерты в России были отменены, и с тех пор «ДДТ» выступает за рубежом, а Шевчук продолжает выпускать антивоенную музыку. По состоянию на 2025 год он не был признан «иностранным агентом», несмотря на соответствующие призывы."
+  },
+  "timeline": [
+    {
+      "date": "2022-05-18",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Anti-war speech at Ufa concert; charged with 'discrediting' army",
+        "uk": "Антивоєнна промова на концерті в Уфі; звинувачення в «дискредитації» армії",
+        "ru": "Антивоенная речь на концерте в Уфе; обвинение в «дискредитации» армии"
+      },
+      "detail": {
+        "en": "At a DDT concert in Ufa, Shevchuk told an 8,000-strong crowd that 'the motherland is not the president's ass that has to be slobbered and kissed all the time' and spoke against the war; police charged him with discrediting the armed forces.",
+        "uk": "На концерті «ДДТ» в Уфі Шевчук сказав 8-тисячній аудиторії, що «батьківщина — це не дупа президента, яку треба весь час слинявити й цілувати», і висловився проти війни; поліція звинуватила його в дискредитації збройних сил.",
+        "ru": "На концерте «ДДТ» в Уфе Шевчук сказал 8-тысячной аудитории, что «родина — это не жопа президента, которую надо всё время слюнявить и целовать», и высказался против войны; полиция обвинила его в дискредитации вооружённых сил."
+      },
+      "sources": [
+        {"url": "https://www.themoscowtimes.com/2022/05/19/soviet-rock-star-prosecuted-for-putins-ass-anti-war-speech-a77732", "publisher": "The Moscow Times", "date": "2022-05-19"},
+        {"url": "https://www.rferl.org/a/russia-ddt-shevchuk-criticism-ukraine-war/31858449.html", "publisher": "RFE/RL", "date": "2022-05-19"}
+      ]
+    },
+    {
+      "date": "2022-08-16",
+      "title": {
+        "en": "Fined 50,000 rubles for 'discrediting' the army",
+        "uk": "Штраф 50 000 рублів за «дискредитацію» армії",
+        "ru": "Штраф 50 000 рублей за «дискредитацию» армии"
+      },
+      "detail": {
+        "en": "A court in Ufa fined Shevchuk 50,000 rubles over the May concert speech, despite court-appointed experts finding no negative assessment of the army in his words. His concerts across Russia were cancelled.",
+        "uk": "Суд в Уфі оштрафував Шевчука на 50 000 рублів за промову на травневому концерті, хоча призначені судом експерти не знайшли в його словах негативної оцінки армії. Його концерти по всій Росії було скасовано.",
+        "ru": "Суд в Уфе оштрафовал Шевчука на 50 000 рублей за речь на майском концерте, хотя назначенные судом эксперты не нашли в его словах негативной оценки армии. Его концерты по всей России были отменены."
+      },
+      "sources": [
+        {"url": "https://novayagazeta.eu/amp/articles/2022/08/16/court-fines-russian-rock-musician-yury-shevchuk-for-discrediting-russian-army-news", "publisher": "Novaya Gazeta Europe", "date": "2022-08-16"},
+        {"url": "https://www.themoscowtimes.com/2022/08/16/veteran-russian-rock-star-fined-over-onstage-war-criticism-a78585", "publisher": "The Moscow Times", "date": "2022-08-16"}
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": {
+        "en": "Releases anti-war song 'Motherland, Come Home'",
+        "uk": "Випускає антивоєнну пісню «Родина, вернись домой»",
+        "ru": "Выпускает антивоенную песню «Родина, вернись домой»"
+      },
+      "detail": {
+        "en": "Shevchuk released 'Rodina, vernis domoy' ('Motherland, Come Home') with Dmitry Emelyanov, an explicitly anti-war track calling on Russia to end the war.",
+        "uk": "Шевчук разом із Дмитром Ємельяновим випустив «Родина, вернись домой» («Батьківщино, повернися додому») — відверто антивоєнний трек із закликом до Росії припинити війну.",
+        "ru": "Шевчук вместе с Дмитрием Емельяновым выпустил «Родина, вернись домой» — открыто антивоенный трек с призывом к России прекратить войну."
+      },
+      "sources": [
+        {"url": "https://therussianreader.com/2023/02/19/2357/", "publisher": "The Russian Reader", "date": "2023-02-19"}
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "title": {
+        "en": "Calls in Russia to designate him a 'foreign agent'",
+        "uk": "Заклики в Росії визнати його «іноземним агентом»",
+        "ru": "Призывы в России признать его «иностранным агентом»"
+      },
+      "detail": {
+        "en": "The pro-government 'Veterans of Russia' movement urged authorities to check Shevchuk for foreign funding and designate him a 'foreign agent'; no designation had been made. DDT continued touring in Europe and the CIS, with concerts in Russia effectively banned.",
+        "uk": "Провладний рух «Ветерани Росії» закликав владу перевірити Шевчука на іноземне фінансування та визнати його «іноземним агентом»; статус надано не було. «ДДТ» продовжував гастролювати Європою та країнами СНД, а концерти в Росії залишалися фактично забороненими.",
+        "ru": "Провластное движение «Ветераны России» призвало власти проверить Шевчука на иностранное финансирование и признать его «иностранным агентом»; статус присвоен не был. «ДДТ» продолжала гастролировать по Европе и странам СНГ, а концерты в России оставались фактически запрещёнными."
+      },
+      "sources": [
+        {"url": "https://eadaily.com/en/news/2025/03/25/veterans-of-russia-urged-to-recognize-musician-and-singer-yuri-shevchuk-as-a-foreign-agent", "publisher": "EADaily (pro-Kremlin outlet)", "date": "2025-03-25"},
+        {"url": "https://www.ips-journal.eu/topics/democracy-and-society/whos-afraid-of-guitars-8644/", "publisher": "IPS Journal"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "dima-bilan",
+  "name": "Dima Bilan",
+  "nameLocal": "Дима Билан",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": ["banned_in_ukraine", "performed_in_occupied_territories", "sanctioned"],
+  "summary": {
+    "en": "Dima Bilan, Russia's 2008 Eurovision winner and a Putin campaign supporter (2012, 2018, 'Putin Team' member), has avoided explicit public statements endorsing the invasion but has continued a loyal mainstream career, appeared on state-TV shows honoring Russian soldiers, and visited occupied Crimea. Ukraine sanctioned him in January 2023 and Canada in February 2023 for involvement in disseminating Russian propaganda.",
+    "uk": "Діма Білан, переможець Євробачення-2008 від Росії та прихильник передвиборчих кампаній Путіна (2012, 2018, учасник «Putin Team»), уникав чітких публічних заяв на підтримку вторгнення, але продовжував лояльну мейнстримну кар'єру, з'являвся у шоу на державному телебаченні на вшанування російських солдатів і відвідував окупований Крим. У січні 2023 року Україна запровадила проти нього санкції, а в лютому 2023 року — Канада, за участь у поширенні російської пропаганди.",
+    "ru": "Дима Билан, победитель Евровидения-2008 от России и сторонник предвыборных кампаний Путина (2012, 2018, участник «Putin Team»), избегал явных публичных заявлений в поддержку вторжения, но продолжал лояльную мейнстримную карьеру, появлялся в шоу на государственном телевидении, чествующих российских солдат, и посещал оккупированный Крым. В январе 2023 года Украина ввела против него санкции, а в феврале 2023 года — Канада, за участие в распространении российской пропаганды."
+  },
+  "timeline": [
+    {
+      "date": "2023-01-07",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Ukrainian sanctions",
+        "uk": "Українські санкції",
+        "ru": "Украинские санкции"
+      },
+      "detail": {
+        "en": "Included in Ukraine's sanctions list, cited for visits to temporarily occupied Crimea and Sevastopol and support of Russia's aggression.",
+        "uk": "Внесений до санкційного списку України з посиланням на відвідування тимчасово окупованих Криму та Севастополя і підтримку агресії Росії.",
+        "ru": "Внесен в санкционный список Украины со ссылкой на посещения временно оккупированных Крыма и Севастополя и поддержку агрессии России."
+      },
+      "sources": [
+        { "url": "https://www.opensanctions.org/entities/Q42904/", "publisher": "OpenSanctions" },
+        { "url": "https://ctrcenter.org/en/ukraine-imposed-sanctions-against-russian-stars-who-visited-the-occupied-crimea", "publisher": "Crimean Tatar Resource Center" }
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": {
+        "en": "Canadian sanctions",
+        "uk": "Санкції Канади",
+        "ru": "Санкции Канады"
+      },
+      "detail": {
+        "en": "Sanctioned by Canada, which cited his involvement in disseminating Russian propaganda and disinformation related to the war.",
+        "uk": "Потрапив під санкції Канади, яка вказала на його участь у поширенні російської пропаганди та дезінформації, пов'язаної з війною.",
+        "ru": "Внесен в санкционный список Канады, которая указала на его участие в распространении российской пропаганды и дезинформации, связанной с войной."
+      },
+      "sources": [
+        { "url": "https://www.opensanctions.org/entities/Q42904/", "publisher": "OpenSanctions" }
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": {
+        "en": "Appears on state New Year show honoring soldiers",
+        "uk": "Участь у державному новорічному шоу на вшанування солдатів",
+        "ru": "Участие в государственном новогоднем шоу, чествующем солдат"
+      },
+      "detail": {
+        "en": "Took part in the VGTRK New Year television show 'Goluboy Ogonyok', an edition in which Russian military personnel were honored by hosts and participants.",
+        "uk": "Взяв участь у новорічному телешоу ВДТРК «Голубой огонёк» — випуску, в якому ведучі та учасники вшановували російських військових.",
+        "ru": "Принял участие в новогоднем телешоу ВГТРК «Голубой огонёк» — выпуске, в котором ведущие и участники чествовали российских военных."
+      },
+      "sources": [
+        { "url": "https://www.propastop.org/en/2024/05/26/have-the-songs-of-russian-musicians-supporting-the-war-disappeared-from-the-radio/", "publisher": "Propastop", "date": "2024-05-26" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "anna-trincher",
+  "name": "Anna Trincher",
+  "nameLocal": "Анна Трінчер",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Kyiv-born singer and blogger, Junior Eurovision 2015 participant. Since the full-scale invasion she has performed at charity events, including the 'Stay Together' concert in Poland, released the charity song 'Shliakh do Peremohy' (2023), and holds fundraising auctions for the Ukrainian army at her concerts.",
+    "uk": "Київська співачка та блогерка, учасниця Дитячого Євробачення-2015. Від початку повномасштабного вторгнення виступає на благодійних заходах, зокрема на концерті «Stay Together» у Польщі, випустила благодійну пісню «Шлях до Перемоги» (2023) і проводить на своїх концертах благодійні аукціони на підтримку української армії.",
+    "ru": "Киевская певица и блогер, участница Детского Евровидения-2015. С начала полномасштабного вторжения выступает на благотворительных мероприятиях, в том числе на концерте «Stay Together» в Польше, выпустила благотворительную песню «Шлях до Перемоги» (2023) и проводит на своих концертах благотворительные аукционы в поддержку украинской армии."
+  },
+  "timeline": [
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Charity performances for Ukraine abroad",
+        "uk": "Благодійні виступи на підтримку України за кордоном",
+        "ru": "Благотворительные выступления в поддержку Украины за рубежом"
+      },
+      "detail": {
+        "en": "After the invasion Trincher drew international attention to the war, performing 'Don't Leave' at the 'Stay Together' benefit concert in Poland and taking part in fundraising for the army.",
+        "uk": "Після вторгнення Трінчер привертала міжнародну увагу до війни: виконала пісню «Don't Leave» на благодійному концерті «Stay Together» у Польщі та брала участь у зборах коштів для армії.",
+        "ru": "После вторжения Тринчер привлекала международное внимание к войне: исполнила песню «Don't Leave» на благотворительном концерте «Stay Together» в Польше и участвовала в сборах средств для армии."
+      },
+      "sources": [
+        {
+          "url": "https://concert.ua/en/talent/anna-trincher",
+          "publisher": "Concert.ua"
+        }
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": {
+        "en": "Charity single 'Shliakh do Peremohy'",
+        "uk": "Благодійний сингл «Шлях до Перемоги»",
+        "ru": "Благотворительный сингл «Шлях до Перемоги»"
+      },
+      "detail": {
+        "en": "Trincher released 'Shliakh do Peremohy' ('Path to Victory'), used as music for a charitable initiative supporting Ukraine.",
+        "uk": "Трінчер випустила пісню «Шлях до Перемоги», яка стала музичним супроводом благодійної ініціативи на підтримку України.",
+        "ru": "Тринчер выпустила песню «Шлях до Перемоги» («Путь к Победе»), ставшую музыкальным сопровождением благотворительной инициативы в поддержку Украины."
+      },
+      "sources": [
+        {
+          "url": "https://concert.ua/en/talent/anna-trincher",
+          "publisher": "Concert.ua"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "title": {
+        "en": "Solo concert with fundraising auction for the AFU",
+        "uk": "Сольний концерт із благодійним аукціоном для ЗСУ",
+        "ru": "Сольный концерт с благотворительным аукционом для ВСУ"
+      },
+      "detail": {
+        "en": "At her large solo concert in Lviv, Trincher held a charity auction and collection with proceeds going to the needs of the Ukrainian army, a standing feature of her concerts.",
+        "uk": "На великому сольному концерті у Львові Трінчер провела благодійний аукціон і збір, кошти від яких спрямовуються на потреби української армії — це постійна складова її концертів.",
+        "ru": "На большом сольном концерте во Львове Тринчер провела благотворительный аукцион и сбор, средства от которых направляются на нужды украинской армии — постоянная составляющая её концертов."
+      },
+      "sources": [
+        {
+          "url": "https://daycom.com.ua/news/anna-trincher-emociyi-blagodiynist-i-velikiy-solniy-koncert----chervona-troyanda-shcho-zapalyuie-sercya",
+          "publisher": "Daycom"
+        },
+        {
+          "url": "https://1tv.com.ua/kultura/velykyj-solnyj-konczert-anny-trincher-u-lvovi-1-serpnya-vartist-kvytkiv-de-kupyty-onlajn/",
+          "publisher": "1TV"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

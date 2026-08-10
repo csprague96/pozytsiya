@@ -1,0 +1,117 @@
+{
+  "slug": "shaman",
+  "name": "SHAMAN",
+  "nameLocal": "Ярослав Дронов",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -3,
+  "status": "positioned",
+  "flags": [
+    "banned_in_ukraine",
+    "performed_in_occupied_territories",
+    "sanctioned"
+  ],
+  "summary": {
+    "en": "Yaroslav Dronov, performing as SHAMAN, became the most prominent musical figure of Russia's wartime patriotic culture after February 2022, with hits 'Vstanem' and 'Ya Russkiy'. He performed at the Red Square concert marking the annexation of occupied Ukrainian regions on 30 September 2022, at Kremlin war-anniversary events, in occupied territories, and for Russian troops. The EU sanctioned him in June 2024; he is also under Ukrainian sanctions.",
+    "uk": "Ярослав Дронов, який виступає під псевдонімом SHAMAN, після лютого 2022 року став найпомітнішою музичною фігурою воєнної патріотичної культури Росії завдяки хітам «Встанем» і «Я русский». Він виступав на концерті на Красній площі 30 вересня 2022 року з нагоди анексії окупованих українських регіонів, на кремлівських заходах до річниць війни, на окупованих територіях і перед російськими військовими. У червні 2024 року ЄС запровадив проти нього санкції; він також перебуває під українськими санкціями.",
+    "ru": "Ярослав Дронов, выступающий под псевдонимом SHAMAN, после февраля 2022 года стал самой заметной музыкальной фигурой военной патриотической культуры России благодаря хитам «Встанем» и «Я русский». Он выступал на концерте на Красной площади 30 сентября 2022 года по случаю аннексии оккупированных украинских регионов, на кремлевских мероприятиях к годовщинам войны, на оккупированных территориях и перед российскими военными. В июне 2024 года ЕС ввел против него санкции; он также находится под украинскими санкциями."
+  },
+  "timeline": [
+    {
+      "date": "2022-07-22",
+      "stanceAfter": -3,
+      "title": {
+        "en": "Releases 'Ya Russkiy'",
+        "uk": "Випускає пісню «Я русский»",
+        "ru": "Выпускает песню «Я русский»"
+      },
+      "detail": {
+        "en": "Released the ultrapatriotic single 'Ya Russkiy' ('I'm Russian'), which became an unofficial anthem of Russia's wartime patriotic mobilization; he later performed it for soldiers near the front line.",
+        "uk": "Випустив ультрапатріотичний сингл «Я русский», який став неофіційним гімном воєнної патріотичної мобілізації в Росії; згодом виконував його перед солдатами поблизу лінії фронту.",
+        "ru": "Выпустил ультрапатриотический сингл «Я русский», ставший неофициальным гимном военной патриотической мобилизации в России; позднее исполнял его перед солдатами вблизи линии фронта."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ya_russkiy",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://www.themoscowtimes.com/2023/09/10/pro-kremlin-pop-stars-concert-a-microcosm-of-russias-wartime-patriotism-a82414",
+          "publisher": "The Moscow Times",
+          "date": "2023-09-10"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-30",
+      "title": {
+        "en": "Performs at Red Square annexation concert",
+        "uk": "Виступ на концерті на Красній площі з нагоди анексії",
+        "ru": "Выступление на концерте на Красной площади по случаю аннексии"
+      },
+      "detail": {
+        "en": "Appeared on stage at the Red Square concert-rally celebrating Russia's claimed annexation of four occupied Ukrainian regions, an event attended by Vladimir Putin.",
+        "uk": "Вийшов на сцену концерту-мітингу на Красній площі з нагоди проголошеної Росією анексії чотирьох окупованих українських регіонів; на заході був присутній Володимир Путін.",
+        "ru": "Вышел на сцену концерта-митинга на Красной площади по случаю провозглашенной Россией аннексии четырех оккупированных украинских регионов; на мероприятии присутствовал Владимир Путин."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/06/24/eu-sanctions-russian-pro-war-pop-star-shaman-a85506",
+          "publisher": "The Moscow Times",
+          "date": "2024-06-24"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "title": {
+        "en": "EU sanctions",
+        "uk": "Санкції ЄС",
+        "ru": "Санкции ЕС"
+      },
+      "detail": {
+        "en": "The EU imposed an asset freeze and travel ban on Dronov in its 14th sanctions package, citing his repeated participation in Kremlin-organized war-anniversary concerts, concerts in illegally occupied regions of Ukraine, and troop entertainment events for the Russian Armed Forces.",
+        "uk": "ЄС у межах 14-го пакета санкцій запровадив проти Дронова замороження активів і заборону на в'їзд, вказавши на його неодноразову участь в організованих Кремлем концертах до річниць війни, концертах у незаконно окупованих регіонах України та розважальних заходах для збройних сил РФ.",
+        "ru": "ЕС в рамках 14-го пакета санкций ввел против Дронова заморозку активов и запрет на въезд, указав на его неоднократное участие в организованных Кремлем концертах к годовщинам войны, концертах в незаконно оккупированных регионах Украины и развлекательных мероприятиях для вооруженных сил РФ."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/06/24/eu-sanctions-russian-pro-war-pop-star-shaman-a85506",
+          "publisher": "The Moscow Times",
+          "date": "2024-06-24"
+        },
+        {
+          "url": "https://enlargement.ec.europa.eu/news/eu-adopts-14th-package-sanctions-against-russia-its-continued-illegal-war-against-ukraine-2024-06-24_en",
+          "publisher": "European Commission",
+          "date": "2024-06-24"
+        }
+      ]
+    },
+    {
+      "date": "2024-07",
+      "title": {
+        "en": "YouTube blocks channel; protest concert at US embassy",
+        "uk": "YouTube блокує канал; протестний концерт біля посольства США",
+        "ru": "YouTube блокирует канал; протестный концерт у посольства США"
+      },
+      "detail": {
+        "en": "YouTube blocked SHAMAN's channel following an appeal by the Lithuanian Radio and Television Commission; he responded by staging a protest concert outside the U.S. Embassy in Moscow on 19 July 2024.",
+        "uk": "YouTube заблокував канал SHAMAN після звернення Литовської комісії з радіо і телебачення; у відповідь 19 липня 2024 року він влаштував протестний концерт біля посольства США в Москві.",
+        "ru": "YouTube заблокировал канал SHAMAN после обращения Литовской комиссии по радио и телевидению; в ответ 19 июля 2024 года он устроил протестный концерт у посольства США в Москве."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/07/05/youtube-bans-pro-war-russian-artists-a85615",
+          "publisher": "The Moscow Times",
+          "date": "2024-07-05"
+        },
+        {
+          "url": "https://www.themoscowtimes.com/2024/07/19/pro-war-singer-shaman-to-stage-protest-concert-outside-us-embassy-in-moscow-a85770",
+          "publisher": "The Moscow Times",
+          "date": "2024-07-19"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

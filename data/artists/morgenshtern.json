@@ -1,0 +1,131 @@
+{
+  "slug": "morgenshtern",
+  "name": "Morgenshtern",
+  "nameLocal": "Моргенштерн",
+  "country": "ru",
+  "basedIn": "ae",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Rapper Alisher Valeyev (Morgenshtern) left Russia in November 2021 amid a state-driven drug-propaganda scandal and settled in Dubai. In March 2022 he released '12', a song condemning the invasion and calling for peace between Russia and Ukraine, and was designated a 'foreign agent' in May 2022. His subsequent statements have fluctuated between anti-war and apolitical positions; in January 2025 Russia issued an arrest warrant for him, and in November 2025 Lithuania banned him for 10 years citing past praise of Putin, a ban a court overturned in 2026.",
+    "uk": "Репер Алішер Валєєв (Моргенштерн) виїхав з Росії в листопаді 2021 року на тлі організованого державою скандалу про «пропаганду наркотиків» і оселився в Дубаї. У березні 2022 року він випустив пісню «12», яка засуджує вторгнення та закликає до миру між Росією та Україною, а в травні 2022 року був визнаний «іноземним агентом». Його подальші заяви коливалися між антивоєнною та аполітичною позиціями; у січні 2025 року Росія видала ордер на його арешт, а в листопаді 2025 року Литва заборонила йому в'їзд на 10 років, посилаючись на його колишні схвальні висловлювання про Путіна, — заборону суд скасував у 2026 році.",
+    "ru": "Рэпер Алишер Валеев (Моргенштерн) покинул Россию в ноябре 2021 года на фоне организованного государством скандала о «пропаганде наркотиков» и поселился в Дубае. В марте 2022 года он выпустил песню «12», осуждающую вторжение и призывающую к миру между Россией и Украиной, а в мае 2022 года был признан «иностранным агентом». Его последующие заявления колебались между антивоенной и аполитичной позициями; в январе 2025 года Россия выдала ордер на его арест, а в ноябре 2025 года Литва запретила ему въезд на 10 лет, сославшись на его прошлые похвалы в адрес Путина, — запрет суд отменил в 2026 году."
+  },
+  "timeline": [
+    {
+      "date": "2021-11",
+      "title": {
+        "en": "Leaves Russia amid state pressure",
+        "uk": "Виїжджає з Росії на тлі державного тиску",
+        "ru": "Уезжает из России на фоне государственного давления"
+      },
+      "detail": {
+        "en": "Morgenshtern left Russia for Dubai after the head of the Investigative Committee accused him of drug propaganda, months before the full-scale invasion.",
+        "uk": "Моргенштерн виїхав з Росії до Дубая після того, як голова Слідчого комітету звинуватив його в пропаганді наркотиків, — за кілька місяців до повномасштабного вторгнення.",
+        "ru": "Моргенштерн уехал из России в Дубай после того, как глава Следственного комитета обвинил его в пропаганде наркотиков, — за несколько месяцев до полномасштабного вторжения."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2021/11/24/rapper-morgenshtern-leaves-russia-after-top-investigators-drug-dealing-claims-reports-a75655",
+          "publisher": "The Moscow Times",
+          "date": "2021-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-14",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Releases anti-war song '12'",
+        "uk": "Випускає антивоєнну пісню «12»",
+        "ru": "Выпускает антивоенную песню «12»"
+      },
+      "detail": {
+        "en": "Released on Telegram after streaming platforms refused it, '12' condemns the invasion of Ukraine and Russian generals sending soldiers 'to the slaughterhouse', and calls for peace between the two countries.",
+        "uk": "Випущена в Telegram після відмови стрімінгових платформ, пісня «12» засуджує вторгнення в Україну та російських генералів, які відправляють солдатів «на бійню», і закликає до миру між двома країнами.",
+        "ru": "Выпущенная в Telegram после отказа стриминговых платформ, песня «12» осуждает вторжение в Украину и российских генералов, отправляющих солдат «на бойню», и призывает к миру между двумя странами."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/12_(song)",
+          "publisher": "Wikipedia",
+          "date": "2022-03-14"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/russia-rappers-putin-war-ukraine-1322497/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-05",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Designated a 'foreign agent'; retreats to apolitical stance",
+        "uk": "Визнаний «іноземним агентом»; відходить до аполітичної позиції",
+        "ru": "Признан «иностранным агентом»; отходит к аполитичной позиции"
+      },
+      "detail": {
+        "en": "Russia's Justice Ministry added Morgenshtern to the 'foreign agents' register in May 2022. In the following years he largely avoided direct political statements, alternating conciliatory and evasive remarks.",
+        "uk": "Міністерство юстиції Росії внесло Моргенштерна до реєстру «іноземних агентів» у травні 2022 року. У наступні роки він здебільшого уникав прямих політичних заяв, чергуючи примирливі та ухильні висловлювання.",
+        "ru": "Министерство юстиции России внесло Моргенштерна в реестр «иностранных агентов» в мае 2022 года. В последующие годы он в основном избегал прямых политических заявлений, чередуя примирительные и уклончивые высказывания."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/01/27/russia-issues-arrest-warrant-for-exiled-rapper-morgenshtern-a87746",
+          "publisher": "The Moscow Times",
+          "date": "2025-01-27"
+        }
+      ]
+    },
+    {
+      "date": "2025-01",
+      "title": {
+        "en": "Russia issues arrest warrant",
+        "uk": "Росія видає ордер на арешт",
+        "ru": "Россия выдаёт ордер на арест"
+      },
+      "detail": {
+        "en": "Russian police issued an arrest warrant for the exiled rapper for allegedly violating the 'foreign agent' law.",
+        "uk": "Російська поліція видала ордер на арешт репера, який перебуває у вигнанні, за нібито порушення закону про «іноземних агентів».",
+        "ru": "Российская полиция выдала ордер на арест находящегося в эмиграции рэпера за предполагаемое нарушение закона об «иностранных агентах»."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/01/27/russia-issues-arrest-warrant-for-exiled-rapper-morgenshtern-a87746",
+          "publisher": "The Moscow Times",
+          "date": "2025-01-27"
+        }
+      ]
+    },
+    {
+      "date": "2025-11",
+      "title": {
+        "en": "Lithuania imposes 10-year entry ban",
+        "uk": "Литва запроваджує 10-річну заборону на в'їзд",
+        "ru": "Литва вводит 10-летний запрет на въезд"
+      },
+      "detail": {
+        "en": "Lithuania banned Morgenshtern from entry for 10 years ahead of a planned concert, with officials citing his past praise of Putin; a court overturned the ban in 2026.",
+        "uk": "Литва заборонила Моргенштерну в'їзд на 10 років напередодні запланованого концерту: чиновники посилалися на його колишні схвальні висловлювання про Путіна; у 2026 році суд скасував заборону.",
+        "ru": "Литва запретила Моргенштерну въезд на 10 лет накануне запланированного концерта: чиновники ссылались на его прошлые похвалы в адрес Путина; в 2026 году суд отменил запрет."
+      },
+      "sources": [
+        {
+          "url": "https://unn.ua/en/amp/lithuania-banned-russian-rapper-morgenshtern-from-entering-for-10-years",
+          "publisher": "UNN",
+          "date": "2025-11"
+        },
+        {
+          "url": "https://thedailyadda.com/2025/11/13/not-a-guest-house-for-putin-worshippers-lithuania-bans-russian-rapper-morgenshtern-for-10-years/",
+          "publisher": "The Daily Adda",
+          "date": "2025-11-13"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

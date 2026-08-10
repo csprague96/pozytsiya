@@ -1,0 +1,66 @@
+{
+  "slug": "hammali-navai",
+  "name": "HammAli & Navai",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "HammAli & Navai were a Russian pop-rap duo of Azerbaijani origin, popular in both Russia and pre-war Ukraine. In the first days of the full-scale invasion Navai Bakirov said on Instagram that giving concerts 'at such a time' was impossible and the duo cancelled upcoming shows. They subsequently returned to full touring in Russia and have avoided any public comment on the war since, for which Ukrainian media placed them among artists who stay silent while continuing Russian careers. In March 2025 the duo announced farewell concerts and a split.",
+    "uk": "HammAli & Navai — російський поп-реп-дует азербайджанського походження, популярний і в Росії, і в довоєнній Україні. У перші дні повномасштабного вторгнення Наваі Бакіров заявив в Instagram, що давати концерти «в такий час» неможливо, і дует скасував найближчі виступи. Згодом вони повернулися до повноцінних гастролей у Росії й відтоді уникають будь-яких публічних коментарів про війну, через що українські медіа зарахували їх до артистів, які мовчать, продовжуючи російську кар'єру. У березні 2025 року дует оголосив про прощальні концерти та розпад.",
+    "ru": "HammAli & Navai — российский поп-рэп-дуэт азербайджанского происхождения, популярный и в России, и в довоенной Украине. В первые дни полномасштабного вторжения Наваи Бакиров заявил в Instagram, что давать концерты «в такое время» невозможно, и дуэт отменил ближайшие выступления. Впоследствии они вернулись к полноценным гастролям в России и с тех пор избегают любых публичных комментариев о войне, за что украинские СМИ отнесли их к артистам, которые молчат, продолжая российскую карьеру. В марте 2025 года дуэт объявил о прощальных концертах и распаде."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-01",
+      "title": {
+        "en": "Navai questions holding concerts, shows cancelled",
+        "uk": "Наваі ставить під сумнів доречність концертів, виступи скасовано",
+        "ru": "Наваи ставит под сомнение уместность концертов, выступления отменены"
+      },
+      "detail": {
+        "en": "In an Instagram post at the start of the invasion, Navai said 'How can one even give concerts at such a time' and announced the cancellation of upcoming performances.",
+        "uk": "У дописі в Instagram на початку вторгнення Наваі сказав: «Як узагалі можна давати концерти в такий час» — і оголосив про скасування найближчих виступів.",
+        "ru": "В посте в Instagram в начале вторжения Наваи сказал: «Как вообще можно давать концерты в такое время» — и объявил об отмене ближайших выступлений."
+      },
+      "sources": [
+        { "url": "https://www.instagram.com/p/CahV4GIA-KA/", "publisher": "Instagram (Navai)", "date": "2022-03-01" }
+      ]
+    },
+    {
+      "date": "2022-12",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Return to Russian stage, silence on the war",
+        "uk": "Повернення на російську сцену, мовчання про війну",
+        "ru": "Возвращение на российскую сцену, молчание о войне"
+      },
+      "detail": {
+        "en": "Ukrainian media reported that Navai, who had earlier professed love for Ukraine and performed there frequently, resumed performing in Russia alongside pro-Putin artists while staying silent about the war.",
+        "uk": "Українські медіа повідомили, що Наваі, який раніше зізнавався в любові до України та часто там виступав, відновив виступи в Росії поряд із пропутінськими артистами, зберігаючи мовчання про війну.",
+        "ru": "Украинские СМИ сообщили, что Наваи, ранее признававшийся в любви к Украине и часто там выступавший, возобновил выступления в России рядом с пропутинскими артистами, храня молчание о войне."
+      },
+      "sources": [
+        { "url": "https://star.znaj.ua/ru/459522-vidomiy-spivak-klyavsya-u-lyubovi-ukrajini-a-teper-tancyuye-razom-z-putinistami-u-rosiji", "publisher": "Znaj.ua (Ukraine)" }
+      ]
+    },
+    {
+      "date": "2025-03-17",
+      "title": {
+        "en": "Duo announces farewell concerts",
+        "uk": "Дует оголошує про прощальні концерти",
+        "ru": "Дуэт объявляет о прощальных концертах"
+      },
+      "detail": {
+        "en": "HammAli & Navai announced farewell concerts ahead of a split, ending the duo's career after years of continued touring in Russia during the war.",
+        "uk": "HammAli & Navai оголосили про прощальні концерти напередодні розпаду, завершивши кар'єру дуету після років безперервних гастролей у Росії під час війни.",
+        "ru": "HammAli & Navai объявили о прощальных концертах в преддверии распада, завершив карьеру дуэта после лет непрерывных гастролей в России во время войны."
+      },
+      "sources": [
+        { "url": "https://www.intermedia.ru/news/393904", "publisher": "InterMedia (Russia)", "date": "2025-03-17" }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

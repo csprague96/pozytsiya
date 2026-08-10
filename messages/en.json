@@ -1,0 +1,106 @@
+{
+  "site": {
+    "name": "Pozytsiya",
+    "wordmark": "Pozytsiya",
+    "tagline": "Where artists stand on Russia's war against Ukraine"
+  },
+  "nav": {
+    "about": "About"
+  },
+  "header": {
+    "toggleTheme": "Toggle theme",
+    "language": "Language"
+  },
+  "footer": {
+    "disclaimer": "Positions summarize publicly reported statements and actions. Follow the linked sources for full context.",
+    "methodology": "Methodology"
+  },
+  "home": {
+    "title": "Where artists stand",
+    "intro": "Public positions of Ukrainian, Russian, and regional musicians on Russia's full-scale invasion of Ukraine — documented, dated, and sourced.",
+    "searchPlaceholder": "Search artists",
+    "empty": "No artists match these filters.",
+    "clearFilters": "Clear filters",
+    "sortLabel": "Sort",
+    "sort": {
+      "name": "Name",
+      "stance": "Stance",
+      "updated": "Recently updated"
+    },
+    "countryLabel": "Country",
+    "allCountries": "All countries",
+    "stanceLabel": "Stance",
+    "allStances": "All stances",
+    "stats": "{total, plural, one {# artist} other {# artists}} · {ua} pro-Ukraine · {ru} pro-Russia · {none} silent or ambiguous"
+  },
+  "country": {
+    "other": "Other"
+  },
+  "stance": {
+    "ua_active": {
+      "label": "Active supporter of Ukraine",
+      "desc": "Concrete support for Ukraine: fundraising, volunteering, benefit concerts, or military service."
+    },
+    "ua_vocal": {
+      "label": "Pro-Ukraine",
+      "desc": "Publicly condemned the invasion and named Russia as the aggressor."
+    },
+    "ua_leaning": {
+      "label": "Leans pro-Ukraine",
+      "desc": "Supportive gestures or signals without direct statements."
+    },
+    "ambiguous": {
+      "label": "Ambiguous",
+      "desc": "Evasive or contradictory: \"against all war\" without naming the aggressor."
+    },
+    "silent": {
+      "label": "Silent",
+      "desc": "No known public position."
+    },
+    "ru_leaning": {
+      "label": "Leans pro-Russia",
+      "desc": "Continues a Russian state-adjacent career while staying silent on the war."
+    },
+    "ru_vocal": {
+      "label": "Pro-Russia",
+      "desc": "Publicly supports the invasion."
+    },
+    "ru_active": {
+      "label": "Active war promoter",
+      "desc": "Pro-war rallies and Z-concerts, performances in occupied territories, or fundraising for the Russian military."
+    }
+  },
+  "flags": {
+    "left_russia": "Left Russia",
+    "banned_in_ukraine": "Banned in Ukraine",
+    "rf_foreign_agent": "\"Foreign agent\" in Russia",
+    "serving_or_supported_afu": "Served or supported the AFU",
+    "performed_in_occupied_territories": "Performed in occupied territories",
+    "sanctioned": "Sanctioned",
+    "deceased": "Deceased",
+    "stance_changed": "Stance changed"
+  },
+  "artist": {
+    "from": "From",
+    "basedIn": "Based in",
+    "timeline": "Timeline",
+    "sources": "Sources",
+    "lastReviewed": "Last reviewed {date}",
+    "disputed": "Disputed — published accounts differ",
+    "stanceShift": "Position after this event",
+    "back": "All artists"
+  },
+  "about": {
+    "title": "About & methodology",
+    "intro1": "Pozytsiya tracks where popular musicians stand on Russia's full-scale invasion of Ukraine. It covers Ukrainian and Russian artists as well as artists from the wider region whose audiences span both countries.",
+    "intro2": "Every entry is based on public statements and documented actions. Nothing here is inferred from silence alone: an artist with no known position is listed as silent, not assigned a side.",
+    "scaleTitle": "The scale",
+    "scaleIntro": "Positions sit on a seven-point spectrum, assigned only when supported by documented statements or actions. Two off-scale statuses cover everyone else.",
+    "flagsTitle": "Badges",
+    "flagsIntro": "Badges mark documented facts that don't fit on the spectrum: sanctions, bans, emigration, military service, and similar.",
+    "sourcingTitle": "Sources and neutrality",
+    "sourcingBody": "Each timeline entry links to at least one dated source. We prefer artists' own statements and reporting from established outlets; Russian state media is labeled as such. Descriptions state facts and dates without editorializing. Where reliable accounts genuinely conflict, the entry is marked as disputed.",
+    "correctionsTitle": "Corrections",
+    "correctionsBody": "See something wrong or outdated? Corrections are welcome as issues or pull requests on the project's GitHub — corrections that come with sources are applied fastest."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "sergey-lazarev",
+  "name": "Sergey Lazarev",
+  "nameLocal": "Сергей Лазарев",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -2,
+  "status": "positioned",
+  "flags": ["sanctioned"],
+  "summary": {
+    "en": "Russian singer and two-time Eurovision entrant. On 24 February 2022 he posted a black square with 'No to war,' but by April 2022 he publicly distanced himself from words in support of Ukraine and declared his love for Russia. Ukraine's Main Intelligence Directorate lists him as a 'Kremlin mouthpiece,' citing his participation in the 2022 pro-military propaganda video 'Vstanem,' repeated concerts in occupied Crimea, and appearances on state-TV New Year shows honoring servicemen fighting in Ukraine. Ukraine imposed personal sanctions on him on 7 January 2023.",
+    "uk": "Російський співак, двічі учасник Євробачення. 24 лютого 2022 року він опублікував чорний квадрат з написом «Ні війні», але вже у квітні 2022 року публічно відхрестився від слів на підтримку України та освідчився в любові до Росії. Головне управління розвідки України зараховує його до «рупорів Кремля», посилаючись на його участь у пропагандистському провоєнному відео «Встанем» 2022 року, неодноразові концерти в окупованому Криму та появи в новорічних шоу державного телебачення, де вшановували військових, які воюють в Україні. 7 січня 2023 року Україна запровадила проти нього персональні санкції.",
+    "ru": "Российский певец, дважды участник Евровидения. 24 февраля 2022 года он опубликовал черный квадрат с подписью «Нет войне», но уже к апрелю 2022 года публично отмежевался от слов в поддержку Украины и признался в любви к России. Главное управление разведки Украины причисляет его к «рупорам Кремля», ссылаясь на его участие в пропагандистском провоенном видео «Встанем» 2022 года, неоднократные концерты в оккупированном Крыму и появления в новогодних шоу государственного телевидения, где чествовали военных, воюющих в Украине. 7 января 2023 года Украина ввела против него персональные санкции."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 1,
+      "title": {
+        "en": "'No to war' post",
+        "uk": "Допис «Ні війні»",
+        "ru": "Пост «Нет войне»"
+      },
+      "detail": {
+        "en": "Lazarev posted a black square with the caption 'Crying like a boy. No to war,' calling for a stop to military action; he deleted his Instagram account in early March 2022.",
+        "uk": "Лазарєв опублікував чорний квадрат з підписом «Плачу, як хлопчисько. Ні війні», закликавши зупинити воєнні дії; на початку березня 2022 року він видалив свій акаунт в Instagram.",
+        "ru": "Лазарев опубликовал черный квадрат с подписью «Плачу, как мальчишка. Нет войне», призвав остановить военные действия; в начале марта 2022 года он удалил свой аккаунт в Instagram."
+      },
+      "sources": [
+        {
+          "url": "https://prosleduet.media/details/russian-stars-supported-the-war/",
+          "publisher": "Prosleduet Media"
+        },
+        {
+          "url": "https://telegraf.com.ua/shou-biznes/2024-10-20/5882462-zhil-v-kieve-vo-vremya-maydana-a-pozzhe-obozval-ukraintsev-natsistami-chto-govorit-o-voyne-pevets-sergey-lazarev-foto-video",
+          "publisher": "Telegraf (Ukraine)",
+          "date": "2024-10-20"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Walked back anti-war statements",
+        "uk": "Відмовився від антивоєнних заяв",
+        "ru": "Отказался от антивоенных заявлений"
+      },
+      "detail": {
+        "en": "Lazarev disavowed his words perceived as supporting Ukraine and publicly professed love for Russia; in summer 2022 he performed for displaced people from Donbas and stopped discussing the war critically.",
+        "uk": "Лазарєв відхрестився від своїх слів, сприйнятих як підтримка України, і публічно освідчився в любові до Росії; влітку 2022 року він виступив для переміщених осіб з Донбасу і перестав критично висловлюватися про війну.",
+        "ru": "Лазарев отмежевался от своих слов, воспринятых как поддержка Украины, и публично признался в любви к России; летом 2022 года он выступил для переселенцев из Донбасса и перестал критически высказываться о войне."
+      },
+      "sources": [
+        {
+          "url": "https://news.obozrevatel.com/show/people/lazarev-priznalsya-v-lyubvi-rossii-i-otkrestilsya-ot-slov-v-podderzhku-ukrainyi.htm",
+          "publisher": "Obozrevatel"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-07",
+      "stanceAfter": -2,
+      "title": {
+        "en": "Sanctioned by Ukraine",
+        "uk": "Санкції України",
+        "ru": "Санкции Украины"
+      },
+      "detail": {
+        "en": "Ukraine imposed personal sanctions on Lazarev. The GUR 'War & Sanctions' portal lists him among 'Kremlin mouthpieces,' citing his participation in the 2022 propaganda video 'Vstanem' supporting the Russian military and repeated performances in occupied Crimea at events organized by Russian authorities.",
+        "uk": "Україна запровадила проти Лазарєва персональні санкції. Портал ГУР «Війна і санкції» зараховує його до «рупорів Кремля», посилаючись на участь у пропагандистському відео «Встанем» 2022 року на підтримку російської армії та неодноразові виступи в окупованому Криму на заходах, організованих російською владою.",
+        "ru": "Украина ввела против Лазарева персональные санкции. Портал ГУР «Война и санкции» причисляет его к «рупорам Кремля», ссылаясь на участие в пропагандистском видео «Встанем» 2022 года в поддержку российской армии и неоднократные выступления в оккупированном Крыму на мероприятиях, организованных российскими властями."
+      },
+      "sources": [
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/25190",
+          "publisher": "GUR of Ukraine (war-sanctions.gur.gov.ua)"
+        }
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": {
+        "en": "State-TV New Year shows honoring servicemen",
+        "uk": "Новорічні шоу держтелебачення з вшануванням військових",
+        "ru": "Новогодние шоу гостелевидения с чествованием военных"
+      },
+      "detail": {
+        "en": "In the 2024–2025 season Lazarev appeared on the Russian state-TV New Year show 'Goluboy Ogonyok,' broadcasts in which servicemen fighting in Ukraine were honored and given a platform for military-patriotic speeches.",
+        "uk": "У сезоні 2024–2025 років Лазарєв з'явився в новорічному шоу російського державного телебачення «Голубой огонёк» — в ефірах, де вшановували військових, які воюють в Україні, і надавали їм трибуну для військово-патріотичних промов.",
+        "ru": "В сезоне 2024–2025 годов Лазарев появился в новогоднем шоу российского государственного телевидения «Голубой огонёк» — в эфирах, где чествовали военных, воюющих в Украине, и предоставляли им трибуну для военно-патриотических речей."
+      },
+      "sources": [
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/25190",
+          "publisher": "GUR of Ukraine (war-sanctions.gur.gov.ua)"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "face",
+  "name": "FACE",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": ["left_russia", "rf_foreign_agent"],
+  "summary": {
+    "en": "Rapper Ivan Dryomin (FACE) left Russia in early March 2022 in protest at the invasion of Ukraine, announcing he would no longer perform in Russia and pulling his music from Russian streaming platforms. In April 2022 he became one of the first musicians added to Russia's 'foreign agents' register, and he later performed at a benefit concert in Poland raising funds for Ukrainian refugees. In July 2025 Russia put him on a wanted list, and in December 2025 he was criminally charged with violating the 'foreign agent' law.",
+    "uk": "Репер Іван Дрьомін (FACE) виїхав з Росії на початку березня 2022 року на знак протесту проти вторгнення в Україну, оголосивши, що більше не виступатиме в Росії, і прибравши свою музику з російських стрімінгових платформ. У квітні 2022 року він став одним із перших музикантів, внесених до російського реєстру «іноземних агентів», а згодом виступив на благодійному концерті в Польщі, де збирали кошти для українських біженців. У липні 2025 року Росія оголосила його в розшук, а в грудні 2025 року йому висунули кримінальне обвинувачення в порушенні закону про «іноземних агентів».",
+    "ru": "Рэпер Иван Дрёмин (FACE) покинул Россию в начале марта 2022 года в знак протеста против вторжения в Украину, объявив, что больше не будет выступать в России, и убрав свою музыку с российских стриминговых платформ. В апреле 2022 года он стал одним из первых музыкантов, внесённых в российский реестр «иностранных агентов», а позже выступил на благотворительном концерте в Польше, где собирали средства для украинских беженцев. В июле 2025 года Россия объявила его в розыск, а в декабре 2025 года ему предъявили уголовное обвинение в нарушении закона об «иностранных агентах»."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Leaves Russia in protest at the invasion",
+        "uk": "Виїжджає з Росії на знак протесту проти вторгнення",
+        "ru": "Уезжает из России в знак протеста против вторжения"
+      },
+      "detail": {
+        "en": "FACE announced he was leaving Russia over the war against Ukraine, saying he would stop performing in the country and remove his music from Russian streaming services.",
+        "uk": "FACE оголосив, що залишає Росію через війну проти України, заявивши, що припиняє виступати в країні та прибирає свою музику з російських стрімінгових сервісів.",
+        "ru": "FACE объявил, что покидает Россию из-за войны против Украины, заявив, что прекращает выступать в стране и убирает свою музыку с российских стриминговых сервисов."
+      },
+      "sources": [
+        {
+          "url": "https://www.rferl.org/a/russia-rapper-face-leaves-invasion-ukraine/31749574.html",
+          "publisher": "RFE/RL",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Declared a 'foreign agent'; benefit appearance for Ukrainian refugees",
+        "uk": "Визнаний «іноземним агентом»; благодійний виступ на підтримку українських біженців",
+        "ru": "Признан «иностранным агентом»; благотворительное выступление в поддержку украинских беженцев"
+      },
+      "detail": {
+        "en": "Russia's Justice Ministry added Dryomin to the 'foreign agent' register in April 2022 after his public opposition to the war; in exile he took part in a concert in Poland collecting funds for Ukrainian refugees and apologized to them for Russia's actions.",
+        "uk": "Міністерство юстиції Росії внесло Дрьоміна до реєстру «іноземних агентів» у квітні 2022 року після його публічного виступу проти війни; у вигнанні він узяв участь у концерті в Польщі, де збирали кошти для українських біженців, і попросив у них вибачення за дії Росії.",
+        "ru": "Министерство юстиции России внесло Дрёмина в реестр «иностранных агентов» в апреле 2022 года после его публичного выступления против войны; в эмиграции он принял участие в концерте в Польше, где собирали средства для украинских беженцев, и извинился перед ними за действия России."
+      },
+      "sources": [
+        {
+          "url": "https://ovd.info/en/persons/ivan-dremin-face",
+          "publisher": "OVD-Info",
+          "date": "2025"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-features/face-russian-rapper-putin-foreign-agent-ukraine-1339439",
+          "publisher": "Rolling Stone",
+          "date": "2022"
+        }
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": {
+        "en": "Placed on Russia's wanted list",
+        "uk": "Оголошений у розшук у Росії",
+        "ru": "Объявлен в розыск в России"
+      },
+      "detail": {
+        "en": "The Interior Ministry issued an arrest warrant for FACE in a criminal case over repeated non-compliance with 'foreign agent' obligations; he faces up to two years in prison.",
+        "uk": "Міністерство внутрішніх справ видало ордер на арешт FACE у кримінальній справі про неодноразове невиконання обов'язків «іноземного агента»; йому загрожує до двох років ув'язнення.",
+        "ru": "Министерство внутренних дел выдало ордер на арест FACE по уголовному делу о неоднократном неисполнении обязанностей «иностранного агента»; ему грозит до двух лет лишения свободы."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/07/18/interior-ministry-issues-arrest-warrant-for-rapper-face-a89887",
+          "publisher": "The Moscow Times",
+          "date": "2025-07-18"
+        }
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": {
+        "en": "Criminally charged under 'foreign agent' law",
+        "uk": "Кримінальне обвинувачення за законом про «іноземних агентів»",
+        "ru": "Уголовное обвинение по закону об «иностранных агентах»"
+      },
+      "detail": {
+        "en": "Russian authorities formally charged FACE with violating the 'foreign agent' law.",
+        "uk": "Російська влада офіційно висунула FACE обвинувачення в порушенні закону про «іноземних агентів».",
+        "ru": "Российские власти официально предъявили FACE обвинение в нарушении закона об «иностранных агентах»."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/12/01/rapper-face-charged-with-violating-foreign-agent-law-a91288",
+          "publisher": "The Moscow Times",
+          "date": "2025-12-01"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

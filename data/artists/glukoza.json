@@ -1,0 +1,68 @@
+{
+  "slug": "glukoza",
+  "name": "Glukoza",
+  "nameLocal": "Глюк'oZa",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "silent",
+  "flags": ["banned_in_ukraine"],
+  "summary": {
+    "en": "Russian pop singer (Natalia Ionova). In August 2020, arriving in Kyiv on a flight from Minsk, she was questioned at the border over her visits to occupied Crimea and banned from entering Ukraine for three years. Since February 2022 she has made no known public statement on the war and has continued performing in Russia. In 2024 she appeared on a reported Kremlin performance blacklist over the 'almost naked' party scandal (unrelated to the war), and a July 2024 concert in Krasnoyarsk caused a domestic scandal over her on-stage condition.",
+    "uk": "Російська попспівачка (Наталія Іонова). У серпні 2020 року, прилетівши до Києва рейсом із Мінська, вона була допитана на кордоні через свої поїздки до окупованого Криму та отримала заборону на в'їзд в Україну на три роки. Від лютого 2022 року вона не зробила жодної відомої публічної заяви про війну та продовжує виступати в Росії. У 2024 році вона потрапила до ймовірного кремлівського чорного списку виконавців через скандал із «голою вечіркою» (не пов'язаний із війною), а концерт у Красноярську в липні 2024 року спричинив скандал у Росії через її стан на сцені.",
+    "ru": "Российская поп-певица (Наталья Ионова). В августе 2020 года, прилетев в Киев рейсом из Минска, она была допрошена на границе из-за своих поездок в оккупированный Крым и получила запрет на въезд в Украину на три года. С февраля 2022 года она не сделала ни одного известного публичного заявления о войне и продолжает выступать в России. В 2024 году она попала в предполагаемый кремлёвский чёрный список исполнителей из-за скандала с «голой вечеринкой» (не связанного с войной), а концерт в Красноярске в июле 2024 года вызвал скандал в России из-за её состояния на сцене."
+  },
+  "timeline": [
+    {
+      "date": "2020-08",
+      "title": {
+        "en": "Banned from entering Ukraine for three years",
+        "uk": "Заборона на в'їзд в Україну на три роки",
+        "ru": "Запрет на въезд в Украину на три года"
+      },
+      "detail": {
+        "en": "Ukraine's border service banned Glukoza from entry for three years over her visits to occupied Crimea; she had arrived in Kyiv on a flight from Minsk and later said border guards pressured her into saying 'Crimea is Ukrainian' on video.",
+        "uk": "Держприкордонслужба України заборонила Глюк'озі в'їзд на три роки через її поїздки до окупованого Криму; вона прилетіла до Києва рейсом із Мінська й пізніше заявила, що прикордонники тиснули на неї, змушуючи сказати на відео «Крим — це Україна».",
+        "ru": "Пограничная служба Украины запретила Глюк'озе въезд на три года из-за её поездок в оккупированный Крым; она прилетела в Киев рейсом из Минска и позже заявила, что пограничники давили на неё, заставляя сказать на видео «Крым — украинский»."
+      },
+      "sources": [
+        {"url": "https://ukranews.com/en/news/719323-border-service-bans-russian-singer-glukoza-from-entering-ukraine-for-3-years", "publisher": "Ukrainian News Agency", "date": "2020-08-11"},
+        {"url": "https://www.rbc.ru/rbcfreenews/5f3367279a794792bc3a95ef", "publisher": "RBC (Russian outlet)", "date": "2020-08-12"}
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "Appears on reported Kremlin performance blacklist",
+        "uk": "Потрапляє до ймовірного кремлівського чорного списку виконавців",
+        "ru": "Попадает в предполагаемый кремлёвский чёрный список исполнителей"
+      },
+      "detail": {
+        "en": "Meduza reported that Glukoza was included on a secret Kremlin blacklist of artists de facto barred from major venues — in her case over attendance at the December 2023 'almost naked' party rather than any war-related statement.",
+        "uk": "Meduza повідомила, що Глюк'озу внесли до таємного кремлівського чорного списку артистів, фактично позбавлених доступу до великих майданчиків — у її випадку через відвідування «голої вечірки» в грудні 2023 року, а не через будь-які заяви про війну.",
+        "ru": "Meduza сообщила, что Глюк'озу включили в секретный кремлёвский чёрный список артистов, де-факто лишённых доступа к крупным площадкам — в её случае из-за посещения «голой вечеринки» в декабре 2023 года, а не из-за каких-либо заявлений о войне."
+      },
+      "sources": [
+        {"url": "https://meduza.io/en/feature/2024/02/09/kremlin-de-facto-bans-dozens-of-top-artists-from-performing", "publisher": "Meduza", "date": "2024-02-09"}
+      ]
+    },
+    {
+      "date": "2024-07-20",
+      "title": {
+        "en": "Krasnoyarsk concert scandal",
+        "uk": "Скандал із концертом у Красноярську",
+        "ru": "Скандал с концертом в Красноярске"
+      },
+      "detail": {
+        "en": "Her performance at a City Metallurgist Day event in Krasnoyarsk drew complaints over her behavior and condition on stage; she attributed it to prescribed antidepressants after a bereavement. The episode concerned conduct, not the war, and she continued her career in Russia.",
+        "uk": "Її виступ на святкуванні Дня металурга в Красноярську викликав скарги на її поведінку та стан на сцені; вона пояснила це призначеними антидепресантами після втрати близької людини. Епізод стосувався поведінки, а не війни, і вона продовжила кар'єру в Росії.",
+        "ru": "Её выступление на праздновании Дня металлурга в Красноярске вызвало жалобы на её поведение и состояние на сцене; она объяснила это назначенными антидепрессантами после утраты близкого человека. Эпизод касался поведения, а не войны, и она продолжила карьеру в России."
+      },
+      "sources": [
+        {"url": "https://www.rbc.ru/society/22/07/2024/669eaa2b9a794764df390fe1", "publisher": "RBC (Russian outlet)", "date": "2024-07-22"},
+        {"url": "https://krsk.aif.ru/culture/materilas-chesalas-chto-sluchilos-s-glyukozoy-na-koncerte-v-krasnoyarske", "publisher": "AiF Krasnoyarsk (Russian outlet)"}
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

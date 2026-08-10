@@ -1,0 +1,81 @@
+{
+  "slug": "niletto",
+  "name": "NILETTO",
+  "country": "ru",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "NILETTO (Danil Prytkov) is a Russian pop singer who on 24 February 2022 posted a black square and announced he was suspending concert activity, a gesture read as disapproval of the invasion; Russian pro-war commentators later attacked him as an artist who had 'condemned the SVO'. He returned to the stage by April 2022 and has since toured Russia and performed at state holiday events while avoiding any mention of the war in Ukraine. In May 2026 he performed the wartime song 'Ekh, dorogi' at the 'Songs of Victory' concert in the State Kremlin Palace.",
+    "uk": "NILETTO (Даніл Притков) — російський попспівак, який 24 лютого 2022 року опублікував чорний квадрат і оголосив про призупинення концертної діяльності — жест, який сприйняли як несхвалення вторгнення; згодом російські провоєнні коментатори атакували його як артиста, що «засудив СВО». Уже у квітні 2022 року він повернувся на сцену й відтоді гастролює Росією та виступає на державних святкових заходах, уникаючи будь-яких згадок про війну в Україні. У травні 2026 року він виконав воєнну пісню «Ех, дороги» на концерті «Пісні Перемоги» в Державному Кремлівському палаці.",
+    "ru": "NILETTO (Данил Прытков) — российский поп-певец, который 24 февраля 2022 года опубликовал черный квадрат и объявил о приостановке концертной деятельности — жест, воспринятый как неодобрение вторжения; позже российские провоенные комментаторы атаковали его как артиста, «осудившего СВО». Уже к апрелю 2022 года он вернулся на сцену и с тех пор гастролирует по России и выступает на государственных праздничных мероприятиях, избегая любых упоминаний о войне в Украине. В мае 2026 года он исполнил военную песню «Эх, дороги» на концерте «Песни Победы» в Государственном Кремлевском дворце."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Black square post, suspends concerts",
+        "uk": "Допис із чорним квадратом, призупинення концертів",
+        "ru": "Пост с черным квадратом, приостановка концертов"
+      },
+      "detail": {
+        "en": "On the day of the invasion NILETTO posted a black square on social media and said he was suspending his concert activity.",
+        "uk": "У день вторгнення NILETTO опублікував у соцмережах чорний квадрат і повідомив, що призупиняє концертну діяльність.",
+        "ru": "В день вторжения NILETTO опубликовал в соцсетях черный квадрат и сообщил, что приостанавливает концертную деятельность."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/niletto",
+          "publisher": "Stars About War (Ukraine)"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Returns to the stage in Russia",
+        "uk": "Повернення на сцену в Росії",
+        "ru": "Возвращение на сцену в России"
+      },
+      "detail": {
+        "en": "Despite the announced suspension, NILETTO returned to performing in April 2022 and resumed a full Russian concert schedule, including appearances at state holiday events, without mentioning the war.",
+        "uk": "Попри оголошене призупинення, NILETTO повернувся до виступів у квітні 2022 року й відновив повний концертний графік у Росії, зокрема з появами на державних святкових заходах, не згадуючи про війну.",
+        "ru": "Несмотря на объявленную приостановку, NILETTO вернулся к выступлениям в апреле 2022 года и возобновил полный концертный график в России, включая появления на государственных праздничных мероприятиях, не упоминая о войне."
+      },
+      "sources": [
+        {
+          "url": "https://starsaboutwar.in.ua/ru/niletto",
+          "publisher": "Stars About War (Ukraine)"
+        },
+        {
+          "url": "https://absatz.media/news/49053-izvestnyj-obshestvennik-vozmutilsya-koncertom-osudivshego-svo-niletto",
+          "publisher": "Absatz (Russian media)"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "title": {
+        "en": "Performs at Kremlin 'Songs of Victory' concert",
+        "uk": "Виступ на кремлівському концерті «Пісні Перемоги»",
+        "ru": "Выступление на кремлевском концерте «Песни Победы»"
+      },
+      "detail": {
+        "en": "NILETTO took part in the 'Songs of Victory' concert at the State Kremlin Palace, performing the Soviet wartime song 'Ekh, dorogi'.",
+        "uk": "NILETTO взяв участь у концерті «Пісні Перемоги» в Державному Кремлівському палаці, виконавши радянську воєнну пісню «Ех, дороги».",
+        "ru": "NILETTO принял участие в концерте «Песни Победы» в Государственном Кремлевском дворце, исполнив советскую военную песню «Эх, дороги»."
+      },
+      "sources": [
+        {
+          "url": "https://www.e1.ru/text/culture/2026/05/12/76414793/",
+          "publisher": "E1.ru (Russia)",
+          "date": "2026-05-12"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

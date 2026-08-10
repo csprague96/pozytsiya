@@ -1,0 +1,82 @@
+{
+  "slug": "sadsvit",
+  "name": "SadSvit",
+  "country": "ua",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "SadSvit (Bohdan Rozvadovskyi) is a young Ukrainian post-punk/indie musician from Ivano-Frankivsk whose song 'Kaseta' spread widely in 2022 after being used in a video by Ukrainian soldiers defending Mariupol. He left Ukraine at 17 at the start of the full-scale invasion and lived in Vienna and then Warsaw, donating over 1.3 million UAH from a European tour to Ukraine's Defense Intelligence (HUR) and playing benefit concerts for the Defense Forces. He returned to Ukraine in late 2025.",
+    "uk": "SadSvit (Богдан Розвадовський) — молодий український пост-панк/інді-музикант з Івано-Франківська, чия пісня «Касета» широко розійшлася 2022 року після використання у відео українських військових, які обороняли Маріуполь. На початку повномасштабного вторгнення він у 17 років виїхав з України і жив у Відні, а потім у Варшаві, передавши понад 1,3 мільйона гривень із європейського туру Головному управлінню розвідки Міноборони України (ГУР) та граючи благодійні концерти на підтримку Сил оборони. Наприкінці 2025 року він повернувся в Україну.",
+    "ru": "SadSvit (Богдан Розвадовский) — молодой украинский пост-панк/инди-музыкант из Ивано-Франковска, чья песня «Касета» широко разошлась в 2022 году после использования в видео украинских военных, оборонявших Мариуполь. В начале полномасштабного вторжения он в 17 лет уехал из Украины и жил в Вене, а затем в Варшаве, передав более 1,3 миллиона гривен с европейского тура Главному управлению разведки Минобороны Украины (ГУР) и играя благотворительные концерты в поддержку Сил обороны. В конце 2025 года он вернулся в Украину."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 3,
+      "title": {
+        "en": "'Kaseta' becomes associated with Ukraine's defenders",
+        "uk": "«Касета» починає асоціюватися із захисниками України",
+        "ru": "«Касета» начинает ассоциироваться с защитниками Украины"
+      },
+      "detail": {
+        "en": "In spring 2022 a video showing the daily life of soldiers defending Mariupol used SadSvit's song 'Kaseta', which subsequently surged in popularity on Spotify and Shazam and became strongly associated with Ukraine's defense.",
+        "uk": "Навесні 2022 року у відео про будні військових, які обороняли Маріуполь, прозвучала пісня SadSvit «Касета», яка після цього різко зросла в популярності на Spotify і Shazam та стала міцно асоціюватися з обороною України.",
+        "ru": "Весной 2022 года в видео о буднях военных, оборонявших Мариуполь, прозвучала песня SadSvit «Касета», которая после этого резко выросла в популярности на Spotify и Shazam и стала прочно ассоциироваться с обороной Украины."
+      },
+      "sources": [
+        {
+          "url": "https://www.obozrevatel.com/ukr/shou-oboz/hto-takij-sadsvit-yakij-u-20-rokiv-rozrivae-ukrainski-trendi-pid-jogo-pisni-nischat-okupantiv-i-grayut-v-s-t-a-l-k-e-r-2.htm",
+          "publisher": "Obozrevatel"
+        }
+      ]
+    },
+    {
+      "date": "2025-05",
+      "title": {
+        "en": "Kyiv benefit concert for the Defense Forces",
+        "uk": "Благодійний концерт у Києві на підтримку Сил оборони",
+        "ru": "Благотворительный концерт в Киеве в поддержку Сил обороны"
+      },
+      "detail": {
+        "en": "A charity concert by SadSvit in Kyiv was announced in support of Ukraine's Defense Forces; during his preceding European tour he had donated more than 1.3 million UAH to the Defense Intelligence of Ukraine's Ministry of Defense.",
+        "uk": "Було анонсовано благодійний концерт SadSvit у Києві на підтримку Сил оборони України; під час попереднього європейського туру він передав понад 1,3 мільйона гривень Головному управлінню розвідки Міністерства оборони України.",
+        "ru": "Был анонсирован благотворительный концерт SadSvit в Киеве в поддержку Сил обороны Украины; во время предшествовавшего европейского тура он передал более 1,3 миллиона гривен Главному управлению разведки Министерства обороны Украины."
+      },
+      "sources": [
+        {
+          "url": "https://interfax.com.ua/news/culture/1171873.html",
+          "publisher": "Interfax-Ukraine",
+          "date": "2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": {
+        "en": "Returns to Ukraine after three years abroad",
+        "uk": "Повертається в Україну після трьох років за кордоном",
+        "ru": "Возвращается в Украину после трёх лет за границей"
+      },
+      "detail": {
+        "en": "SadSvit returned to his native Ivano-Frankivsk after three years living in Vienna and Warsaw, saying he saw no future abroad and planned concerts in Ukraine in 2026. He acknowledged criticism he had faced in 2022-2023 for living abroad during the war.",
+        "uk": "SadSvit повернувся до рідного Івано-Франківська після трьох років життя у Відні та Варшаві, сказавши, що не бачить майбутнього за кордоном, і запланував концерти в Україні на 2026 рік. Він визнав критику, з якою стикався у 2022–2023 роках через проживання за кордоном під час війни.",
+        "ru": "SadSvit вернулся в родной Ивано-Франковск после трёх лет жизни в Вене и Варшаве, сказав, что не видит будущего за границей, и запланировал концерты в Украине на 2026 год. Он признал критику, с которой сталкивался в 2022–2023 годах из-за проживания за границей во время войны."
+      },
+      "sources": [
+        {
+          "url": "https://24tv.ua/show24/sadsvit-povernuvsya-do-ukrayini-spivak-priyihav-ivano-frankivsk_n2960825",
+          "publisher": "24 Kanal",
+          "date": "2025-12"
+        },
+        {
+          "url": "https://pravdatutnews.com/lifestyle/2025/11/27/69461-sadsvit-povernetsya-do-ukrayiny",
+          "publisher": "PravdaTUT",
+          "date": "2025-11-27"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}

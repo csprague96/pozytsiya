@@ -1,0 +1,57 @@
+{
+  "slug": "jony",
+  "name": "JONY",
+  "nameLocal": "Джони",
+  "country": "az",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "silent",
+  "flags": [],
+  "summary": {
+    "en": "Azerbaijani-born singer (Jahid Huseynli, b. 1996 in Baku) whose career is based in Russia, where he is one of the most-streamed pop artists. He has made no known public statement about Russia's full-scale invasion of Ukraine and has continued touring and releasing music in Russia. In July 2025 he was the last Russia-based act remaining on the Baku Dream Fest lineup after Azerbaijan's Ministry of Culture removed Russian artists, before withdrawing citing health problems.",
+    "uk": "Співак азербайджанського походження (Джахід Гусейнлі, нар. 1996 року в Баку), чия кар'єра базується в Росії, де він є одним із найбільш прослуховуваних поп-артистів. Він не зробив жодної відомої публічної заяви про повномасштабне вторгнення Росії в Україну і продовжує гастролювати та випускати музику в Росії. У липні 2025 року він залишався останнім артистом з Росії в лайнапі бакинського Dream Fest після того, як Міністерство культури Азербайджану прибрало російських виконавців, але потім знявся з фестивалю, пославшись на проблеми зі здоров'ям.",
+    "ru": "Певец азербайджанского происхождения (Джахид Гусейнли, род. в 1996 году в Баку), чья карьера базируется в России, где он входит в число самых прослушиваемых поп-артистов. Он не сделал ни одного известного публичного заявления о полномасштабном вторжении России в Украину и продолжает гастролировать и выпускать музыку в России. В июле 2025 года он оставался последним артистом из России в лайнапе бакинского Dream Fest после того, как Министерство культуры Азербайджана убрало российских исполнителей, но затем снялся с фестиваля, сославшись на проблемы со здоровьем."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-24",
+      "title": {
+        "en": "No public position after the invasion",
+        "uk": "Відсутність публічної позиції після вторгнення",
+        "ru": "Отсутствие публичной позиции после вторжения"
+      },
+      "detail": {
+        "en": "Following Russia's full-scale invasion of Ukraine, JONY made no known public statement about the war and continued his recording and concert career in Russia.",
+        "uk": "Після повномасштабного вторгнення Росії в Україну JONY не зробив жодної відомої публічної заяви про війну і продовжив студійну та концертну кар'єру в Росії.",
+        "ru": "После полномасштабного вторжения России в Украину JONY не сделал ни одного известного публичного заявления о войне и продолжил студийную и концертную карьеру в России."
+      },
+      "sources": [
+        {
+          "url": "https://24smi.org/celebrity/115520-jony.html",
+          "publisher": "24SMI"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "title": {
+        "en": "Withdrew from Dream Fest in Baku",
+        "uk": "Знявся з фестивалю Dream Fest у Баку",
+        "ru": "Снялся с фестиваля Dream Fest в Баку"
+      },
+      "detail": {
+        "en": "After Azerbaijan's Ministry of Culture removed Russian artists (Timati, Sergey Zhukov, Klava Koka, Egor Kreed and others) from Dream Fest 2025, JONY remained the only Russia-based singer on the lineup, then withdrew, with organizers citing health problems.",
+        "uk": "Після того як Міністерство культури Азербайджану прибрало російських артистів (Тіматі, Сергія Жукова, Клаву Коку, Єгора Кріда та інших) з Dream Fest 2025, JONY залишався єдиним співаком з Росії в лайнапі, але потім знявся з фестивалю; організатори послалися на проблеми зі здоров'ям.",
+        "ru": "После того как Министерство культуры Азербайджана убрало российских артистов (Тимати, Сергея Жукова, Клаву Коку, Егора Крида и других) из Dream Fest 2025, JONY оставался единственным певцом из России в лайнапе, но затем снялся с фестиваля; организаторы сослались на проблемы со здоровьем."
+      },
+      "sources": [
+        {
+          "url": "https://eadaily.com/en/news/2025/07/23/the-only-singer-from-the-russian-federation-refused-the-festival-in-baku-after-the-cancellation-of-russian-stars",
+          "publisher": "EADaily (pro-Kremlin outlet)",
+          "date": "2025-07-23"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-09"
+}
