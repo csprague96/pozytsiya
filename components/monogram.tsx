@@ -25,25 +25,59 @@ export function initialsOf(name: string): string {
   return letters.join("").toUpperCase();
 }
 
+/* Dot color strength mirrors the stance meter: full color at ±3, fading toward ±1. */
+const MIX: Record<number, number> = { 3: 100, 2: 72, 1: 45 };
+
+function stanceDotStyle(stance: number | null): React.CSSProperties | undefined {
+  if (stance === null || stance === 0) return undefined;
+  const token = stance > 0 ? "--stance-ua" : "--stance-ru";
+  const pct = MIX[Math.abs(stance)];
+  return {
+    backgroundColor: `color-mix(in oklab, var(${token}) ${pct}%, var(--background))`,
+  };
+}
+
 export function Monogram({
   name,
   slug,
   className,
+  stance,
+  status,
+  dotClassName,
 }: {
   name: string;
   slug: string;
   className?: string;
+  /** When provided (with status), a stance-colored dot is shown on the avatar. */
+  stance?: number | null;
+  status?: "positioned" | "silent" | "ambiguous";
+  dotClassName?: string;
 }) {
+  const withDot = stance !== undefined && status !== undefined;
   return (
-    <span
-      aria-hidden="true"
-      className={cn(
-        "flex shrink-0 select-none items-center justify-center rounded-full font-semibold",
-        TINTS[hash(slug) % TINTS.length],
-        className ?? "size-9 text-sm",
+    <span aria-hidden="true" className="relative inline-flex shrink-0">
+      <span
+        className={cn(
+          "flex select-none items-center justify-center rounded-full font-semibold",
+          TINTS[hash(slug) % TINTS.length],
+          className ?? "size-9 text-sm",
+        )}
+      >
+        {initialsOf(name)}
+      </span>
+      {withDot && (
+        <span
+          className={cn(
+            "absolute -bottom-0.5 -right-0.5 rounded-full ring-2 ring-background",
+            dotClassName ?? "size-3",
+            stance === null && status === "ambiguous" && "bg-stance-neutral",
+            stance === null &&
+              status !== "ambiguous" &&
+              "border-2 border-stance-neutral bg-background",
+          )}
+          style={stanceDotStyle(stance)}
+        />
       )}
-    >
-      {initialsOf(name)}
     </span>
   );
 }

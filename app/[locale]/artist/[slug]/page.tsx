@@ -52,6 +52,9 @@ export default async function ArtistPage({ params }: Props) {
           name={artist.name}
           slug={artist.slug}
           className="size-16 text-xl"
+          stance={artist.stance}
+          status={artist.status}
+          dotClassName="size-4.5"
         />
         <div className="min-w-0">
           <h1 className="text-2xl font-semibold leading-tight tracking-tight">
