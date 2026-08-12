@@ -1,0 +1,123 @@
+{
+  "slug": "kanye-west",
+  "name": "Kanye West (Ye)",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": -1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Kanye West (Ye) is a US rapper and producer who has never publicly commented on Russia's full-scale invasion of Ukraine. In January 2022 Billboard reported he planned to perform in Russia and meet Vladimir Putin, which his representative denied. In June 2024 he made a widely covered trip to Moscow — reported as the most high-profile Western artist to visit Russia since the invasion — without any statement on the war, after which the non-governmental Ukrainian database Myrotvorets listed him as an 'enemy of Ukraine'. Russian media have repeatedly reported plans for a Moscow concert, most recently in October 2025, but no show has been confirmed and the named venue denied knowledge of it.",
+    "uk": "Каньє Вест (Ye) — американський репер і продюсер, який жодного разу публічно не висловився про повномасштабне вторгнення Росії в Україну. У січні 2022 року Billboard повідомив, що він планує виступити в Росії та зустрітися з Володимиром Путіним; його представник це заперечив. У червні 2024 року він здійснив широко висвітлену поїздку до Москви — за повідомленнями, ставши найпомітнішим західним артистом, який відвідав Росію після вторгнення, — без жодної заяви про війну, після чого неурядова українська база «Миротворець» внесла його до списку як «ворога України». Російські медіа неодноразово повідомляли про плани концерту в Москві, востаннє в жовтні 2025 року, але жоден виступ не підтверджено, а названий майданчик заперечив свою обізнаність.",
+    "ru": "Канье Уэст (Ye) — американский рэпер и продюсер, который ни разу публично не высказался о полномасштабном вторжении России в Украину. В январе 2022 года Billboard сообщил, что он планирует выступить в России и встретиться с Владимиром Путиным; его представитель это опроверг. В июне 2024 года он совершил широко освещавшуюся поездку в Москву — по сообщениям, став самым заметным западным артистом, посетившим Россию после вторжения, — не сделав никаких заявлений о войне, после чего неправительственная украинская база «Миротворец» внесла его в список как «врага Украины». Российские СМИ неоднократно сообщали о планах концерта в Москве, последний раз в октябре 2025 года, но ни одно выступление не подтверждено, а названная площадка заявила, что ничего о нём не знает."
+  },
+  "timeline": [
+    {
+      "date": "2022-01-11",
+      "title": {
+        "en": "Reported plans for Russia shows and Putin meeting; representative denies",
+        "uk": "Повідомлення про плани виступів у Росії та зустрічі з Путіним; представник заперечує",
+        "ru": "Сообщения о планах выступлений в России и встречи с Путиным; представитель опровергает"
+      },
+      "detail": {
+        "en": "Weeks before the full-scale invasion, Billboard reported, citing adviser Ameer Sudan, that Ye planned to make Russia a 'second home', hold his first Russian performances and seek a meeting with Vladimir Putin, in coordination with Kremlin-linked billionaire Aras Agalarov's circle. Ye's publicist called the story 'entirely fabricated', while a representative of Emin Agalarov confirmed 'there are talks going on'.",
+        "uk": "За кілька тижнів до повномасштабного вторгнення Billboard з посиланням на радника Аміра Судана повідомив, що Ye планує зробити Росію «другим домом», провести перші виступи в Росії та домогтися зустрічі з Володимиром Путіним у координації з оточенням пов'язаного з Кремлем мільярдера Араса Агаларова. Публіцист Ye назвав цю історію «повністю вигаданою», тоді як представник Еміна Агаларова підтвердив, що «перемовини тривають».",
+        "ru": "За несколько недель до полномасштабного вторжения Billboard со ссылкой на советника Амира Судана сообщил, что Ye планирует сделать Россию «вторым домом», провести первые выступления в России и добиться встречи с Владимиром Путиным при координации с окружением связанного с Кремлём миллиардера Араса Агаларова. Публицист Ye назвал эту историю «полностью выдуманной», тогда как представитель Эмина Агаларова подтвердил, что «переговоры идут»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/kanye-west-russia-trip-1282874/",
+          "publisher": "Rolling Stone",
+          "date": "2022-01-11"
+        },
+        {
+          "url": "https://www.nme.com/news/music/kanye-wests-representative-says-plans-to-meet-putin-in-russia-are-entirely-fabricated-3135898",
+          "publisher": "NME",
+          "date": "2022-01-12"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "stanceAfter": -1,
+      "title": {
+        "en": "Visits Moscow amid the war, without comment on the invasion",
+        "uk": "Відвідує Москву під час війни, не коментуючи вторгнення",
+        "ru": "Посещает Москву во время войны, не комментируя вторжение"
+      },
+      "detail": {
+        "en": "Ye flew to Moscow for the 40th birthday of Yeezy designer Gosha Rubchinskiy, staying near Red Square and leaving the next morning. Media described him as the most high-profile Western artist to visit Russia since the February 2022 invasion. He made no statement about the war, neither before nor after the trip.",
+        "uk": "Ye прилетів до Москви на 40-річчя дизайнера Yeezy Гоші Рубчинського, зупинився біля Красної площі та полетів наступного ранку. Медіа описували його як найпомітнішого західного артиста, що відвідав Росію після вторгнення в лютому 2022 року. Він не зробив жодної заяви про війну ані до, ані після поїздки.",
+        "ru": "Ye прилетел в Москву на 40-летие дизайнера Yeezy Гоши Рубчинского, остановился у Красной площади и улетел на следующее утро. СМИ описывали его как самого заметного западного артиста, посетившего Россию после вторжения в феврале 2022 года. Он не сделал никаких заявлений о войне ни до, ни после поездки."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/06/30/us-rapper-kanye-west-visits-moscow-russian-media-a85564",
+          "publisher": "The Moscow Times",
+          "date": "2024-06-30"
+        },
+        {
+          "url": "https://novayagazeta.eu/articles/2024/07/01/us-rapper-kanye-west-makes-surprise-visit-to-moscow-for-designers-birthday-en-news",
+          "publisher": "Novaya Gazeta Europe",
+          "date": "2024-07-01"
+        },
+        {
+          "url": "https://www.rferl.org/a/kanye-ye-west-russia-visit-moscow/33014451.html",
+          "publisher": "RFE/RL"
+        }
+      ]
+    },
+    {
+      "date": "2024-07",
+      "title": {
+        "en": "Listed as 'enemy of Ukraine' by Myrotvorets database",
+        "uk": "Внесений до бази «Миротворець» як «ворог України»",
+        "ru": "Внесён в базу «Миротворец» как «враг Украины»"
+      },
+      "detail": {
+        "en": "Following the Moscow trip, the non-governmental Ukrainian website Myrotvorets added Ye to its list of 'enemies of Ukraine', citing 'propaganda of war' and a 'visit to the capital of the occupiers during the invasion'. The listing is not an official Ukrainian government ban.",
+        "uk": "Після поїздки до Москви неурядовий український сайт «Миротворець» додав Ye до свого списку «ворогів України», вказавши «пропаганду війни» та «візит до столиці окупантів під час вторгнення». Внесення до цієї бази не є офіційною забороною з боку української держави.",
+        "ru": "После поездки в Москву неправительственный украинский сайт «Миротворец» добавил Ye в свой список «врагов Украины», указав «пропаганду войны» и «визит в столицу оккупантов во время вторжения». Внесение в эту базу не является официальным запретом со стороны украинского государства."
+      },
+      "sources": [
+        {
+          "url": "https://hiphopdx.com/news/kanye-west-ukraine-enemy-moscow-visit-russia/",
+          "publisher": "HipHopDX",
+          "date": "2024-07"
+        },
+        {
+          "url": "https://www.vibe.com/news/entertainment/kanye-west-enemy-ukraine-moscow-visit-ongoing-war-1234891156/",
+          "publisher": "Vibe",
+          "date": "2024-07"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "title": {
+        "en": "Russian media report Moscow concert plans; venue denies knowledge",
+        "uk": "Російські медіа повідомляють про плани концерту в Москві; майданчик заперечує обізнаність",
+        "ru": "Российские СМИ сообщают о планах концерта в Москве; площадка заявляет о неосведомлённости"
+      },
+      "detail": {
+        "en": "Russian media reported that Ye had signed a contract to perform at Moscow's Luzhniki stadium on 8 December 2025 for a reported $1.2 million fee. Luzhniki said the same day it had no information about any such concert, and concert agencies said they knew nothing of his arrival. Reports of a possible Russia show had circulated since late 2024 with conflicting accounts; no concert has been confirmed or has taken place.",
+        "uk": "Російські медіа повідомили, що Ye нібито підписав контракт на виступ на московському стадіоні «Лужники» 8 грудня 2025 року за гонорар у 1,2 млн доларів. Того ж дня «Лужники» заявили, що не мають інформації про такий концерт, а концертні агенції сказали, що нічого не знають про його приїзд. Повідомлення про можливий виступ у Росії циркулювали з кінця 2024 року із суперечливими версіями; жоден концерт не підтверджено і не відбувся.",
+        "ru": "Российские СМИ сообщили, что Ye якобы подписал контракт на выступление на московском стадионе «Лужники» 8 декабря 2025 года за гонорар в 1,2 млн долларов. В тот же день «Лужники» заявили, что не располагают информацией о таком концерте, а концертные агентства сказали, что ничего не знают о его приезде. Сообщения о возможном выступлении в России циркулировали с конца 2024 года с противоречивыми версиями; ни один концерт не подтверждён и не состоялся."
+      },
+      "sources": [
+        {
+          "url": "https://unn.ua/en/news/kanye-west-to-perform-in-moscow-for-dollar12-million-russian-media",
+          "publisher": "UNN",
+          "date": "2025-10-08"
+        },
+        {
+          "url": "https://en.iz.ru/en/1969161/2025-10-08/luzhniki-stadium-commented-rumors-about-kanye-wests-concert-december",
+          "publisher": "Izvestia (pro-Kremlin outlet)",
+          "date": "2025-10-08"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

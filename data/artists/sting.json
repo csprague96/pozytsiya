@@ -1,0 +1,116 @@
+{
+  "slug": "sting",
+  "name": "Sting",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Sting (Gordon Sumner), the British musician and former frontman of The Police, condemned Russia's full-scale invasion of Ukraine within days of its start. In March 2022 he revived his 1985 Cold War song 'Russians' in aid of Ukraine and released a new studio version whose net profits went to the Help Ukraine Center, a humanitarian aid hub. He has repeatedly denounced the war onstage, calling it 'an absurdity based upon a lie' at a Warsaw concert in July 2022, and in December 2024 performed with a Ukrainian soldier and bandura player in Los Angeles.",
+    "uk": "Стінг (Гордон Самнер), британський музикант і колишній фронтмен гурту The Police, засудив повномасштабне вторгнення Росії в Україну вже в перші дні. У березні 2022 року він знову виконав свою пісню 1985 року «Russians», написану за часів холодної війни, на підтримку України та випустив її нову студійну версію, чистий прибуток від якої пішов на Help Ukraine Center — центр гуманітарної допомоги. Він неодноразово засуджував війну зі сцени: у липні 2022 року на концерті у Варшаві назвав її «абсурдом, заснованим на брехні», а в грудні 2024 року виступив у Лос-Анджелесі разом з українським військовим-бандуристом.",
+    "ru": "Стинг (Гордон Самнер), британский музыкант и бывший фронтмен группы The Police, осудил полномасштабное вторжение России в Украину уже в первые дни. В марте 2022 года он вновь исполнил свою песню 1985 года «Russians», написанную во времена холодной войны, в поддержку Украины и выпустил её новую студийную версию, чистая прибыль от которой пошла в Help Ukraine Center — центр гуманитарной помощи. Он неоднократно осуждал войну со сцены: в июле 2022 года на концерте в Варшаве назвал её «абсурдом, основанным на лжи», а в декабре 2024 года выступил в Лос-Анджелесе вместе с украинским военным-бандуристом."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-05",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Revives 'Russians' in aid of Ukraine, condemns the invasion",
+        "uk": "Знову виконує «Russians» на підтримку України, засуджує вторгнення",
+        "ru": "Вновь исполняет «Russians» в поддержку Украины, осуждает вторжение"
+      },
+      "detail": {
+        "en": "Sting posted a video of himself performing his 1985 song 'Russians' in aid of the Help Ukraine appeal, writing that he had rarely sung it 'because I never thought it would be relevant again' — but that 'in the light of one man's bloody and woefully misguided decision to invade a peaceful, unthreatening neighbor, the song is, once again, a plea for our common humanity'. He dedicated it to 'the brave Ukrainians fighting against this brutal tyranny' and to Russians protesting the invasion despite the threat of arrest.",
+        "uk": "Стінг опублікував відео, на якому виконує свою пісню 1985 року «Russians» на підтримку збору Help Ukraine, написавши, що рідко співав її, «бо ніколи не думав, що вона знову стане актуальною», але «у світлі кривавого й вкрай помилкового рішення однієї людини вторгнутися до мирного сусіда, який нікому не загрожує, ця пісня знову стала закликом до нашої спільної людяності». Він присвятив її «хоробрим українцям, які борються проти цієї жорстокої тиранії», та росіянам, що протестують проти вторгнення попри загрозу арешту.",
+        "ru": "Стинг опубликовал видео, на котором исполняет свою песню 1985 года «Russians» в поддержку сбора Help Ukraine, написав, что редко пел её, «потому что никогда не думал, что она снова станет актуальной», но «в свете кровавого и глубоко ошибочного решения одного человека вторгнуться к мирному, никому не угрожающему соседу эта песня снова стала призывом к нашей общей человечности». Он посвятил её «храбрым украинцам, борющимся против этой жестокой тирании», и россиянам, протестующим против вторжения несмотря на угрозу ареста."
+      },
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2022/03/06/entertainment/sting-russians-song/index.html",
+          "publisher": "CNN",
+          "date": "2022-03-06"
+        },
+        {
+          "url": "https://www.nme.com/news/music/sting-shares-powerful-rendition-of-newly-relevant-russians-in-support-of-help-ukraine-initiative-3176227",
+          "publisher": "NME",
+          "date": "2022-03-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-25",
+      "title": {
+        "en": "Releases benefit single for the Help Ukraine Center",
+        "uk": "Випускає благодійний сингл на користь Help Ukraine Center",
+        "ru": "Выпускает благотворительный сингл в пользу Help Ukraine Center"
+      },
+      "detail": {
+        "en": "Sting released 'Russians (Guitar/Cello Version)', a new studio recording with cellist Ramiro Belgardt, with net profits benefiting the Help Ukraine Center — a volunteer storage hub set up by Ukrainian business owners to receive humanitarian and medical aid from around the world.",
+        "uk": "Стінг випустив «Russians (Guitar/Cello Version)» — новий студійний запис із віолончелістом Раміро Бельгардтом; чистий прибуток спрямовано на Help Ukraine Center — волонтерський складський хаб, створений українськими підприємцями для прийому гуманітарної та медичної допомоги з усього світу.",
+        "ru": "Стинг выпустил «Russians (Guitar/Cello Version)» — новую студийную запись с виолончелистом Рамиро Бельгардтом; чистая прибыль направлена в Help Ukraine Center — волонтёрский складской хаб, созданный украинскими предпринимателями для приёма гуманитарной и медицинской помощи со всего мира."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/sting-russians-guitar-cello-version-1326631/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://www.sting.com/news/title/sting-releases-russians-guitarcello-version-to-benefit-help-ukraine-center",
+          "publisher": "Sting.com (official site)"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-30",
+      "title": {
+        "en": "Calls the war 'an absurdity based upon a lie' at Warsaw concert",
+        "uk": "На концерті у Варшаві називає війну «абсурдом, заснованим на брехні»",
+        "ru": "На концерте в Варшаве называет войну «абсурдом, основанным на лжи»"
+      },
+      "detail": {
+        "en": "Interrupting his concert at Warsaw's National Stadium, Sting denounced the war in Ukraine as 'an absurdity based upon a lie', warning that 'if we swallow that lie, the lie will eat us' and that democracy worldwide is 'in grave danger of being lost unless we defend it'. He then performed 'Fragile'.",
+        "uk": "Перервавши свій концерт на Національному стадіоні у Варшаві, Стінг засудив війну в Україні як «абсурд, заснований на брехні», попередивши: «якщо ми проковтнемо цю брехню, брехня зжере нас», і що демократія у світі «під серйозною загрозою зникнення, якщо ми її не захистимо». Після цього він виконав пісню «Fragile».",
+        "ru": "Прервав свой концерт на Национальном стадионе в Варшаве, Стинг осудил войну в Украине как «абсурд, основанный на лжи», предупредив: «если мы проглотим эту ложь, ложь сожрёт нас», и что демократия в мире «находится под серьёзной угрозой исчезновения, если мы её не защитим». После этого он исполнил песню «Fragile»."
+      },
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/sting-warns-during-warsaw-concert-of-threats-to-democracy/2022/07/31/3a29d502-10bb-11ed-8482-06c1c84ce8f2_story.html",
+          "publisher": "The Washington Post (AP)",
+          "date": "2022-07-31"
+        },
+        {
+          "url": "https://www.ukrinform.net/rubric-society/3540770-sting-calls-war-in-ukraine-an-absurdity-based-upon-a-lie.html",
+          "publisher": "Ukrinform"
+        }
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": {
+        "en": "Performs with a Ukrainian soldier and bandura player in Los Angeles",
+        "uk": "Виступає з українським військовим-бандуристом у Лос-Анджелесі",
+        "ru": "Выступает с украинским военным-бандуристом в Лос-Анджелесе"
+      },
+      "detail": {
+        "en": "Sting performed 'Shape of My Heart' accompanied on the bandura by Taras Stoliar, a serviceman of Ukraine's 112th Territorial Defence Brigade and Honoured Artist of Ukraine, after meeting Ukrainian soldiers at a gathering in Los Angeles; Stoliar then joined him at a concert the following day.",
+        "uk": "Стінг виконав «Shape of My Heart» у супроводі бандури Тараса Столяра — військовослужбовця 112-ї бригади тероборони ЗСУ та заслуженого артиста України — після зустрічі з українськими воїнами в Лос-Анджелесі; наступного дня Столяр приєднався до нього на концерті.",
+        "ru": "Стинг исполнил «Shape of My Heart» в сопровождении бандуры Тараса Столяра — военнослужащего 112-й бригады теробороны ВСУ и заслуженного артиста Украины — после встречи с украинскими воинами в Лос-Анджелесе; на следующий день Столяр присоединился к нему на концерте."
+      },
+      "sources": [
+        {
+          "url": "https://rubryka.com/en/2024/12/22/sting-pid-akompanement-ukrayinskogo-vijskovogo-vykonav-hit-shape-of-my-heart/",
+          "publisher": "Rubryka",
+          "date": "2024-12-22"
+        },
+        {
+          "url": "https://www.ukrinform.net/rubric-society/3940917-sting-sang-shape-of-my-heart-to-accompaniment-of-ukrainian-soldier.html",
+          "publisher": "Ukrinform"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

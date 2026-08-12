@@ -1,0 +1,93 @@
+{
+  "slug": "metallica",
+  "name": "Metallica",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Metallica, the American metal band, responded to Russia's full-scale invasion of Ukraine through their All Within My Hands foundation, which donated $100,000 and then a further $500,000 to World Central Kitchen in spring 2022 to feed Ukrainian refugees, with a campaign that raised a total of $1 million. The band has since amplified young Ukrainian musicians on its official channels. In 2024 Metallica reportedly appeared on an informal Russian industry 'blacklist' of artists whose music event organizers and advertisers were urged to avoid.",
+    "uk": "Metallica, американський метал-гурт, відреагував на повномасштабне вторгнення Росії в Україну через свій фонд All Within My Hands, який навесні 2022 року пожертвував $100 000, а потім ще $500 000 організації World Central Kitchen на харчування українських біженців; кампанія зібрала загалом $1 млн. Відтоді гурт підтримує юних українських музикантів у своїх офіційних каналах. У 2024 році Metallica, за повідомленнями, потрапила до неформального російського «чорного списку» артистів, музику яких організаторам заходів і рекламникам радили не використовувати.",
+    "ru": "Metallica, американская метал-группа, отреагировала на полномасштабное вторжение России в Украину через свой фонд All Within My Hands, который весной 2022 года пожертвовал $100 000, а затем ещё $500 000 организации World Central Kitchen на питание украинских беженцев; кампания собрала в общей сложности $1 млн. С тех пор группа поддерживает юных украинских музыкантов в своих официальных каналах. В 2024 году Metallica, по сообщениям, попала в неформальный российский «чёрный список» артистов, музыку которых организаторам мероприятий и рекламщикам рекомендовали не использовать."
+  },
+  "timeline": [
+    {
+      "date": "2022-04-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Foundation donates $500,000 to feed Ukrainian refugees",
+        "uk": "Фонд гурту жертвує $500 000 на харчування українських біженців",
+        "ru": "Фонд группы жертвует $500 000 на питание украинских беженцев"
+      },
+      "detail": {
+        "en": "Metallica's All Within My Hands foundation donated $500,000 to José Andrés' World Central Kitchen — on top of an earlier $100,000 grant — to feed Ukrainian refugees, launching a 'Month of Giving' campaign that raised a total of $1 million. Lars Ulrich said the band was 'inspired, humbled, and beyond proud' to support WCK teams 'serving the millions of Ukrainians who have been forced to leave their homes'.",
+        "uk": "Фонд Metallica All Within My Hands пожертвував $500 000 організації World Central Kitchen Хосе Андреса — на додаток до попереднього гранту в $100 000 — на харчування українських біженців, розпочавши кампанію «Month of Giving», яка зібрала загалом $1 млн. Ларс Ульріх сказав, що гурт «натхненний, зворушений і надзвичайно гордий» підтримати команди WCK, «які годують мільйони українців, змушених покинути свої домівки».",
+        "ru": "Фонд Metallica All Within My Hands пожертвовал $500 000 организации World Central Kitchen Хосе Андреса — в дополнение к предыдущему гранту в $100 000 — на питание украинских беженцев, запустив кампанию «Month of Giving», собравшую в общей сложности $1 млн. Ларс Ульрих сказал, что группа «вдохновлена, тронута и чрезвычайно горда» поддержать команды WCK, «которые кормят миллионы украинцев, вынужденных покинуть свои дома»."
+      },
+      "sources": [
+        {
+          "url": "https://www.metallica.com/news/2022-04-04-awmh-supports-wck.html",
+          "publisher": "Metallica.com (official)",
+          "date": "2022-04-04"
+        },
+        {
+          "url": "https://www.billboard.com/music/music-news/metallica-donates-500k-ukrainian-refugees-world-central-kitchen-1235054966/",
+          "publisher": "Billboard",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.nme.com/news/music/metallicas-charity-donates-500000-to-feed-ukrainian-refugees-3198810",
+          "publisher": "NME",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.allwithinmyhands.org/events-and-campaigns/month-of-giving/2022-months-of-giving/spotlight-on-world-central-kitchen.html",
+          "publisher": "All Within My Hands (official)"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-02",
+      "title": {
+        "en": "Reported on informal Russian 'blacklist' of artists",
+        "uk": "Повідомлення про включення до неформального російського «чорного списку» артистів",
+        "ru": "Сообщения о включении в неформальный российский «чёрный список» артистов"
+      },
+      "detail": {
+        "en": "The investigative outlet Vyorstka reported that Metallica was among 79 artists on a 'blacklist' circulating among Russian ad agencies and event organizers, who were urged to exclude the artists' songs from advertising and public events. The Kremlin said it was not aware of the list.",
+        "uk": "Розслідувальне видання «Вьорстка» повідомило, що Metallica опинилася серед 79 артистів у «чорному списку», який поширювався серед російських рекламних агенцій та організаторів заходів із закликом не використовувати пісні цих артистів у рекламі та на публічних заходах. У Кремлі заявили, що не знають про такий список.",
+        "ru": "Расследовательское издание «Вёрстка» сообщило, что Metallica оказалась среди 79 артистов в «чёрном списке», распространявшемся среди российских рекламных агентств и организаторов мероприятий с призывом не использовать песни этих артистов в рекламе и на публичных мероприятиях. В Кремле заявили, что не знают о таком списке."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2024/10/02/beyonce-lana-del-rey-metallica-blacklisted-in-russia-vyorstka-a86554",
+          "publisher": "The Moscow Times",
+          "date": "2024-10-02"
+        }
+      ]
+    },
+    {
+      "date": "2025-08",
+      "title": {
+        "en": "Amplifies young Ukrainian rock duo",
+        "uk": "Підтримує юний український рок-дует",
+        "ru": "Поддерживает юный украинский рок-дуэт"
+      },
+      "detail": {
+        "en": "Metallica's official account reposted viral guitar videos by brothers Sasha (12) and David (10) from western Ukraine, boosting the young duo, who went on to play their first solo show for wounded Ukrainian soldiers at a rehabilitation center.",
+        "uk": "Офіційний акаунт Metallica поширив вірусні гітарні відео братів Саші (12 років) і Давида (10 років) із заходу України, підтримавши юний дует, який згодом зіграв свій перший сольний виступ для поранених українських військових у реабілітаційному центрі.",
+        "ru": "Официальный аккаунт Metallica репостнул вирусные гитарные видео братьев Саши (12 лет) и Давида (10 лет) с запада Украины, поддержав юный дуэт, который затем сыграл своё первое сольное выступление для раненых украинских военных в реабилитационном центре."
+      },
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/08/04/nx-s1-5484015-e1/a-young-rock-duo-from-ukraine-gets-a-boost-from-metallica-and-a-very-special-concert",
+          "publisher": "NPR",
+          "date": "2025-08-04"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

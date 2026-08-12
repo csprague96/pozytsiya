@@ -1,0 +1,79 @@
+{
+  "slug": "green-day",
+  "name": "Green Day",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Green Day, the American punk-rock band, cancelled its 29 May 2022 stadium show at Moscow's Spartak Stadium days after Russia's full-scale invasion of Ukraine, saying 'this moment is not about stadium rock shows, it's much bigger than that'. The band has since signalled support for Ukraine on stage, notably changing a 'Jesus of Suburbia' lyric to 'From Ukraine to the Middle East' in March 2025, but has not issued a direct statement naming Russia as the aggressor.",
+    "uk": "Green Day, американський панк-рок-гурт, скасував свій стадіонний концерт 29 травня 2022 року на московському стадіоні «Спартак» через кілька днів після повномасштабного вторгнення Росії в Україну, заявивши: «зараз ідеться не про стадіонні рок-концерти, це щось значно більше». Відтоді гурт демонстрував підтримку України зі сцени, зокрема в березні 2025 року змінив рядок пісні «Jesus of Suburbia» на «From Ukraine to the Middle East» («Від України до Близького Сходу»), проте не виступав із прямою заявою, яка називала б Росію агресором.",
+    "ru": "Green Day, американская панк-рок-группа, отменила свой стадионный концерт 29 мая 2022 года на московском стадионе «Спартак» через несколько дней после полномасштабного вторжения России в Украину, заявив: «сейчас речь не о стадионных рок-концертах, это нечто гораздо большее». С тех пор группа демонстрировала поддержку Украины со сцены, в частности в марте 2025 года изменила строку песни «Jesus of Suburbia» на «From Ukraine to the Middle East» («От Украины до Ближнего Востока»), однако не выступала с прямым заявлением, называющим Россию агрессором."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-28",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Cancels Moscow stadium show over the invasion",
+        "uk": "Скасовує стадіонний концерт у Москві через вторгнення",
+        "ru": "Отменяет стадионный концерт в Москве из-за вторжения"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, Green Day cancelled its 29 May 2022 concert at Moscow's Spartak Stadium, announcing: 'With heavy hearts, in light of current events we feel it is necessary to cancel our upcoming show in Moscow at Spartak Stadium. We are aware that this moment is not about stadium rock shows, it's much bigger than that.'",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Green Day скасував концерт 29 травня 2022 року на московському стадіоні «Спартак», оголосивши: «З важким серцем, з огляду на поточні події, ми вважаємо за необхідне скасувати наш майбутній концерт у Москві на стадіоні „Спартак“. Ми усвідомлюємо, що зараз ідеться не про стадіонні рок-концерти — це щось значно більше».",
+        "ru": "Через несколько дней после начала полномасштабного вторжения Green Day отменила концерт 29 мая 2022 года на московском стадионе «Спартак», объявив: «С тяжёлым сердцем, в свете текущих событий мы считаем необходимым отменить наш предстоящий концерт в Москве на стадионе „Спартак“. Мы понимаем, что сейчас речь не о стадионных рок-концертах — это нечто гораздо большее»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/green-day-cancel-moscow-concert-russia-invasion-ukraine-1313420/",
+          "publisher": "Rolling Stone",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://www.billboard.com/music/music-news/green-day-moscow-concert-canceled-russia-ukraine-1235036798/",
+          "publisher": "Billboard",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://edition.cnn.com/2022/03/01/entertainment/green-day-acts-cancel-concerts/index.html",
+          "publisher": "CNN",
+          "date": "2022-03-01"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-01",
+      "title": {
+        "en": "Changes lyric to 'From Ukraine to the Middle East' on stage",
+        "uk": "Змінює рядок пісні на «From Ukraine to the Middle East» на сцені",
+        "ru": "Меняет строку песни на «From Ukraine to the Middle East» на сцене"
+      },
+      "detail": {
+        "en": "Opening its Australian tour at Melbourne's Marvel Stadium a day after the Trump–Vance Oval Office clash with President Zelensky, Billie Joe Armstrong sang 'We are the kids of war and peace / From Ukraine to the Middle East' in 'Jesus of Suburbia', replacing the original 'From Anaheim to the Middle East' in a gesture of support for Ukraine.",
+        "uk": "Відкриваючи австралійський тур на стадіоні Marvel у Мельбурні наступного дня після сутички Трампа і Венса з президентом Зеленським в Овальному кабінеті, Біллі Джо Армстронг заспівав у пісні «Jesus of Suburbia» «We are the kids of war and peace / From Ukraine to the Middle East» («Ми діти війни і миру / Від України до Близького Сходу»), замінивши оригінальний рядок «From Anaheim to the Middle East» на знак підтримки України.",
+        "ru": "Открывая австралийский тур на стадионе Marvel в Мельбурне на следующий день после перепалки Трампа и Вэнса с президентом Зеленским в Овальном кабинете, Билли Джо Армстронг спел в песне «Jesus of Suburbia» «We are the kids of war and peace / From Ukraine to the Middle East» («Мы дети войны и мира / От Украины до Ближнего Востока»), заменив оригинальную строку «From Anaheim to the Middle East» в знак поддержки Украины."
+      },
+      "sources": [
+        {
+          "url": "https://consequence.net/2025/03/green-day-jd-vance-jesus-of-suburbia-lyrics/",
+          "publisher": "Consequence",
+          "date": "2025-03"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/green-day-jesus-of-suburbia-lyrics-jd-vance-1235287480/",
+          "publisher": "Rolling Stone",
+          "date": "2025-03"
+        },
+        {
+          "url": "https://americansongwriter.com/green-day-takes-a-political-swipe-by-switching-lyrics-to-jesus-of-suburbia-at-australian-show/",
+          "publisher": "American Songwriter",
+          "date": "2025-03"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

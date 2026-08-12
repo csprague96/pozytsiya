@@ -1,0 +1,95 @@
+{
+  "slug": "franz-ferdinand",
+  "name": "Franz Ferdinand",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Franz Ferdinand, the Scottish rock band led by Alex Kapranos, condemned Russia's full-scale invasion of Ukraine within days of 24 February 2022. On 1 March 2022 they cancelled their summer shows in Moscow and St Petersburg, stating that 'the only reason for this is the invasion of Ukraine by the Russian state'. On 9 March 2022 they performed at the Night for Ukraine benefit at London's Roundhouse, raising funds for the Disasters Emergency Committee's Ukraine appeal.",
+    "uk": "Franz Ferdinand, шотландський рок-гурт на чолі з Алексом Капраносом, засудив повномасштабне вторгнення Росії в Україну вже в перші дні після 24 лютого 2022 року. 1 березня 2022 року гурт скасував літні концерти в Москві та Санкт-Петербурзі, заявивши, що «єдина причина цього — вторгнення російської держави в Україну». 9 березня 2022 року гурт виступив на благодійному концерті Night for Ukraine у лондонському Roundhouse, збираючи кошти для українського фонду Disasters Emergency Committee.",
+    "ru": "Franz Ferdinand, шотландская рок-группа во главе с Алексом Капраносом, осудила полномасштабное вторжение России в Украину уже в первые дни после 24 февраля 2022 года. 1 марта 2022 года группа отменила летние концерты в Москве и Санкт-Петербурге, заявив, что «единственная причина этого — вторжение российского государства в Украину». 9 марта 2022 года группа выступила на благотворительном концерте Night for Ukraine в лондонском Roundhouse, собирая средства для украинского фонда Disasters Emergency Committee."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-27",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Kapranos condemns the invasion, pays tribute to Kyiv",
+        "uk": "Капранос засуджує вторгнення та висловлює шану Києву",
+        "ru": "Капранос осуждает вторжение и отдаёт дань уважения Киеву"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, frontman Alex Kapranos posted a photo from the band's visit to Kyiv on Instagram, writing: 'My heart goes out to the people of Ukraine and I unequivocally condemn the invasion by the Russian state', and describing the city's people as 'open and welcoming'.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення фронтмен Алекс Капранос опублікував в Instagram фото з візиту гурту до Києва, написавши: «Моє серце з народом України, і я беззастережно засуджую вторгнення російської держави», та назвавши мешканців міста «відкритими та гостинними».",
+        "ru": "Через несколько дней после начала полномасштабного вторжения фронтмен Алекс Капранос опубликовал в Instagram фото с визита группы в Киев, написав: «Моё сердце с народом Украины, и я безоговорочно осуждаю вторжение российского государства», и назвав жителей города «открытыми и гостеприимными»."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/franz-ferdinands-alex-kapranos-pays-tribute-to-open-and-welcoming-people-of-kyiv-3169737",
+          "publisher": "NME",
+          "date": "2022-02-27"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-01",
+      "title": {
+        "en": "Cancels Moscow and St Petersburg shows over the invasion",
+        "uk": "Скасовує концерти в Москві та Санкт-Петербурзі через вторгнення",
+        "ru": "Отменяет концерты в Москве и Санкт-Петербурге из-за вторжения"
+      },
+      "detail": {
+        "en": "The band cancelled its summer 2022 shows in Moscow (29 June) and St Petersburg (1 July), announcing: 'We are cancelling our Russian shows that are scheduled for this summer. The only reason for this is the invasion of Ukraine by the Russian state.' The statement also addressed Russian fans: 'We know you see the madness of your country's leadership. We know you do not want war.'",
+        "uk": "Гурт скасував свої концерти влітку 2022 року в Москві (29 червня) та Санкт-Петербурзі (1 липня), оголосивши: «Ми скасовуємо наші російські концерти, заплановані на це літо. Єдина причина цього — вторгнення російської держави в Україну». У заяві гурт також звернувся до російських фанатів: «Ми знаємо, що ви бачите божевілля керівництва вашої країни. Ми знаємо, що ви не хочете війни».",
+        "ru": "Группа отменила свои концерты летом 2022 года в Москве (29 июня) и Санкт-Петербурге (1 июля), объявив: «Мы отменяем наши российские концерты, запланированные на это лето. Единственная причина этого — вторжение российского государства в Украину». В заявлении группа также обратилась к российским фанатам: «Мы знаем, что вы видите безумие руководства вашей страны. Мы знаем, что вы не хотите войны»."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/franz-ferdinand-cancel-their-upcoming-russia-shows-following-ukraine-invasion-3171899",
+          "publisher": "NME",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://feeds.bbci.co.uk/news/entertainment-arts-60567973",
+          "publisher": "BBC News",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://twitter.com/Franz_Ferdinand/status/1498571856063995907",
+          "publisher": "Franz Ferdinand (official Twitter/X)",
+          "date": "2022-03-01"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-09",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Performs at Night for Ukraine benefit in London",
+        "uk": "Виступає на благодійному концерті Night for Ukraine у Лондоні",
+        "ru": "Выступает на благотворительном концерте Night for Ukraine в Лондоне"
+      },
+      "detail": {
+        "en": "Franz Ferdinand joined the Night for Ukraine fundraiser at the Roundhouse in London, alongside Bob Geldof, Chrissie Hynde, Imelda May and the Ukrainian-born Bloom Twins, with proceeds donated to the Disasters Emergency Committee's Ukraine humanitarian appeal.",
+        "uk": "Franz Ferdinand долучилися до благодійного концерту Night for Ukraine у лондонському Roundhouse разом із Бобом Гелдофом, Кріссі Хайнд, Імельдою Мей та українками Bloom Twins; виручені кошти передали на гуманітарний збір Disasters Emergency Committee для України.",
+        "ru": "Franz Ferdinand присоединились к благотворительному концерту Night for Ukraine в лондонском Roundhouse вместе с Бобом Гелдофом, Крисси Хайнд, Имельдой Мэй и украинками Bloom Twins; вырученные средства передали на гуманитарный сбор Disasters Emergency Committee для Украины."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/franz-ferdinand-join-line-up-tonight-london-ukraine-fundraiser-gig-3179155",
+          "publisher": "NME",
+          "date": "2022-03-09"
+        },
+        {
+          "url": "https://news.camden.gov.uk/night-for-ukraine---roundhouse-to-host-fundraiser/",
+          "publisher": "Camden Council News",
+          "date": "2022-03"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

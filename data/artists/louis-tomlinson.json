@@ -1,0 +1,68 @@
+{
+  "slug": "louis-tomlinson",
+  "name": "Louis Tomlinson",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Louis Tomlinson, the English singer and former One Direction member, cancelled the Moscow and Kyiv dates of his 2022 world tour on 28 February 2022, days after Russia's full-scale invasion of Ukraine, saying his 'thoughts go out to the people of Ukraine and all those suffering from this needless war'. He has not issued a direct statement naming Russia as the aggressor, and his subsequent tours have not included Russia. No Ukraine-specific fundraising by him has been documented.",
+    "uk": "Луї Томлінсон, англійський співак і колишній учасник One Direction, 28 лютого 2022 року, через кілька днів після повномасштабного вторгнення Росії в Україну, скасував московський і київський концерти свого світового туру 2022 року, заявивши, що його «думки з народом України та всіма, хто страждає від цієї безглуздої війни». Він не виступав із прямою заявою, яка називала б Росію агресором, а його подальші тури не включали Росію. Документованих зборів коштів саме для України з його боку немає.",
+    "ru": "Луи Томлинсон, английский певец и бывший участник One Direction, 28 февраля 2022 года, через несколько дней после полномасштабного вторжения России в Украину, отменил московский и киевский концерты своего мирового тура 2022 года, заявив, что его «мысли с народом Украины и всеми, кто страдает от этой бессмысленной войны». Он не выступал с прямым заявлением, называющим Россию агрессором, а его последующие туры не включали Россию. Документированных сборов средств именно для Украины с его стороны нет."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-28",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Cancels Moscow and Kyiv shows over the 'needless war'",
+        "uk": "Скасовує концерти в Москві та Києві через «безглузду війну»",
+        "ru": "Отменяет концерты в Москве и Киеве из-за «бессмысленной войны»"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, Tomlinson cancelled his Kyiv show at Stereo Plaza (scheduled for 4 July 2022) and his Moscow show (scheduled for 6 July 2022), announcing: 'Due to the recent events in Ukraine, I have to sadly announce that my tour shows in Moscow and Kyiv are cancelled until further notice. The safety of my fans is my priority and my thoughts go out to the people of Ukraine and all those suffering from this needless war.'",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Томлінсон скасував концерт у Києві в Stereo Plaza (запланований на 4 липня 2022 року) та концерт у Москві (запланований на 6 липня 2022 року), оголосивши: «У зв'язку з останніми подіями в Україні я змушений із сумом повідомити, що мої концерти в Москві та Києві скасовуються до подальшого повідомлення. Безпека моїх фанатів — мій пріоритет, і мої думки з народом України та всіма, хто страждає від цієї безглуздої війни».",
+        "ru": "Через несколько дней после начала полномасштабного вторжения Томлинсон отменил концерт в Киеве в Stereo Plaza (запланированный на 4 июля 2022 года) и концерт в Москве (запланированный на 6 июля 2022 года), объявив: «В связи с последними событиями в Украине я вынужден с грустью сообщить, что мои концерты в Москве и Киеве отменяются до дальнейшего уведомления. Безопасность моих фанатов — мой приоритет, и мои мысли с народом Украины и всеми, кто страдает от этой бессмысленной войны»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/louis-tomlinson-cancels-moscow-kyiv-shows-1314067/",
+          "publisher": "Rolling Stone",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://www.itv.com/news/2022-02-28/louis-tomlinson-cancels-moscow-and-kyiv-performances-over-needless-war",
+          "publisher": "ITV News",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://feeds.bbci.co.uk/news/entertainment-arts-60567973",
+          "publisher": "BBC News"
+        }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Announces 2023 world tour without Russia dates",
+        "uk": "Анонсує світовий тур 2023 року без концертів у Росії",
+        "ru": "Анонсирует мировой тур 2023 года без концертов в России"
+      },
+      "detail": {
+        "en": "Tomlinson announced his 2023 'Faith in the Future' world tour spanning the Americas, Europe, the UK and Australia. Neither Russia nor Ukraine appeared on the itinerary, and the cancelled Moscow and Kyiv shows were not rescheduled.",
+        "uk": "Томлінсон анонсував світовий тур 2023 року «Faith in the Future», що охоплював Америку, Європу, Велику Британію та Австралію. Ані Росії, ані України в маршруті не було, а скасовані концерти в Москві та Києві не були перенесені.",
+        "ru": "Томлинсон анонсировал мировой тур 2023 года «Faith in the Future», охватывавший Америку, Европу, Великобританию и Австралию. Ни России, ни Украины в маршруте не было, а отменённые концерты в Москве и Киеве не были перенесены."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/louis-tomlinson-2023-tour-dates-1235169576/",
+          "publisher": "Billboard",
+          "date": "2022-11"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

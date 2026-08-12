@@ -1,0 +1,89 @@
+{
+  "slug": "twenty-one-pilots",
+  "name": "Twenty One Pilots",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Twenty One Pilots, the American duo of Tyler Joseph and Josh Dun from Columbus, Ohio, cancelled their planned July 2022 Moscow concert days after Russia's full-scale invasion of Ukraine, writing 'Peace will win... We stand with Ukraine.' The band has since made repeated gestures of solidarity: drummer Josh Dun wore a bandana reading 'torchbearer' in Ukrainian in the 2024 'Overcompensate' music video, and in April 2025 the band invited a Ukrainian boy on stage in Berlin to sing with them. They have not issued a statement directly naming Russia as the aggressor.",
+    "uk": "Twenty One Pilots, американський дует Тайлера Джозефа та Джоша Дана з Колумбуса (Огайо), скасував запланований на липень 2022 року концерт у Москві через кілька днів після початку повномасштабного вторгнення Росії в Україну, написавши: «Мир переможе… Ми стоїмо з Україною». Відтоді гурт неодноразово демонстрував солідарність: барабанщик Джош Дан з'явився у кліпі «Overcompensate» 2024 року з банданою з написом «смолоскипоносець» українською, а у квітні 2025 року гурт запросив українського хлопчика на сцену в Берліні заспівати разом з ними. Прямої заяви, у якій Росію названо агресором, гурт не робив.",
+    "ru": "Twenty One Pilots, американский дуэт Тайлера Джозефа и Джоша Дана из Колумбуса (Огайо), отменил запланированный на июль 2022 года концерт в Москве через несколько дней после начала полномасштабного вторжения России в Украину, написав: «Мир победит… Мы стоим с Украиной». С тех пор группа неоднократно демонстрировала солидарность: барабанщик Джош Дан появился в клипе «Overcompensate» 2024 года с банданой с надписью «факелоносец» на украинском, а в апреле 2025 года группа пригласила украинского мальчика на сцену в Берлине спеть вместе с ними. Прямого заявления, в котором Россия названа агрессором, группа не делала."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-01",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Cancels Moscow show: 'We stand with Ukraine'",
+        "uk": "Скасовує концерт у Москві: «Ми стоїмо з Україною»",
+        "ru": "Отменяет концерт в Москве: «Мы стоим с Украиной»"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, the band cancelled its 10 July 2022 show at Moscow's Otkritie Arena, posting: 'Due to the current tragic events, it is with great sadness that we announce the cancellation of our Moscow show... Peace will win and we hope for a time we can visit you again. We stand with Ukraine.' Their planned 8 July headline slot at Kyiv's Atlas Weekend festival also could not take place because of the war.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення гурт скасував концерт 10 липня 2022 року на московській «Открытие Арені», написавши: «Через нинішні трагічні події з великим сумом оголошуємо про скасування нашого концерту в Москві… Мир переможе, і ми сподіваємося на час, коли зможемо знову вас відвідати. Ми стоїмо з Україною». Запланований на 8 липня хедлайнерський виступ на київському фестивалі Atlas Weekend також не міг відбутися через війну.",
+        "ru": "Через несколько дней после начала полномасштабного вторжения группа отменила концерт 10 июля 2022 года на московской «Открытие Арене», написав: «Из-за нынешних трагических событий с большой печалью объявляем об отмене нашего концерта в Москве… Мир победит, и мы надеемся на время, когда сможем снова вас посетить. Мы стоим с Украиной». Запланированное на 8 июля хедлайнерское выступление на киевском фестивале Atlas Weekend также не могло состояться из-за войны."
+      },
+      "sources": [
+        {
+          "url": "https://x.com/twentyonepilots/status/1498790876478279681",
+          "publisher": "Twenty One Pilots (official X account)",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://news.pollstar.com/2022/03/02/twenty-one-pilots-nick-cave-bring-me-the-horizon-franz-ferdinand-more-cancel-concerts-in-russia/",
+          "publisher": "Pollstar",
+          "date": "2022-03-02"
+        },
+        {
+          "url": "https://www.kerrang.com/twenty-one-pilots-cancel-moscow-gig-peace-will-win-and-we-hope-for-a-time-we-can-visit-you-again",
+          "publisher": "Kerrang!",
+          "date": "2022-03-02"
+        }
+      ]
+    },
+    {
+      "date": "2024-03",
+      "title": {
+        "en": "Ukrainian-language 'torchbearer' detail in 'Overcompensate' video",
+        "uk": "Напис «смолоскипоносець» українською у кліпі «Overcompensate»",
+        "ru": "Надпись «факелоносец» на украинском в клипе «Overcompensate»"
+      },
+      "detail": {
+        "en": "In the music video for 'Overcompensate', released in late February 2024, drummer Josh Dun — who lived and studied in Ukraine for a period before the band's fame — appeared wearing a bandana with the word 'torchbearer' written in Ukrainian, a gesture widely read by Ukrainian media and fans as a sign of solidarity.",
+        "uk": "У кліпі на пісню «Overcompensate», що вийшов наприкінці лютого 2024 року, барабанщик Джош Дан, який свого часу жив і навчався в Україні до слави гурту, з'явився з банданою зі словом «смолоскипоносець» українською — жест, який українські медіа та фанати широко сприйняли як знак солідарності.",
+        "ru": "В клипе на песню «Overcompensate», вышедшем в конце февраля 2024 года, барабанщик Джош Дан, который в своё время жил и учился в Украине до известности группы, появился с банданой со словом «факелоносец» на украинском — жест, который украинские медиа и фанаты широко восприняли как знак солидарности."
+      },
+      "sources": [
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-in-a-new-music-video-twenty-one-pilots-drummer-appeared-in-a-bandana-with-the-inscription-torchbearer-in-ukrainian-what-connects-him-to-our-country-01-03-2024.html",
+          "publisher": "OBOZ.UA (Obozrevatel)",
+          "date": "2024-03-01"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-08",
+      "title": {
+        "en": "Invites Ukrainian boy on stage in Berlin",
+        "uk": "Запрошує українського хлопчика на сцену в Берліні",
+        "ru": "Приглашает украинского мальчика на сцену в Берлине"
+      },
+      "detail": {
+        "en": "At a Clancy World Tour concert in Berlin, frontman Tyler Joseph invited a Ukrainian boy named Artem on stage to sing the band's hit 'Ride' with him; video of the moment gained hundreds of thousands of views and was covered by Ukrainian media.",
+        "uk": "На концерті туру Clancy World Tour у Берліні фронтмен Тайлер Джозеф запросив українського хлопчика Артема на сцену заспівати разом хіт гурту «Ride»; відео цього моменту набрало сотні тисяч переглядів і його висвітлили українські медіа.",
+        "ru": "На концерте тура Clancy World Tour в Берлине фронтмен Тайлер Джозеф пригласил украинского мальчика Артёма на сцену спеть вместе хит группы «Ride»; видео этого момента набрало сотни тысяч просмотров, и о нём написали украинские медиа."
+      },
+      "sources": [
+        {
+          "url": "https://english.nv.ua/life/twenty-one-pilots-invite-ukrainian-boy-to-sing-on-stage-in-berlin-50505561.html",
+          "publisher": "The New Voice of Ukraine (NV)",
+          "date": "2025-04-11"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

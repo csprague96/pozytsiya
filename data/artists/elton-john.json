@@ -1,0 +1,146 @@
+{
+  "slug": "elton-john",
+  "name": "Elton John",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Elton John, the British singer and founder of the Elton John AIDS Foundation, condemned Russia's invasion of Ukraine in its first days, dedicating a song to Ukraine on stage and calling Vladimir Putin 'appalling'. His foundation has funded a sustained humanitarian response in Ukraine — shelters, evacuations and HIV services worth millions of dollars — and he donated $125,000 via the United24 platform on the invasion's first anniversary. In April 2025 Russia declared the Elton John AIDS Foundation an 'undesirable organization', banning it from the country.",
+    "uk": "Елтон Джон, британський співак і засновник Elton John AIDS Foundation, засудив вторгнення Росії в Україну в перші ж дні: присвятив пісню Україні зі сцени та назвав Володимира Путіна «жахливим». Його фонд фінансує тривалу гуманітарну допомогу в Україні — притулки, евакуації та ВІЛ-сервіси на мільйони доларів, а в першу річницю вторгнення співак передав 125 000 доларів через платформу United24. У квітні 2025 року Росія оголосила Elton John AIDS Foundation «небажаною організацією», заборонивши його діяльність у країні.",
+    "ru": "Элтон Джон, британский певец и основатель Elton John AIDS Foundation, осудил вторжение России в Украину в первые же дни: посвятил песню Украине со сцены и назвал Владимира Путина «ужасным». Его фонд финансирует длительную гуманитарную помощь в Украине — приюты, эвакуации и ВИЧ-сервисы на миллионы долларов, а в первую годовщину вторжения певец передал 125 000 долларов через платформу United24. В апреле 2025 года Россия объявила Elton John AIDS Foundation «нежелательной организацией», запретив его деятельность в стране."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-25",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Dedicates song to Ukraine, calls Putin 'appalling'",
+        "uk": "Присвячує пісню Україні, називає Путіна «жахливим»",
+        "ru": "Посвящает песню Украине, называет Путина «ужасным»"
+      },
+      "detail": {
+        "en": "At his Farewell Yellow Brick Road show at the Prudential Center in Newark, New Jersey, the day after the full-scale invasion began, Elton John dedicated 'Don't Let the Sun Go Down on Me' to the people of Ukraine and criticized Vladimir Putin, saying 'some people are appalling, aren't they, absolutely appalling'.",
+        "uk": "На концерті туру Farewell Yellow Brick Road у Prudential Center у Ньюарку (Нью-Джерсі), наступного дня після початку повномасштабного вторгнення, Елтон Джон присвятив пісню «Don't Let the Sun Go Down on Me» народу України та розкритикував Володимира Путіна: «Деякі люди жахливі, чи не так, абсолютно жахливі».",
+        "ru": "На концерте тура Farewell Yellow Brick Road в Prudential Center в Ньюарке (Нью-Джерси), на следующий день после начала полномасштабного вторжения, Элтон Джон посвятил песню «Don't Let the Sun Go Down on Me» народу Украины и раскритиковал Владимира Путина: «Некоторые люди ужасны, не правда ли, абсолютно ужасны»."
+      },
+      "sources": [
+        {
+          "url": "https://www.getreading.co.uk/whats-on/whats-on-news/elton-john-calls-out-putin-23231448",
+          "publisher": "Berkshire Live",
+          "date": "2022-02-26"
+        },
+        {
+          "url": "https://www.smoothradio.com/artists/elton-john/ukraine-putin-russia-invasion/",
+          "publisher": "Smooth Radio"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-26",
+      "title": {
+        "en": "'We are heartbroken' statement in support of Ukraine",
+        "uk": "Заява «Наші серця розбиті» на підтримку України",
+        "ru": "Заявление «Наши сердца разбиты» в поддержку Украины"
+      },
+      "detail": {
+        "en": "In a social-media statement with the Ukrainian flag, Elton John and David Furnish said they were 'heartbroken and appalled to see this conflict unfold', noted that the Elton John AIDS Foundation had supported vulnerable people in Ukraine with HIV services for over 20 years, and said they stood 'with the President and all of Ukraine's people as they bravely fight for their future'.",
+        "uk": "У заяві в соцмережах із прапором України Елтон Джон і Девід Ферніш написали, що їхні «серця розбиті й вони приголомшені розгортанням цього конфлікту», нагадали, що Elton John AIDS Foundation понад 20 років підтримує вразливих людей в Україні з ВІЛ-сервісами, і заявили, що стоять «поруч із Президентом і всім народом України, який хоробро бореться за своє майбутнє».",
+        "ru": "В заявлении в соцсетях с флагом Украины Элтон Джон и Дэвид Ферниш написали, что их «сердца разбиты и они потрясены разворачивающимся конфликтом», напомнили, что Elton John AIDS Foundation более 20 лет поддерживает уязвимых людей в Украине с ВИЧ-сервисами, и заявили, что стоят «рядом с Президентом и всем народом Украины, который храбро борется за своё будущее»."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/elton-john-speaks-out-in-support-of-ukraine-we-are-heartbroken-3170346",
+          "publisher": "NME",
+          "date": "2022-02"
+        },
+        {
+          "url": "https://www.hellomagazine.com/celebrities/20220227134137/elton-john-david-furnish-emotional-statement-ukraine/",
+          "publisher": "Hello!",
+          "date": "2022-02-27"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-23",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Donates $125,000 via United24 after a year of foundation aid",
+        "uk": "Передає 125 000 доларів через United24 після року допомоги фонду",
+        "ru": "Передаёт 125 000 долларов через United24 после года помощи фонда"
+      },
+      "detail": {
+        "en": "On the eve of the invasion's first anniversary, Elton John donated $125,000 to Ukraine's United24 fundraising platform to buy 10 biochemistry analyzers for HIV care, praising Ukrainians' 'incredible courage and resilience'. Over the first year of the war his AIDS Foundation had funded shelters, food, hygiene supplies and evacuation costs for thousands of vulnerable people in Ukraine.",
+        "uk": "Напередодні першої річниці вторгнення Елтон Джон передав 125 000 доларів українській платформі United24 на закупівлю 10 біохімічних аналізаторів для допомоги людям з ВІЛ, відзначивши «неймовірну мужність і стійкість» українців. За перший рік війни його фонд боротьби зі СНІДом профінансував притулки, їжу, засоби гігієни та евакуацію тисяч вразливих людей в Україні.",
+        "ru": "Накануне первой годовщины вторжения Элтон Джон передал 125 000 долларов украинской платформе United24 на закупку 10 биохимических анализаторов для помощи людям с ВИЧ, отметив «невероятное мужество и стойкость» украинцев. За первый год войны его фонд борьбы со СПИДом профинансировал приюты, еду, средства гигиены и эвакуацию тысяч уязвимых людей в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://english.nv.ua/life/elton-john-admires-courage-of-ukrainians-and-donates-125-000-for-ukraine-50306654.html",
+          "publisher": "The New Voice of Ukraine",
+          "date": "2023-02-23"
+        },
+        {
+          "url": "https://u24.gov.ua/news/elton_john",
+          "publisher": "United24"
+        },
+        {
+          "url": "https://www.eltonjohnaidsfoundation.org/ukraine/",
+          "publisher": "Elton John AIDS Foundation"
+        }
+      ]
+    },
+    {
+      "date": "2024-02",
+      "title": {
+        "en": "Foundation announces $2.9 million in new Ukraine grants",
+        "uk": "Фонд оголошує про нові гранти для України на 2,9 млн доларів",
+        "ru": "Фонд объявляет о новых грантах для Украины на 2,9 млн долларов"
+      },
+      "detail": {
+        "en": "As the war entered its third year, the Elton John AIDS Foundation announced $2.9 million in new grants to partner organizations in Ukraine for life-saving services, adding to a response that had already helped tens of thousands of people with food, supplies, winterized shelters and mobile HIV/TB clinics.",
+        "uk": "Коли війна входила у третій рік, Elton John AIDS Foundation оголосив про нові гранти на 2,9 млн доларів партнерським організаціям в Україні для життєво важливих послуг — на додаток до допомоги, яка вже охопила десятки тисяч людей: їжа, речі, утеплені притулки та мобільні клініки для лікування ВІЛ і туберкульозу.",
+        "ru": "Когда война входила в третий год, Elton John AIDS Foundation объявил о новых грантах на 2,9 млн долларов партнёрским организациям в Украине для жизненно важных услуг — в дополнение к помощи, которая уже охватила десятки тысяч людей: еда, вещи, утеплённые приюты и мобильные клиники для лечения ВИЧ и туберкулёза."
+      },
+      "sources": [
+        {
+          "url": "https://ocula.com/magazine/art-news/elton-john-announces-3m-in-aid-for-ukrainians/",
+          "publisher": "Ocula",
+          "date": "2024-02-26"
+        },
+        {
+          "url": "https://www.eltonjohnaidsfoundation.org/continuing-our-support-for-the-people-of-ukraine/",
+          "publisher": "Elton John AIDS Foundation"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-03",
+      "title": {
+        "en": "Russia declares his AIDS Foundation 'undesirable'",
+        "uk": "Росія оголошує його фонд боротьби зі СНІДом «небажаним»",
+        "ru": "Россия объявляет его фонд борьбы со СПИДом «нежелательным»"
+      },
+      "detail": {
+        "en": "Russia's Prosecutor General's Office declared the Elton John AIDS Foundation an 'undesirable organization', accusing it of 'anti-Russian propaganda' and of discrediting 'traditional values', outlawing its HIV work in Russia. The foundation said it was 'devastated' and warned the ban would endanger people living with HIV.",
+        "uk": "Генеральна прокуратура Росії оголосила Elton John AIDS Foundation «небажаною організацією», звинувативши його в «антиросійській пропаганді» та дискредитації «традиційних цінностей», що поставило його ВІЛ-програми в Росії поза законом. Фонд заявив, що «спустошений» цим рішенням, і попередив, що заборона загрожуватиме людям, які живуть з ВІЛ.",
+        "ru": "Генеральная прокуратура России объявила Elton John AIDS Foundation «нежелательной организацией», обвинив его в «антироссийской пропаганде» и дискредитации «традиционных ценностей», что поставило его ВИЧ-программы в России вне закона. Фонд заявил, что «опустошён» этим решением, и предупредил, что запрет поставит под угрозу людей, живущих с ВИЧ."
+      },
+      "sources": [
+        {
+          "url": "https://www.themoscowtimes.com/2025/04/03/russia-labels-elton-john-aids-foundation-undesirable-organization-a88591",
+          "publisher": "The Moscow Times",
+          "date": "2025-04-03"
+        },
+        {
+          "url": "https://www.pravda.com.ua/eng/news/2025/04/3/7505802/",
+          "publisher": "Ukrainska Pravda",
+          "date": "2025-04-03"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

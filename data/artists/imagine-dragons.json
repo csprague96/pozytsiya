@@ -1,0 +1,155 @@
+{
+  "slug": "imagine-dragons",
+  "name": "Imagine Dragons",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Imagine Dragons, the American rock band fronted by Dan Reynolds, cancelled their Russia and Ukraine shows in early March 2022, calling the invasion a 'needless war'. In July 2022, after an online call with President Zelensky, they became ambassadors of Ukraine's UNITED24 fundraising platform. In 2023 they released the 'Crushed' short film shot in war-damaged Ukraine, invited its 15-year-old protagonist Sashko onstage in Warsaw, and helped get his destroyed home rebuilt; they have continued to display support for Ukraine on tour.",
+    "uk": "Imagine Dragons, американський рок-гурт на чолі з Деном Рейнольдсом, на початку березня 2022 року скасував свої концерти в Росії та Україні, назвавши вторгнення «непотрібною війною». У липні 2022 року, після онлайн-розмови з президентом Зеленським, гурт став амбасадором української платформи для збору коштів UNITED24. У 2023 році гурт випустив короткометражний фільм «Crushed», знятий у зруйнованій війною Україні, запросив його 15-річного героя Сашка на сцену у Варшаві та допоміг відбудувати його зруйнований дім; гурт продовжує демонструвати підтримку України на гастролях.",
+    "ru": "Imagine Dragons, американская рок-группа во главе с Дэном Рейнольдсом, в начале марта 2022 года отменила свои концерты в России и Украине, назвав вторжение «ненужной войной». В июле 2022 года, после онлайн-разговора с президентом Зеленским, группа стала амбассадором украинской платформы по сбору средств UNITED24. В 2023 году группа выпустила короткометражный фильм «Crushed», снятый в разрушенной войной Украине, пригласила его 15-летнего героя Сашко на сцену в Варшаве и помогла восстановить его разрушенный дом; группа продолжает демонстрировать поддержку Украины на гастролях."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-01",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Cancels Russia and Ukraine shows over the 'needless war'",
+        "uk": "Скасовує концерти в Росії та Україні через «непотрібну війну»",
+        "ru": "Отменяет концерты в России и Украине из-за «ненужной войны»"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, the band announced on Instagram: 'In light of recent events, we're sad to announce our Russia and Ukraine shows are cancelled until further notice. Our thoughts are with Ukraine and all others suffering from this needless war.'",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення гурт оголосив в Instagram: «У світлі останніх подій ми з сумом повідомляємо, що наші концерти в Росії та Україні скасовано до подальшого повідомлення. Наші думки — з Україною та всіма, хто страждає від цієї непотрібної війни».",
+        "ru": "Через несколько дней после начала полномасштабного вторжения группа объявила в Instagram: «В свете последних событий мы с грустью сообщаем, что наши концерты в России и Украине отменены до дальнейшего уведомления. Наши мысли — с Украиной и всеми, кто страдает от этой ненужной войны»."
+      },
+      "sources": [
+        {
+          "url": "https://www.thenationalnews.com/arts-culture/music/2022/03/01/artists-cancelling-shows-in-russia-over-ukraine-from-green-day-to-imagine-dragons/",
+          "publisher": "The National",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://qz.com/2135065/music-acts-are-canceling-russia-shows-over-the-ukraine-conflict",
+          "publisher": "Quartz",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-07",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Becomes ambassador of Ukraine's UNITED24 fundraising platform",
+        "uk": "Стає амбасадором української платформи збору коштів UNITED24",
+        "ru": "Становится амбассадором украинской платформы по сбору средств UNITED24"
+      },
+      "detail": {
+        "en": "After an online call with President Volodymyr Zelensky, Imagine Dragons became ambassadors of the UNITED24 platform, supporting its medical-aid fundraising for ambulances. Dan Reynolds said: 'We love the people of Ukraine and want to help in any way possible... We stand by the beautiful people of Ukraine and their courageous leader President Zelenskyy.'",
+        "uk": "Після онлайн-розмови з президентом Володимиром Зеленським Imagine Dragons стали амбасадорами платформи UNITED24, підтримуючи збір коштів на автомобілі швидкої допомоги за напрямом медичної допомоги. Ден Рейнольдс сказав: «Ми любимо народ України і хочемо допомогти всім, чим можемо... Ми поруч із прекрасним народом України та його мужнім лідером президентом Зеленським».",
+        "ru": "После онлайн-разговора с президентом Владимиром Зеленским Imagine Dragons стали амбассадорами платформы UNITED24, поддерживая сбор средств на машины скорой помощи по направлению медицинской помощи. Дэн Рейнольдс сказал: «Мы любим народ Украины и хотим помочь всем, чем можем... Мы рядом с прекрасным народом Украины и его мужественным лидером президентом Зеленским»."
+      },
+      "sources": [
+        {
+          "url": "https://www.president.gov.ua/en/news/imagine-dragons-stali-ambasadorami-platformi-united24-76629",
+          "publisher": "Office of the President of Ukraine",
+          "date": "2022-07"
+        },
+        {
+          "url": "https://www.billboard.com/music/music-news/imagine-dragons-ambassadors-ukraine-united24-1235118008/",
+          "publisher": "Billboard",
+          "date": "2022-07"
+        },
+        {
+          "url": "https://consequence.net/2022/07/imagine-dragons-ukraine-ambassadors-united24/",
+          "publisher": "Consequence",
+          "date": "2022-07"
+        }
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": {
+        "en": "Releases 'Crushed' short film shot in war-torn Ukraine",
+        "uk": "Випускає короткометражний фільм «Crushed», знятий у понівеченій війною Україні",
+        "ru": "Выпускает короткометражный фильм «Crushed», снятый в истерзанной войной Украине"
+      },
+      "detail": {
+        "en": "The band released a short film for their song 'Crushed', directed by Ty Arnold and filmed in Ukraine. It tells the story of 14-year-old Sashko from Novohryhorivka in Mykolaiv Oblast, whose village spent five months under Russian occupation, and was released in support of the UNITED24 relief fundraising effort.",
+        "uk": "Гурт випустив короткометражний фільм на пісню «Crushed», знятий в Україні режисером Таєм Арнольдом. Фільм розповідає історію 14-річного Сашка з Новогригорівки Миколаївської області, чиє село п'ять місяців перебувало під російською окупацією, і вийшов на підтримку збору коштів платформи UNITED24.",
+        "ru": "Группа выпустила короткометражный фильм на песню «Crushed», снятый в Украине режиссёром Таем Арнольдом. Фильм рассказывает историю 14-летнего Сашко из Новогригоровки Николаевской области, чьё село пять месяцев находилось под российской оккупацией, и вышел в поддержку сбора средств платформы UNITED24."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/imagine-dragons-crushed-short-film-1234733405/",
+          "publisher": "Rolling Stone",
+          "date": "2023-05"
+        },
+        {
+          "url": "https://u24.gov.ua/news/imagine_dragons_film",
+          "publisher": "UNITED24",
+          "date": "2023-05"
+        },
+        {
+          "url": "https://www.newsweek.com/imagine-dragons-video-tells-heartbreaking-story-ukraine-front-lines-1799565",
+          "publisher": "Newsweek",
+          "date": "2023-05"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-14",
+      "title": {
+        "en": "Invites Sashko onstage in Warsaw; his destroyed home is later rebuilt",
+        "uk": "Запрошує Сашка на сцену у Варшаві; його зруйнований дім згодом відбудовано",
+        "ru": "Приглашает Сашко на сцену в Варшаве; его разрушенный дом позже восстановлен"
+      },
+      "detail": {
+        "en": "At their Warsaw concert, the band brought Sashko, the teenager featured in 'Crushed', onstage, where he unfurled a Ukrainian flag with Dan Reynolds; UNITED24 had organized his first trip abroad. Attention generated by the video led a UNITED24 donor to rebuild his home in Mykolaiv Oblast, completed by the end of 2023.",
+        "uk": "На концерті у Варшаві гурт запросив на сцену Сашка, героя кліпу «Crushed», де він разом із Деном Рейнольдсом розгорнув український прапор; UNITED24 організувала його першу поїздку за кордон. Завдяки увазі до відео донор UNITED24 відбудував його дім у Миколаївській області — роботи завершили до кінця 2023 року.",
+        "ru": "На концерте в Варшаве группа пригласила на сцену Сашко, героя клипа «Crushed», где он вместе с Дэном Рейнольдсом развернул украинский флаг; UNITED24 организовала его первую поездку за границу. Благодаря вниманию к видео донор UNITED24 восстановил его дом в Николаевской области — работы завершили к концу 2023 года."
+      },
+      "sources": [
+        {
+          "url": "https://u24.gov.ua/news/newhomeforSashko",
+          "publisher": "UNITED24",
+          "date": "2023-12"
+        },
+        {
+          "url": "https://www.tmz.com/2023/12/28/imagine-dragons-rebuilds-home-ukraine-boy-crushed-music-video-lost-everything-war/",
+          "publisher": "TMZ",
+          "date": "2023-12-28"
+        }
+      ]
+    },
+    {
+      "date": "2025-05",
+      "title": {
+        "en": "Continues pro-Ukraine gestures on tour, raising the flag in Milan",
+        "uk": "Продовжує проукраїнські жести на гастролях, піднявши прапор у Мілані",
+        "ru": "Продолжает проукраинские жесты на гастролях, подняв флаг в Милане"
+      },
+      "detail": {
+        "en": "During their 2025 world tour, the band continued to show support for Ukraine, with Dan Reynolds raising a Ukrainian flag handed from the audience during 'Believer' at a concert in Milan; Ukrainian media described the tour as a continuing platform for keeping attention on the war.",
+        "uk": "Під час світового турне 2025 року гурт продовжував демонструвати підтримку України: Ден Рейнольдс підняв український прапор, переданий із зали під час виконання «Believer» на концерті в Мілані; українські медіа описували турне як постійний майданчик для привернення уваги до війни.",
+        "ru": "Во время мирового турне 2025 года группа продолжала демонстрировать поддержку Украины: Дэн Рейнольдс поднял украинский флаг, переданный из зала во время исполнения «Believer» на концерте в Милане; украинские медиа описывали турне как постоянную площадку для привлечения внимания к войне."
+      },
+      "sources": [
+        {
+          "url": "https://charter97.org/en/news/2025/5/28/642273/",
+          "publisher": "Charter97",
+          "date": "2025-05-28"
+        },
+        {
+          "url": "https://newsukraine.rbc.ua/news/why-imagine-dragons-won-t-stop-showing-ukraine-1751350030.html",
+          "publisher": "RBC-Ukraine",
+          "date": "2025-07-01"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "roger-waters",
+  "name": "Roger Waters",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": -2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Roger Waters, co-founder of Pink Floyd, initially condemned Russia's full-scale invasion as 'the act of a gangster', but from mid-2022 made blaming NATO and the West his stated position, calling the invasion 'not unprovoked'. In February 2023 he addressed the UN Security Council by video at Russia's invitation, calling the invasion illegal yet provoked; Ukraine's UN ambassador denounced the speech as 'another brick in the wall' of Russian disinformation. His September 2022 open letter to Olena Zelenska blaming 'extreme nationalists' in Ukraine led to the cancellation of his Kraków concerts, and the unofficial Ukrainian Myrotvorets database has listed him since 2018 over his support for Russia's annexation of Crimea.",
+    "uk": "Роджер Вотерс, співзасновник Pink Floyd, спочатку засудив повномасштабне вторгнення Росії як «вчинок гангстера», але з середини 2022 року його заявленою позицією стало звинувачення НАТО і Заходу: він називає вторгнення «не безпідставним» («not unprovoked»). У лютому 2023 року він на запрошення Росії виступив по відео перед Радою Безпеки ООН, назвавши вторгнення незаконним, але спровокованим; постійний представник України при ООН назвав цю промову «ще однією цеглиною в стіні» російської дезінформації. Його відкритий лист до Олени Зеленської у вересні 2022 року, в якому він звинуватив «крайніх націоналістів» в Україні, призвів до скасування його концертів у Кракові, а неофіційна українська база «Миротворець» внесла його до списку ще 2018 року через підтримку анексії Криму Росією.",
+    "ru": "Роджер Уотерс, сооснователь Pink Floyd, сначала осудил полномасштабное вторжение России как «поступок гангстера», но с середины 2022 года его заявленной позицией стало обвинение НАТО и Запада: он называет вторжение «не беспричинным» («not unprovoked»). В феврале 2023 года он по приглашению России выступил по видеосвязи перед Советом Безопасности ООН, назвав вторжение незаконным, но спровоцированным; постоянный представитель Украины при ООН назвал эту речь «ещё одним кирпичом в стене» российской дезинформации. Его открытое письмо Елене Зеленской в сентябре 2022 года, в котором он обвинил «крайних националистов» в Украине, привело к отмене его концертов в Кракове, а неофициальная украинская база «Миротворец» внесла его в список ещё в 2018 году за поддержку аннексии Крыма Россией."
+  },
+  "timeline": [
+    {
+      "date": "2018-08",
+      "title": {
+        "en": "Pre-war context: backs Russia's takeover of Crimea, added to Myrotvorets database",
+        "uk": "Довоєнний контекст: підтримує захоплення Криму Росією, внесений до бази «Миротворець»",
+        "ru": "Довоенный контекст: поддерживает захват Крыма Россией, внесён в базу «Миротворец»"
+      },
+      "detail": {
+        "en": "Ahead of a Moscow concert, Waters made statements backing Russia's takeover of Crimea, prompting backlash in Ukraine. The Ukrainian nongovernmental website Myrotvorets added him to its database, accusing him of 'anti-Ukrainian propaganda'; the list has no official standing in Ukraine.",
+        "uk": "Напередодні концерту в Москві Вотерс зробив заяви на підтримку захоплення Криму Росією, що викликало обурення в Україні. Українська неурядова база «Миротворець» внесла його до свого списку, звинувативши в «антиукраїнській пропаганді»; список не має офіційного статусу в Україні.",
+        "ru": "Накануне концерта в Москве Уотерс выступил с заявлениями в поддержку захвата Крыма Россией, что вызвало возмущение в Украине. Украинская неправительственная база «Миротворец» внесла его в свой список, обвинив в «антиукраинской пропаганде»; список не имеет официального статуса в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.rferl.org/a/pink-floyd-roger-waters-says-backs-russian-takeover-crimea-causing-backlash-ukraine/29460955.html",
+          "publisher": "RFE/RL",
+          "date": "2018-08"
+        },
+        {
+          "url": "https://www.newsweek.com/fact-check-did-ukraine-put-pink-floyds-roger-waters-kill-list-1749051",
+          "publisher": "Newsweek",
+          "date": "2022-10"
+        }
+      ]
+    },
+    {
+      "date": "2022-03",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns invasion as 'the act of a gangster'",
+        "uk": "Засуджує вторгнення як «вчинок гангстера»",
+        "ru": "Осуждает вторжение как «поступок гангстера»"
+      },
+      "detail": {
+        "en": "Replying publicly to a 19-year-old Ukrainian Pink Floyd fan, Waters wrote: 'I am disgusted by Putin's invasion of Ukraine, it is a criminal mistake, in my opinion, the act of a gangster, there must be an immediate ceasefire.'",
+        "uk": "У публічній відповіді 19-річній українській шанувальниці Pink Floyd Вотерс написав: «Мені огидне вторгнення Путіна в Україну, це злочинна помилка, на мою думку, вчинок гангстера; має бути негайне припинення вогню».",
+        "ru": "В публичном ответе 19-летней украинской поклоннице Pink Floyd Уотерс написал: «Мне отвратительно вторжение Путина в Украину, это преступная ошибка, на мой взгляд, поступок гангстера; необходимо немедленное прекращение огня»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/roger-water-russia-ukraine-1319000/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://americansongwriter.com/roger-waters-responds-to-19-year-old-ukrainian-girl-asking-him-to-speak-out-invasion-is-act-of-a-gangster/",
+          "publisher": "American Songwriter",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-08",
+      "stanceAfter": -2,
+      "title": {
+        "en": "CNN interview: blames NATO, calls Biden a 'war criminal' for 'fueling the fire in Ukraine'",
+        "uk": "Інтерв'ю CNN: звинувачує НАТО, називає Байдена «воєнним злочинцем», який «роздмухує вогонь в Україні»",
+        "ru": "Интервью CNN: обвиняет НАТО, называет Байдена «военным преступником», который «раздувает огонь в Украине»"
+      },
+      "detail": {
+        "en": "In an interview with CNN's Michael Smerconish, Waters defended calling US President Biden a 'war criminal', saying he was 'fueling the fire in the Ukraine', and said the war 'is basically about the action and reaction of NATO pushing right up to the Russian border'.",
+        "uk": "В інтерв'ю Майклу Смерконішу на CNN Вотерс підтвердив, що вважає президента США Байдена «воєнним злочинцем», який «роздмухує вогонь в Україні», і заявив, що війна «по суті є наслідком дій і протидії НАТО, що просунулося аж до російського кордону».",
+        "ru": "В интервью Майклу Смеркониш на CNN Уотерс подтвердил, что считает президента США Байдена «военным преступником», который «раздувает огонь в Украине», и заявил, что война «по сути является следствием действий и противодействия НАТО, продвинувшегося вплотную к российской границе»."
+      },
+      "sources": [
+        {
+          "url": "https://consequence.net/2022/08/roger-waters-biden-war-criminal-russia-china/",
+          "publisher": "Consequence",
+          "date": "2022-08"
+        },
+        {
+          "url": "https://www.cnn.com/videos/politics/2022/08/08/roger-waters-smerconish-intv-newday-sots-taiwan-ukraine-vpx.cnn",
+          "publisher": "CNN",
+          "date": "2022-08-08"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-05",
+      "title": {
+        "en": "Open letter to Olena Zelenska blames 'extreme nationalists' in Ukraine",
+        "uk": "Відкритий лист до Олени Зеленської звинувачує «крайніх націоналістів» в Україні",
+        "ru": "Открытое письмо Елене Зеленской обвиняет «крайних националистов» в Украине"
+      },
+      "detail": {
+        "en": "Waters published an open letter to Ukraine's first lady Olena Zelenska, urging her to 'persuade our leaders to stop the slaughter' and blaming the war on 'extreme nationalists' in Ukraine and on Western governments supplying weapons. Zelenska replied publicly on Twitter, and Waters later addressed a further open letter to Vladimir Putin.",
+        "uk": "Вотерс опублікував відкритий лист до першої леді України Олени Зеленської, закликаючи її «переконати наших лідерів зупинити бійню» і поклавши провину за війну на «крайніх націоналістів» в Україні та на західні уряди, які постачають зброю. Зеленська публічно відповіла у Twitter, а згодом Вотерс адресував ще один відкритий лист Володимиру Путіну.",
+        "ru": "Уотерс опубликовал открытое письмо первой леди Украины Елене Зеленской, призывая её «убедить наших лидеров остановить бойню» и возложив вину за войну на «крайних националистов» в Украине и на западные правительства, поставляющие оружие. Зеленская публично ответила в Twitter, а позднее Уотерс адресовал ещё одно открытое письмо Владимиру Путину."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/roger-waters-asks-ukrainian-first-lady-to-help-persuade-our-leaders-to-stop-the-slaughter-in-open-letter-3305655",
+          "publisher": "NME",
+          "date": "2022-09-07"
+        },
+        {
+          "url": "https://consequence.net/2022/09/roger-waters-olena-zelenska-ukraine-russia/",
+          "publisher": "Consequence",
+          "date": "2022-09"
+        },
+        {
+          "url": "https://www.nme.com/news/music/roger-waters-shares-open-letter-to-vladimir-putin-would-you-like-to-see-an-end-to-this-war-3317394",
+          "publisher": "NME",
+          "date": "2022-09"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-25",
+      "title": {
+        "en": "Kraków concerts cancelled over his Ukraine comments",
+        "uk": "Концерти у Кракові скасовано через його висловлювання про Україну",
+        "ru": "Концерты в Кракове отменены из-за его высказываний об Украине"
+      },
+      "detail": {
+        "en": "Live Nation Polska and Tauron Arena Kraków announced the cancellation of Waters' two April 2023 'This Is Not a Drill' shows following his letter to Zelenska and other comments on the war; Kraków city councillors moved to declare him persona non grata. Waters disputed the venue's account and defended his calls for a negotiated peace.",
+        "uk": "Live Nation Polska і Tauron Arena Kraków оголосили про скасування двох концертів туру Вотерса «This Is Not a Drill», запланованих на квітень 2023 року, після його листа до Зеленської та інших висловлювань про війну; депутати міськради Кракова ініціювали визнання його персоною нон ґрата. Вотерс заперечив версію майданчика та захищав свої заклики до миру шляхом переговорів.",
+        "ru": "Live Nation Polska и Tauron Arena Kraków объявили об отмене двух концертов тура Уотерса «This Is Not a Drill», запланированных на апрель 2023 года, после его письма Зеленской и других высказываний о войне; депутаты горсовета Кракова инициировали объявление его персоной нон грата. Уотерс оспорил версию площадки и защищал свои призывы к миру путём переговоров."
+      },
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/world/2022/09/26/roger-waters-poland-concerts-canceled-ukraine/",
+          "publisher": "The Washington Post",
+          "date": "2022-09-26"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2022/9/26/polish-venue-cancels-roger-waters-gigs-after-ukraine-comments",
+          "publisher": "Al Jazeera",
+          "date": "2022-09-26"
+        },
+        {
+          "url": "https://www.euronews.com/culture/2022/09/25/pink-floyd-founder-cancels-poland-concerts-after-ukraine-war-remarks",
+          "publisher": "Euronews",
+          "date": "2022-09-25"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-08",
+      "title": {
+        "en": "Addresses UN Security Council at Russia's invitation: invasion 'illegal' but 'not unprovoked'",
+        "uk": "Виступає в Раді Безпеки ООН на запрошення Росії: вторгнення «незаконне», але «не безпідставне»",
+        "ru": "Выступает в Совете Безопасности ООН по приглашению России: вторжение «незаконное», но «не беспричинное»"
+      },
+      "detail": {
+        "en": "Speaking by video link at a Security Council meeting convened by Russia, Waters called the invasion of Ukraine illegal and urged an immediate ceasefire, but said it was 'not unprovoked' and condemned 'the provocateurs in the strongest possible terms'. Ukraine's UN ambassador Sergiy Kyslytsya called the speech 'another brick in the wall' of Russian disinformation, and Ukraine's Foreign Ministry accused Waters of whitewashing Russia's aggression.",
+        "uk": "Виступаючи по відеозв'язку на засіданні Ради Безпеки, скликаному Росією, Вотерс назвав вторгнення в Україну незаконним і закликав до негайного припинення вогню, але заявив, що воно було «не безпідставним», і засудив «провокаторів у найрішучіших висловах». Постійний представник України при ООН Сергій Кислиця назвав промову «ще однією цеглиною в стіні» російської дезінформації, а МЗС України звинуватило Вотерса у вибілюванні російської агресії.",
+        "ru": "Выступая по видеосвязи на заседании Совета Безопасности, созванном Россией, Уотерс назвал вторжение в Украину незаконным и призвал к немедленному прекращению огня, но заявил, что оно было «не беспричинным», и осудил «провокаторов в самых решительных выражениях». Постоянный представитель Украины при ООН Сергей Кислица назвал речь «ещё одним кирпичом в стене» российской дезинформации, а МИД Украины обвинил Уотерса в обелении российской агрессии."
+      },
+      "sources": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/entertainment-arts-64580688",
+          "publisher": "BBC News",
+          "date": "2023-02-09"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2023/2/9/ukraine-slams-roger-waters-over-un-security-council-speech",
+          "publisher": "Al Jazeera",
+          "date": "2023-02-09"
+        },
+        {
+          "url": "https://www.timesofisrael.com/pink-floyds-roger-waters-slammed-for-un-speech-blaming-ukraine-for-russian-invasion/",
+          "publisher": "The Times of Israel",
+          "date": "2023-02"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}
