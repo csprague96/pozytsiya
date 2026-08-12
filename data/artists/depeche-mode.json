@@ -1,0 +1,64 @@
+{
+  "slug": "depeche-mode",
+  "name": "Depeche Mode",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Depeche Mode are a British electronic band with a large, long-standing fanbase in Ukraine and Russia. Songwriter Martin Gore said the 2023 album opener 'My Cosmos Is Mine' was written shortly after Russia invaded Ukraine, and the track carries an explicit anti-war chant. In July 2023 the band partnered with the humanitarian organization CARE, auctioning an exclusive Warsaw concert experience to raise funds for Ukrainian refugee children in Poland.",
+    "uk": "Depeche Mode — британський електронний гурт із великою багаторічною аудиторією в Україні та Росії. Автор пісень Мартін Гор розповів, що перша композиція альбому 2023 року «My Cosmos Is Mine» була написана невдовзі після вторгнення Росії в Україну і містить відверто антивоєнний речитатив. У липні 2023 року гурт у партнерстві з гуманітарною організацією CARE виставив на благодійний аукціон ексклюзивний пакет відвідування концерту у Варшаві, щоб зібрати кошти для дітей українських біженців у Польщі.",
+    "ru": "Depeche Mode — британская электронная группа с большой многолетней аудиторией в Украине и России. Автор песен Мартин Гор рассказал, что открывающая альбом 2023 года композиция «My Cosmos Is Mine» была написана вскоре после вторжения России в Украину и содержит открыто антивоенный речитатив. В июле 2023 года группа в партнёрстве с гуманитарной организацией CARE выставила на благотворительный аукцион эксклюзивный пакет посещения концерта в Варшаве, чтобы собрать средства для детей украинских беженцев в Польше."
+  },
+  "timeline": [
+    {
+      "date": "2023-03",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Releases 'My Cosmos Is Mine', written in response to the invasion",
+        "uk": "Випускає «My Cosmos Is Mine», написану у відповідь на вторгнення",
+        "ru": "Выпускает «My Cosmos Is Mine», написанную в ответ на вторжение"
+      },
+      "detail": {
+        "en": "Depeche Mode premiered 'My Cosmos Is Mine', the opening track of the album Memento Mori. Martin Gore said he wrote the song shortly after Russia invaded Ukraine; its bridge features Dave Gahan chanting 'No war, no more, no fear, not here... no senseless deaths'.",
+        "uk": "Depeche Mode представили «My Cosmos Is Mine» — першу композицію альбому Memento Mori. Мартін Гор розповів, що написав пісню невдовзі після того, як Росія вторглася в Україну; у бриджі Дейв Гаан скандує «No war, no more, no fear, not here... no senseless deaths» («Ні війні, досить, без страху, не тут... жодних безглуздих смертей»).",
+        "ru": "Depeche Mode представили «My Cosmos Is Mine» — открывающую композицию альбома Memento Mori. Мартин Гор рассказал, что написал песню вскоре после того, как Россия вторглась в Украину; в бридже Дэйв Гаан скандирует «No war, no more, no fear, not here... no senseless deaths» («Нет войне, хватит, без страха, не здесь... никаких бессмысленных смертей»)."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/My_Cosmos_Is_Mine",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/depeche-mode-new-song-my-cosmos-is-mine-1234693841/",
+          "publisher": "Rolling Stone",
+          "date": "2023-03"
+        }
+      ]
+    },
+    {
+      "date": "2023-07",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Charity auction with CARE for Ukrainian refugees in Poland",
+        "uk": "Благодійний аукціон із CARE на користь українських біженців у Польщі",
+        "ru": "Благотворительный аукцион с CARE в пользу украинских беженцев в Польше"
+      },
+      "detail": {
+        "en": "Ahead of their 2 August 2023 show at PGE Narodowy in Warsaw, Depeche Mode partnered with CARE on an online auction (19-29 July on Allegro Charytatywni) offering top-category tickets, a pre-show meet-and-greet with Dave Gahan and Martin Gore and a signed Memento Mori vinyl. Proceeds went to CARE Poland's programs providing education and psychosocial support for Ukrainian refugee children and youth.",
+        "uk": "Напередодні концерту 2 серпня 2023 року на стадіоні PGE Narodowy у Варшаві Depeche Mode разом із CARE провели онлайн-аукціон (19-29 липня на Allegro Charytatywni), виставивши квитки найвищої категорії, зустріч із Дейвом Гааном і Мартіном Гором перед шоу та підписаний вініл Memento Mori. Виручені кошти пішли на програми CARE Poland з освіти та психосоціальної підтримки дітей і молоді з числа українських біженців.",
+        "ru": "Накануне концерта 2 августа 2023 года на стадионе PGE Narodowy в Варшаве Depeche Mode совместно с CARE провели онлайн-аукцион (19-29 июля на Allegro Charytatywni), выставив билеты высшей категории, встречу с Дэйвом Гааном и Мартином Гором перед шоу и подписанный винил Memento Mori. Вырученные средства пошли на программы CARE Poland по образованию и психосоциальной поддержке детей и молодёжи из числа украинских беженцев."
+      },
+      "sources": [
+        {
+          "url": "https://www.care.org/media-and-press/exclusive-depeche-mode-concert-experience-and-online-auction-to-support-care-refugee-relief-in-poland/",
+          "publisher": "CARE",
+          "date": "2023-07"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}
