@@ -1,0 +1,95 @@
+{
+  "slug": "pink-floyd",
+  "name": "Pink Floyd",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Pink Floyd, the British rock band led since 1985 by David Gilmour with drummer Nick Mason (former co-founder Roger Waters, who left in 1985, has taken a separate public position and is covered in his own entry), condemned Russia's invasion of Ukraine. In March 2022 the band pulled its post-1987 catalogue and all of Gilmour's solo recordings from digital music services in Russia and Belarus, and in April 2022 released 'Hey Hey Rise Up' with Andriy Khlyvnyuk of the Ukrainian band BoomBox — their first new music since 1994 — with all proceeds going to Ukrainian humanitarian relief.",
+    "uk": "Pink Floyd, британський рок-гурт, який із 1985 року очолює Девід Гілмор разом із барабанщиком Ніком Мейсоном (колишній співзасновник Роджер Вотерс, що залишив гурт 1985 року, має окрему публічну позицію і розглядається в окремому записі), засудив вторгнення Росії в Україну. У березні 2022 року гурт вилучив свій каталог після 1987 року та всі сольні записи Гілмора з цифрових музичних сервісів у Росії та Білорусі, а у квітні 2022 року випустив пісню «Hey Hey Rise Up» з Андрієм Хливнюком з українського гурту «Бумбокс» — першу нову музику з 1994 року, — усі доходи від якої спрямовано на гуманітарну допомогу Україні.",
+    "ru": "Pink Floyd, британская рок-группа, которую с 1985 года возглавляет Дэвид Гилмор вместе с барабанщиком Ником Мейсоном (бывший сооснователь Роджер Уотерс, покинувший группу в 1985 году, занимает отдельную публичную позицию и рассматривается в отдельной записи), осудила вторжение России в Украину. В марте 2022 года группа убрала свой каталог после 1987 года и все сольные записи Гилмора с цифровых музыкальных сервисов в России и Беларуси, а в апреле 2022 года выпустила песню «Hey Hey Rise Up» с Андреем Хлывнюком из украинской группы «Бумбокс» — первую новую музыку с 1994 года, — все доходы от которой направлены на гуманитарную помощь Украине."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-01",
+      "stanceAfter": 2,
+      "title": {
+        "en": "David Gilmour condemns the invasion: 'Putin must go'",
+        "uk": "Девід Гілмор засуджує вторгнення: «Путін має піти»",
+        "ru": "Дэвид Гилмор осуждает вторжение: «Путин должен уйти»"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, Pink Floyd's David Gilmour posted: 'Russian soldiers, stop killing your brothers. There will be no winners in this war.' He noted that his daughter-in-law is Ukrainian and ended the post with 'Putin must go'.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Девід Гілмор із Pink Floyd написав: «Російські солдати, припиніть убивати своїх братів. У цій війні не буде переможців». Він зазначив, що його невістка — українка, і завершив допис словами «Путін має піти».",
+        "ru": "Через несколько дней после начала полномасштабного вторжения Дэвид Гилмор из Pink Floyd написал: «Российские солдаты, прекратите убивать своих братьев. В этой войне не будет победителей». Он отметил, что его невестка — украинка, и завершил пост словами «Путин должен уйти»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/pink-floyd-david-gilmour-russia-ukraine-1314374/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://www.nme.com/news/music/pink-floyds-david-gilmour-tells-russian-soldiers-stop-killing-your-brothers-3172877",
+          "publisher": "NME",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-11",
+      "title": {
+        "en": "Pulls catalogue from streaming services in Russia and Belarus",
+        "uk": "Вилучає каталог зі стрімінгових сервісів у Росії та Білорусі",
+        "ru": "Убирает каталог со стриминговых сервисов в России и Беларуси"
+      },
+      "detail": {
+        "en": "Pink Floyd announced that, 'to stand with the world in strongly condemning Russia's invasion of Ukraine', the band's works from 1987 onwards and all of David Gilmour's solo recordings were being removed from all digital music providers in Russia and Belarus.",
+        "uk": "Pink Floyd оголосили, що, «щоб разом з усім світом рішуче засудити вторгнення Росії в Україну», твори гурту з 1987 року та всі сольні записи Девіда Гілмора вилучаються з усіх цифрових музичних сервісів у Росії та Білорусі.",
+        "ru": "Pink Floyd объявили, что, «чтобы вместе со всем миром решительно осудить вторжение России в Украину», работы группы с 1987 года и все сольные записи Дэвида Гилмора удаляются со всех цифровых музыкальных сервисов в России и Беларуси."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/pink-floyd-david-gilmour-russia-belarus-1320133/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03-11"
+        },
+        {
+          "url": "https://www.nme.com/news/music/pink-floyd-and-david-gilmour-remove-music-from-streaming-services-in-russia-belarus-3180980",
+          "publisher": "NME",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-08",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Releases benefit single 'Hey Hey Rise Up' for Ukraine",
+        "uk": "Випускає благодійний сингл «Hey Hey Rise Up» на підтримку України",
+        "ru": "Выпускает благотворительный сингл «Hey Hey Rise Up» в поддержку Украины"
+      },
+      "detail": {
+        "en": "David Gilmour and Nick Mason released 'Hey Hey Rise Up' — Pink Floyd's first new music since 1994 — featuring vocals by Andriy Khlyvnyuk of the Ukrainian band BoomBox singing the Ukrainian song 'Oi u luzi chervona kalyna', taken from his Instagram video recorded in Kyiv. All proceeds from the single went to Ukrainian humanitarian relief.",
+        "uk": "Девід Гілмор і Нік Мейсон випустили «Hey Hey Rise Up» — першу нову музику Pink Floyd з 1994 року — з вокалом Андрія Хливнюка з українського гурту «Бумбокс», який виконує пісню «Ой у лузі червона калина», взятим з його Instagram-відео, записаного в Києві. Усі доходи від синглу пішли на гуманітарну допомогу Україні.",
+        "ru": "Дэвид Гилмор и Ник Мейсон выпустили «Hey Hey Rise Up» — первую новую музыку Pink Floyd с 1994 года — с вокалом Андрея Хлывнюка из украинской группы «Бумбокс», исполняющего песню «Ой у лузі червона калина», взятым из его Instagram-видео, записанного в Киеве. Все доходы от сингла пошли на гуманитарную помощь Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.npr.org/2022/04/07/1091538631/pink-floyd-ukraine-new-song-boombox-andriy",
+          "publisher": "NPR",
+          "date": "2022-04-07"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2022/4/8/pink-floyd-members-team-up-with-ukrainian-singer-in-new-song",
+          "publisher": "Al Jazeera",
+          "date": "2022-04-08"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

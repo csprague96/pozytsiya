@@ -1,0 +1,104 @@
+{
+  "slug": "madonna",
+  "name": "Madonna",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 2,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Madonna, the American pop singer, condemned Russia's full-scale invasion of Ukraine within days of its start in February 2022, calling it 'pointless and greed driven', accusing Putin of violating human rights and voicing support for President Zelensky while urging followers to send humanitarian aid. She opened her 2023 Celebration Tour in London draped in the Ukrainian flag, wearing hats by Ukrainian designer Ruslan Baginskiy, and in June 2024 posted a video backing Ukraine's Global Peace Summit and the return of Ukrainian children deported to Russia.",
+    "uk": "Мадонна, американська поп-співачка, засудила повномасштабне вторгнення Росії в Україну вже в перші дні після його початку в лютому 2022 року, назвавши його «безглуздим і продиктованим жадібністю», звинуватила Путіна в порушенні прав людини, висловила підтримку президентові Зеленському та закликала підписників надсилати гуманітарну допомогу. Вона відкрила свій тур Celebration Tour 2023 року в Лондоні, загорнувшись в український прапор і в капелюхах українського дизайнера Руслана Багінського, а в червні 2024 року опублікувала відео на підтримку Глобального саміту миру та повернення українських дітей, депортованих до Росії.",
+    "ru": "Мадонна, американская поп-певица, осудила полномасштабное вторжение России в Украину уже в первые дни после его начала в феврале 2022 года, назвав его «бессмысленным и продиктованным жадностью», обвинила Путина в нарушении прав человека, выразила поддержку президенту Зеленскому и призвала подписчиков отправлять гуманитарную помощь. Она открыла свой тур Celebration Tour 2023 года в Лондоне, завернувшись в украинский флаг и в шляпах украинского дизайнера Руслана Багинского, а в июне 2024 года опубликовала видео в поддержку Глобального саммита мира и возвращения украинских детей, депортированных в Россию."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-26",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Condemns the invasion, posts 'Sorry' remix video with war imagery",
+        "uk": "Засуджує вторгнення, публікує ремікс-відео «Sorry» з кадрами війни",
+        "ru": "Осуждает вторжение, публикует ремикс-видео «Sorry» с кадрами войны"
+      },
+      "detail": {
+        "en": "Madonna shared on Instagram a fan-made remix video of her song 'Sorry' intercut with footage of the war in Ukraine, writing that 'Russia's Pointless and Greed Driven Invasion Of the Ukraine MUST be stopped', that 'Putin has Violated Every Human Rights Accord in Existence' and 'has no right to try to erase the existence of the Ukraine'. She added 'We support you President Zelensky!!' and urged followers to send humanitarian aid to Ukrainians affected by the crisis.",
+        "uk": "Мадонна опублікувала в Instagram створене фанатами ремікс-відео на її пісню «Sorry», змонтоване з кадрами війни в Україні, написавши, що «безглузде і продиктоване жадібністю вторгнення Росії в Україну МАЄ бути зупинене», що «Путін порушив усі існуючі угоди про права людини» і «не має права намагатися стерти існування України». Вона додала: «Ми підтримуємо вас, президенте Зеленський!!» — і закликала підписників надсилати гуманітарну допомогу українцям, які постраждали від кризи.",
+        "ru": "Мадонна опубликовала в Instagram созданное фанатами ремикс-видео на её песню «Sorry», смонтированное с кадрами войны в Украине, написав, что «бессмысленное и продиктованное жадностью вторжение России в Украину ДОЛЖНО быть остановлено», что «Путин нарушил все существующие соглашения о правах человека» и «не имеет права пытаться стереть существование Украины». Она добавила: «Мы поддерживаем вас, президент Зеленский!!» — и призвала подписчиков отправлять гуманитарную помощь украинцам, пострадавшим от кризиса."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/madonna-shares-support-for-ukraine-with-release-of-sorry-remix-video-3170167",
+          "publisher": "NME",
+          "date": "2022-02"
+        },
+        {
+          "url": "https://www.foxnews.com/entertainment/madonna-russia-invasion-ukraine-pointless-putin-violating-human-rights-sorry-remix",
+          "publisher": "Fox News",
+          "date": "2022-02"
+        },
+        {
+          "url": "https://www.hola.com/us/celebrities/20220228310074/madonna-support-ukraine-sorry-remix/",
+          "publisher": "Hola! USA",
+          "date": "2022-02-28"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-14",
+      "title": {
+        "en": "Opens Celebration Tour in London wrapped in the Ukrainian flag",
+        "uk": "Відкриває Celebration Tour у Лондоні, загорнувшись в український прапор",
+        "ru": "Открывает Celebration Tour в Лондоне, завернувшись в украинский флаг"
+      },
+      "detail": {
+        "en": "At the opening show of her Celebration Tour at London's O2 Arena, Madonna draped herself in the Ukrainian flag on stage during 'Don't Cry for Me Argentina'. She and her dancers performed in hats made by Ukrainian designer Ruslan Baginskiy, who publicly thanked her for the support.",
+        "uk": "На відкритті свого туру Celebration Tour на лондонській O2 Arena Мадонна загорнулася на сцені в український прапор під час виконання «Don't Cry for Me Argentina». Вона та її танцівники виступали в капелюхах українського дизайнера Руслана Багінського, який публічно подякував їй за підтримку.",
+        "ru": "На открытии своего тура Celebration Tour на лондонской O2 Arena Мадонна завернулась на сцене в украинский флаг во время исполнения «Don't Cry for Me Argentina». Она и её танцовщики выступали в шляпах украинского дизайнера Руслана Багинского, который публично поблагодарил её за поддержку."
+      },
+      "sources": [
+        {
+          "url": "https://newsukraine.rbc.ua/news/no-fear-madonna-wraps-herself-in-ukrainian-1697372984.html",
+          "publisher": "RBC-Ukraine",
+          "date": "2023-10-15"
+        },
+        {
+          "url": "https://english.nv.ua/life/madonna-s-london-show-a-powerful-tribute-to-ukraine-news-50360806.html",
+          "publisher": "The New Voice of Ukraine",
+          "date": "2023-10"
+        },
+        {
+          "url": "https://wwd.com/accessories-news/hats-gloves-and-more/ukrainian-hat-designer-ruslan-baginskiy-madonna-cowboy-renaissance-tour-1235877074/",
+          "publisher": "WWD",
+          "date": "2023-10"
+        }
+      ]
+    },
+    {
+      "date": "2024-06",
+      "title": {
+        "en": "Backs Ukraine's Global Peace Summit and return of deported children",
+        "uk": "Підтримує Глобальний саміт миру та повернення депортованих дітей",
+        "ru": "Поддерживает Глобальный саммит мира и возвращение депортированных детей"
+      },
+      "detail": {
+        "en": "Ahead of the Global Peace Summit in Switzerland on 15-16 June 2024, Madonna posted an Instagram video showing the aftermath of Russian strikes on Ukraine and its impact on children, supporting the summit and the point of Ukraine's peace formula on returning Ukrainian children deported to Russia. 'We may not agree on many things, but I pray that we all agree that our children need to be protected,' she wrote.",
+        "uk": "Напередодні Глобального саміту миру у Швейцарії 15-16 червня 2024 року Мадонна опублікувала в Instagram відео з наслідками російських ударів по Україні та їхнім впливом на дітей, підтримавши саміт і пункт української формули миру про повернення українських дітей, депортованих до Росії. «Ми можемо не погоджуватися в багатьох речах, але я молюся, щоб усі ми погодилися, що наших дітей треба захищати», — написала вона.",
+        "ru": "Накануне Глобального саммита мира в Швейцарии 15-16 июня 2024 года Мадонна опубликовала в Instagram видео с последствиями российских ударов по Украине и их влиянием на детей, поддержав саммит и пункт украинской формулы мира о возвращении украинских детей, депортированных в Россию. «Мы можем не соглашаться во многом, но я молюсь, чтобы все мы согласились, что наших детей нужно защищать», — написала она."
+      },
+      "sources": [
+        {
+          "url": "https://unn.ua/en/news/children-need-to-be-protected-madonna-supports-global-peace-summit",
+          "publisher": "UNN",
+          "date": "2024-06"
+        },
+        {
+          "url": "https://odessa-journal.com/madonna-supports-peace-summit-in-switzerland-urges-protection-of-ukrainian-children-from-russia",
+          "publisher": "Odessa Journal",
+          "date": "2024-06"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

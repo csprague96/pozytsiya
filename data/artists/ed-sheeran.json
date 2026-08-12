@@ -1,0 +1,93 @@
+{
+  "slug": "ed-sheeran",
+  "name": "Ed Sheeran",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Ed Sheeran, the British singer-songwriter, publicly backed Ukraine after Russia's full-scale invasion, telling Ukrainians 'I love you, I stand with you'. He headlined the Concert for Ukraine benefit in Birmingham on 29 March 2022, which raised £13.4 million for the Disasters Emergency Committee's humanitarian appeal. In May 2022 he released a remix of '2step' with Ukrainian band Antytila, with a year of royalties from the official video donated to the Music Saves UA relief fund.",
+    "uk": "Ед Ширан, британський співак і автор пісень, публічно підтримав Україну після повномасштабного вторгнення Росії, звернувшись до українців зі словами «Я люблю вас, я з вами». Він був хедлайнером благодійного «Концерту для України» в Бірмінгемі 29 березня 2022 року, який зібрав 13,4 млн фунтів для гуманітарного звернення Disasters Emergency Committee. У травні 2022 року він випустив ремікс пісні «2step» з українським гуртом «Антитіла»: роялті від офіційного відео протягом року передавалися благодійному фонду Music Saves UA.",
+    "ru": "Эд Ширан, британский певец и автор песен, публично поддержал Украину после полномасштабного вторжения России, обратившись к украинцам со словами «Я люблю вас, я с вами». Он был хедлайнером благотворительного «Концерта для Украины» в Бирмингеме 29 марта 2022 года, собравшего 13,4 млн фунтов для гуманитарного сбора Disasters Emergency Committee. В мае 2022 года он выпустил ремикс песни «2step» с украинской группой «Антитела»: роялти от официального видео в течение года передавались благотворительному фонду Music Saves UA."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-25",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Message of support to Ukrainians and band Antytila",
+        "uk": "Звернення з підтримкою до українців і гурту «Антитіла»",
+        "ru": "Обращение с поддержкой к украинцам и группе «Антитела»"
+      },
+      "detail": {
+        "en": "After the Ukrainian band Antytila, then serving in Ukraine's defence, asked to join the Concert for Ukraine remotely from Kyiv, Sheeran responded in an Instagram video: 'I just wanted to say to all Ukrainians, I love you, I stand with you and I'm so proud to be playing this fundraising event next week.' Organisers could not include the band because the DEC appeal cannot be affiliated with the military.",
+        "uk": "Після того як український гурт «Антитіла», який тоді служив у силах оборони України, попросив долучитися до «Концерту для України» дистанційно з Києва, Ширан відповів у відео в Instagram: «Я хочу сказати всім українцям: я люблю вас, я з вами, і я пишаюся тим, що виступлю на цьому благодійному концерті наступного тижня». Організатори не змогли включити гурт, оскільки збір DEC не може бути пов'язаний із військовими.",
+        "ru": "После того как украинская группа «Антитела», служившая тогда в силах обороны Украины, попросила присоединиться к «Концерту для Украины» дистанционно из Киева, Ширан ответил в видео в Instagram: «Я хочу сказать всем украинцам: я люблю вас, я с вами, и я горжусь тем, что выступлю на этом благотворительном концерте на следующей неделе». Организаторы не смогли включить группу, поскольку сбор DEC не может быть связан с военными."
+      },
+      "sources": [
+        {
+          "url": "https://www.itv.com/news/central/2022-03-25/ed-sheeran-responds-to-ukrainian-band-antytila-ahead-of-birmingham-itv-concert-for-ukraine",
+          "publisher": "ITV News",
+          "date": "2022-03-25"
+        },
+        {
+          "url": "https://www.nme.com/news/music/ukrainian-band-antytila-offer-to-remotely-perform-at-concert-for-ukraine-from-kyiv-3188306",
+          "publisher": "NME"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-29",
+      "title": {
+        "en": "Headlines Concert for Ukraine in Birmingham",
+        "uk": "Хедлайнер «Концерту для України» в Бірмінгемі",
+        "ru": "Хедлайнер «Концерта для Украины» в Бирмингеме"
+      },
+      "detail": {
+        "en": "Sheeran headlined the televised Concert for Ukraine at Birmingham's Resorts World Arena alongside Camila Cabello, Emeli Sandé, Jamala and others. The event raised £13.4 million (about $17 million) for the Disasters Emergency Committee's Ukraine Humanitarian Appeal.",
+        "uk": "Ширан був хедлайнером телевізійного «Концерту для України» на арені Resorts World у Бірмінгемі разом із Камілою Кабельо, Емелі Санде, Джамалою та іншими. Захід зібрав 13,4 млн фунтів (близько 17 млн доларів) для гуманітарного звернення Disasters Emergency Committee щодо України.",
+        "ru": "Ширан был хедлайнером телевизионного «Концерта для Украины» на арене Resorts World в Бирмингеме вместе с Камилой Кабельо, Эмели Санде, Джамалой и другими. Мероприятие собрало 13,4 млн фунтов (около 17 млн долларов) для гуманитарного сбора Disasters Emergency Committee по Украине."
+      },
+      "sources": [
+        {
+          "url": "https://variety.com/2022/tv/global/concert-for-ukraine-ed-sheeran-manic-street-preachers-jamala-1235218882/",
+          "publisher": "Variety",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.nme.com/news/music/concert-for-ukraine-raises-huge-12-million-for-war-relief-effort-3193833",
+          "publisher": "NME",
+          "date": "2022-03-30"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-02",
+      "title": {
+        "en": "Releases '2step' remix with Ukrainian band Antytila",
+        "uk": "Випускає ремікс «2step» з українським гуртом «Антитіла»",
+        "ru": "Выпускает ремикс «2step» с украинской группой «Антитела»"
+      },
+      "detail": {
+        "en": "Sheeran released a remix of '2step' featuring Antytila, who added a Ukrainian-language verse and filmed the video in war-damaged Kyiv. Worldwide royalties from YouTube streams of the official video over the following 12 months, along with Warner Music's proceeds, were pledged to Music Saves UA, a non-profit providing humanitarian relief in Ukraine.",
+        "uk": "Ширан випустив ремікс «2step» за участю «Антитіл», які додали куплет українською мовою та зняли відео у пошкодженому війною Києві. Світові роялті від переглядів офіційного відео на YouTube протягом наступних 12 місяців, а також надходження Warner Music, було обіцяно передати Music Saves UA — неприбутковій ініціативі гуманітарної допомоги в Україні.",
+        "ru": "Ширан выпустил ремикс «2step» с участием «Антител», которые добавили куплет на украинском языке и сняли видео в повреждённом войной Киеве. Мировые роялти от просмотров официального видео на YouTube в течение следующих 12 месяцев, а также поступления Warner Music, были обещаны Music Saves UA — некоммерческой инициативе гуманитарной помощи в Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/ukraine-antytila-ed-sheeran-2step-remix-1235066526/",
+          "publisher": "Billboard",
+          "date": "2022-05-02"
+        },
+        {
+          "url": "https://www.nme.com/news/music/ed-sheeran-teams-up-with-ukrainian-band-antytila-for-reworked-2step-3216770",
+          "publisher": "NME",
+          "date": "2022-05-02"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

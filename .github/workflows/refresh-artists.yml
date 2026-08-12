@@ -1,0 +1,96 @@
+name: Refresh artist entries
+
+# Re-researches the stalest artist entries with Claude and opens a draft PR
+# for human review. Never merges anything on its own.
+#
+# Requires the ANTHROPIC_API_KEY repository secret
+# (Settings → Secrets and variables → Actions).
+
+on:
+  schedule:
+    # Mondays 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many stalest artists to re-review"
+        default: "10"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Pick stalest artists
+        id: pick
+        run: |
+          COUNT="${{ github.event.inputs.count || '10' }}"
+          node -e '
+            const fs = require("fs"), path = require("path");
+            const dir = "data/artists";
+            const list = fs.readdirSync(dir)
+              .filter(f => f.endsWith(".json"))
+              .map(f => ({ f, r: JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")).lastReviewed }))
+              .sort((a, b) => a.r.localeCompare(b.r) || a.f.localeCompare(b.f))
+              .slice(0, Number(process.argv[1]))
+              .map(x => path.join(dir, x.f));
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, "files=" + list.join(" ") + "\n");
+          ' "$COUNT"
+
+      - name: Re-research with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: "--allowedTools 'Read,Edit,Write,Glob,Grep,WebSearch,WebFetch,Bash(npm run validate)'"
+          prompt: |
+            You are the scheduled refresh job for this repository (Pozytsiya).
+            Follow docs/RESEARCH.md exactly — especially the section
+            "Updating an existing entry (refresh job)".
+
+            Re-review each of these artist files for developments since its
+            lastReviewed date, using web search and verifying every source URL
+            before citing it:
+
+            ${{ steps.pick.outputs.files }}
+
+            For each file: append sourced timeline events for anything new;
+            update summary/stance/status/flags only when the evidence clears
+            the rubric bar in docs/RESEARCH.md; keep all prose trilingual
+            (en/uk/ru); set lastReviewed to today's date in every reviewed
+            file even if nothing changed. Do not touch any other files.
+            Finish by running: npm run validate
+
+      - name: Validate
+        run: npm run validate
+
+      - name: Open draft PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/artists; then
+            echo "No changes."
+            exit 0
+          fi
+          BRANCH="auto/refresh-$(date -u +%Y-%m-%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/artists
+          git commit -m "Refresh stalest artist entries (scheduled)"
+          git push -u origin "$BRANCH"
+          gh pr create --draft \
+            --title "Scheduled refresh: artist entries $(date -u +%Y-%m-%d)" \
+            --body "Automated re-review of the stalest entries per docs/RESEARCH.md. Every change needs human review before merge — check that new timeline events are real, dated, and correctly sourced."

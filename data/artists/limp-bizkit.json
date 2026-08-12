@@ -1,0 +1,156 @@
+{
+  "slug": "limp-bizkit",
+  "name": "Limp Bizkit",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": null,
+  "status": "ambiguous",
+  "flags": [],
+  "summary": {
+    "en": "Limp Bizkit, the American nu-metal band fronted by Fred Durst, built a large following in Russia. In 2015 Durst praised Vladimir Putin, expressed interest in Russian residency and displayed a 'Crimea=Russia' sign on stage, for which Ukraine banned him from entry for five years. Since the 2022 full-scale invasion neither Durst nor the band has publicly commented on the war: their July 2022 Moscow festival slot disappeared when Park Live was cancelled amid the invasion, in August 2024 Durst sent a warm 'I miss you all' message to Russian fans, and in November 2025 a planned Tallinn concert was cancelled over his past pro-Russia statements.",
+    "uk": "Limp Bizkit, американський ню-метал гурт на чолі з Фредом Дьорстом, має велику аудиторію в Росії. У 2015 році Дьорст хвалив Володимира Путіна, заявляв про інтерес до російського посвідчення на проживання та тримав на сцені плакат «Crimea=Russia», за що Україна заборонила йому в'їзд на п'ять років. Після повномасштабного вторгнення 2022 року ані Дьорст, ані гурт публічно не коментували війну: їхній виступ на московському фестивалі в липні 2022 року не відбувся через скасування Park Live на тлі вторгнення, у серпні 2024 року Дьорст надіслав російським фанатам тепле повідомлення «Я сумую за всіма вами», а в листопаді 2025 року запланований концерт у Таллінні скасували через його колишні проросійські заяви.",
+    "ru": "Limp Bizkit, американская ню-метал группа во главе с Фредом Дёрстом, имеет большую аудиторию в России. В 2015 году Дёрст хвалил Владимира Путина, заявлял об интересе к российскому виду на жительство и держал на сцене плакат «Crimea=Russia», за что Украина запретила ему въезд на пять лет. После полномасштабного вторжения 2022 года ни Дёрст, ни группа публично не комментировали войну: их выступление на московском фестивале в июле 2022 года не состоялось из-за отмены Park Live на фоне вторжения, в августе 2024 года Дёрст отправил российским фанатам тёплое сообщение «Я скучаю по всем вам», а в ноябре 2025 года запланированный концерт в Таллине отменили из-за его прежних пророссийских заявлений."
+  },
+  "timeline": [
+    {
+      "date": "2015-11",
+      "title": {
+        "en": "Praises Putin, seeks Russian residency, shows 'Crimea=Russia' sign",
+        "uk": "Хвалить Путіна, прагне російської резиденції, показує плакат «Crimea=Russia»",
+        "ru": "Хвалит Путина, стремится к российской резиденции, показывает плакат «Crimea=Russia»"
+      },
+      "detail": {
+        "en": "In October-November 2015 Russian media reported that Durst had written to the Russian-installed Crimean authorities expressing interest in a Russian passport and in living in Crimea part-time to make films 'for the great future of Crimea and Russia', calling Putin 'a great guy with clear moral principles'; at a show in Voronezh he held up a sign reading 'Crimea=Russia'. He later denied asking to live in Crimea, saying Crimea had asked him and he declined.",
+        "uk": "У жовтні-листопаді 2015 року російські ЗМІ повідомили, що Дьорст написав встановленій Росією кримській владі про інтерес до російського паспорта та проживання в Криму частину року, щоб знімати фільми «заради великого майбутнього Криму та Росії», назвавши Путіна «чудовим хлопцем із чіткими моральними принципами»; на концерті у Воронежі він тримав плакат «Crimea=Russia». Пізніше він заперечив, що просив про проживання в Криму, заявивши, що це Крим звернувся до нього, а він відмовився.",
+        "ru": "В октябре-ноябре 2015 года российские СМИ сообщили, что Дёрст написал установленным Россией крымским властям о заинтересованности в российском паспорте и проживании в Крыму часть года, чтобы снимать фильмы «ради великого будущего Крыма и России», назвав Путина «отличным парнем с чёткими моральными принципами»; на концерте в Воронеже он держал плакат «Crimea=Russia». Позже он отрицал, что просил о проживании в Крыму, заявив, что это Крым обратился к нему, а он отказался."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/fred-durst-films-russia-crimea-6722889/",
+          "publisher": "Billboard",
+          "date": "2015-11"
+        },
+        {
+          "url": "https://tass.com/society/827176",
+          "publisher": "TASS (Russian state media)",
+          "date": "2015-10-31"
+        },
+        {
+          "url": "https://foreignpolicy.com/2015/12/22/ukraine-to-fred-durst-you-chose-russia-and-you-cant-have-us-both/",
+          "publisher": "Foreign Policy",
+          "date": "2015-12-22"
+        }
+      ]
+    },
+    {
+      "date": "2015-12",
+      "title": {
+        "en": "Ukraine bans Durst from entry for five years",
+        "uk": "Україна забороняє Дьорсту в'їзд на п'ять років",
+        "ru": "Украина запрещает Дёрсту въезд на пять лет"
+      },
+      "detail": {
+        "en": "The Security Service of Ukraine (SBU) banned Fred Durst from entering Ukraine for five years, citing the interests of national security after his pro-Russia and Crimea statements. Durst called the decision unfair.",
+        "uk": "Служба безпеки України (СБУ) заборонила Фреду Дьорсту в'їзд в Україну на п'ять років в інтересах національної безпеки після його проросійських заяв і висловлювань про Крим. Дьорст назвав рішення несправедливим.",
+        "ru": "Служба безопасности Украины (СБУ) запретила Фреду Дёрсту въезд в Украину на пять лет в интересах национальной безопасности после его пророссийских заявлений и высказываний о Крыме. Дёрст назвал решение несправедливым."
+      },
+      "sources": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/newsbeat-35155170",
+          "publisher": "BBC News",
+          "date": "2015-12-22"
+        },
+        {
+          "url": "https://www.kyivpost.com/post/7332",
+          "publisher": "Kyiv Post",
+          "date": "2015-12"
+        }
+      ]
+    },
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Moscow festival date scrapped as Park Live 2022 is cancelled; band silent on the war",
+        "uk": "Московський виступ зривається через скасування Park Live 2022; гурт мовчить про війну",
+        "ru": "Московское выступление срывается из-за отмены Park Live 2022; группа молчит о войне"
+      },
+      "detail": {
+        "en": "Limp Bizkit had been announced in January 2022 as a headliner of Moscow's Park Live festival in July 2022. After the full-scale invasion many Western acts publicly withdrew and the festival was called off, but neither the band nor Durst issued any statement about the war or the invasion.",
+        "uk": "У січні 2022 року Limp Bizkit оголосили хедлайнером московського фестивалю Park Live у липні 2022 року. Після повномасштабного вторгнення багато західних виконавців публічно відмовилися від участі, і фестиваль скасували, але ані гурт, ані Дьорст не зробили жодної заяви про війну чи вторгнення.",
+        "ru": "В январе 2022 года Limp Bizkit объявили хедлайнером московского фестиваля Park Live в июле 2022 года. После полномасштабного вторжения многие западные исполнители публично отказались от участия, и фестиваль отменили, но ни группа, ни Дёрст не сделали никаких заявлений о войне или вторжении."
+      },
+      "sources": [
+        {
+          "url": "https://tass.ru/kultura/13554049",
+          "publisher": "TASS (Russian state media)",
+          "date": "2022-01"
+        },
+        {
+          "url": "https://www.iqmagazine.com/2022/03/russia-park-live-cancellations/",
+          "publisher": "IQ Magazine",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Park_Live_Festival",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "title": {
+        "en": "Durst posts 'I miss you all' message to Russian fans on VKontakte",
+        "uk": "Дьорст публікує повідомлення «Я сумую за всіма вами» для російських фанатів у VKontakte",
+        "ru": "Дёрст публикует сообщение «Я скучаю по всем вам» для российских фанатов во VKontakte"
+      },
+      "detail": {
+        "en": "In his first post on the Russian social network VKontakte since October 2018, Durst addressed Russian fans: 'I miss you all. Sending everyone positive vibes and good energy... Hope to see you soon.' He made no mention of the war in Ukraine.",
+        "uk": "У своєму першому дописі в російській соцмережі VKontakte з жовтня 2018 року Дьорст звернувся до російських фанатів: «Я сумую за всіма вами. Надсилаю всім позитивні вібрації та добру енергію... Сподіваюся скоро побачитися». Про війну в Україні він не згадав.",
+        "ru": "В своём первом посте в российской соцсети VKontakte с октября 2018 года Дёрст обратился к российским фанатам: «Я скучаю по всем вам. Посылаю всем позитивные вибрации и добрую энергию... Надеюсь скоро увидеться». О войне в Украине он не упомянул."
+      },
+      "sources": [
+        {
+          "url": "https://www.pravda.com.ua/eng/news/2024/08/05/7469053/",
+          "publisher": "Ukrainska Pravda",
+          "date": "2024-08-05"
+        },
+        {
+          "url": "https://www.yahoo.com/entertainment/miss-limp-bizkits-lead-singer-155939648.html",
+          "publisher": "Yahoo Entertainment"
+        }
+      ]
+    },
+    {
+      "date": "2025-11",
+      "title": {
+        "en": "Tallinn concert cancelled over Durst's past pro-Russia statements",
+        "uk": "Концерт у Таллінні скасовано через колишні проросійські заяви Дьорста",
+        "ru": "Концерт в Таллине отменён из-за прежних пророссийских заявлений Дёрста"
+      },
+      "detail": {
+        "en": "A Limp Bizkit show scheduled for 31 May 2026 at Tallinn's Unibet Arena was cancelled by promoter Baltic Live Agency days after it was announced, following public backlash and Estonian officials' objections over Durst's resurfaced pro-Russia and Crimea statements. Estonian public broadcaster ERR noted that neither Durst nor the band had made statements about the war since 2022.",
+        "uk": "Концерт Limp Bizkit, запланований на 31 травня 2026 року на арені Unibet у Таллінні, промоутер Baltic Live Agency скасував за кілька днів після анонсу — після суспільного обурення та заперечень естонських посадовців через проросійські та кримські заяви Дьорста, що знову спливли. Естонський суспільний мовник ERR зазначив, що ані Дьорст, ані гурт не робили заяв про війну з 2022 року.",
+        "ru": "Концерт Limp Bizkit, запланированный на 31 мая 2026 года на арене Unibet в Таллине, промоутер Baltic Live Agency отменил через несколько дней после анонса — после общественного возмущения и возражений эстонских чиновников из-за вновь всплывших пророссийских и крымских заявлений Дёрста. Эстонский общественный вещатель ERR отметил, что ни Дёрст, ни группа не делали заявлений о войне с 2022 года."
+      },
+      "sources": [
+        {
+          "url": "https://news.err.ee/1609857231/limp-bizkit-s-tallinn-concert-cancelled",
+          "publisher": "ERR (Estonian Public Broadcasting)",
+          "date": "2025-11"
+        },
+        {
+          "url": "https://www.billboard.com/music/rock/limp-bizkit-2026-estonia-show-canceled-1236113913/",
+          "publisher": "Billboard",
+          "date": "2025-11"
+        },
+        {
+          "url": "https://www.rollingstone.com/music/music-news/limp-bizkit-estonia-concert-canceled-fred-durst-russia-1235465256/",
+          "publisher": "Rolling Stone",
+          "date": "2025-11"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

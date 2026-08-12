@@ -1,0 +1,76 @@
+{
+  "slug": "portishead",
+  "name": "Portishead",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Portishead, the Bristol trip-hop band led by Beth Gibbons, Geoff Barrow and Adrian Utley, backed Ukraine through direct fundraising. In April 2022 they announced they would join the one-off HELP! benefit concert for War Child UK's Ukraine appeal, saying they were 'really pleased to be able to support the people of Ukraine'. On 2 May 2022 they played the show at Bristol's O2 Academy — their first live performance in seven years — with the event raising over £145,000 for children affected by the war in Ukraine.",
+    "uk": "Portishead — бристольський тріп-хоп гурт на чолі з Бет Гіббонс, Джеффом Барроу та Адріаном Атлі — підтримав Україну безпосереднім збором коштів. У квітні 2022 року гурт оголосив про участь в одноразовому благодійному концерті HELP! на користь українського фонду допомоги War Child UK, заявивши, що «дуже радий можливості підтримати народ України». 2 травня 2022 року вони виступили на цьому концерті в бристольській O2 Academy — це був їхній перший живий виступ за сім років, — а захід зібрав понад 145 тисяч фунтів для дітей, постраждалих від війни в Україні.",
+    "ru": "Portishead — бристольская трип-хоп-группа во главе с Бет Гиббонс, Джеффом Барроу и Адрианом Атли — поддержала Украину прямым сбором средств. В апреле 2022 года группа объявила об участии в единственном благотворительном концерте HELP! в пользу украинского фонда помощи War Child UK, заявив, что «очень рада возможности поддержать народ Украины». 2 мая 2022 года они выступили на этом концерте в бристольской O2 Academy — это было их первое живое выступление за семь лет, — а мероприятие собрало более 145 тысяч фунтов для детей, пострадавших от войны в Украине."
+  },
+  "timeline": [
+    {
+      "date": "2022-04-07",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Announces participation in War Child benefit for Ukraine",
+        "uk": "Оголошує про участь у благодійному концерті War Child для України",
+        "ru": "Объявляет об участии в благотворительном концерте War Child для Украины"
+      },
+      "detail": {
+        "en": "Portishead announced they would perform at the one-off HELP! concert at Bristol's O2 Academy in aid of War Child UK's work with children affected by the war in Ukraine, alongside IDLES, Billy Nomates and others. The band said: 'We are really pleased to be able to support the people of Ukraine by performing a few songs at this event in collaboration with the amazing War Child charity.'",
+        "uk": "Portishead оголосили, що виступлять на одноразовому концерті HELP! у бристольській O2 Academy на підтримку роботи War Child UK з дітьми, постраждалими від війни в Україні, разом з IDLES, Billy Nomates та іншими. Гурт заявив: «Ми дуже раді можливості підтримати народ України, виконавши кілька пісень на цьому заході у співпраці з чудовою благодійною організацією War Child».",
+        "ru": "Portishead объявили, что выступят на единственном концерте HELP! в бристольской O2 Academy в поддержку работы War Child UK с детьми, пострадавшими от войны в Украине, вместе с IDLES, Billy Nomates и другими. Группа заявила: «Мы очень рады возможности поддержать народ Украины, исполнив несколько песен на этом мероприятии в сотрудничестве с замечательной благотворительной организацией War Child»."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/portishead-idles-and-billy-nomates-to-play-special-bristol-war-child-concert-for-ukraine-3200058",
+          "publisher": "NME",
+          "date": "2022-04-07"
+        },
+        {
+          "url": "https://www.warchild.org.uk/news/idles-portishead-and-many-more-play-one-help-concert-war-child-bristol",
+          "publisher": "War Child UK"
+        },
+        {
+          "url": "https://www.rollingstone.co.uk/music/news/idles-portishead-more-unite-ukraine-bristol-war-child-gig-14410/",
+          "publisher": "Rolling Stone UK",
+          "date": "2022-04-07"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-02",
+      "title": {
+        "en": "First live show in seven years at Ukraine benefit in Bristol",
+        "uk": "Перший за сім років живий виступ на благодійному концерті для України в Бристолі",
+        "ru": "Первое за семь лет живое выступление на благотворительном концерте для Украины в Бристоле"
+      },
+      "detail": {
+        "en": "Portishead played the HELP! benefit at Bristol's O2 Academy — their first live performance since 2015 — with a five-song set including 'Mysterons', 'Wandering Star', 'The Rip' and 'Roads'. Proceeds went to War Child UK's Ukraine response; the concert raised over £145,000 for children and families affected by the war.",
+        "uk": "Portishead виступили на благодійному концерті HELP! у бристольській O2 Academy — це був їхній перший живий виступ з 2015 року — із сетом з п'яти пісень, зокрема «Mysterons», «Wandering Star», «The Rip» і «Roads». Виручені кошти пішли на українську програму War Child UK; концерт зібрав понад 145 тисяч фунтів для дітей і сімей, постраждалих від війни.",
+        "ru": "Portishead выступили на благотворительном концерте HELP! в бристольской O2 Academy — это было их первое живое выступление с 2015 года — с сетом из пяти песен, включая «Mysterons», «Wandering Star», «The Rip» и «Roads». Вырученные средства пошли на украинскую программу War Child UK; концерт собрал более 145 тысяч фунтов для детей и семей, пострадавших от войны."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/watch-portishead-perform-live-for-the-first-time-since-2015-3216974",
+          "publisher": "NME",
+          "date": "2022-05-03"
+        },
+        {
+          "url": "https://stereogum.com/2185427/watch-portishead-play-their-first-show-in-7-years-at-war-child-uk-benefit-in-bristol/news",
+          "publisher": "Stereogum"
+        },
+        {
+          "url": "https://www.warchild.org.uk/news/concert-war-child-raises-over-145k-support-children-ukraine",
+          "publisher": "War Child UK"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}
