@@ -1,0 +1,93 @@
+{
+  "slug": "the-killers",
+  "name": "The Killers",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "The Killers are an American rock band from Las Vegas fronted by Brandon Flowers. Days after Russia's full-scale invasion of Ukraine, they cancelled their July 2022 headline slot at Moscow's Park Live festival. In August 2023 the band drew boos in Batumi, Georgia, after inviting a Russian fan onstage to drum and Flowers called the crowd and the fan 'brothers'; part of the audience walked out, and the band apologized the next day, saying the remark was misconstrued and they had not meant to upset anyone. The band has not made a detailed public statement on the war beyond these actions.",
+    "uk": "The Killers — американський рок-гурт з Лас-Вегаса на чолі з Брендоном Флаверсом. Через кілька днів після повномасштабного вторгнення Росії в Україну вони скасували свій хедлайнерський виступ на московському фестивалі Park Live, запланований на липень 2022 року. У серпні 2023 року гурт освистали в Батумі (Грузія) після того, як він запросив на сцену російського фаната зіграти на барабанах, а Флаверс назвав публіку та фаната «братами»; частина глядачів покинула концерт, і наступного дня гурт вибачився, заявивши, що ремарку неправильно зрозуміли і вони не хотіли нікого образити. Окрім цих дій, гурт не робив розгорнутих публічних заяв про війну.",
+    "ru": "The Killers — американская рок-группа из Лас-Вегаса во главе с Брэндоном Флауэрсом. Через несколько дней после полномасштабного вторжения России в Украину они отменили своё хедлайнерское выступление на московском фестивале Park Live, запланированное на июль 2022 года. В августе 2023 года группу освистали в Батуми (Грузия) после того, как она пригласила на сцену российского фаната сыграть на барабанах, а Флауэрс назвал публику и фаната «братьями»; часть зрителей покинула концерт, и на следующий день группа извинилась, заявив, что реплику неправильно поняли и они не хотели никого обидеть. Помимо этих действий, группа не делала развёрнутых публичных заявлений о войне."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-28",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Cancels Moscow Park Live headline show after the invasion",
+        "uk": "Скасовує хедлайнерський виступ на Park Live у Москві після вторгнення",
+        "ru": "Отменяет хедлайнерское выступление на Park Live в Москве после вторжения"
+      },
+      "detail": {
+        "en": "Days after Russia launched its full-scale invasion of Ukraine, The Killers withdrew from their scheduled July 2022 headline slot at Moscow's Park Live festival, becoming one of the first Western acts to pull out of Russian dates; Iggy Pop and other artists followed.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Росії в Україну The Killers відмовилися від запланованого на липень 2022 року хедлайнерського виступу на московському фестивалі Park Live, ставши одними з перших західних артистів, які скасували концерти в Росії; за ними пішли Іггі Поп та інші виконавці.",
+        "ru": "Через несколько дней после начала полномасштабного вторжения России в Украину The Killers отказались от запланированного на июль 2022 года хедлайнерского выступления на московском фестивале Park Live, став одними из первых западных артистов, отменивших концерты в России; за ними последовали Игги Поп и другие исполнители."
+      },
+      "sources": [
+        {
+          "url": "https://www.tmz.com/2022/02/28/the-killers-drop-out-music-festival-moscow-russia-ukraine-attack/",
+          "publisher": "TMZ",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://www.billboard.com/music/rock/killers-iggy-pop-drop-off-moscow-park-live-festival-ukraine-war-1235037524/",
+          "publisher": "Billboard"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-15",
+      "title": {
+        "en": "Booed in Batumi, Georgia, after bringing a Russian fan onstage",
+        "uk": "Освистаний у Батумі (Грузія) після запрошення російського фаната на сцену",
+        "ru": "Освистаны в Батуми (Грузия) после приглашения российского фаната на сцену"
+      },
+      "detail": {
+        "en": "At the Black Sea Arena near Batumi, the band invited a fan onstage to drum on 'For Reasons Unknown'; when Brandon Flowers said the fan was Russian and asked 'You OK with a Russian coming up here?', the crowd booed. Flowers then asked 'You can't recognize if someone's your brother? He's not your brother?', and part of the audience walked out. Russia has occupied about 20% of Georgia's territory since 2008.",
+        "uk": "На Black Sea Arena поблизу Батумі гурт запросив фаната на сцену зіграти на барабанах у пісні «For Reasons Unknown»; коли Брендон Флаверс сказав, що фанат росіянин, і запитав «Ви не проти, щоб росіянин піднявся сюди?», публіка почала свистіти. Тоді Флаверс запитав: «Ви не можете визнати, що хтось ваш брат? Він вам не брат?», і частина глядачів покинула концерт. Росія з 2008 року окуповує близько 20% території Грузії.",
+        "ru": "На Black Sea Arena недалеко от Батуми группа пригласила фаната на сцену сыграть на барабанах в песне «For Reasons Unknown»; когда Брэндон Флауэрс сказал, что фанат россиянин, и спросил «Вы не против, чтобы россиянин поднялся сюда?», публика начала свистеть. Тогда Флауэрс спросил: «Вы не можете признать, что кто-то ваш брат? Он вам не брат?», и часть зрителей покинула концерт. Россия с 2008 года оккупирует около 20% территории Грузии."
+      },
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/the-killers-georgia-concert-russia-ukraine-brothers-sisters-controversy/",
+          "publisher": "CBS News",
+          "date": "2023-08-16"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2023/8/16/the-killers-band-in-georgia",
+          "publisher": "Al Jazeera",
+          "date": "2023-08-16"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-16",
+      "title": {
+        "en": "Apologizes to Georgian fans over 'brothers' remark",
+        "uk": "Вибачається перед грузинськими фанатами за ремарку про «братів»",
+        "ru": "Извиняется перед грузинскими фанатами за реплику о «братьях»"
+      },
+      "detail": {
+        "en": "The band issued a statement saying a comment 'meant to suggest that all of The Killers' audience and fans are \"brothers and sisters\" could be misconstrued. We did not mean to upset anyone and we apologize.' Flowers later told The Times he 'had to calm an impossible situation' and had no idea his words 'could be taken as being pro-Russian occupation'.",
+        "uk": "Гурт оприлюднив заяву, що коментар, «покликаний сказати, що вся публіка й фанати The Killers — „брати і сестри“, міг бути неправильно витлумачений. Ми не хотіли нікого засмутити і просимо вибачення». Пізніше Флаверс сказав виданню The Times, що йому «довелося заспокоювати неможливу ситуацію» і він не уявляв, що його слова «можуть бути сприйняті як підтримка російської окупації».",
+        "ru": "Группа опубликовала заявление, что комментарий, «призванный сказать, что вся публика и фанаты The Killers — „братья и сёстры“, мог быть неправильно истолкован. Мы не хотели никого расстроить и приносим извинения». Позже Флауэрс сказал изданию The Times, что ему «пришлось успокаивать невозможную ситуацию» и он не представлял, что его слова «могут быть восприняты как поддержка российской оккупации»."
+      },
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/music/music-news/the-killers-apology-russian-fan-georgia-concert-1234807318/",
+          "publisher": "Rolling Stone",
+          "date": "2023-08-16"
+        },
+        {
+          "url": "https://www.rferl.org/a/us-band-the-killers-apologizes-russian-concert-georgia/32550103.html",
+          "publisher": "RFE/RL",
+          "date": "2023-08-16"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

@@ -46,7 +46,10 @@ export const ArtistSchema = z.object({
   slug: z.string().regex(/^[a-z0-9-]+$/),
   name: z.string().min(1),
   nameLocal: z.string().optional(),
-  country: z.enum(["ua", "ru", "by", "kz", "az", "other"]),
+  country: z.enum(["ua", "ru", "by", "kz", "az", "us", "gb", "other"]),
+  category: z
+    .enum(["musician", "actor", "athlete", "other_public_figure"])
+    .default("musician"),
   basedIn: z.string().length(2).optional(),
   conflict: z.literal("ukraine"),
   stance: z

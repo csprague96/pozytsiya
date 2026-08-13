@@ -42,7 +42,7 @@ export type DirectoryItem = {
   hasPhoto: boolean;
 };
 
-const COUNTRIES = ["ua", "ru", "by", "kz", "az", "other"];
+const COUNTRIES = ["ua", "ru", "by", "kz", "az", "us", "gb", "other"];
 const FLAG_KEYS = [
   "left_russia",
   "banned_in_ukraine",

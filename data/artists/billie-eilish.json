@@ -1,0 +1,98 @@
+{
+  "slug": "billie-eilish",
+  "name": "Billie Eilish",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Billie Eilish is a US singer and multiple Grammy winner. After Russia's full-scale invasion of Ukraine she delivered a message of solidarity with Ukrainian refugees at ITV's Concert for Ukraine benefit in March 2022, and in April 2022 she and Finneas performed 'Your Power' for Global Citizen's Stand Up For Ukraine fundraising campaign, which secured $10.1 billion in pledges for people displaced by the war. In 2025 Russian propaganda channels circulated a fabricated announcement of an Eilish concert in occupied Crimea, which Ukrinform debunked as fake.",
+    "uk": "Біллі Айліш — американська співачка, багаторазова володарка премії «Греммі». Після повномасштабного вторгнення Росії в Україну вона у березні 2022 року звернулася з посланням солідарності з українськими біженцями на благодійному Concert for Ukraine телеканалу ITV, а у квітні 2022 року разом із Фіннеасом виконала пісню «Your Power» у межах збірної кампанії Global Citizen «Stand Up For Ukraine», яка залучила 10,1 млрд доларів зобов'язань на допомогу людям, переміщеним через війну. У 2025 році російські пропагандистські канали поширили сфабриковане оголошення про концерт Айліш в окупованому Криму, яке Укрінформ спростував як фейк.",
+    "ru": "Билли Айлиш — американская певица, многократная обладательница премии «Грэмми». После полномасштабного вторжения России в Украину она в марте 2022 года обратилась с посланием солидарности с украинскими беженцами на благотворительном Concert for Ukraine телеканала ITV, а в апреле 2022 года вместе с Финнеасом исполнила песню «Your Power» в рамках сборной кампании Global Citizen «Stand Up For Ukraine», которая привлекла 10,1 млрд долларов обязательств на помощь людям, перемещённым из-за войны. В 2025 году российские пропагандистские каналы распространили сфабрикованное объявление о концерте Айлиш в оккупированном Крыму, которое Укринформ опроверг как фейк."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-29",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Solidarity message at ITV's Concert for Ukraine",
+        "uk": "Послання солідарності на Concert for Ukraine телеканалу ITV",
+        "ru": "Послание солидарности на Concert for Ukraine телеканала ITV"
+      },
+      "detail": {
+        "en": "Appearing by video link with Finneas at the Concert for Ukraine benefit in Birmingham, which raised funds for the Disasters Emergency Committee's Ukraine Humanitarian Appeal, Eilish said they wanted to express 'support and solidarity' with the millions of people forced to flee their homes.",
+        "uk": "З'явившись разом із Фіннеасом по відеозв'язку на благодійному Concert for Ukraine у Бірмінгемі, який збирав кошти для гуманітарного фонду Ukraine Humanitarian Appeal Комітету з надзвичайних ситуацій (DEC), Айліш сказала, що вони хочуть висловити «підтримку й солідарність» мільйонам людей, змушених покинути свої домівки.",
+        "ru": "Появившись вместе с Финнеасом по видеосвязи на благотворительном Concert for Ukraine в Бирмингеме, который собирал средства для гуманитарного фонда Ukraine Humanitarian Appeal Комитета по чрезвычайным ситуациям (DEC), Айлиш сказала, что они хотят выразить «поддержку и солидарность» миллионам людей, вынужденных покинуть свои дома."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/billie-eilish-and-finneas-deliver-emotional-message-at-concert-for-ukraine-3193514",
+          "publisher": "NME",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://faroutmagazine.co.uk/billie-eilish-and-finneas-message-concert-for-ukraine/",
+          "publisher": "Far Out Magazine"
+        }
+      ]
+    },
+    {
+      "date": "2022-04",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Performs 'Your Power' for Stand Up For Ukraine fundraiser",
+        "uk": "Виконує «Your Power» для збірної кампанії Stand Up For Ukraine",
+        "ru": "Исполняет «Your Power» для сборной кампании Stand Up For Ukraine"
+      },
+      "detail": {
+        "en": "Eilish joined Global Citizen's Stand Up For Ukraine campaign, performing 'Your Power' with Finneas 'in honor of the people of Ukraine' and urging world leaders to 'take immediate action to support displaced people'. The campaign's 8–9 April rally and pledging summit secured $10.1 billion in grants and loans for those displaced by the war.",
+        "uk": "Айліш долучилася до кампанії Global Citizen «Stand Up For Ukraine», виконавши з Фіннеасом пісню «Your Power» «на честь народу України» та закликавши світових лідерів «негайно вжити заходів на підтримку переміщених людей». Акція та саміт зобов'язань 8–9 квітня залучили 10,1 млрд доларів грантів і позик для людей, переміщених через війну.",
+        "ru": "Айлиш присоединилась к кампании Global Citizen «Stand Up For Ukraine», исполнив с Финнеасом песню «Your Power» «в честь народа Украины» и призвав мировых лидеров «немедленно принять меры в поддержку перемещённых людей». Акция и саммит обязательств 8–9 апреля привлекли 10,1 млрд долларов грантов и займов для людей, перемещённых из-за войны."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/stand-up-for-ukraine-social-media-rally-1235049994/",
+          "publisher": "Billboard",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.globalcitizen.org/en/content/stand-up-for-ukraine-impact-report/",
+          "publisher": "Global Citizen",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.complex.com/music/a/b-blanchet/weeknd-billie-eilish-social-media-campaign-stand-up-for-ukraine",
+          "publisher": "Complex",
+          "date": "2022-04"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-20",
+      "title": {
+        "en": "Russian fake 'Crimea concert' announcement debunked",
+        "uk": "Спростовано російський фейк про «концерт у Криму»",
+        "ru": "Опровергнут российский фейк о «концерте в Крыму»"
+      },
+      "detail": {
+        "en": "Russian Telegram channels circulated a fabricated Instagram story by Eilish's producer and a fake ticket page announcing an Eilish concert in occupied Crimea on 12 June 2025. Ukrinform's fact-check showed the materials were forged, noting that Eilish has supported Ukraine since 2022 and had no Crimea date on her tour schedule.",
+        "uk": "Російські Telegram-канали поширили сфабрикований Instagram-сторіз продюсера Айліш і фейкову сторінку продажу квитків з анонсом її концерту в окупованому Криму 12 червня 2025 року. Фактчек Укрінформу показав, що матеріали підроблені, і зазначив, що Айліш підтримує Україну з 2022 року та не мала кримської дати у гастрольному графіку.",
+        "ru": "Российские Telegram-каналы распространили сфабрикованный Instagram-сториз продюсера Айлиш и фейковую страницу продажи билетов с анонсом её концерта в оккупированном Крыму 12 июня 2025 года. Фактчек Укринформа показал, что материалы поддельные, и отметил, что Айлиш поддерживает Украину с 2022 года и не имела крымской даты в гастрольном графике."
+      },
+      "sources": [
+        {
+          "url": "https://www.ukrinform.net/rubric-factcheck/3972734-russian-fake-jared-leto-billie-eilish-announce-concerts-in-occupied-crimea.html",
+          "publisher": "Ukrinform",
+          "date": "2025-03-20"
+        },
+        {
+          "url": "https://www.polskieradio.pl/395/7791/artykul/3500399,russian-deepfakes-announce-billie-eilish-jared-leto-will-perform-in-crimea",
+          "publisher": "Polskie Radio"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

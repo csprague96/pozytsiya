@@ -1,0 +1,138 @@
+{
+  "slug": "bring-me-the-horizon",
+  "name": "Bring Me the Horizon",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Bring Me the Horizon are a British rock band from Sheffield with long-standing ties to Ukraine, where they toured and filmed several music videos. On 1 March 2022 they cancelled all upcoming dates in Russia, Belarus and Ukraine 'in solidarity with Ukraine and to stand against the atrocities being committed by Russian leadership'. The band has since dedicated performances to Ukraine, released the single 'Strangers' inspired by Ukrainian refugees, and raised funds for Ukrainian charities, including the LGBTQ+ organization UkrainePride.",
+    "uk": "Bring Me the Horizon — британський рок-гурт із Шеффілда з давніми зв'язками з Україною, де вони гастролювали та знімали кілька кліпів. 1 березня 2022 року гурт скасував усі заплановані концерти в Росії, Білорусі та Україні «на знак солідарності з Україною та проти звірств, які чинить російське керівництво». Відтоді гурт присвячував виступи Україні, випустив сингл «Strangers», натхненний українськими біженцями, і збирав кошти для українських благодійних організацій, зокрема ЛГБТК+ організації UkrainePride.",
+    "ru": "Bring Me the Horizon — британская рок-группа из Шеффилда с давними связями с Украиной, где они гастролировали и сняли несколько клипов. 1 марта 2022 года группа отменила все запланированные концерты в России, Беларуси и Украине «в знак солидарности с Украиной и против зверств, совершаемых российским руководством». С тех пор группа посвящала выступления Украине, выпустила сингл «Strangers», вдохновлённый украинскими беженцами, и собирала средства для украинских благотворительных организаций, в том числе ЛГБТК+ организации UkrainePride."
+  },
+  "timeline": [
+    {
+      "date": "2022-03-01",
+      "stanceAfter": 2,
+      "title": {
+        "en": "Cancels shows in Russia, Belarus and Ukraine, condemns 'atrocities by Russian leadership'",
+        "uk": "Скасовує концерти в Росії, Білорусі та Україні, засуджує «звірства російського керівництва»",
+        "ru": "Отменяет концерты в России, Беларуси и Украине, осуждает «зверства российского руководства»"
+      },
+      "detail": {
+        "en": "The band cancelled nine planned Russian dates plus shows in Kyiv and Minsk, stating: 'In solidarity with Ukraine and to stand against the atrocities being committed by Russian leadership, we must cancel our forthcoming dates in Russia, Belarus and Ukraine.' They called Ukraine 'an incredibly special place for us' and pledged to use their platform to support it.",
+        "uk": "Гурт скасував дев'ять запланованих концертів у Росії, а також виступи в Києві та Мінську, заявивши: «На знак солідарності з Україною та проти звірств, які чинить російське керівництво, ми мусимо скасувати наші майбутні концерти в Росії, Білорусі та Україні». Музиканти назвали Україну «неймовірно особливим місцем для нас» і пообіцяли використовувати свою платформу для її підтримки.",
+        "ru": "Группа отменила девять запланированных концертов в России, а также выступления в Киеве и Минске, заявив: «В знак солидарности с Украиной и против зверств, совершаемых российским руководством, мы вынуждены отменить наши предстоящие концерты в России, Беларуси и Украине». Музыканты назвали Украину «невероятно особенным местом для нас» и пообещали использовать свою платформу для её поддержки."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/rock/bring-me-the-horizon-cancel-russia-tour-dates-1235037691/",
+          "publisher": "Billboard",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://www.kerrang.com/bring-me-the-horizon-cancel-tour-dates-in-russia-belarus-and-ukraine-we-pray-for-a-return-to-peace",
+          "publisher": "Kerrang!",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://blabbermouth.net/news/bring-me-the-horizon-cancels-shows-in-russia-belarus-and-ukraine",
+          "publisher": "Blabbermouth",
+          "date": "2022-03-01"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-02",
+      "title": {
+        "en": "Dedicates NME Awards closing set to the people of Ukraine",
+        "uk": "Присвячує фінальний виступ на NME Awards народу України",
+        "ru": "Посвящает финальное выступление на NME Awards народу Украины"
+      },
+      "detail": {
+        "en": "Closing the BandLab NME Awards 2022 in London, the band dedicated their set to the people of Ukraine and performed with the Ukrainian flag displayed on their bass drum.",
+        "uk": "Закриваючи церемонію BandLab NME Awards 2022 у Лондоні, гурт присвятив свій виступ народу України та вийшов на сцену з українським прапором на бас-барабані.",
+        "ru": "Закрывая церемонию BandLab NME Awards 2022 в Лондоне, группа посвятила своё выступление народу Украины и вышла на сцену с украинским флагом на бас-барабане."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/bring-me-the-horizon-close-out-bandlab-nme-awards-2022-with-five-song-performance-3172859",
+          "publisher": "NME",
+          "date": "2022-03-02"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-06",
+      "title": {
+        "en": "Releases 'Strangers', written about Ukrainian refugees",
+        "uk": "Випускає сингл «Strangers», написаний про українських біженців",
+        "ru": "Выпускает сингл «Strangers», написанный об украинских беженцах"
+      },
+      "detail": {
+        "en": "The band released the single 'Strangers'; frontman Oli Sykes said the song 'is actually about Ukraine, refugees and people looking for safety', connecting their experience to his own time in rehab.",
+        "uk": "Гурт випустив сингл «Strangers»; фронтмен Олі Сайкс розповів, що пісня «насправді про Україну, біженців і людей, які шукають безпеки», пов'язавши їхній досвід із власним перебуванням у реабілітації.",
+        "ru": "Группа выпустила сингл «Strangers»; фронтмен Оли Сайкс рассказал, что песня «на самом деле об Украине, беженцах и людях, ищущих безопасности», связав их опыт с собственным пребыванием в реабилитации."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/bring-me-the-horizon-set-july-release-date-for-new-single-strangers-3253812",
+          "publisher": "NME",
+          "date": "2022-06"
+        },
+        {
+          "url": "https://www.kerrang.com/bring-me-the-horizon-oli-sykes-interview-post-human-nex-gen-cover-story",
+          "publisher": "Kerrang!"
+        }
+      ]
+    },
+    {
+      "date": "2022-08",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Members complete triathlon raising funds for UkrainePride",
+        "uk": "Учасники гурту фінішують у тріатлоні, збираючи кошти для UkrainePride",
+        "ru": "Участники группы финишируют в триатлоне, собирая средства для UkrainePride"
+      },
+      "detail": {
+        "en": "Oli Sykes and drummer Mat Nicholls completed the Allerthorpe Sprint Triathlon, raising over $7,000 for UkrainePride, an organization supporting Ukraine's LGBTQ+ community during the Russian invasion.",
+        "uk": "Олі Сайкс і барабанщик Мет Ніколлс подолали спринт-тріатлон в Аллерторпі, зібравши понад 7 000 доларів для UkrainePride — організації, що підтримує ЛГБТК+ спільноту в Україні під час російського вторгнення.",
+        "ru": "Оли Сайкс и барабанщик Мэт Николлс преодолели спринт-триатлон в Аллерторпе, собрав более 7 000 долларов для UkrainePride — организации, поддерживающей ЛГБТК+ сообщество в Украине во время российского вторжения."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/bring-me-the-horizons-oli-sykes-and-mat-nichols-complete-triathlon-for-ukraine-lgtbq-charity-3285637",
+          "publisher": "NME",
+          "date": "2022-08"
+        },
+        {
+          "url": "https://loudwire.com/bring-me-the-horizon-oli-sykes-mat-nichols-ukraine-lgbtq-pride-run/",
+          "publisher": "Loudwire",
+          "date": "2022-08"
+        }
+      ]
+    },
+    {
+      "date": "2022",
+      "title": {
+        "en": "Fundraiser with UAnimals for animals affected by the war",
+        "uk": "Збір коштів разом з UAnimals для тварин, постраждалих від війни",
+        "ru": "Сбор средств вместе с UAnimals для животных, пострадавших от войны"
+      },
+      "detail": {
+        "en": "The band partnered with the Ukrainian animal-welfare organization UAnimals, raffling a signed drum skin among supporters with all proceeds donated to help animals affected by Russia's invasion of Ukraine.",
+        "uk": "Гурт об'єднався з українською зоозахисною організацією UAnimals і розіграв серед прихильників підписаний пластик барабана, передавши всі зібрані кошти на допомогу тваринам, постраждалим від російського вторгнення в Україну.",
+        "ru": "Группа объединилась с украинской зоозащитной организацией UAnimals и разыграла среди поклонников подписанный пластик барабана, передав все собранные средства на помощь животным, пострадавшим от российского вторжения в Украину."
+      },
+      "sources": [
+        {
+          "url": "https://uanimals.org/en/news/viyna-v-ukraini-brytanskyy-hurt-bring-me-the-horizon-pidtrymav-ukrainskykh-tvaryn/",
+          "publisher": "UAnimals"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

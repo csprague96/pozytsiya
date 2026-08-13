@@ -1,0 +1,69 @@
+{
+  "slug": "slipknot",
+  "name": "Slipknot",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Slipknot, the American metal band, had summer 2022 shows booked in Moscow, Kyiv and Minsk. In early March 2022, after Russia's full-scale invasion of Ukraine, the band pulled all three dates, saying it acted 'in solidarity with the people of Ukraine', and frontman Corey Taylor posted a video telling Ukrainian fans to 'stay strong'. The Moscow Park Live festival they were booked for collapsed after mass withdrawals, and the band has not performed in Russia since.",
+    "uk": "Американський метал-гурт Slipknot мав заплановані на літо 2022 року концерти в Москві, Києві та Мінську. На початку березня 2022 року, після повномасштабного вторгнення Росії в Україну, гурт скасував усі три дати, заявивши, що робить це «на знак солідарності з народом України», а фронтмен Корі Тейлор опублікував відео, в якому закликав українських фанатів «триматися». Московський фестиваль Park Live, на якому вони мали виступити, розпався після масових відмов артистів, і відтоді гурт у Росії не виступав.",
+    "ru": "Американская метал-группа Slipknot планировала на лето 2022 года концерты в Москве, Киеве и Минске. В начале марта 2022 года, после полномасштабного вторжения России в Украину, группа отменила все три даты, заявив, что делает это «в знак солидарности с народом Украины», а фронтмен Кори Тейлор опубликовал видео, в котором призвал украинских фанатов «держаться». Московский фестиваль Park Live, на котором они должны были выступить, развалился после массовых отказов артистов, и с тех пор группа в России не выступала."
+  },
+  "timeline": [
+    {
+      "date": "2022-03",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Pulls Moscow, Minsk and Kyiv shows 'in solidarity with the people of Ukraine'",
+        "uk": "Скасовує концерти в Москві, Мінську та Києві «на знак солідарності з народом України»",
+        "ru": "Отменяет концерты в Москве, Минске и Киеве «в знак солидарности с народом Украины»"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, Slipknot announced it was postponing its Kyiv, Moscow and Minsk performances 'in support of our community and in solidarity with the people of Ukraine, for whom the struggle continues, in a new and more terrible form'. Frontman Corey Taylor and his son Griffin posted a video message to Ukrainian fans: 'Stay strong, we're with you, we're standing with you and we're thinking about you.' The dates were never rescheduled.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Slipknot оголосив про перенесення виступів у Києві, Москві та Мінську «на підтримку нашої спільноти та на знак солідарності з народом України, для якого боротьба триває в новій, ще страшнішій формі». Фронтмен Корі Тейлор із сином Гріффіном записали відеозвернення до українських фанатів: «Тримайтеся, ми з вами, ми стоїмо поруч із вами й думаємо про вас». Ці дати так і не були перенесені.",
+        "ru": "Через несколько дней после начала полномасштабного вторжения Slipknot объявил о переносе выступлений в Киеве, Москве и Минске «в поддержку нашего сообщества и в знак солидарности с народом Украины, для которого борьба продолжается в новой, ещё более страшной форме». Фронтмен Кори Тейлор с сыном Гриффином записали видеообращение к украинским фанатам: «Держитесь, мы с вами, мы стоим рядом с вами и думаем о вас». Эти даты так и не были перенесены."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/corey-taylor-sends-message-to-ukrainian-fans-as-slipknot-postpone-russia-ukraine-and-belarus-shows-3174017",
+          "publisher": "NME",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://consequence.net/2022/03/slipknot-postpone-russia-belarus-shows-support-ukraine/",
+          "publisher": "Consequence",
+          "date": "2022-03"
+        }
+      ]
+    },
+    {
+      "date": "2022-03",
+      "title": {
+        "en": "Moscow's Park Live festival collapses after Slipknot and other headliners withdraw",
+        "uk": "Московський фестиваль Park Live розпадається після відмови Slipknot та інших хедлайнерів",
+        "ru": "Московский фестиваль Park Live разваливается после отказа Slipknot и других хедлайнеров"
+      },
+      "detail": {
+        "en": "Slipknot's withdrawal came amid a wave of pull-outs — alongside My Chemical Romance, The Killers, Iggy Pop, Deftones and others — that forced the cancellation of Moscow's Park Live festival, where the band had been booked. The festival never returned to Moscow, later relocating to Kazakhstan, and Slipknot has not played Russia since.",
+        "uk": "Відмова Slipknot стала частиною хвилі скасувань — разом із My Chemical Romance, The Killers, Іггі Попом, Deftones та іншими, — яка змусила організаторів скасувати московський фестиваль Park Live, де гурт мав виступити. Фестиваль так і не повернувся до Москви, згодом переїхавши до Казахстану, а Slipknot відтоді в Росії не грав.",
+        "ru": "Отказ Slipknot стал частью волны отмен — вместе с My Chemical Romance, The Killers, Игги Попом, Deftones и другими, — которая вынудила организаторов отменить московский фестиваль Park Live, где группа должна была выступить. Фестиваль так и не вернулся в Москву, позднее переехав в Казахстан, а Slipknot с тех пор в России не играл."
+      },
+      "sources": [
+        {
+          "url": "https://www.iqmagazine.com/2022/03/russia-park-live-cancellations/",
+          "publisher": "IQ Magazine",
+          "date": "2022-03"
+        },
+        {
+          "url": "https://www.iqmagazine.com/2024/07/moscow-park-live-relocates-kazakhstan/",
+          "publisher": "IQ Magazine",
+          "date": "2024-07"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

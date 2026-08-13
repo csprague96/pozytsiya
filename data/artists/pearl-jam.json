@@ -1,0 +1,100 @@
+{
+  "slug": "pearl-jam",
+  "name": "Pearl Jam",
+  "country": "us",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 3,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Pearl Jam, the American rock band fronted by Eddie Vedder, spoke out the day after Russia's full-scale invasion began, sharing a photo of Kyiv's Motherland Monument and urging fans to support 'the most vulnerable victims of this horror, the kids'. In April 2022 Vedder and the band joined Global Citizen's Stand Up For Ukraine campaign raising funds for refugee relief. At their July 2022 concert in Kraków, Vedder denounced Vladimir Putin and Russian disinformation from the stage, and the band supported a local foundation helping Ukrainian refugees in Poland.",
+    "uk": "Pearl Jam, американський рок-гурт на чолі з Едді Веддером, висловився вже наступного дня після початку повномасштабного вторгнення Росії, опублікувавши фото київського монумента «Батьківщина-мати» і закликавши фанатів підтримати «найуразливіших жертв цього жаху — дітей». У квітні 2022 року Веддер і гурт долучилися до кампанії Global Citizen «Stand Up For Ukraine» зі збору коштів на допомогу біженцям. На концерті в Кракові в липні 2022 року Веддер зі сцени засудив Володимира Путіна та російську дезінформацію, а гурт підтримав місцевий фонд, що допомагає українським біженцям у Польщі.",
+    "ru": "Pearl Jam, американская рок-группа во главе с Эдди Веддером, высказалась уже на следующий день после начала полномасштабного вторжения России, опубликовав фото киевского монумента «Родина-мать» и призвав фанатов поддержать «самых уязвимых жертв этого ужаса — детей». В апреле 2022 года Веддер и группа присоединились к кампании Global Citizen «Stand Up For Ukraine» по сбору средств в помощь беженцам. На концерте в Кракове в июле 2022 года Веддер со сцены осудил Владимира Путина и российскую дезинформацию, а группа поддержала местный фонд, помогающий украинским беженцам в Польше."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-25",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Statement on the invasion: 'War hurts'",
+        "uk": "Заява про вторгнення: «Війна завдає болю»",
+        "ru": "Заявление о вторжении: «Война причиняет боль»"
+      },
+      "detail": {
+        "en": "The day after the full-scale invasion began, Pearl Jam shared a photo of Kyiv's Motherland Monument with a statement reading in part 'War hurts... We must be capable of resolving conflicts without bloodshed', and asked fans to 'join us in supporting the most vulnerable victims of this horror, the kids'.",
+        "uk": "Наступного дня після початку повномасштабного вторгнення Pearl Jam опублікували фото київського монумента «Батьківщина-мати» із заявою, у якій, зокрема, йшлося: «Війна завдає болю… Ми повинні вміти розв'язувати конфлікти без кровопролиття», і закликали фанатів «приєднатися до нас у підтримці найуразливіших жертв цього жаху — дітей».",
+        "ru": "На следующий день после начала полномасштабного вторжения Pearl Jam опубликовали фото киевского монумента «Родина-мать» с заявлением, в котором, в частности, говорилось: «Война причиняет боль… Мы должны уметь разрешать конфликты без кровопролития», и призвали фанатов «присоединиться к нам в поддержке самых уязвимых жертв этого ужаса — детей»."
+      },
+      "sources": [
+        {
+          "url": "https://guitar.com/news/music-news/brian-may-paul-stanley-pearl-jam-the-music-world-reacts-to-russia-invasion-of-ukraine/",
+          "publisher": "Guitar.com",
+          "date": "2022-03-01"
+        },
+        {
+          "url": "https://loudwire.com/rockers-respond-react-russian-invasion-ukraine/",
+          "publisher": "Loudwire",
+          "date": "2022-02"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-08",
+      "stanceAfter": 3,
+      "title": {
+        "en": "Joins Stand Up For Ukraine refugee fundraising campaign",
+        "uk": "Долучення до кампанії Stand Up For Ukraine зі збору коштів для біженців",
+        "ru": "Участие в кампании Stand Up For Ukraine по сбору средств для беженцев"
+      },
+      "detail": {
+        "en": "Eddie Vedder and Pearl Jam joined Global Citizen's Stand Up For Ukraine social-media campaign, held ahead of a 9 April pledging summit to raise funds for Ukrainian refugee relief, alongside Bruce Springsteen, U2, Elton John and others. The band promoted the appeal on its official website and channels.",
+        "uk": "Едді Веддер і Pearl Jam долучилися до соцмедіа-кампанії Global Citizen «Stand Up For Ukraine», що проходила напередодні донорського саміту 9 квітня для збору коштів на допомогу українським біженцям, разом із Брюсом Спрінгстіном, U2, Елтоном Джоном та іншими. Гурт поширив заклик на своєму офіційному сайті та в соцмережах.",
+        "ru": "Эдди Веддер и Pearl Jam присоединились к соцмедиа-кампании Global Citizen «Stand Up For Ukraine», проходившей накануне донорского саммита 9 апреля для сбора средств в помощь украинским беженцам, вместе с Брюсом Спрингстином, U2, Элтоном Джоном и другими. Группа разместила призыв на своём официальном сайте и в соцсетях."
+      },
+      "sources": [
+        {
+          "url": "https://www.nme.com/news/music/u2-bruce-springsteen-elton-john-and-more-share-messages-for-stand-up-for-ukraine-campaign-3201516",
+          "publisher": "NME",
+          "date": "2022-04-08"
+        },
+        {
+          "url": "https://pearljam.com/news/global-citizen-stand-up-for-ukraine",
+          "publisher": "Pearl Jam (official site)",
+          "date": "2022-04"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-14",
+      "title": {
+        "en": "Denounces Putin onstage in Kraków, supports refugee aid foundation",
+        "uk": "Засуджує Путіна зі сцени в Кракові, підтримує фонд допомоги біженцям",
+        "ru": "Осуждает Путина со сцены в Кракове, поддерживает фонд помощи беженцам"
+      },
+      "detail": {
+        "en": "At Pearl Jam's concert at Kraków's Tauron Arena, Eddie Vedder condemned Vladimir Putin and Russian government disinformation from the stage, addressing an obscenity to Putin in Polish, and thanked local volunteers and organizations helping Ukrainian refugees. The Kraków foundation Kocham Dębniki said the band supported its work with people affected by the refugee crisis.",
+        "uk": "На концерті Pearl Jam у краківській Tauron Arena Едді Веддер зі сцени засудив Володимира Путіна та дезінформацію російської влади, адресувавши Путіну лайку польською, і подякував місцевим волонтерам та організаціям, що допомагають українським біженцям. Краківський фонд Kocham Dębniki повідомив, що гурт підтримав його роботу з людьми, які постраждали від кризи біженців.",
+        "ru": "На концерте Pearl Jam в краковской Tauron Arena Эдди Веддер со сцены осудил Владимира Путина и дезинформацию российских властей, адресовав Путину ругательство по-польски, и поблагодарил местных волонтёров и организации, помогающие украинским беженцам. Краковский фонд Kocham Dębniki сообщил, что группа поддержала его работу с людьми, пострадавшими от кризиса беженцев."
+      },
+      "sources": [
+        {
+          "url": "https://kochamdebniki.pl/pearl-jam-supports-our-foundation/",
+          "publisher": "Fundacja Kocham Dębniki",
+          "date": "2022-07"
+        },
+        {
+          "url": "https://liveon4legs.com/pearl-jam-tour-history/2022/07/14/tauron-arena-krakow-pol/",
+          "publisher": "Live On 4 Legs Concertpedia",
+          "date": "2022-07-14"
+        },
+        {
+          "url": "https://www.alternativenation.net/eddie-vedder-viciously-attacks-vladimir-putin/",
+          "publisher": "Alternative Nation",
+          "date": "2022-07"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}

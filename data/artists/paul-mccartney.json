@@ -1,0 +1,153 @@
+{
+  "slug": "paul-mccartney",
+  "name": "Paul McCartney",
+  "country": "gb",
+  "category": "musician",
+  "conflict": "ukraine",
+  "stance": 1,
+  "status": "positioned",
+  "flags": [],
+  "summary": {
+    "en": "Paul McCartney, former Beatle and one of the world's best-known musicians, has signalled support for Ukraine since the start of the full-scale invasion. Recalling his 2008 concert on Kyiv's Independence Square, he posted a message of 'love and support' with links to relief charities in February 2022, waved the Ukrainian flag during encores on his 2022 'Got Back' tour and at Glastonbury, and took part in charity initiatives such as NBC's 'Ukraine: Answering the Call' and Gibson's 'Guitars for Peace' auction. He has not made a direct public statement condemning Russia or naming it as the aggressor.",
+    "uk": "Пол Маккартні, колишній учасник The Beatles і один із найвідоміших музикантів світу, від початку повномасштабного вторгнення сигналізує про підтримку України. Згадавши свій концерт 2008 року на майдані Незалежності в Києві, у лютому 2022 року він опублікував послання «любові та підтримки» з посиланнями на благодійні організації, виходив з українським прапором на біси під час туру «Got Back» 2022 року та на Гластонбері, а також долучився до благодійних ініціатив — телемарафону NBC «Ukraine: Answering the Call» та аукціону Gibson «Guitars for Peace». Прямої публічної заяви із засудженням Росії як агресора він не робив.",
+    "ru": "Пол Маккартни, бывший участник The Beatles и один из самых известных музыкантов мира, с начала полномасштабного вторжения сигнализирует о поддержке Украины. Вспомнив свой концерт 2008 года на майдане Незалежности в Киеве, в феврале 2022 года он опубликовал послание «любви и поддержки» со ссылками на благотворительные организации, выходил с украинским флагом на бис во время тура «Got Back» 2022 года и на Гластонбери, а также участвовал в благотворительных инициативах — телемарафоне NBC «Ukraine: Answering the Call» и аукционе Gibson «Guitars for Peace». Прямого публичного заявления с осуждением России как агрессора он не делал."
+  },
+  "timeline": [
+    {
+      "date": "2022-02-28",
+      "stanceAfter": 1,
+      "title": {
+        "en": "Posts message of support to Ukraine",
+        "uk": "Публікує послання підтримки Україні",
+        "ru": "Публикует послание поддержки Украине"
+      },
+      "detail": {
+        "en": "Days after the full-scale invasion began, McCartney posted: 'Remembering playing for our friends in Ukraine in Independence Square in 2008 and thinking of them in these difficult times. We send our love and support', alongside a photo of him waving a Ukrainian flag at his 2008 Kyiv concert and links to relief charities.",
+        "uk": "Через кілька днів після початку повномасштабного вторгнення Маккартні написав: «Згадую, як ми грали для наших друзів в Україні на майдані Незалежності у 2008 році, і думаю про них у ці важкі часи. Надсилаємо нашу любов і підтримку», додавши фото, де він махає українським прапором на київському концерті 2008 року, та посилання на благодійні організації.",
+        "ru": "Через несколько дней после начала полномасштабного вторжения Маккартни написал: «Вспоминаю, как мы играли для наших друзей в Украине на майдане Незалежности в 2008 году, и думаю о них в эти трудные времена. Посылаем нашу любовь и поддержку», добавив фото, где он машет украинским флагом на киевском концерте 2008 года, и ссылки на благотворительные организации."
+      },
+      "sources": [
+        {
+          "url": "https://x.com/PaulMcCartney/status/1498391843637456896",
+          "publisher": "Paul McCartney (official X account)",
+          "date": "2022-02-28"
+        },
+        {
+          "url": "https://faroutmagazine.co.uk/paul-mccartney-message-ukraine/",
+          "publisher": "Far Out Magazine"
+        },
+        {
+          "url": "https://bestclassicbands.com/paul-mccartney-ukraine-concert-2008-give-peace-a-chance-2-28-22/",
+          "publisher": "Best Classic Bands",
+          "date": "2022-02-28"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-28",
+      "title": {
+        "en": "Waves Ukrainian flag at 'Got Back' tour opener; 'Back in the U.S.S.R.' left out",
+        "uk": "Виходить з українським прапором на відкритті туру «Got Back»; «Back in the U.S.S.R.» не виконується",
+        "ru": "Выходит с украинским флагом на открытии тура «Got Back»; «Back in the U.S.S.R.» не исполняется"
+      },
+      "detail": {
+        "en": "Opening his 'Got Back' tour in Spokane, Washington, McCartney returned for the encore waving the Ukrainian flag, a gesture repeated at stops across the tour. Reviewers, including The Spokesman-Review, noted that 'Back in the U.S.S.R.', a longtime staple of his live sets, was absent from the setlist in light of Russia's invasion of Ukraine.",
+        "uk": "Відкриваючи тур «Got Back» у Спокані (штат Вашингтон), Маккартні вийшов на біс з українським прапором — цей жест повторювався на концертах протягом усього туру. Оглядачі, зокрема The Spokesman-Review, зазначили, що «Back in the U.S.S.R.», багаторічна складова його концертів, зникла з сет-листа на тлі російського вторгнення в Україну.",
+        "ru": "Открывая тур «Got Back» в Спокане (штат Вашингтон), Маккартни вышел на бис с украинским флагом — этот жест повторялся на концертах на протяжении всего тура. Обозреватели, в том числе The Spokesman-Review, отметили, что «Back in the U.S.S.R.», многолетняя составляющая его концертов, исчезла из сет-листа на фоне российского вторжения в Украину."
+      },
+      "sources": [
+        {
+          "url": "https://ultimateclassicrock.com/paul-mccartney-got-back-tour-begins/",
+          "publisher": "Ultimate Classic Rock",
+          "date": "2022-04-29"
+        },
+        {
+          "url": "https://www.spokesman.com/stories/2022/may/01/sir-paul-worked-it-out-mccartney-makes-his-spokane/",
+          "publisher": "The Spokesman-Review",
+          "date": "2022-05-01"
+        },
+        {
+          "url": "https://twitter.com/MFA_Ukraine/status/1521229628924473346",
+          "publisher": "Ministry of Foreign Affairs of Ukraine (X)",
+          "date": "2022-05-02"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-25",
+      "title": {
+        "en": "Ukrainian flag at Glastonbury headline set",
+        "uk": "Український прапор на хедлайнерському виступі на Гластонбері",
+        "ru": "Украинский флаг на хедлайнерском выступлении на Гластонбери"
+      },
+      "detail": {
+        "en": "Headlining the Glastonbury Festival's Pyramid Stage, McCartney came out for the encore holding a Ukrainian flag aloft, flanked by bandmates carrying the Union Jack and a Pride flag.",
+        "uk": "Як хедлайнер сцени «Піраміда» фестивалю Гластонбері, Маккартні вийшов на біс з піднятим українським прапором; поруч учасники його гурту тримали британський прапор і прапор Прайду.",
+        "ru": "В качестве хедлайнера сцены «Пирамида» фестиваля Гластонбери Маккартни вышел на бис с поднятым украинским флагом; рядом участники его группы держали британский флаг и флаг Прайда."
+      },
+      "sources": [
+        {
+          "url": "https://www.yahoo.com/news/glastonbury-2022-paul-mccartney-waves-074920934.html",
+          "publisher": "Evening Standard (via Yahoo News)",
+          "date": "2022-06-26"
+        },
+        {
+          "url": "https://feeds.bbci.co.uk/news/entertainment-arts-61943613",
+          "publisher": "BBC News",
+          "date": "2022-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-03",
+      "title": {
+        "en": "Featured in NBC's 'Ukraine: Answering the Call' benefit",
+        "uk": "Участь у благодійній програмі NBC «Ukraine: Answering the Call»",
+        "ru": "Участие в благотворительной программе NBC «Ukraine: Answering the Call»"
+      },
+      "detail": {
+        "en": "McCartney was part of the line-up of NBC's benefit special 'Ukraine: Answering the Call', which raised funds for the International Rescue Committee's work with families affected by the war; the programme featured him and his band performing 'Give Peace a Chance' at his 2008 Kyiv concert.",
+        "uk": "Маккартні увійшов до складу учасників благодійного спецефіру NBC «Ukraine: Answering the Call», що збирав кошти для Міжнародного комітету порятунку на допомогу сім'ям, постраждалим від війни; у програмі показали, як він із гуртом виконує «Give Peace a Chance» на київському концерті 2008 року.",
+        "ru": "Маккартни вошёл в состав участников благотворительного спецэфира NBC «Ukraine: Answering the Call», собиравшего средства для Международного комитета спасения в помощь семьям, пострадавшим от войны; в программе показали, как он с группой исполняет «Give Peace a Chance» на киевском концерте 2008 года."
+      },
+      "sources": [
+        {
+          "url": "https://www.billboard.com/music/music-news/billie-eilish-finneas-paul-mccartney-ukraine-answering-the-call-lineup-1235109559/",
+          "publisher": "Billboard",
+          "date": "2022-06-30"
+        },
+        {
+          "url": "https://americansongwriter.com/paul-mccartney-sheryl-crow-billie-eilish-and-more-added-to-nbcs-ukraine-answering-the-call-lineup/",
+          "publisher": "American Songwriter",
+          "date": "2022-06"
+        }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "title": {
+        "en": "Gibson 'Guitars for Peace' Ukraine relief auction",
+        "uk": "Аукціон Gibson «Guitars for Peace» на допомогу Україні",
+        "ru": "Аукцион Gibson «Guitars for Peace» в помощь Украине"
+      },
+      "detail": {
+        "en": "A custom Gibson Les Paul painted in the blue and gold of the Ukrainian flag, played onstage and signed by McCartney as part of Gibson's 'Guitars for Peace' initiative, was sold at Julien's Auctions to raise money for Ukraine humanitarian relief.",
+        "uk": "Кастомний Gibson Les Paul, пофарбований у синьо-жовті кольори українського прапора, на якому Маккартні грав на сцені та який підписав у межах ініціативи Gibson «Guitars for Peace», було продано на Julien's Auctions для збору коштів на гуманітарну допомогу Україні.",
+        "ru": "Кастомный Gibson Les Paul, окрашенный в сине-жёлтые цвета украинского флага, на котором Маккартни играл на сцене и который подписал в рамках инициативы Gibson «Guitars for Peace», был продан на Julien's Auctions для сбора средств на гуманитарную помощь Украине."
+      },
+      "sources": [
+        {
+          "url": "https://www.guitarworld.com/news/gibson-paul-mccartney-slash-les-paul-ukraine-auction",
+          "publisher": "Guitar World",
+          "date": "2022-09"
+        },
+        {
+          "url": "https://www.nme.com/news/music/paul-mccartney-the-rolling-stones-slash-and-more-are-auctioning-off-gibson-guitars-to-help-ukraine-3306060",
+          "publisher": "NME",
+          "date": "2022-09"
+        }
+      ]
+    }
+  ],
+  "lastReviewed": "2026-08-12"
+}
