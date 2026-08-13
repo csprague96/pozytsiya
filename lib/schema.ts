@@ -22,6 +22,18 @@ export const SourceSchema = z.object({
   date: z.string().optional(),
 });
 
+/**
+ * Photo credit for `public/artists/<slug>.jpg`. Only free-licensed images
+ * (CC BY / CC BY-SA / CC0 / public domain) may be used; attribution is
+ * mandatory whenever a photo exists.
+ */
+export const ImageSchema = z.object({
+  credit: z.string().min(1),
+  license: z.string().min(1),
+  licenseUrl: z.string().url().optional(),
+  sourceUrl: z.string().url(),
+});
+
 export const TimelineEventSchema = z.object({
   date: z.string().regex(/^\d{4}(-\d{2})?(-\d{2})?$/),
   stanceAfter: z.number().int().min(-3).max(3).nullable().optional(),
@@ -56,9 +68,11 @@ export const ArtistSchema = z.object({
   timeline: z.array(TimelineEventSchema),
   lastReviewed: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
   disputed: z.boolean().optional(),
+  image: ImageSchema.optional(),
 });
 
 export type Artist = z.infer<typeof ArtistSchema>;
 export type TimelineEvent = z.infer<typeof TimelineEventSchema>;
 export type ArtistFlag = (typeof FLAGS)[number];
 export type Localized = z.infer<typeof LocalizedSchema>;
+export type ArtistImage = z.infer<typeof ImageSchema>;

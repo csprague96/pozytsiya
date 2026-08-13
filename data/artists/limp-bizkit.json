@@ -152,5 +152,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-12"
+  "lastReviewed": "2026-08-12",
+  "image": {
+    "credit": "ECarterSterling",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limp_Bizkit_(cropped).jpg"
+  }
 }

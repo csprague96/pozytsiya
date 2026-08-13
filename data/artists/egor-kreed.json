@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": -1,
   "status": "positioned",
-  "flags": ["banned_in_ukraine"],
+  "flags": [
+    "banned_in_ukraine"
+  ],
   "summary": {
     "en": "Russian pop singer and rapper (real name Egor Bulatkin). On 25 February 2022 he posted 'Let us pray for peace' with Russian and Ukrainian flag emojis and days later described himself as politically neutral; he has not named Russia as the aggressor and subsequently stopped commenting on the war. He has continued a top-tier mainstream career in Russia, including stadium concerts, and in March 2024 raised about 7 million rubles for residents of Belgorod affected by shelling and for victims of the Crocus City Hall attack. He has been on Ukraine's list of persons deemed a threat to national security since 2017 over appearances in occupied Crimea.",
     "uk": "Російський поп-співак і репер (справжнє ім'я — Єгор Булаткін). 25 лютого 2022 року він опублікував допис «Помолімося за мир» з емодзі російського та українського прапорів, а за кілька днів назвав себе політично нейтральним; він не назвав Росію агресором і згодом перестав коментувати війну. Він продовжив успішну мейнстримну кар'єру в Росії, зокрема зі стадіонними концертами, а в березні 2024 року зібрав близько 7 мільйонів рублів для мешканців Бєлгорода, що постраждали від обстрілів, та для жертв теракту в «Крокус Сіті Холі». З 2017 року він перебуває в українському переліку осіб, які становлять загрозу національній безпеці, через виступи в окупованому Криму.",
@@ -72,5 +74,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%95%D0%B3%D0%BE%D1%80_%D0%9A%D1%80%D0%B8%D0%B4_%D0%BD%D0%B0_VK_Fest_2025_%D0%B2_%D0%A1%D0%9F%D0%B1.jpg"
+  }
 }

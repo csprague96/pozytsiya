@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Kharkiv-born singer Artem Pivovarov, who moved his career fully to Ukrainian-language music, has made all his solo wartime performances charitable, reporting more than 300 charity concerts since 2022 in Ukraine and abroad. Proceeds from concerts and YouTube monetization have funded a mobile hospital, vehicles, drones and other equipment for the Ukrainian military. In April 2024 he played three sold-out charity nights at Kyiv's Palace of Sports with funds directed to the Armed Forces of Ukraine.",
     "uk": "Уродженець Харкова співак Артем Пивоваров, який повністю перевів свою творчість на україномовну музику, зробив усі свої сольні виступи воєнного часу благодійними: з 2022 року він повідомив про понад 300 благодійних концертів в Україні та за кордоном. Кошти від концертів і монетизації на YouTube пішли на мобільний госпіталь, автомобілі, дрони та інше обладнання для українських військових. У квітні 2024 року він відіграв три аншлагові благодійні концерти в київському Палаці спорту, а зібрані кошти спрямував на ЗСУ.",
@@ -81,5 +83,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "UNICEF  Ukraine from Kyiv, Ukraine",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artem_Pyvovarov,_UNICEF_Youth_Awards_Ceremony_(cropped_02).jpg"
+  }
 }

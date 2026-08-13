@@ -26,7 +26,11 @@
         "ru": "KOLA выпустила песню «Україно — ми сила», посвятив ее тем, кто защищает Украину от российской агрессии, и женщинам, которые их ждут."
       },
       "sources": [
-        {"url": "https://suspilne.media/culture/215476-spivacka-kola-prisvatila-pisnu-ludam-aki-boronat-krainu-vid-rosijskoi-agresii/", "publisher": "Suspilne", "date": "2022"}
+        {
+          "url": "https://suspilne.media/culture/215476-spivacka-kola-prisvatila-pisnu-ludam-aki-boronat-krainu-vid-rosijskoi-agresii/",
+          "publisher": "Suspilne",
+          "date": "2022"
+        }
       ]
     },
     {
@@ -42,9 +46,19 @@
         "ru": "В интервью KOLA назвала выступления в России во время войны «позором и дном», раскритиковав артистов из страны-агрессора и тех, кто там выступает."
       },
       "sources": [
-        {"url": "https://womanmagazine-npp.com/en/2022/12/21/this-is-a-shame-and-the-bottom-kola-about-a-performance-in-russia-and-artists-from-the-aggressor-country/", "publisher": "Woman Magazine", "date": "2022-12-21"}
+        {
+          "url": "https://womanmagazine-npp.com/en/2022/12/21/this-is-a-shame-and-the-bottom-kola-about-a-performance-in-russia-and-artists-from-the-aggressor-country/",
+          "publisher": "Woman Magazine",
+          "date": "2022-12-21"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Alexander Khanin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kola2024.jpg"
+  }
 }

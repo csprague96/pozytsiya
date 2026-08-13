@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Electronic duo TVORCHI (producer Andrii Hutsuliak and Nigerian-born vocalist Jeffery Kenny), based in Ternopil, represented Ukraine at Eurovision 2023 with 'Heart of Steel', a song inspired by the defenders of the Azovstal plant in Mariupol. They won Ukraine's national selection held in a Kyiv bomb shelter, and after Russian missiles struck Ternopil during their Eurovision performance they publicly called on Europe to 'unite against evil'.",
     "uk": "Електронний дует TVORCHI (продюсер Андрій Гуцуляк і вокаліст нігерійського походження Джеффрі Кенні) з Тернополя представляв Україну на Євробаченні-2023 з піснею «Heart of Steel», натхненною захисниками заводу «Азовсталь» у Маріуполі. Дует переміг у національному відборі України, що проходив у бомбосховищі в Києві, а після того, як російські ракети вдарили по Тернополю під час їхнього виступу на Євробаченні, публічно закликав Європу «об'єднатися проти зла».",
@@ -81,5 +83,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "UAStepan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TVORCHI.jpg"
+  }
 }

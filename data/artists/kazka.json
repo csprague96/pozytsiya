@@ -27,7 +27,11 @@
         "ru": "KAZKA закрыла фестиваль SXSW в Остине выступлением, задуманным как протест против российского вторжения, в том числе с кавером на песню Боба Дилана «Masters of War», в то время как часть участников группы оставалась в Украине."
       },
       "sources": [
-        {"url": "https://www.rollingstone.com/music/music-features/sxsw-kazka-ukraine-bob-dylan-charlie-sexton-1324257/", "publisher": "Rolling Stone", "date": "2022-03"}
+        {
+          "url": "https://www.rollingstone.com/music/music-features/sxsw-kazka-ukraine-bob-dylan-charlie-sexton-1324257/",
+          "publisher": "Rolling Stone",
+          "date": "2022-03"
+        }
       ]
     },
     {
@@ -43,7 +47,11 @@
         "ru": "Фронтвумен Саша Зарицкая гастролировала по США, привлекая внимание к войне, в то время как участники группы и родственники оставались в Украине, а некоторые из них участвовали в обороне страны."
       },
       "sources": [
-        {"url": "https://www.washingtonpost.com/nation/2022/04/15/ukrainian-pop-singer-kazka/", "publisher": "The Washington Post", "date": "2022-04-15"}
+        {
+          "url": "https://www.washingtonpost.com/nation/2022/04/15/ukrainian-pop-singer-kazka/",
+          "publisher": "The Washington Post",
+          "date": "2022-04-15"
+        }
       ]
     },
     {
@@ -59,10 +67,24 @@
         "ru": "KAZKA дала благотворительные концерты в Европе и США, собирая средства для детей, беженцев и украинских военных, и выпустила песню «I AM NOT OK», написанную в первые дни российского вторжения, в рамках кампании #IAMUKRAINE."
       },
       "sources": [
-        {"url": "https://www.forbes.com/sites/scottking/2022/05/29/what-kazkas-sasha-zaritska-wants-americans-to-know-about-the-war-in-ukraine/", "publisher": "Forbes", "date": "2022-05-29"},
-        {"url": "https://americansongwriter.com/ukrainian-band-kazka-and-frontwoman-sasha-zaritska-working-to-spread-iamukraine-awareness/", "publisher": "American Songwriter", "date": "2022"}
+        {
+          "url": "https://www.forbes.com/sites/scottking/2022/05/29/what-kazkas-sasha-zaritska-wants-americans-to-know-about-the-war-in-ukraine/",
+          "publisher": "Forbes",
+          "date": "2022-05-29"
+        },
+        {
+          "url": "https://americansongwriter.com/ukrainian-band-kazka-and-frontwoman-sasha-zaritska-working-to-spread-iamukraine-awareness/",
+          "publisher": "American Songwriter",
+          "date": "2022"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Ivasykus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:KAZKA_MRPL_City_2018.jpg"
+  }
 }

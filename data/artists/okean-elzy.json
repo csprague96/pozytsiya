@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Okean Elzy is one of Ukraine's most popular rock bands, fronted by Sviatoslav Vakarchuk. After the full-scale invasion began in February 2022, Vakarchuk joined a territorial defence unit in Lviv Oblast and received the rank of lieutenant in the Armed Forces of Ukraine. He has performed regularly for troops near the front line in the Kharkiv, Sumy and Zaporizhzhia regions, and the band has run international benefit tours; by mid-2023 the band said it had raised over 25 million hryvnias in aid.",
     "uk": "«Океан Ельзи» — один із найпопулярніших рок-гуртів України, фронтменом якого є Святослав Вакарчук. Після початку повномасштабного вторгнення в лютому 2022 року Вакарчук приєднався до підрозділу територіальної оборони Львівської області й отримав звання лейтенанта Збройних сил України. Він регулярно виступає перед військовими поблизу лінії фронту в Харківській, Сумській та Запорізькій областях, а гурт проводить міжнародні благодійні тури; до середини 2023 року гурт повідомив, що зібрав понад 25 мільйонів гривень допомоги.",
@@ -106,5 +108,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Destination.darkness.johgas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:OKEAN_TITULNI_2016.jpg"
+  }
 }

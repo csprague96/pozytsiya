@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": -2,
   "status": "positioned",
-  "flags": ["sanctioned"],
+  "flags": [
+    "sanctioned"
+  ],
   "summary": {
     "en": "Russian singer and two-time Eurovision entrant. On 24 February 2022 he posted a black square with 'No to war,' but by April 2022 he publicly distanced himself from words in support of Ukraine and declared his love for Russia. Ukraine's Main Intelligence Directorate lists him as a 'Kremlin mouthpiece,' citing his participation in the 2022 pro-military propaganda video 'Vstanem,' repeated concerts in occupied Crimea, and appearances on state-TV New Year shows honoring servicemen fighting in Ukraine. Ukraine imposed personal sanctions on him on 7 January 2023.",
     "uk": "Російський співак, двічі учасник Євробачення. 24 лютого 2022 року він опублікував чорний квадрат з написом «Ні війні», але вже у квітні 2022 року публічно відхрестився від слів на підтримку України та освідчився в любові до Росії. Головне управління розвідки України зараховує його до «рупорів Кремля», посилаючись на його участь у пропагандистському провоєнному відео «Встанем» 2022 року, неодноразові концерти в окупованому Криму та появи в новорічних шоу державного телебачення, де вшановували військових, які воюють в Україні. 7 січня 2023 року Україна запровадила проти нього персональні санкції.",
@@ -98,5 +100,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Albin Olsson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ESC2016_-_Russia_Meet_%26_Greet_08_(crop).jpg"
+  }
 }

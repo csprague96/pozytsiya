@@ -89,5 +89,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-12"
+  "lastReviewed": "2026-08-12",
+  "image": {
+    "credit": "Harald Krichel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ed_Sheeran-6886_(cropped_2).jpg"
+  }
 }

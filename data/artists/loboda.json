@@ -7,7 +7,9 @@
   "conflict": "ukraine",
   "stance": 2,
   "status": "positioned",
-  "flags": ["left_russia"],
+  "flags": [
+    "left_russia"
+  ],
   "summary": {
     "en": "Svitlana Loboda is a Ukrainian singer who built a major career in Russia over three decades and was one of the most commercially successful acts on the Russian market before 2022. After the full-scale invasion she stopped all activity in Russia, left the country, settled in Riga, published anti-war appeals addressed in part to her Russian audience, and organized volunteer assistance for Ukrainians. She has nonetheless faced sustained criticism in Ukraine and the Baltics over her past Russia-based career and her refusal to fully abandon her Russian-language repertoire; a planned 2023 Kyiv charity concert was cancelled after public backlash.",
     "uk": "Світлана Лобода — українська співачка, яка впродовж трьох десятиліть будувала велику кар'єру в Росії і до 2022 року була однією з найуспішніших комерційних артисток на російському ринку. Після повномасштабного вторгнення вона припинила будь-яку діяльність у Росії, виїхала з країни, оселилася в Ризі, оприлюднила антивоєнні звернення, адресовані зокрема її російській аудиторії, та організувала волонтерську допомогу українцям. Попри це вона зазнає постійної критики в Україні та країнах Балтії через свою колишню кар'єру в Росії та відмову повністю відмовитися від російськомовного репертуару; запланований на 2023 рік благодійний концерт у Києві скасували після хвилі суспільного обурення.",
@@ -28,8 +30,15 @@
         "ru": "После начала полномасштабного вторжения Лобода опубликовала антивоенные заявления, в том числе видеообращение со слезами к миллионам своих российских подписчиков с призывом остановить войну. Она прекратила деятельность в России, покинула страну и позже обосновалась в Риге (Латвия)."
       },
       "sources": [
-        {"url": "https://www.billboard.com/music/music-news/ukrainian-russian-artists-condemn-putin-ukraine-invasion-1235035775/", "publisher": "Billboard", "date": "2022-02-25"},
-        {"url": "https://247newsagency.com/opinion/76501.html", "publisher": "247 News Agency"}
+        {
+          "url": "https://www.billboard.com/music/music-news/ukrainian-russian-artists-condemn-putin-ukraine-invasion-1235035775/",
+          "publisher": "Billboard",
+          "date": "2022-02-25"
+        },
+        {
+          "url": "https://247newsagency.com/opinion/76501.html",
+          "publisher": "247 News Agency"
+        }
       ]
     },
     {
@@ -45,10 +54,26 @@
         "ru": "Накануне запланированных концертов в четырех литовских городах Министерство иностранных дел Литвы объявило о намерении внести Лободу в список нежелательных лиц, сославшись на ее длительную карьеру в России; впоследствии Министерство внутренних дел не нашло правовых оснований для запрета на въезд. Несколько концертов были отменены, а Лобода назвала это решение несправедливым и заявила, что подаст в суд на концертный зал."
       },
       "sources": [
-        {"url": "https://www.lrt.lt/en/news-in-english/19/1829257/lithuania-to-blacklist-ukrainian-singer", "publisher": "LRT", "date": "2022-11"},
-        {"url": "https://www.lrt.lt/en/news-in-english/19/1830541/lithuanian-ministry-finds-no-legal-grounds-to-bar-entry-to-ukrainian-singer-loboda", "publisher": "LRT", "date": "2022-11"},
-        {"url": "https://www.baltictimes.com/lithuania_to_blacklist_latvia-based_ukrainian_singer_loboda_popular_in_russia_-_ministry/", "publisher": "The Baltic Times", "date": "2022-11"},
-        {"url": "https://www.lrt.lt/en/news-in-english/19/1837433/ukrainian-singer-says-lithuania-s-moves-to-blacklist-her-unfair-to-sue-concert-hall", "publisher": "LRT", "date": "2022-12"}
+        {
+          "url": "https://www.lrt.lt/en/news-in-english/19/1829257/lithuania-to-blacklist-ukrainian-singer",
+          "publisher": "LRT",
+          "date": "2022-11"
+        },
+        {
+          "url": "https://www.lrt.lt/en/news-in-english/19/1830541/lithuanian-ministry-finds-no-legal-grounds-to-bar-entry-to-ukrainian-singer-loboda",
+          "publisher": "LRT",
+          "date": "2022-11"
+        },
+        {
+          "url": "https://www.baltictimes.com/lithuania_to_blacklist_latvia-based_ukrainian_singer_loboda_popular_in_russia_-_ministry/",
+          "publisher": "The Baltic Times",
+          "date": "2022-11"
+        },
+        {
+          "url": "https://www.lrt.lt/en/news-in-english/19/1837433/ukrainian-singer-says-lithuania-s-moves-to-blacklist-her-unfair-to-sue-concert-hall",
+          "publisher": "LRT",
+          "date": "2022-12"
+        }
       ]
     },
     {
@@ -64,9 +89,21 @@
         "ru": "Анонсированный в киевском Osocor Residence благотворительный концерт, который рекламировался как сбор средств для детской больницы «Охматдет», вызвал волну критики со стороны украинцев из-за ее русскоязычного репертуара и прошлой карьеры в России, а больница заявила, что не знала об этом мероприятии. Концерт был отменен."
       },
       "sources": [
-        {"url": "https://apostrophe.ua/ua/article/lime/learn/2023-05-23/kontsert-svetlanyi-lobodyi-v-kieve-okonchatelno-otmenili-posle-skandala-v-sotssetyah/52230", "publisher": "Apostrophe", "date": "2023-05-23"},
-        {"url": "https://www.unian.ua/lite/stars/groshi-ne-pahnut-loboda-narvalasya-na-kritiku-cherez-koncert-u-kiyevi-12264705.html", "publisher": "UNIAN", "date": "2023-05"},
-        {"url": "https://showbiz.24tv.ua/svitlana-loboda-hoche-vistupiti-kiyevi-ukrayintsi-oburyuyutsya_n2317944", "publisher": "24 Kanal", "date": "2023-05"}
+        {
+          "url": "https://apostrophe.ua/ua/article/lime/learn/2023-05-23/kontsert-svetlanyi-lobodyi-v-kieve-okonchatelno-otmenili-posle-skandala-v-sotssetyah/52230",
+          "publisher": "Apostrophe",
+          "date": "2023-05-23"
+        },
+        {
+          "url": "https://www.unian.ua/lite/stars/groshi-ne-pahnut-loboda-narvalasya-na-kritiku-cherez-koncert-u-kiyevi-12264705.html",
+          "publisher": "UNIAN",
+          "date": "2023-05"
+        },
+        {
+          "url": "https://showbiz.24tv.ua/svitlana-loboda-hoche-vistupiti-kiyevi-ukrayintsi-oburyuyutsya_n2317944",
+          "publisher": "24 Kanal",
+          "date": "2023-05"
+        }
       ]
     },
     {
@@ -82,10 +119,24 @@
         "ru": "В большом интервью Русской службе BBC Лобода заявила, что никогда не обещала отказаться от своих русскоязычных песен; эта позиция вызвала новую волну критики в Украине. Украинские СМИ продолжают освещать то, как она отстаивает исполнение песен на русском языке, живя за границей."
       },
       "sources": [
-        {"url": "https://espreso.tv/kultura-loboda-vidpovila-shcho-robitime-z-rosiyskomovnimi-pisnyami-ne-obitsyala-shcho-vidmovlyusya", "publisher": "Espreso", "date": "2023-12"},
-        {"url": "https://life.nv.ua/ukr/znamenitosti/de-zaraz-svitlana-loboda-shcho-vidomo-pro-spivachku-yaka-vistupala-v-rf-i-zahishchaye-rosiysku-movu-50390682.html", "publisher": "NV", "date": "2024"}
+        {
+          "url": "https://espreso.tv/kultura-loboda-vidpovila-shcho-robitime-z-rosiyskomovnimi-pisnyami-ne-obitsyala-shcho-vidmovlyusya",
+          "publisher": "Espreso",
+          "date": "2023-12"
+        },
+        {
+          "url": "https://life.nv.ua/ukr/znamenitosti/de-zaraz-svitlana-loboda-shcho-vidomo-pro-spivachku-yaka-vistupala-v-rf-i-zahishchaye-rosiysku-movu-50390682.html",
+          "publisher": "NV",
+          "date": "2024"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "LTV Ziņu dienests",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loboda_(Dec_2023)_(cropped).png"
+  }
 }

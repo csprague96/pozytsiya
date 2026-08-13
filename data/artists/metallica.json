@@ -89,5 +89,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-12"
+  "lastReviewed": "2026-08-12",
+  "image": {
+    "credit": "Library of Congress Life",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metallica_March_2024.jpg"
+  }
 }

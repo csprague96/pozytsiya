@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia"],
+  "flags": [
+    "left_russia"
+  ],
   "summary": {
     "en": "Electronic duo IC3PEAK (Anastasia Kreslina and Nikolay Kostylev), long targeted by Russian authorities for anti-government art, condemned the invasion of Ukraine in February 2022. Their VK page was banned over anti-war statements, and they collected funds for Ukrainian humanitarian aid while releasing the anti-Putin video 'Kiss of Death'. Kreslina left Russia within a week of the invasion, saying it was unsafe to speak out from inside the country, and the duo has since toured in exile across Europe.",
     "uk": "Електронний дует IC3PEAK (Анастасія Кресліна та Микола Костильов), який російська влада давно переслідувала за антиурядову творчість, засудив вторгнення в Україну в лютому 2022 року. Їхню сторінку у VK заблокували через антивоєнні заяви, а вони збирали кошти на гуманітарну допомогу Україні та випустили антипутінське відео «Kiss of Death». Кресліна виїхала з Росії протягом тижня після початку вторгнення, пояснивши, що висловлюватися зсередини країни небезпечно, і відтоді дует гастролює в еміграції Європою.",
@@ -27,7 +29,11 @@
         "ru": "Анастасия Креслина уехала из России через неделю после начала полномасштабного вторжения, объяснив, что не могла остаться, поскольку говорить о войне изнутри страны было небезопасно."
       },
       "sources": [
-        {"url": "https://www.nme.com/features/music-interviews/ic3peak-interview-coming-home-album-3841714", "publisher": "NME", "date": "2023"}
+        {
+          "url": "https://www.nme.com/features/music-interviews/ic3peak-interview-coming-home-album-3841714",
+          "publisher": "NME",
+          "date": "2023"
+        }
       ]
     },
     {
@@ -44,7 +50,11 @@
         "ru": "После того как «ВКонтакте» заблокировал страницу группы из-за антивоенных заявлений, IC3PEAK выпустили антипутинское видео «Kiss of Death» и начали собирать средства на гуманитарную помощь Украине."
       },
       "sources": [
-        {"url": "https://www.side-line.com/russian-band-ic3peak-gets-banned-on-vk-for-anti-war-comments-their-reaction-an-anti-putin-video/", "publisher": "Side-Line", "date": "2022"}
+        {
+          "url": "https://www.side-line.com/russian-band-ic3peak-gets-banned-on-vk-for-anti-war-comments-their-reaction-an-anti-putin-video/",
+          "publisher": "Side-Line",
+          "date": "2022"
+        }
       ]
     },
     {
@@ -60,9 +70,19 @@
         "ru": "В эмиграции дуэт выступал в Испании, Германии, Болгарии, Чехии, Франции, Бельгии и Великобритании, сохраняя свою антивоенную позицию."
       },
       "sources": [
-        {"url": "https://lossi36.com/2023/03/30/protest-exile-seven-musicians-from-russia-against-the-war/", "publisher": "Lossi 36", "date": "2023-03-30"}
+        {
+          "url": "https://lossi36.com/2023/03/30/protest-exile-seven-musicians-from-russia-against-the-war/",
+          "publisher": "Lossi 36",
+          "date": "2023-03-30"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Svetlovsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:IC3PEAK_%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%B5.jpg"
+  }
 }

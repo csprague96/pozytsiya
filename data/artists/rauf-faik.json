@@ -26,7 +26,10 @@
         "ru": "Дуэт выступил в Москве (дизайн-завод «Флакон», 24 июля 2022 года), а 10 ноября 2022 года дал ещё один московский концерт, продолжая гастрольную карьеру в России во время полномасштабной войны без публичных комментариев о ней."
       },
       "sources": [
-        { "url": "https://www.kp.ru/afisha/msk/konczerty/konczert-rauf-faik-v-moskve-24-iyulya-2022/", "publisher": "Komsomolskaya Pravda afisha (Russia)" }
+        {
+          "url": "https://www.kp.ru/afisha/msk/konczerty/konczert-rauf-faik-v-moskve-24-iyulya-2022/",
+          "publisher": "Komsomolskaya Pravda afisha (Russia)"
+        }
       ]
     },
     {
@@ -42,9 +45,18 @@
         "ru": "Rauf & Faik продолжали значиться в афишах московских концертов в сезонах 2025–2026 годов, что указывает на непрерывную карьеру в России."
       },
       "sources": [
-        { "url": "https://www.kp.ru/afisha/msk/artist/rauf-faik-gruppa/", "publisher": "Komsomolskaya Pravda afisha (Russia)" }
+        {
+          "url": "https://www.kp.ru/afisha/msk/artist/rauf-faik-gruppa/",
+          "publisher": "Komsomolskaya Pravda afisha (Russia)"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rauf%26Faik_%D0%BD%D0%B0_VK_Fest_5.jpg"
+  }
 }

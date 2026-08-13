@@ -5,7 +5,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Pop artist MONATIK (Dmytro Monatik), previously one of Ukraine's biggest Russian-language pop stars, switched to performing in Ukrainian after the full-scale invasion. In April 2022 he released 'ART Oborona' thanking Ukrainian troops and linking to a donation platform for the armed forces, followed by an EP of the same name whose proceeds went to the Armed Forces of Ukraine. Within nine months of the invasion he reported raising over 20 million hryvnias (about half a million euros) for the military and war victims.",
     "uk": "Поп-артист MONATIK (Дмитро Монатік), раніше одна з найбільших російськомовних поп-зірок України, після повномасштабного вторгнення перейшов на виступи українською. У квітні 2022 року він випустив пісню «ART Оборона» з подякою українським військовим і посиланням на платформу для донатів на армію, а згодом — однойменний мініальбом, виручка від якого йшла на ЗСУ. За дев'ять місяців вторгнення він повідомив про зібрані понад 20 мільйонів гривень (близько пів мільйона євро) для війська та постраждалих від війни.",
@@ -71,5 +73,10 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "President Of Ukraine from Україна",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_took_part_in_the_festive_Parade_of_Troops_on_the_occasion_of_the_30th_anniversary_of_Ukraine%27s_independence._(51716328653)_(cropped).jpg"
+  }
 }

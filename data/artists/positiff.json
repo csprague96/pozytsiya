@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Oleksiy Zavhorodniy (POSITIFF) fronted Vremya i Steklo (2010-2020), a Russian-language Ukrainian duo with a major fanbase in Russia, produced by Yuriy Bardash. After February 2022 he remained in Ukraine, switched to Ukrainian-language music, publicly denounced Bardash's pro-Russian turn as betrayal, and co-fronted major fundraising campaigns for Ukraine's air defense with former bandmate DOROFEEVA.",
     "uk": "Олексій Завгородній (POSITIFF) був фронтменом дуету «Время и Стекло» (2010–2020) — російськомовного українського проєкту з великою фан-базою в Росії, продюсером якого був Юрій Бардаш. Після лютого 2022 року він залишився в Україні, перейшов на українськомовну музику, публічно засудив проросійський поворот Бардаша як зраду та разом із колишньою колегою по дуету DOROFEEVA очолював масштабні кампанії зі збору коштів на протиповітряну оборону України.",
@@ -27,8 +29,14 @@
         "ru": "POSITIFF совершил тур по США и Канаде вместе с DOROFEEVA и DJ NANA с благотворительными концертами в поддержку Украины; после вторжения он остался в Украине и перешел на украиноязычный репертуар."
       },
       "sources": [
-        {"url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/", "publisher": "Club Sur Seattle"},
-        {"url": "https://thephoenixconcerttheatre.com/events/event/dorofeeva-x-positiff-x-dj-nana-formerly-vremya-i-steklo/", "publisher": "The Phoenix Concert Theatre"}
+        {
+          "url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/",
+          "publisher": "Club Sur Seattle"
+        },
+        {
+          "url": "https://thephoenixconcerttheatre.com/events/event/dorofeeva-x-positiff-x-dj-nana-formerly-vremya-i-steklo/",
+          "publisher": "The Phoenix Concert Theatre"
+        }
       ]
     },
     {
@@ -44,7 +52,11 @@
         "ru": "В интервью он осудил бывшего продюсера «Время и Стекло» Юрия Бардаша, занявшего пророссийскую позицию, сказав, что такие артисты «будут популярны на болотах», и высказался об артистах, уехавших из Украины во время войны."
       },
       "sources": [
-        {"url": "https://eng.obozrevatel.com/section-entertainment/news-they-will-be-popular-in-the-swamps-positiff-talks-about-bardashs-betrayal-liar-volunteers-and-why-hes-sad-about-alchem-31-01-2024.html", "publisher": "Obozrevatel", "date": "2024-01-31"}
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-they-will-be-popular-in-the-swamps-positiff-talks-about-bardashs-betrayal-liar-volunteers-and-why-hes-sad-about-alchem-31-01-2024.html",
+          "publisher": "Obozrevatel",
+          "date": "2024-01-31"
+        }
       ]
     },
     {
@@ -60,9 +72,18 @@
         "ru": "Вместе с DOROFEEVA он продвигал кампанию UNITED24 по сбору на турели противовоздушной обороны Sky Sentinel; сбор принес 3,3 миллиона долларов на 22 установки для защиты украинских городов."
       },
       "sources": [
-        {"url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units", "publisher": "UNITED24 (official)"}
+        {
+          "url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units",
+          "publisher": "UNITED24 (official)"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "SakhnevychYa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Positiff.jpg"
+  }
 }

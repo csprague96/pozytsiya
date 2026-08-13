@@ -5,7 +5,10 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Rapper Ivan Dryomin (FACE) left Russia in early March 2022 in protest at the invasion of Ukraine, announcing he would no longer perform in Russia and pulling his music from Russian streaming platforms. In April 2022 he became one of the first musicians added to Russia's 'foreign agents' register, and he later performed at a benefit concert in Poland raising funds for Ukrainian refugees. In July 2025 Russia put him on a wanted list, and in December 2025 he was criminally charged with violating the 'foreign agent' law.",
     "uk": "Репер Іван Дрьомін (FACE) виїхав з Росії на початку березня 2022 року на знак протесту проти вторгнення в Україну, оголосивши, що більше не виступатиме в Росії, і прибравши свою музику з російських стрімінгових платформ. У квітні 2022 року він став одним із перших музикантів, внесених до російського реєстру «іноземних агентів», а згодом виступив на благодійному концерті в Польщі, де збирали кошти для українських біженців. У липні 2025 року Росія оголосила його в розшук, а в грудні 2025 року йому висунули кримінальне обвинувачення в порушенні закону про «іноземних агентів».",
@@ -100,5 +103,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "kvvalerka",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Face_tele-club_(cropped).jpg"
+  }
 }

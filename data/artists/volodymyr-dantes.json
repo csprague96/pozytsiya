@@ -27,7 +27,10 @@
         "ru": "После февраля 2022 года Дантес присоединился к волонтёрской деятельности, помогая военным и гражданским, пострадавшим от российской агрессии, и начал выступать исключительно на украинском языке, гастролируя за рубежом с благотворительными концертами."
       },
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes", "publisher": "Wikipedia" }
+        {
+          "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes",
+          "publisher": "Wikipedia"
+        }
       ]
     },
     {
@@ -43,7 +46,11 @@
         "ru": "В интервью Дантес говорил о стрессе военного времени и сказал, что личные дела вторичны по сравнению с победой, призвал украинцев донатить и подчеркнул, что занимается волонтёрством без огласки."
       },
       "sources": [
-        { "url": "https://womanmagazine-npp.com/en/2022/11/13/volodymyr-dantes-about-stress-during-the-war-and-divorce-from-dorofeeva/", "publisher": "Woman Magazine", "date": "2022-11-13" }
+        {
+          "url": "https://womanmagazine-npp.com/en/2022/11/13/volodymyr-dantes-about-stress-during-the-war-and-divorce-from-dorofeeva/",
+          "publisher": "Woman Magazine",
+          "date": "2022-11-13"
+        }
       ]
     },
     {
@@ -59,9 +66,18 @@
         "ru": "В 2022–2023 годах Дантес вёл тревел-шоу «Мама, я ганяю тачки», доставляя автомобили из Европы в Украину для военных и рассказывая о волонтёрских инициативах."
       },
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes", "publisher": "Wikipedia" }
+        {
+          "url": "https://en.wikipedia.org/wiki/Volodymyr_Dantes",
+          "publisher": "Wikipedia"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "VeraVr",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%94%D0%B0%D0%BD%D1%82%D0%B5%D1%81.jpg"
+  }
 }

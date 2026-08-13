@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { cn } from "@/lib/utils";
 
 /* Muted tints keyed off the slug so each artist gets a stable, quiet color. */
@@ -44,6 +45,7 @@ export function Monogram({
   stance,
   status,
   dotClassName,
+  hasPhoto,
 }: {
   name: string;
   slug: string;
@@ -52,19 +54,38 @@ export function Monogram({
   stance?: number | null;
   status?: "positioned" | "silent" | "ambiguous";
   dotClassName?: string;
+  /** When true, renders public/artists/<slug>.jpg instead of initials. */
+  hasPhoto?: boolean;
 }) {
   const withDot = stance !== undefined && status !== undefined;
   return (
     <span aria-hidden="true" className="relative inline-flex shrink-0">
-      <span
-        className={cn(
-          "flex select-none items-center justify-center rounded-full font-semibold",
-          TINTS[hash(slug) % TINTS.length],
-          className ?? "size-9 text-sm",
-        )}
-      >
-        {initialsOf(name)}
-      </span>
+      {hasPhoto ? (
+        <span
+          className={cn(
+            "relative overflow-hidden rounded-full",
+            className ?? "size-9 text-sm",
+          )}
+        >
+          <Image
+            src={`/artists/${slug}.jpg`}
+            alt=""
+            fill
+            sizes="64px"
+            className="object-cover"
+          />
+        </span>
+      ) : (
+        <span
+          className={cn(
+            "flex select-none items-center justify-center rounded-full font-semibold",
+            TINTS[hash(slug) % TINTS.length],
+            className ?? "size-9 text-sm",
+          )}
+        >
+          {initialsOf(name)}
+        </span>
+      )}
       {withDot && (
         <span
           className={cn(

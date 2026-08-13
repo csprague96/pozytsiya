@@ -5,7 +5,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Electro-folk project ONUKA, led by Nata Zhyzhchenko with producer Yevhen Filatov, briefly relocated to western Ukraine after the invasion began, then returned to Kyiv with their young son. The band performed at underground and international charity events raising funds for Ukraine, and its 2023 album 'ROOM' was dedicated to Ukrainians living through the war, with streaming and tour income directed to charities buying medical equipment for military medics.",
     "uk": "Електрофолк-проєкт ONUKA на чолі з Натою Жижченко та продюсером Євгеном Філатовим після початку вторгнення ненадовго перебрався на захід України, а потім повернувся до Києва з маленьким сином. Гурт виступав на підземних і міжнародних благодійних заходах, збираючи кошти для України, а його альбом «ROOM» 2023 року був присвячений українцям, які переживають війну; доходи від стримінгу й туру спрямовувалися благодійним організаціям, що купують медичне обладнання для військових медиків.",
@@ -61,5 +63,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Рената Дорошко",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0,_%D0%9D%D0%B0%D1%82%D0%B0_%D0%96%D0%B8%D0%B6%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%94%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D1%82_.jpg"
+  }
 }

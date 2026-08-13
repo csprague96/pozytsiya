@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Lviv-born pop singer. After receiving a mobilization summons in June 2023 he joined the National Guard 'Rubizh' brigade, serving initially with an artillery unit in Donbas, and was later transferred to Kyiv and to a military orchestra as a driver. In spring 2024 he continued service in the 22nd Separate Mechanized Brigade of the AFU and was discharged to the reserve by his commander's order on 28 June 2024. His discharge and the non-combat character of much of his service drew public debate in Ukraine.",
     "uk": "Львівський поп-співак. Після отримання повістки в червні 2023 року приєднався до бригади Нацгвардії «Рубіж», де спочатку служив в артилерійському підрозділі на Донбасі, а згодом був переведений до Києва та до військового оркестру водієм. Навесні 2024 року продовжив службу у 22-й окремій механізованій бригаді ЗСУ, а 28 червня 2024 року був звільнений у запас наказом командира. Його звільнення та небойовий характер значної частини служби викликали публічну дискусію в Україні.",
@@ -27,8 +29,14 @@
         "ru": "Козловский получил повестку в июне 2023 года и летом 2023-го был мобилизован в бригаду Национальной гвардии «Рубіж», где служил в артиллерийском подразделении на Донбассе, прежде чем его перевели в Киев."
       },
       "sources": [
-        { "url": "https://24tv.ua/show24/vitaliy-kozlovskiy-zsu-mobilizatsiya-de-sluzhiv-naspravdi-chomu_n3020608", "publisher": "24 Kanal" },
-        { "url": "https://www.unian.ua/lite/stars/vitaliy-kozlovskiy-u-zsu-chim-zaymayetsya-spivak-13144341.html", "publisher": "UNIAN" }
+        {
+          "url": "https://24tv.ua/show24/vitaliy-kozlovskiy-zsu-mobilizatsiya-de-sluzhiv-naspravdi-chomu_n3020608",
+          "publisher": "24 Kanal"
+        },
+        {
+          "url": "https://www.unian.ua/lite/stars/vitaliy-kozlovskiy-u-zsu-chim-zaymayetsya-spivak-13144341.html",
+          "publisher": "UNIAN"
+        }
       ]
     },
     {
@@ -44,7 +52,11 @@
         "ru": "Козловский рассказал, что после перевода из Нацгвардии служит водителем в Национальном президентском оркестре, а также выступает перед военными для поддержания боевого духа."
       },
       "sources": [
-        { "url": "https://apostrophe.ua/ua/article/lime/learn/2024-04-05/kozlovskiy-priznalsya-kem-rabotaet-posle-perevoda-iz-natsgvardii-v-voennyiy-orkestr/57450", "publisher": "Apostrophe", "date": "2024-04-05" }
+        {
+          "url": "https://apostrophe.ua/ua/article/lime/learn/2024-04-05/kozlovskiy-priznalsya-kem-rabotaet-posle-perevoda-iz-natsgvardii-v-voennyiy-orkestr/57450",
+          "publisher": "Apostrophe",
+          "date": "2024-04-05"
+        }
       ]
     },
     {
@@ -60,7 +72,10 @@
         "ru": "В мае 2024 года Козловского перевели в 22-ю отдельную механизированную бригаду ВСУ, где он, по сообщениям, давал концерты для подразделений для поднятия боевого духа, а не служил на боевой должности."
       },
       "sources": [
-        { "url": "https://112.ua/en/vitalij-kozlovskij-zvilnenij-zi-zsu-so-stalo-pricinou-ta-aki-obovazki-vin-vikonuvav-97502", "publisher": "112.ua" }
+        {
+          "url": "https://112.ua/en/vitalij-kozlovskij-zvilnenij-zi-zsu-so-stalo-pricinou-ta-aki-obovazki-vin-vikonuvav-97502",
+          "publisher": "112.ua"
+        }
       ]
     },
     {
@@ -76,10 +91,22 @@
         "ru": "Приказом командира Козловский был уволен со службы 28 июня 2024 года, менее чем через два месяца после прихода в 22-ю бригаду; увольнение вызвало широкое обсуждение в украинских соцсетях."
       },
       "sources": [
-        { "url": "https://prm.ua/en/was-that-even-possible-social-media-exploded-after-kozlovskys-dismissal-from-the-ukrainian-armed-forces/", "publisher": "Prm.ua" },
-        { "url": "https://focus.ua/uk/lifestyle/758651-sluzhba-kozlovskogo-chomu-spivaka-spisali", "publisher": "Focus" }
+        {
+          "url": "https://prm.ua/en/was-that-even-possible-social-media-exploded-after-kozlovskys-dismissal-from-the-ukrainian-armed-forces/",
+          "publisher": "Prm.ua"
+        },
+        {
+          "url": "https://focus.ua/uk/lifestyle/758651-sluzhba-kozlovskogo-chomu-spivaka-spisali",
+          "publisher": "Focus"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Юлія Яцечко",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vitalii_Kozlovskyi.jpg"
+  }
 }

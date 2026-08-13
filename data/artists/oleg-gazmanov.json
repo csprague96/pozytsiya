@@ -6,7 +6,10 @@
   "conflict": "ukraine",
   "stance": -3,
   "status": "positioned",
-  "flags": ["banned_in_ukraine", "sanctioned"],
+  "flags": [
+    "banned_in_ukraine",
+    "sanctioned"
+  ],
   "summary": {
     "en": "Oleg Gazmanov, a veteran patriotic-pop singer and member of the Public Council of the Russian Ministry of Defense, performed 'Made in the USSR' at the pro-war Luzhniki rally on 18 March 2022 attended by Vladimir Putin. The EU sanctioned him in October 2022 for supporting the war in statements and performances; Canada followed in February 2023, and he is under Ukrainian sanctions.",
     "uk": "Олег Газманов, ветеран патріотичної естради та член Громадської ради при Міністерстві оборони РФ, 18 березня 2022 року виконав пісню «Сделан в СССР» на провоєнному мітингу в «Лужниках», на якому був присутній Володимир Путін. У жовтні 2022 року ЄС запровадив проти нього санкції за підтримку війни у заявах і виступах; у лютому 2023 року санкції ввела Канада, він також перебуває під українськими санкціями.",
@@ -27,8 +30,14 @@
         "ru": "Исполнил песню «Сделан в СССР» на митинге-концерте на стадионе «Лужники» по случаю восьмой годовщины аннексии Крыма и в поддержку вторжения; на мероприятии присутствовал Путин."
       },
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/2022_Moscow_rally", "publisher": "Wikipedia" },
-        { "url": "https://holodomormuseum.org.ua/en/propaganda/concert-at-luzhniki-on-18-march-2022/", "publisher": "National Museum of the Holodomor-Genocide" }
+        {
+          "url": "https://en.wikipedia.org/wiki/2022_Moscow_rally",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://holodomormuseum.org.ua/en/propaganda/concert-at-luzhniki-on-18-march-2022/",
+          "publisher": "National Museum of the Holodomor-Genocide"
+        }
       ]
     },
     {
@@ -44,8 +53,15 @@
         "ru": "Включен в восьмой пакет санкций ЕС за поддержку агрессивной войны России против Украины в своих заявлениях и музыкальных выступлениях."
       },
       "sources": [
-        { "url": "https://novayagazeta.eu/articles/2022/10/06/eu-slaps-sanctions-against-russian-philosopher-alexander-dugin-and-singer-oleg-gazmanov-news", "publisher": "Novaya Gazeta Europe", "date": "2022-10-06" },
-        { "url": "https://data.europa.eu/apps/eusanctionstracker/subjects/144480", "publisher": "EU Sanctions Tracker (data.europa.eu)" }
+        {
+          "url": "https://novayagazeta.eu/articles/2022/10/06/eu-slaps-sanctions-against-russian-philosopher-alexander-dugin-and-singer-oleg-gazmanov-news",
+          "publisher": "Novaya Gazeta Europe",
+          "date": "2022-10-06"
+        },
+        {
+          "url": "https://data.europa.eu/apps/eusanctionstracker/subjects/144480",
+          "publisher": "EU Sanctions Tracker (data.europa.eu)"
+        }
       ]
     },
     {
@@ -61,10 +77,22 @@
         "ru": "Внесен в санкционный список Канады за участие в российской пропаганде и распространение дезинформации, связанной с войной в Украине."
       },
       "sources": [
-        { "url": "https://en.wikipedia.org/wiki/Oleg_Gazmanov", "publisher": "Wikipedia" },
-        { "url": "https://www.opensanctions.org/entities/Q2994183/", "publisher": "OpenSanctions" }
+        {
+          "url": "https://en.wikipedia.org/wiki/Oleg_Gazmanov",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://www.opensanctions.org/entities/Q2994183/",
+          "publisher": "OpenSanctions"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Valery Zhukov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urban_Morphogenesis_2019_Fest_09_(cropped).jpg"
+  }
 }

@@ -6,7 +6,10 @@
   "conflict": "ukraine",
   "stance": -2,
   "status": "positioned",
-  "flags": ["sanctioned", "performed_in_occupied_territories"],
+  "flags": [
+    "sanctioned",
+    "performed_in_occupied_territories"
+  ],
   "summary": {
     "en": "MOT (Matvey Melnikov) is a Russian rapper who supported the full-scale invasion: at its start he published since-deleted social media posts about a 'leader' and 'neo-Nazis' echoing Russian state framing, and Ukrainian colleagues cut ties with him. He has performed multiple times in annexed Crimea. In October 2022 Ukraine imposed personal sanctions on him. He continues an active concert career in Russia and has also performed in Kazakhstan.",
     "uk": "MOT (Матвій Мельников) — російський репер, який підтримав повномасштабне вторгнення: на його початку він опублікував згодом видалені дописи в соцмережах про «лідера» та «неонацистів», що повторювали російську державну риторику, і українські колеги розірвали з ним стосунки. Він неодноразово виступав в анексованому Криму. У жовтні 2022 року Україна запровадила проти нього персональні санкції. Він продовжує активну концертну кар'єру в Росії, а також виступав у Казахстані.",
@@ -76,5 +79,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%82_%D0%BD%D0%B0_VK_Fest_2022_(2).jpg"
+  }
 }

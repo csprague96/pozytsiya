@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Tina Karol, one of Ukraine's biggest pop stars, has campaigned internationally for Ukraine since February 2022, performing benefit concerts across Europe, Israel, Japan and North America. Her charitable foundation has funded medicine for hospitals, aid for children, and direct support to the Armed Forces of Ukraine, including vehicles and equipment; she has also performed for troops near the front line.",
     "uk": "Тіна Кароль, одна з найбільших поп-зірок України, з лютого 2022 року веде міжнародну кампанію на підтримку України, даючи благодійні концерти в Європі, Ізраїлі, Японії та Північній Америці. Її благодійний фонд фінансував ліки для лікарень, допомогу дітям і пряму підтримку ЗСУ, зокрема транспорт і спорядження; вона також виступала для військових поблизу лінії фронту.",
@@ -27,7 +29,10 @@
         "ru": "На благотворительном концерте в Тель-Авиве Кароль собрала 2 миллиона гривен на лекарства для больницы в Днепре — это одно из серии благотворительных выступлений в Европе и Израиле в первые недели вторжения."
       },
       "sources": [
-        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+        {
+          "url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation",
+          "publisher": "Wikipedia"
+        }
       ]
     },
     {
@@ -43,8 +48,15 @@
         "ru": "Кароль совершила неожиданный визит в Японию по приглашению Rakuten, чтобы привлечь внимание к положению украинцев, призвав мир «никогда не допустить, чтобы это повторилось»."
       },
       "sources": [
-        {"url": "https://global.rakuten.com/corp/news/update/2022/0510_03.html", "publisher": "Rakuten Group", "date": "2022-05-10"},
-        {"url": "https://rakuten.today/blog/never-let-this-happen-again-tina-karol-message-to-world.html", "publisher": "Rakuten Today"}
+        {
+          "url": "https://global.rakuten.com/corp/news/update/2022/0510_03.html",
+          "publisher": "Rakuten Group",
+          "date": "2022-05-10"
+        },
+        {
+          "url": "https://rakuten.today/blog/never-let-this-happen-again-tina-karol-message-to-world.html",
+          "publisher": "Rakuten Today"
+        }
       ]
     },
     {
@@ -60,7 +72,10 @@
         "ru": "Кароль дала неанонсированный концерт для военнослужащих Вооруженных сил Украины; ее фонд приобрел автомобиль для разведывательной группы и водонепроницаемую форму для пограничных подразделений."
       },
       "sources": [
-        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+        {
+          "url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation",
+          "publisher": "Wikipedia"
+        }
       ]
     },
     {
@@ -76,9 +91,18 @@
         "ru": "Антивоенный концерт украинских и казахских артистов собрал 50 000 долларов, которые передали фонду Кароль на гуманитарную помощь украинским детям и детским онкологическим больницам."
       },
       "sources": [
-        {"url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation", "publisher": "Wikipedia"}
+        {
+          "url": "https://en.wikipedia.org/wiki/Tina_Karol_Charitable_Foundation",
+          "publisher": "Wikipedia"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "内閣官房内閣広報室",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_(3)_(cropped).jpg"
+  }
 }

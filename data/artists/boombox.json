@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Ukrainian band BoomBox is fronted by Andriy Khlyvniuk, who abandoned the band's US tour when the full-scale invasion began and joined Kyiv's territorial defence. His a cappella rendition of the patriotic march 'Oi u luzi chervona kalyna', filmed in uniform on Kyiv's Sofiyska Square, went viral and became the basis of Pink Floyd's Ukraine fundraiser single 'Hey, Hey, Rise Up!' (April 2022). In March 2022 Khlyvniuk was lightly wounded in the face by mortar shrapnel while serving.",
     "uk": "Фронтмен українського гурту «Бумбокс» Андрій Хливнюк перервав американський тур гурту з початком повномасштабного вторгнення та приєднався до тероборони Києва. Його акапельне виконання патріотичного маршу «Ой у лузі червона калина», зняте у військовій формі на Софійській площі в Києві, стало вірусним і лягло в основу благодійного синглу Pink Floyd на підтримку України «Hey, Hey, Rise Up!» (квітень 2022 року). У березні 2022 року Хливнюк, перебуваючи на службі, отримав легке осколкове поранення обличчя внаслідок мінометного обстрілу.",
@@ -83,5 +85,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Nnastazja",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boombox-gdansk-nnastazja-IMG_6504-2.jpg"
+  }
 }

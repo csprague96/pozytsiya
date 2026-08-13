@@ -27,7 +27,10 @@
         "ru": "Корж опубликовал в Instagram пост с осуждением вторжения и бомбардировки суверенного государства, написав, что «это война, которая навсегда изменит жизнь каждого», и «Мира Украине», не назвав Россию агрессором."
       },
       "sources": [
-        { "url": "https://focus.ua/lifestyle/755187-koncert-maksa-korzha-ukraincy-massovo-edut-na-vystuplenie-belorusskogo-repera-chto-on-govoril-o-voyne", "publisher": "Focus (Ukraine)" }
+        {
+          "url": "https://focus.ua/lifestyle/755187-koncert-maksa-korzha-ukraincy-massovo-edut-na-vystuplenie-belorusskogo-repera-chto-on-govoril-o-voyne",
+          "publisher": "Focus (Ukraine)"
+        }
       ]
     },
     {
@@ -43,7 +46,11 @@
         "ru": "Корж выпустил трек «Свой дом» со строкой «тот прав, кто защищает свой дом», широко воспринятый как антивоенная песня об Украине; после премьеры его тур по России был отменён."
       },
       "sources": [
-        { "url": "https://tsn.ua/ru/glamur/belorusskiy-pevec-maks-korzh-vypustil-pesnyu-o-voyne-v-ukraine-tot-prav-kto-zaschischaet-svoy-dom-2079184.html", "publisher": "TSN (Ukraine)", "date": "2022-06" }
+        {
+          "url": "https://tsn.ua/ru/glamur/belorusskiy-pevec-maks-korzh-vypustil-pesnyu-o-voyne-v-ukraine-tot-prav-kto-zaschischaet-svoy-dom-2079184.html",
+          "publisher": "TSN (Ukraine)",
+          "date": "2022-06"
+        }
       ]
     },
     {
@@ -59,8 +66,15 @@
         "ru": "На своём первом за два года большом концерте, на стадионе «Даугава» в Риге перед примерно 35 000 зрителей, Корж призвал публику скандировать «Нет войне!»."
       },
       "sources": [
-        { "url": "https://news.zerkalo.io/life/47933.html", "publisher": "Zerkalo (Belarusian independent media)", "date": "2023-09" },
-        { "url": "https://the-flow.ru/news/max-korzh-riga-2-sentyabrya", "publisher": "The Flow (Russia)" }
+        {
+          "url": "https://news.zerkalo.io/life/47933.html",
+          "publisher": "Zerkalo (Belarusian independent media)",
+          "date": "2023-09"
+        },
+        {
+          "url": "https://the-flow.ru/news/max-korzh-riga-2-sentyabrya",
+          "publisher": "The Flow (Russia)"
+        }
       ]
     },
     {
@@ -76,8 +90,15 @@
         "ru": "Корж выступил перед более чем 60 000 зрителей на Национальном стадионе в Варшаве, сказав толпе, что войну нужно остановить, и говоря о целой стране в заложниках; по сообщениям, стюарды изымали на входе украинские и бело-красно-белые флаги, инцидент с красно-чёрным флагом на трибунах вызвал скандал в Польше, а польские власти позднее депортировали 63 посетителей."
       },
       "sources": [
-        { "url": "https://lite.rbc.ua/ukr/news/zupini-viynu-maks-korzh-varshavi-zaklikav-1754810793.html", "publisher": "RBC-Ukraine", "date": "2025-08-10" },
-        { "url": "https://tsn.ua/ru/glamur/kontsert-maksa-korzha-v-varshave-zakonchilsya-skandalom-chto-razozlilo-polyakov-i-pri-chem-zdes-ukraintsy-2888729.html", "publisher": "TSN (Ukraine)" }
+        {
+          "url": "https://lite.rbc.ua/ukr/news/zupini-viynu-maks-korzh-varshavi-zaklikav-1754810793.html",
+          "publisher": "RBC-Ukraine",
+          "date": "2025-08-10"
+        },
+        {
+          "url": "https://tsn.ua/ru/glamur/kontsert-maksa-korzha-v-varshave-zakonchilsya-skandalom-chto-razozlilo-polyakov-i-pri-chem-zdes-ukraintsy-2888729.html",
+          "publisher": "TSN (Ukraine)"
+        }
       ]
     },
     {
@@ -93,9 +114,19 @@
         "ru": "Корж дал свой первый с начала войны концерт в Турции — стране, куда россияне могут ездить без виз; зрители с украинскими и российскими флагами танцевали вместе, а он сказал, что каждый может остановить войну, «просто не участвуя в ссорах», что вызвало споры в сети."
       },
       "sources": [
-        { "url": "https://meduza.io/feature/2026/06/08/maks-korzh-vpervye-s-nachala-voyny-dal-kontsert-v-turtsii-strane-kuda-rossiyane-mogut-poehat-bez-vizy-zriteli-s-flagami-ukrainy-i-rossii-tantsevali-vmeste", "publisher": "Meduza", "date": "2026-06-08" }
+        {
+          "url": "https://meduza.io/feature/2026/06/08/maks-korzh-vpervye-s-nachala-voyny-dal-kontsert-v-turtsii-strane-kuda-rossiyane-mogut-poehat-bez-vizy-zriteli-s-flagami-ukrainy-i-rossii-tantsevali-vmeste",
+          "publisher": "Meduza",
+          "date": "2026-06-08"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Itokyl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Max-Korzh-2018-11-09-0009_cropped_(cropped).jpg"
+  }
 }

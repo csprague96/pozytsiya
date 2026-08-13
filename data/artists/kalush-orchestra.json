@@ -5,7 +5,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Ukrainian rap/folk group Kalush Orchestra won Eurovision 2022 with 'Stefania' and used their platform to fundraise for Ukraine. They auctioned their Eurovision trophy for $900,000 to buy drones for the Ukrainian military, toured Europe and North America with proceeds going to Ukrainian causes, and reported raising around $1.5 million through the UNITED24 initiative in 2022.",
     "uk": "Український реп-фолк-гурт Kalush Orchestra переміг на Євробаченні-2022 з піснею «Stefania» та використав свою популярність для збору коштів на підтримку України. Гурт продав свій кубок Євробачення на аукціоні за 900 тисяч доларів для купівлі дронів для українського війська, гастролював Європою та Північною Америкою, спрямовуючи виручку на українські потреби, і повідомив про збір близько 1,5 мільйона доларів через ініціативу UNITED24 у 2022 році.",
@@ -99,5 +101,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Belgian Presidency of the Council of the EU 2024 from Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:-_EU2024BE_Informal_meeting_of_EU_Affairs_Ministers_BOZAR_JNZT_0108_(53688014771).jpg"
+  }
 }

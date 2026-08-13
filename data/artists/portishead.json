@@ -72,5 +72,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-12"
+  "lastReviewed": "2026-08-12",
+  "image": {
+    "credit": "Stefan64",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portishead13b.jpg"
+  }
 }

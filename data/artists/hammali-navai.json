@@ -25,7 +25,11 @@
         "ru": "В посте в Instagram в начале вторжения Наваи сказал: «Как вообще можно давать концерты в такое время» — и объявил об отмене ближайших выступлений."
       },
       "sources": [
-        { "url": "https://www.instagram.com/p/CahV4GIA-KA/", "publisher": "Instagram (Navai)", "date": "2022-03-01" }
+        {
+          "url": "https://www.instagram.com/p/CahV4GIA-KA/",
+          "publisher": "Instagram (Navai)",
+          "date": "2022-03-01"
+        }
       ]
     },
     {
@@ -42,7 +46,10 @@
         "ru": "Украинские СМИ сообщили, что Наваи, ранее признававшийся в любви к Украине и часто там выступавший, возобновил выступления в России рядом с пропутинскими артистами, храня молчание о войне."
       },
       "sources": [
-        { "url": "https://star.znaj.ua/ru/459522-vidomiy-spivak-klyavsya-u-lyubovi-ukrajini-a-teper-tancyuye-razom-z-putinistami-u-rosiji", "publisher": "Znaj.ua (Ukraine)" }
+        {
+          "url": "https://star.znaj.ua/ru/459522-vidomiy-spivak-klyavsya-u-lyubovi-ukrajini-a-teper-tancyuye-razom-z-putinistami-u-rosiji",
+          "publisher": "Znaj.ua (Ukraine)"
+        }
       ]
     },
     {
@@ -58,9 +65,19 @@
         "ru": "HammAli & Navai объявили о прощальных концертах в преддверии распада, завершив карьеру дуэта после лет непрерывных гастролей в России во время войны."
       },
       "sources": [
-        { "url": "https://www.intermedia.ru/news/393904", "publisher": "InterMedia (Russia)", "date": "2025-03-17" }
+        {
+          "url": "https://www.intermedia.ru/news/393904",
+          "publisher": "InterMedia (Russia)",
+          "date": "2025-03-17"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Ирина Огаркова",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HammAli_%26_Navai_%D0%BD%D0%B0_%C2%AB%D0%96%D0%90%D0%A0%D0%90_Music_Awards_2022%C2%BB_(cropped).jpg"
+  }
 }
