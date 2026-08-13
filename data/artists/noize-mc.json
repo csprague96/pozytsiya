@@ -7,7 +7,10 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Rapper Ivan Alekseev (Noize MC), a longtime Kremlin critic who has supported Ukraine since 2014, left Russia after the February 2022 invasion and settled in Vilnius, Lithuania. With Monetochka he ran the 'Voices of Peace' benefit tour that raised over 420,000 euros for Ukrainian refugees, and the pair were nominated for the Nobel Peace Prize in December 2024. Russia designated him a 'foreign agent' over his support for Ukraine.",
     "uk": "Репер Іван Алексєєв (Noize MC), давній критик Кремля, який підтримує Україну з 2014 року, виїхав з Росії після вторгнення в лютому 2022 року й оселився у Вільнюсі, Литва. Разом із Монеточкою він провів благодійний тур «Голоси миру», що зібрав понад 420 000 євро для українських біженців; у грудні 2024 року обох номінували на Нобелівську премію миру. Росія визнала його «іноземним агентом» за підтримку України.",
@@ -97,5 +100,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Justice for the Beholder of the Harvester of Blackened Straw",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noize_MC_in_London_10_September_2025.jpg"
+  }
 }

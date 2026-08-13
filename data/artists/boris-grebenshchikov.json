@@ -7,7 +7,10 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Founder of rock band Aquarium. On 25 February 2022 he called the war against Ukraine 'madness and a disgrace for Russia'. He relocated to London, put Aquarium on hold, and has toured as 'BG+', playing benefit concerts whose proceeds went to humanitarian aid for Ukraine, including ambulances and medical supplies. Russia's Justice Ministry designated him a 'foreign agent' on 30 June 2023.",
     "uk": "Засновник рок-гурту «Акваріум». 25 лютого 2022 року він назвав війну проти України «божевіллям і ганьбою для Росії». Він переїхав до Лондона, призупинив діяльність «Акваріума» та гастролює під назвою «БГ+», даючи благодійні концерти, кошти від яких ішли на гуманітарну допомогу Україні, зокрема на карети швидкої допомоги та медичні засоби. 30 червня 2023 року Мін'юст Росії визнав його «іноземним агентом».",
@@ -28,7 +31,11 @@
         "ru": "На следующий день после начала полномасштабного вторжения Гребенщиков опубликовал пост, в котором назвал войну России против Украины безумием и позором для России."
       },
       "sources": [
-        {"url": "https://charter97.org/en/news/2022/2/25/456207/", "publisher": "Charter97", "date": "2022-02-25"}
+        {
+          "url": "https://charter97.org/en/news/2022/2/25/456207/",
+          "publisher": "Charter97",
+          "date": "2022-02-25"
+        }
       ]
     },
     {
@@ -45,7 +52,11 @@
         "ru": "Гребенщиков дал благотворительный концерт в зале Paard (Гаага), вся прибыль от которого была передана организации Zeilen van Vrijheid на покупку и оснащение машин скорой помощи медицинскими принадлежностями для больниц в зоне боевых действий в Украине; один из серии благотворительных концертов после его отъезда из России."
       },
       "sources": [
-        {"url": "https://www.paard.nl/en/event/boris-grebenshikov-2/", "publisher": "Paard (venue)", "date": "2022-06-02"}
+        {
+          "url": "https://www.paard.nl/en/event/boris-grebenshikov-2/",
+          "publisher": "Paard (venue)",
+          "date": "2022-06-02"
+        }
       ]
     },
     {
@@ -61,7 +72,10 @@
         "ru": "Минюст России внёс Гребенщикова в реестр «иностранных агентов», сославшись на его деятельность за рубежом в поддержку Украины и против войны."
       },
       "sources": [
-        {"url": "https://russianlife.com/the-russia-file/rockstar-declared-foreign-agent/", "publisher": "Russian Life"}
+        {
+          "url": "https://russianlife.com/the-russia-file/rockstar-declared-foreign-agent/",
+          "publisher": "Russian Life"
+        }
       ]
     },
     {
@@ -77,9 +91,19 @@
         "ru": "В интервью The Insider Гребенщиков, живущий в Лондоне, сказал, что невозможность выступать в России — «это трагедия», но продолжил гастролировать за рубежом под названием «БГ+»."
       },
       "sources": [
-        {"url": "https://theins.press/en/society/276728", "publisher": "The Insider", "date": "2024-11-29"}
+        {
+          "url": "https://theins.press/en/society/276728",
+          "publisher": "The Insider",
+          "date": "2024-11-29"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Forbes",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_(12-11-2023)_(cropped).png"
+  }
 }

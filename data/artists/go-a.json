@@ -5,7 +5,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Electro-folk band Go_A, Ukraine's Eurovision 2021 entrants, were displaced in the first days of the full-scale invasion. They resumed touring explicitly to raise funds for Ukraine and to keep international attention on the war, performing at charity events and telethons including the 'Save Ukraine — #StopWar' broadcast and benefit concerts for Ukrainian refugees abroad.",
     "uk": "Електрофолк-гурт Go_A, представник України на Євробаченні-2021, був змушений покинути домівки в перші дні повномасштабного вторгнення. Гурт відновив концертну діяльність саме для того, щоб збирати кошти для України та утримувати міжнародну увагу до війни, виступаючи на благодійних заходах і телемарафонах, зокрема в ефірі «Save Ukraine — #StopWar» та на благодійних концертах для українських біженців за кордоном.",
@@ -77,5 +79,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Mountainhead",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Go_A_Paradiso_2023.jpg"
+  }
 }

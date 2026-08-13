@@ -55,6 +55,7 @@ export default async function ArtistPage({ params }: Props) {
           stance={artist.stance}
           status={artist.status}
           dotClassName="size-4.5"
+          hasPhoto={artist.image !== undefined}
         />
         <div className="min-w-0">
           <h1 className="text-2xl font-semibold leading-tight tracking-tight">
@@ -131,6 +132,32 @@ export default async function ArtistPage({ params }: Props) {
             date: formatEventDate(artist.lastReviewed, locale),
           })}
         </p>
+        {artist.image && (
+          <p className="mt-1">
+            {t("artist.photoCredit")}:{" "}
+            <a
+              href={artist.image.sourceUrl}
+              rel="noopener noreferrer"
+              target="_blank"
+              className="underline underline-offset-2 hover:text-foreground"
+            >
+              {artist.image.credit}
+            </a>
+            {" · "}
+            {artist.image.licenseUrl ? (
+              <a
+                href={artist.image.licenseUrl}
+                rel="noopener noreferrer"
+                target="_blank"
+                className="underline underline-offset-2 hover:text-foreground"
+              >
+                {artist.image.license}
+              </a>
+            ) : (
+              artist.image.license
+            )}
+          </p>
+        )}
       </footer>
     </article>
   );

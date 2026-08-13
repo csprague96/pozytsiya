@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Andriy Danylko's drag persona Verka Serduchka was for years a superstar in both Ukraine and Russia. After February 2022 Danylko cut ties with the Russian market, permanently changed the lyric of his 2007 Eurovision hit to 'Russia Goodbye', performed for soldiers and civilians in wartime Ukraine, auctioned personal assets for rehabilitation projects, and toured North America to raise funds for Ukraine. Russia banned him from entry for 50 years.",
     "uk": "Драг-персонаж Андрія Данилка Вєрка Сердючка роками був суперзіркою і в Україні, і в Росії. Після лютого 2022 року Данилко розірвав зв'язки з російським ринком, назавжди змінив рядок свого євробаченнєвого хіта 2007 року на «Russia Goodbye», виступав для військових і цивільних у воюючій Україні, продавав на аукціонах особисті активи на реабілітаційні проєкти та гастролював Північною Америкою, збираючи кошти для України. Росія заборонила йому в'їзд на 50 років.",
@@ -27,8 +29,16 @@
         "ru": "Данилко заявил, что с 24 февраля 2022 года в его евровидийной песне «больше нет никакой Lasha Tumbai» — «это просто Russia Goodbye» — и впервые исполнил ее в военное время для военных, врачей и волонтеров, в том числе в укрытии киевского железнодорожного вокзала в июне 2022 года."
       },
       "sources": [
-        {"url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/", "publisher": "48 Hills", "date": "2023-09"},
-        {"url": "https://eng.obozrevatel.com/section-entertainment/news-verka-serdyuchka-made-a-grandiose-show-in-new-york-even-americans-wished-glory-to-ukraine-and-told-putin-to-get-out-11-09-2023.html", "publisher": "Obozrevatel", "date": "2023-09-11"}
+        {
+          "url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/",
+          "publisher": "48 Hills",
+          "date": "2023-09"
+        },
+        {
+          "url": "https://eng.obozrevatel.com/section-entertainment/news-verka-serdyuchka-made-a-grandiose-show-in-new-york-even-americans-wished-glory-to-ukraine-and-told-putin-to-get-out-11-09-2023.html",
+          "publisher": "Obozrevatel",
+          "date": "2023-09-11"
+        }
       ]
     },
     {
@@ -44,7 +54,11 @@
         "ru": "Связанные с Кремлем медиа сообщили, что Данилко оказался среди 31 украинской знаменитости, которым запретили въезд в Россию на 50 лет."
       },
       "sources": [
-        {"url": "https://eurovisionfun.com/en/2022/04/russia-has-banned-jamala-verka-serduchka-and-more-other-eurostars-from-entering-the-country-for-50-years/", "publisher": "EurovisionFun", "date": "2022-04"}
+        {
+          "url": "https://eurovisionfun.com/en/2022/04/russia-has-banned-jamala-verka-serduchka-and-more-other-eurostars-from-entering-the-country-for-50-years/",
+          "publisher": "EurovisionFun",
+          "date": "2022-04"
+        }
       ]
     },
     {
@@ -60,7 +74,10 @@
         "ru": "Данилко выставил на аукцион Rolls-Royce 1974 года, некогда принадлежавший Фредди Меркьюри, направив вырученные средства реабилитационному центру для украинцев, пострадавших от войны."
       },
       "sources": [
-        {"url": "https://en.wikipedia.org/wiki/Verka_Serduchka", "publisher": "Wikipedia"}
+        {
+          "url": "https://en.wikipedia.org/wiki/Verka_Serduchka",
+          "publisher": "Wikipedia"
+        }
       ]
     },
     {
@@ -76,10 +93,23 @@
         "ru": "Первый тур Сердючки за пределами Украины после вторжения охватил Майами, Чикаго, Нью-Йорк, Торонто, Сан-Франциско и Лос-Анджелес, собирая средства для благотворительной организации Help Heroes of Ukraine."
       },
       "sources": [
-        {"url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/", "publisher": "48 Hills", "date": "2023-09"},
-        {"url": "https://sfarts.org/event/-verka-serduchka-ukraine-will-win-tour-4Zcs2UmQRW9DEmbW5DNOFQ/", "publisher": "SF/Arts"}
+        {
+          "url": "https://48hills.org/2023/09/dancing-russia-goodbye-with-ukrainian-eurovision-star-verka-serduchka/",
+          "publisher": "48 Hills",
+          "date": "2023-09"
+        },
+        {
+          "url": "https://sfarts.org/event/-verka-serduchka-ukraine-will-win-tour-4Zcs2UmQRW9DEmbW5DNOFQ/",
+          "publisher": "SF/Arts"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Катерина Васильєва",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BA%D0%BE_2021.jpg"
+  }
 }

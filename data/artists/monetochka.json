@@ -7,7 +7,10 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Singer Yelizaveta Gyrdymova (Monetochka) left Russia shortly after the February 2022 full-scale invasion and has openly supported Ukrainians. With Noize MC she ran the 'Voices of Peace' benefit concert series, raising more than 420,000 euros for aid to Ukrainian refugees; the two were nominated for the Nobel Peace Prize in December 2024. Russia designated her a 'foreign agent' in January 2023 and in July 2026 a Moscow court sentenced her in absentia to one year in prison for violating the 'foreign agents' law.",
     "uk": "Співачка Єлизавета Гирдимова (Монеточка) виїхала з Росії невдовзі після повномасштабного вторгнення в лютому 2022 року та відкрито підтримує українців. Разом із Noize MC вона провела серію благодійних концертів «Голоси миру», що зібрали понад 420 000 євро на допомогу українським біженцям; у грудні 2024 року обох номінували на Нобелівську премію миру. У січні 2023 року Росія визнала її «іноземною агенткою», а в липні 2026 року московський суд заочно засудив її до року ув'язнення за порушення закону про «іноземних агентів».",
@@ -122,5 +125,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0_(%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B2_%D0%902)_2019_(cropped).jpg"
+  }
 }

@@ -7,7 +7,9 @@
   "conflict": "ukraine",
   "stance": 2,
   "status": "positioned",
-  "flags": ["left_russia"],
+  "flags": [
+    "left_russia"
+  ],
   "summary": {
     "en": "Soviet and Russian pop icon. In September 2022, after her husband Maxim Galkin was declared a 'foreign agent', she publicly asked to be added to the registry herself and called for an end to 'the killing of our boys for illusory goals'. She left Russia with her family and settled abroad (reported residence in Cyprus, with Israeli citizenship). In a September 2025 interview with Katerina Gordeeva she spoke at length against the war; Russian prosecutors had earlier been asked to consider labeling her a foreign agent, but no designation followed.",
     "uk": "Ікона радянської та російської естради. У вересні 2022 року, після того як її чоловіка Максима Галкіна оголосили «іноземним агентом», вона публічно попросила внести до реєстру й себе та закликала припинити «загибель наших хлопців заради ілюзорних цілей». Вона виїхала з Росії разом із родиною та оселилася за кордоном (за повідомленнями, мешкає на Кіпрі, має громадянство Ізраїлю). У вересні 2025 року в інтерв'ю Катерині Гордєєвій вона докладно висловилася проти війни; раніше російську прокуратуру просили розглянути питання про визнання її «іноземним агентом», але статус так і не було надано.",
@@ -28,8 +30,16 @@
         "ru": "В посте в Instagram в ответ на признание её мужа Максима Галкина «иностранным агентом» Пугачёва попросила Минюст включить в реестр и её и призвала «прекратить гибель наших детей за иллюзорные цели, которые делают нашу страну изгоем»."
       },
       "sources": [
-        {"url": "https://meduza.io/en/news/2022/09/19/pop-icon-pugacheva-responds-to-husband-being-labeled-foreign-agent-wants-an-end-to-the-killing-of-our-children-for-illusory-goals-that-make-our-country-a-pariah", "publisher": "Meduza", "date": "2022-09-19"},
-        {"url": "https://www.themoscowtimes.com/2022/09/18/pop-diva-alla-pugacheva-comes-out-against-the-war-a78826", "publisher": "The Moscow Times", "date": "2022-09-18"}
+        {
+          "url": "https://meduza.io/en/news/2022/09/19/pop-icon-pugacheva-responds-to-husband-being-labeled-foreign-agent-wants-an-end-to-the-killing-of-our-children-for-illusory-goals-that-make-our-country-a-pariah",
+          "publisher": "Meduza",
+          "date": "2022-09-19"
+        },
+        {
+          "url": "https://www.themoscowtimes.com/2022/09/18/pop-diva-alla-pugacheva-comes-out-against-the-war-a78826",
+          "publisher": "The Moscow Times",
+          "date": "2022-09-18"
+        }
       ]
     },
     {
@@ -45,7 +55,11 @@
         "ru": "После нападок провоенных комментаторов Пугачёва ответила публично («Были крепостные — стали рабы»). К тому времени она уже уехала из России вместе с семьёй."
       },
       "sources": [
-        {"url": "https://meduza.io/en/news/2022/10/04/they-were-serfs-now-they-re-slaves-russian-pop-legend-alla-pugacheva-responds-to-critics-after-denouncing-war", "publisher": "Meduza", "date": "2022-10-04"}
+        {
+          "url": "https://meduza.io/en/news/2022/10/04/they-were-serfs-now-they-re-slaves-russian-pop-legend-alla-pugacheva-responds-to-critics-after-denouncing-war",
+          "publisher": "Meduza",
+          "date": "2022-10-04"
+        }
       ]
     },
     {
@@ -61,7 +75,11 @@
         "ru": "Российская прокуратура обратилась в Минюст с просьбой рассмотреть вопрос о признании Пугачёвой «иностранным агентом»; в итоге статус присвоен не был."
       },
       "sources": [
-        {"url": "https://www.aljazeera.com/news/2024/3/29/russia-mulls-labelling-queen-of-soviet-pop-pugacheva-a-foreign-agent", "publisher": "Al Jazeera", "date": "2024-03-29"}
+        {
+          "url": "https://www.aljazeera.com/news/2024/3/29/russia-mulls-labelling-queen-of-soviet-pop-pugacheva-a-foreign-agent",
+          "publisher": "Al Jazeera",
+          "date": "2024-03-29"
+        }
       ]
     },
     {
@@ -78,8 +96,15 @@
         "ru": "В 3,5-часовом YouTube-интервью журналистке в эмиграции Катерине Гордеевой (более 20 миллионов просмотров) Пугачёва рассказала об отъезде из России после вторжения и осудила войну, сказав: «Сказать своей родине, что она неправа, — это патриотизм»."
       },
       "sources": [
-        {"url": "https://www.irishnews.com/news/world/russias-most-famous-pop-star-condemns-putin-in-her-first-interview-since-exile-JMK5MTNT4BAU5NT52HTNJAZI6Q/", "publisher": "The Irish News", "date": "2025-09-11"},
-        {"url": "https://tvpworld.com/88991705/russian-music-legend-pugacheva-denounces-putins-war-in-viral-interview", "publisher": "TVP World"}
+        {
+          "url": "https://www.irishnews.com/news/world/russias-most-famous-pop-star-condemns-putin-in-her-first-interview-since-exile-JMK5MTNT4BAU5NT52HTNJAZI6Q/",
+          "publisher": "The Irish News",
+          "date": "2025-09-11"
+        },
+        {
+          "url": "https://tvpworld.com/88991705/russian-music-legend-pugacheva-denounces-putins-war-in-viral-interview",
+          "publisher": "TVP World"
+        }
       ]
     },
     {
@@ -95,10 +120,24 @@
         "ru": "После интервью Гордеевой в России против Пугачёвой были инициированы юридические действия за «оскорбление русского народа»; Рамзан Кадыров назвал её «врагом народа» из-за её слов о Джохаре Дудаеве."
       },
       "sources": [
-        {"url": "https://novayagazeta.eu/en/articles/2025/09/24/legal-action-taken-against-exiled-singer-alla-pugacheva-for-insulting-the-russian-people-en-news", "publisher": "Novaya Gazeta Europe", "date": "2025-09-24"},
-        {"url": "https://meduza.io/en/news/2025/09/16/kadyrov-calls-russian-pop-icon-alla-pugacheva-an-enemy-of-the-people-for-praising-chechen-separatist-leader", "publisher": "Meduza", "date": "2025-09-16"}
+        {
+          "url": "https://novayagazeta.eu/en/articles/2025/09/24/legal-action-taken-against-exiled-singer-alla-pugacheva-for-insulting-the-russian-people-en-news",
+          "publisher": "Novaya Gazeta Europe",
+          "date": "2025-09-24"
+        },
+        {
+          "url": "https://meduza.io/en/news/2025/09/16/kadyrov-calls-russian-pop-icon-alla-pugacheva-an-enemy-of-the-people-for-praising-chechen-separatist-leader",
+          "publisher": "Meduza",
+          "date": "2025-09-16"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "DedaSasha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%BB%D0%B0_%D0%9F%D1%83%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B0_%D0%BD%D0%B0_%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE_%D0%9D%D0%BE%D0%B2%D0%BE_(cropped).jpg"
+  }
 }

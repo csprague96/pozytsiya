@@ -39,6 +39,7 @@ export type DirectoryItem = {
   stanceChanged: boolean;
   lastReviewed: string;
   searchForms: string[];
+  hasPhoto: boolean;
 };
 
 const COUNTRIES = ["ua", "ru", "by", "kz", "az", "other"];
@@ -302,6 +303,7 @@ export function ArtistDirectory({ items }: { items: DirectoryItem[] }) {
                 slug={it.slug}
                 stance={it.stance}
                 status={it.status}
+                hasPhoto={it.hasPhoto}
               />
               <span className="min-w-0 flex-1">
                 <span className="flex items-center gap-1.5 font-medium leading-tight group-hover:text-primary">

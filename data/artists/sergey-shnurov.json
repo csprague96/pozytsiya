@@ -26,8 +26,15 @@
         "ru": "Шнуров выпустил песни, высмеивающие российских знаменитостей и элиты, покинувших страну после 24 февраля 2022 года, изображая их боящимися за свои деньги, а не выступающими против войны, и одновременно насмехался над российской цензурой слова «война»."
       },
       "sources": [
-        {"url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html", "publisher": "UNIAN", "date": "2025-08-29"},
-        {"url": "https://www.obozrevatel.com/shou-oboz/otkazalsya-finansirovat-vojnu-lider-leningrada-shnurov-kotoryij-ezdil-na-donbass-zaputal-rossiyan-i-popal-v-chernyij-spisok-kremlya.htm", "publisher": "OBOZ.UA"}
+        {
+          "url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html",
+          "publisher": "UNIAN",
+          "date": "2025-08-29"
+        },
+        {
+          "url": "https://www.obozrevatel.com/shou-oboz/otkazalsya-finansirovat-vojnu-lider-leningrada-shnurov-kotoryij-ezdil-na-donbass-zaputal-rossiyan-i-popal-v-chernyij-spisok-kremlya.htm",
+          "publisher": "OBOZ.UA"
+        }
       ]
     },
     {
@@ -43,7 +50,11 @@
         "ru": "«Ленинград» выпустил песню с восхвалением российского государственного оборонного концерна «Ростех» в условиях войны, что критики приводили как свидетельство лояльности государству."
       },
       "sources": [
-        {"url": "https://www.themoscowtimes.com/2023/11/29/russian-rock-group-leningrad-praises-state-defense-conglomerate-in-new-song-a83251", "publisher": "The Moscow Times", "date": "2023-11-29"}
+        {
+          "url": "https://www.themoscowtimes.com/2023/11/29/russian-rock-group-leningrad-praises-state-defense-conglomerate-in-new-song-a83251",
+          "publisher": "The Moscow Times",
+          "date": "2023-11-29"
+        }
       ]
     },
     {
@@ -59,10 +70,20 @@
         "ru": "Провоенный активист Виталий Бородин заявил, что Шнуров отказался на его просьбу финансово поддержать российские войска; Шнуров ушёл от ответа, сказав, что знакомые ему солдаты никогда не слышали о Бородине. Он продолжил выступать в России, не заявляя позиции по войне."
       },
       "sources": [
-        {"url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html", "publisher": "UNIAN", "date": "2025-08-29"}
+        {
+          "url": "https://www.unian.net/lite/stars/lyeningrad-sergiy-shnurov-poziciya-spivaka-po-viyni-v-ukrajini-13113945.html",
+          "publisher": "UNIAN",
+          "date": "2025-08-29"
+        }
       ]
     }
   ],
   "lastReviewed": "2026-08-09",
-  "disputed": true
+  "disputed": true,
+  "image": {
+    "credit": "duma.gov.ru",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sergei_Shnurov_(2019-03-22)_3.jpg"
+  }
 }

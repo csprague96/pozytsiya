@@ -27,8 +27,16 @@
         "ru": "На концерте «ДДТ» в Уфе Шевчук сказал 8-тысячной аудитории, что «родина — это не жопа президента, которую надо всё время слюнявить и целовать», и высказался против войны; полиция обвинила его в дискредитации вооружённых сил."
       },
       "sources": [
-        {"url": "https://www.themoscowtimes.com/2022/05/19/soviet-rock-star-prosecuted-for-putins-ass-anti-war-speech-a77732", "publisher": "The Moscow Times", "date": "2022-05-19"},
-        {"url": "https://www.rferl.org/a/russia-ddt-shevchuk-criticism-ukraine-war/31858449.html", "publisher": "RFE/RL", "date": "2022-05-19"}
+        {
+          "url": "https://www.themoscowtimes.com/2022/05/19/soviet-rock-star-prosecuted-for-putins-ass-anti-war-speech-a77732",
+          "publisher": "The Moscow Times",
+          "date": "2022-05-19"
+        },
+        {
+          "url": "https://www.rferl.org/a/russia-ddt-shevchuk-criticism-ukraine-war/31858449.html",
+          "publisher": "RFE/RL",
+          "date": "2022-05-19"
+        }
       ]
     },
     {
@@ -44,8 +52,16 @@
         "ru": "Суд в Уфе оштрафовал Шевчука на 50 000 рублей за речь на майском концерте, хотя назначенные судом эксперты не нашли в его словах негативной оценки армии. Его концерты по всей России были отменены."
       },
       "sources": [
-        {"url": "https://novayagazeta.eu/amp/articles/2022/08/16/court-fines-russian-rock-musician-yury-shevchuk-for-discrediting-russian-army-news", "publisher": "Novaya Gazeta Europe", "date": "2022-08-16"},
-        {"url": "https://www.themoscowtimes.com/2022/08/16/veteran-russian-rock-star-fined-over-onstage-war-criticism-a78585", "publisher": "The Moscow Times", "date": "2022-08-16"}
+        {
+          "url": "https://novayagazeta.eu/amp/articles/2022/08/16/court-fines-russian-rock-musician-yury-shevchuk-for-discrediting-russian-army-news",
+          "publisher": "Novaya Gazeta Europe",
+          "date": "2022-08-16"
+        },
+        {
+          "url": "https://www.themoscowtimes.com/2022/08/16/veteran-russian-rock-star-fined-over-onstage-war-criticism-a78585",
+          "publisher": "The Moscow Times",
+          "date": "2022-08-16"
+        }
       ]
     },
     {
@@ -61,7 +77,11 @@
         "ru": "Шевчук вместе с Дмитрием Емельяновым выпустил «Родина, вернись домой» — открыто антивоенный трек с призывом к России прекратить войну."
       },
       "sources": [
-        {"url": "https://therussianreader.com/2023/02/19/2357/", "publisher": "The Russian Reader", "date": "2023-02-19"}
+        {
+          "url": "https://therussianreader.com/2023/02/19/2357/",
+          "publisher": "The Russian Reader",
+          "date": "2023-02-19"
+        }
       ]
     },
     {
@@ -77,10 +97,23 @@
         "ru": "Провластное движение «Ветераны России» призвало власти проверить Шевчука на иностранное финансирование и признать его «иностранным агентом»; статус присвоен не был. «ДДТ» продолжала гастролировать по Европе и странам СНГ, а концерты в России оставались фактически запрещёнными."
       },
       "sources": [
-        {"url": "https://eadaily.com/en/news/2025/03/25/veterans-of-russia-urged-to-recognize-musician-and-singer-yuri-shevchuk-as-a-foreign-agent", "publisher": "EADaily (pro-Kremlin outlet)", "date": "2025-03-25"},
-        {"url": "https://www.ips-journal.eu/topics/democracy-and-society/whos-afraid-of-guitars-8644/", "publisher": "IPS Journal"}
+        {
+          "url": "https://eadaily.com/en/news/2025/03/25/veterans-of-russia-urged-to-recognize-musician-and-singer-yuri-shevchuk-as-a-foreign-agent",
+          "publisher": "EADaily (pro-Kremlin outlet)",
+          "date": "2025-03-25"
+        },
+        {
+          "url": "https://www.ips-journal.eu/topics/democracy-and-society/whos-afraid-of-guitars-8644/",
+          "publisher": "IPS Journal"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Alexander Khanin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%AE%D1%80%D0%B8%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D1%83%D0%BA.jpg"
+  }
 }

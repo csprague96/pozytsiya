@@ -27,6 +27,7 @@ export default async function HomePage({ params }: Props) {
     stanceChanged: hasStanceChanged(a),
     lastReviewed: a.lastReviewed,
     searchForms: searchForms(a.name, a.nameLocal),
+    hasPhoto: a.image !== undefined,
   }));
 
   return (

@@ -121,5 +121,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%9A%D1%80%D1%83%D1%82%D0%BE%D0%B9_%D0%B8_Anna_Asti_%D0%BD%D0%B0_%D0%A0%D0%9D%D0%9C%D0%9F_-_2025_(cropped_anna).jpg"
+  }
 }

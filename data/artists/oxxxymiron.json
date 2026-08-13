@@ -7,7 +7,10 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Rapper Miron Fyodorov (Oxxxymiron) called the invasion of Ukraine a 'catastrophe and a crime' in February 2022, cancelled his Russian tour and left the country. He staged a series of 'Russians Against War' charity concerts in Istanbul, Berlin and London that raised over $220,000 for Ukrainian refugees. Russia designated him a 'foreign agent' in October 2022 and issued an arrest warrant for him in May 2024.",
     "uk": "Репер Мирон Федоров (Oxxxymiron) у лютому 2022 року назвав вторгнення в Україну «катастрофою та злочином», скасував свій російський тур і виїхав з країни. Він провів серію благодійних концертів «Russians Against War» у Стамбулі, Берліні та Лондоні, які зібрали понад 220 000 доларів для українських біженців. У жовтні 2022 року Росія визнала його «іноземним агентом», а в травні 2024 року видала ордер на його арешт.",
@@ -107,5 +110,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "A.Savin",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxxxymiron_RAW_Berlin_asv2022-04_img14_(cropped).jpg"
+  }
 }

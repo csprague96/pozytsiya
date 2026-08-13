@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["serving_or_supported_afu"],
+  "flags": [
+    "serving_or_supported_afu"
+  ],
   "summary": {
     "en": "Nadya Dorofeeva, formerly half of the Russian-language duo Vremya i Steklo (2010-2020), which was hugely popular across the post-Soviet market, switched to Ukrainian-language work after the 2022 invasion. She has played extensive charity tours in Ukraine and abroad, raising tens of millions of hryvnias for the military and humanitarian causes, including multi-million-dollar air-defense fundraisers.",
     "uk": "Надя Дорофєєва, колишня учасниця російськомовного дуету «Время и Стекло» (2010–2020), надзвичайно популярного на пострадянському ринку, після вторгнення 2022 року перейшла на українськомовну творчість. Вона провела численні благодійні тури Україною та за кордоном, зібравши десятки мільйонів гривень на потреби військових і гуманітарні цілі, включно з багатомільйонними (у доларах) зборами на протиповітряну оборону.",
@@ -27,8 +29,15 @@
         "ru": "Дорофеева приняла участие в стриминговом благотворительном концерте World Unite for Ukraine по сбору средств на гуманитарную помощь Украине; с 2022 года она перевела свое творчество на украинский язык."
       },
       "sources": [
-        {"url": "https://www.businesswire.com/news/home/20220511005398/en/World-Unite-for-Ukraine-Announces-Global-Concert-Event-Featuring-Pink-Floyd-AJR-and-Other-International-Artists-and-Celebrities-to-Stream-on-June-16-2022", "publisher": "Business Wire", "date": "2022-05-11"},
-        {"url": "https://en.wikipedia.org/wiki/Dorofeeva", "publisher": "Wikipedia"}
+        {
+          "url": "https://www.businesswire.com/news/home/20220511005398/en/World-Unite-for-Ukraine-Announces-Global-Concert-Event-Featuring-Pink-Floyd-AJR-and-Other-International-Artists-and-Celebrities-to-Stream-on-June-16-2022",
+          "publisher": "Business Wire",
+          "date": "2022-05-11"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dorofeeva",
+          "publisher": "Wikipedia"
+        }
       ]
     },
     {
@@ -44,8 +53,14 @@
         "ru": "Она отыграла аншлаговые благотворительные концерты в 17 украинских городах и совершила тур по США и Канаде (частично с бывшим коллегой по дуэту POSITIFF), направляя вырученные средства на военную и гуманитарную помощь."
       },
       "sources": [
-        {"url": "https://concert.ua/en/event/dorofeeva", "publisher": "Concert.UA"},
-        {"url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/", "publisher": "Club Sur Seattle"}
+        {
+          "url": "https://concert.ua/en/event/dorofeeva",
+          "publisher": "Concert.UA"
+        },
+        {
+          "url": "https://seattleclubsur.com/e/dorofeeva-x-positiff-x-dj-nana-concert-seattle-527923943727/",
+          "publisher": "Club Sur Seattle"
+        }
       ]
     },
     {
@@ -61,7 +76,10 @@
         "ru": "Во время выхода ее украиноязычного альбома «Heartbeat» ее киевские концерты собрали, по сообщениям, 3 миллиона гривен для военных."
       },
       "sources": [
-        {"url": "https://pro-ukraine-magazine.com/nadia-dorofeeva-hot-show-in-kyiv-3-million-hryvnias-for-azov-duet-with-katsurin-and-star-guests/", "publisher": "PRO UKRAINE Magazine"}
+        {
+          "url": "https://pro-ukraine-magazine.com/nadia-dorofeeva-hot-show-in-kyiv-3-million-hryvnias-for-azov-duet-with-katsurin-and-star-guests/",
+          "publisher": "PRO UKRAINE Magazine"
+        }
       ]
     },
     {
@@ -77,9 +95,17 @@
         "ru": "Дорофеева и POSITIFF поддержали кампанию UNITED24 по сбору на турели противовоздушной обороны Sky Sentinel, которая в итоге собрала 3,3 миллиона долларов на 22 установки."
       },
       "sources": [
-        {"url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units", "publisher": "UNITED24 (official)"}
+        {
+          "url": "https://u24.gov.ua/news/sky-sentinel-fundraiser-completed-3300000-raised-for-22-air-defense-units",
+          "publisher": "UNITED24 (official)"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "President Of Ukraine from Україна",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadya_Dorofeeva_2020_Independence_Day_of_Ukraine_1_(cropped).jpg"
+  }
 }

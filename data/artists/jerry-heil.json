@@ -27,8 +27,16 @@
         "ru": "Вместе с альоной альоной Jerry Heil заняла третье место на Евровидении-2024 с песней «Teresa & Maria» и была соорганизатором кампании UNITED24 «Unlock the future for children», собравшей 10 миллионов гривен на восстановление Великокостромской школы, разрушенной российскими ракетами."
       },
       "sources": [
-        {"url": "https://u24.gov.ua/news/eurovision2024", "publisher": "UNITED24", "date": "2024-05"},
-        {"url": "https://www.rferl.org/a/ukraine-eurovision-alyona-russia-war-school-charity/32939589.html", "publisher": "RFE/RL", "date": "2024-05"}
+        {
+          "url": "https://u24.gov.ua/news/eurovision2024",
+          "publisher": "UNITED24",
+          "date": "2024-05"
+        },
+        {
+          "url": "https://www.rferl.org/a/ukraine-eurovision-alyona-russia-war-school-charity/32939589.html",
+          "publisher": "RFE/RL",
+          "date": "2024-05"
+        }
       ]
     },
     {
@@ -44,8 +52,16 @@
         "ru": "Jerry Heil была назначена официальным послом Украины по гуманитарному разминированию по инициативе Министерства экономики, окружающей среды и сельского хозяйства и платформы Demine Ukraine в преддверии конференции Ukraine Mine Action Conference 2025 в Токио."
       },
       "sources": [
-        {"url": "https://odessa-journal.com/jerry-heil-appointed-ukraines-humanitarian-demining-ambassador", "publisher": "Odessa Journal", "date": "2025-10"},
-        {"url": "https://x.com/thejerryheil/status/1973765102420492558", "publisher": "Jerry Heil (X)", "date": "2025-10"}
+        {
+          "url": "https://odessa-journal.com/jerry-heil-appointed-ukraines-humanitarian-demining-ambassador",
+          "publisher": "Odessa Journal",
+          "date": "2025-10"
+        },
+        {
+          "url": "https://x.com/thejerryheil/status/1973765102420492558",
+          "publisher": "Jerry Heil (X)",
+          "date": "2025-10"
+        }
       ]
     },
     {
@@ -61,10 +77,24 @@
         "ru": "Jerry Heil провела в Киеве крупный благотворительный концерт в поддержку Вооруженных сил Украины, к которому в военное время присоединились международные артисты."
       },
       "sources": [
-        {"url": "https://united24media.com/life-in-ukraine/inside-jerry-heils-kyiv-concert-where-international-artists-unite-in-wartime-ukraine-17631", "publisher": "United24 Media", "date": "2026"},
-        {"url": "https://x.com/United24media/status/2040854034521759875", "publisher": "United24 Media (X)", "date": "2026"}
+        {
+          "url": "https://united24media.com/life-in-ukraine/inside-jerry-heils-kyiv-concert-where-international-artists-unite-in-wartime-ukraine-17631",
+          "publisher": "United24 Media",
+          "date": "2026"
+        },
+        {
+          "url": "https://x.com/United24media/status/2040854034521759875",
+          "publisher": "United24 Media (X)",
+          "date": "2026"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Міністерство культури та стратегічних комунікацій України",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Heil,_Eurovision_2024_Send-off_07_(cropped).jpeg"
+  }
 }

@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 2,
   "status": "positioned",
-  "flags": ["left_russia"],
+  "flags": [
+    "left_russia"
+  ],
   "summary": {
     "en": "Russian pop singer and former SEREBRO member. On 24 February 2022 she published an anti-war statement on Instagram, saying she was ashamed of what was happening and expressing solidarity with friends in Kyiv, Odesa and Kharkiv. In August 2022 Russian media reported she had emigrated with her family, with Portugal named as the destination, and had deleted her posts. She subsequently became unwelcome on Russian television and was reportedly cut or blurred from Russian TV programs because of her position on the war.",
     "uk": "Російська попспівачка, колишня учасниця гурту SEREBRO. 24 лютого 2022 року вона опублікувала в Instagram антивоєнну заяву, написавши, що їй соромно за те, що відбувається, і висловивши солідарність із друзями в Києві, Одесі та Харкові. У серпні 2022 року російські ЗМІ повідомили, що вона емігрувала з родиною — як напрямок називали Португалію — і видалила свої дописи. Згодом вона стала небажаною на російському телебаченні: за повідомленнями, її вирізали або заблюрювали в російських телепрограмах через її позицію щодо війни.",
@@ -62,5 +64,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%A2%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BD%D0%B0_%D0%94%D0%B5%D0%B2%D0%B8%D1%87%D0%BD%D0%B8%D0%BA_Teens_2017_(cropped).jpg"
+  }
 }

@@ -88,7 +88,8 @@
     "lastReviewed": "Last reviewed {date}",
     "disputed": "Disputed — published accounts differ",
     "stanceShift": "Position after this event",
-    "back": "All artists"
+    "back": "All artists",
+    "photoCredit": "Photo"
   },
   "about": {
     "title": "About & methodology",

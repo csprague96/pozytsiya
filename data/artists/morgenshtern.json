@@ -7,7 +7,10 @@
   "conflict": "ukraine",
   "stance": 1,
   "status": "positioned",
-  "flags": ["left_russia", "rf_foreign_agent"],
+  "flags": [
+    "left_russia",
+    "rf_foreign_agent"
+  ],
   "summary": {
     "en": "Rapper Alisher Valeyev (Morgenshtern) left Russia in November 2021 amid a state-driven drug-propaganda scandal and settled in Dubai. In March 2022 he released '12', a song condemning the invasion and calling for peace between Russia and Ukraine, and was designated a 'foreign agent' in May 2022. His subsequent statements have fluctuated between anti-war and apolitical positions; in January 2025 Russia issued an arrest warrant for him, and in November 2025 Lithuania banned him for 10 years citing past praise of Putin, a ban a court overturned in 2026.",
     "uk": "Репер Алішер Валєєв (Моргенштерн) виїхав з Росії в листопаді 2021 року на тлі організованого державою скандалу про «пропаганду наркотиків» і оселився в Дубаї. У березні 2022 року він випустив пісню «12», яка засуджує вторгнення та закликає до миру між Росією та Україною, а в травні 2022 року був визнаний «іноземним агентом». Його подальші заяви коливалися між антивоєнною та аполітичною позиціями; у січні 2025 року Росія видала ордер на його арешт, а в листопаді 2025 року Литва заборонила йому в'їзд на 10 років, посилаючись на його колишні схвальні висловлювання про Путіна, — заборону суд скасував у 2026 році.",
@@ -127,5 +130,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "DedaSasha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B8%D1%88%D0%B5%D1%80_%D0%9C%D0%BE%D1%80%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD_(cropped).jpg"
+  }
 }

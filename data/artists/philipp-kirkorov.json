@@ -6,7 +6,11 @@
   "conflict": "ukraine",
   "stance": -3,
   "status": "positioned",
-  "flags": ["banned_in_ukraine", "performed_in_occupied_territories", "sanctioned"],
+  "flags": [
+    "banned_in_ukraine",
+    "performed_in_occupied_territories",
+    "sanctioned"
+  ],
   "summary": {
     "en": "Pop star Philipp Kirkorov, born in Bulgaria and long popular in both Russia and Ukraine, avoided explicit war statements early on but remained loyal to the Russian state stage. Ukraine sanctioned him in January 2023. In February 2024, two months after apologizing for attending the scandalous 'almost naked' party and being informally blacklisted in Russia, he traveled to occupied Horlivka (Donetsk region), visited wounded Russian soldiers in a military hospital, delivered aid and performed — a trip widely read as an act of rehabilitation. Ukraine's SBU later served him a notice of suspicion over systematic performances in occupied territories.",
     "uk": "Попзірка Філіп Кіркоров, народжений у Болгарії та довгий час популярний і в Росії, і в Україні, спочатку уникав прямих заяв про війну, але залишався лояльним до російської державної сцени. У січні 2023 року Україна запровадила проти нього санкції. У лютому 2024 року, через два місяці після вибачень за відвідування скандальної «голої вечірки» та неформального внесення до чорного списку в Росії, він поїхав до окупованої Горлівки (Донецька область), відвідав поранених російських військових у госпіталі, привіз допомогу та виступив — поїздку широко розцінили як спробу реабілітації. Пізніше СБУ оголосила йому підозру через систематичні виступи на окупованих територіях.",
@@ -27,8 +31,16 @@
         "ru": "Включён в санкционный список СНБО Украины среди пророссийских знаменитостей (блокировка активов, запрет на въезд)."
       },
       "sources": [
-        {"url": "https://www.novinite.com/articles/218331/Day+319+of+the+Invasion+of+Ukraine:+Kyiv+Sanctions+pro-Russian+Celebrities+including+Bulgarian-Born+Philipp+Kirkorov", "publisher": "Novinite", "date": "2023-01"},
-        {"url": "https://www.aljazeera.com/news/2023/1/8/ukraine-puts-dozens-of-russian-public-figures-on-sanctions-list", "publisher": "Al Jazeera", "date": "2023-01-08"}
+        {
+          "url": "https://www.novinite.com/articles/218331/Day+319+of+the+Invasion+of+Ukraine:+Kyiv+Sanctions+pro-Russian+Celebrities+including+Bulgarian-Born+Philipp+Kirkorov",
+          "publisher": "Novinite",
+          "date": "2023-01"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2023/1/8/ukraine-puts-dozens-of-russian-public-figures-on-sanctions-list",
+          "publisher": "Al Jazeera",
+          "date": "2023-01-08"
+        }
       ]
     },
     {
@@ -44,7 +56,11 @@
         "ru": "После посещения «голой вечеринки» Анастасии Ивлеевой в Москве Киркорова убрали из проектов государственного телевидения, и он публично извинился, заявив, что не понимал характера мероприятия."
       },
       "sources": [
-        {"url": "https://meduza.io/en/news/2024/02/13/russian-singer-who-apologized-after-attending-almost-naked-party-visits-wounded-russian-soldiers-in-annexed-ukrainian-territory", "publisher": "Meduza", "date": "2024-02-13"}
+        {
+          "url": "https://meduza.io/en/news/2024/02/13/russian-singer-who-apologized-after-attending-almost-naked-party-visits-wounded-russian-soldiers-in-annexed-ukrainian-territory",
+          "publisher": "Meduza",
+          "date": "2024-02-13"
+        }
       ]
     },
     {
@@ -61,8 +77,16 @@
         "ru": "Поехал в оккупированную Горловку в Донецкой области, посетил раненых российских военных в госпитале с гуманитарной помощью (кондиционеры, принтеры) и выступил в местном дворце культуры «Шахтёр»; независимые медиа описывали поездку как акт покаяния после скандала с вечеринкой."
       },
       "sources": [
-        {"url": "https://www.themoscowtimes.com/2024/02/13/disgraced-pop-star-kirkorov-performs-for-russian-soldiers-in-occupied-ukraine-a84065", "publisher": "The Moscow Times", "date": "2024-02-13"},
-        {"url": "https://meduza.io/en/news/2024/02/13/russian-singer-who-apologized-after-attending-almost-naked-party-visits-wounded-russian-soldiers-in-annexed-ukrainian-territory", "publisher": "Meduza", "date": "2024-02-13"}
+        {
+          "url": "https://www.themoscowtimes.com/2024/02/13/disgraced-pop-star-kirkorov-performs-for-russian-soldiers-in-occupied-ukraine-a84065",
+          "publisher": "The Moscow Times",
+          "date": "2024-02-13"
+        },
+        {
+          "url": "https://meduza.io/en/news/2024/02/13/russian-singer-who-apologized-after-attending-almost-naked-party-visits-wounded-russian-soldiers-in-annexed-ukrainian-territory",
+          "publisher": "Meduza",
+          "date": "2024-02-13"
+        }
       ]
     },
     {
@@ -78,10 +102,22 @@
         "ru": "Служба безопасности Украины объявила Киркорову подозрение за поддержку войны России против Украины и систематические выступления на временно оккупированных территориях."
       },
       "sources": [
-        {"url": "https://censor.net/en/news/3582117/kirkorov-served-with-notice-of-suspicion-by-sbu-for-supporting-russia-s-war-in-ukraine", "publisher": "Censor.NET"},
-        {"url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/19918", "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)"}
+        {
+          "url": "https://censor.net/en/news/3582117/kirkorov-served-with-notice-of-suspicion-by-sbu-for-supporting-russia-s-war-in-ukraine",
+          "publisher": "Censor.NET"
+        },
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/19918",
+          "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF_%D0%9A%D0%B8%D1%80%D0%BA%D0%BE%D1%80%D0%BE%D0%B2_%D0%BD%D0%B0_10-%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%C2%AB%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%C2%BB_(cropped).jpg"
+  }
 }

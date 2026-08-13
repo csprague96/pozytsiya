@@ -6,7 +6,11 @@
   "conflict": "ukraine",
   "stance": -1,
   "status": "positioned",
-  "flags": ["banned_in_ukraine", "performed_in_occupied_territories", "sanctioned"],
+  "flags": [
+    "banned_in_ukraine",
+    "performed_in_occupied_territories",
+    "sanctioned"
+  ],
   "summary": {
     "en": "Dima Bilan, Russia's 2008 Eurovision winner and a Putin campaign supporter (2012, 2018, 'Putin Team' member), has avoided explicit public statements endorsing the invasion but has continued a loyal mainstream career, appeared on state-TV shows honoring Russian soldiers, and visited occupied Crimea. Ukraine sanctioned him in January 2023 and Canada in February 2023 for involvement in disseminating Russian propaganda.",
     "uk": "Діма Білан, переможець Євробачення-2008 від Росії та прихильник передвиборчих кампаній Путіна (2012, 2018, учасник «Putin Team»), уникав чітких публічних заяв на підтримку вторгнення, але продовжував лояльну мейнстримну кар'єру, з'являвся у шоу на державному телебаченні на вшанування російських солдатів і відвідував окупований Крим. У січні 2023 року Україна запровадила проти нього санкції, а в лютому 2023 року — Канада, за участь у поширенні російської пропаганди.",
@@ -27,8 +31,14 @@
         "ru": "Внесен в санкционный список Украины со ссылкой на посещения временно оккупированных Крыма и Севастополя и поддержку агрессии России."
       },
       "sources": [
-        { "url": "https://www.opensanctions.org/entities/Q42904/", "publisher": "OpenSanctions" },
-        { "url": "https://ctrcenter.org/en/ukraine-imposed-sanctions-against-russian-stars-who-visited-the-occupied-crimea", "publisher": "Crimean Tatar Resource Center" }
+        {
+          "url": "https://www.opensanctions.org/entities/Q42904/",
+          "publisher": "OpenSanctions"
+        },
+        {
+          "url": "https://ctrcenter.org/en/ukraine-imposed-sanctions-against-russian-stars-who-visited-the-occupied-crimea",
+          "publisher": "Crimean Tatar Resource Center"
+        }
       ]
     },
     {
@@ -44,7 +54,10 @@
         "ru": "Внесен в санкционный список Канады, которая указала на его участие в распространении российской пропаганды и дезинформации, связанной с войной."
       },
       "sources": [
-        { "url": "https://www.opensanctions.org/entities/Q42904/", "publisher": "OpenSanctions" }
+        {
+          "url": "https://www.opensanctions.org/entities/Q42904/",
+          "publisher": "OpenSanctions"
+        }
       ]
     },
     {
@@ -60,9 +73,19 @@
         "ru": "Принял участие в новогоднем телешоу ВГТРК «Голубой огонёк» — выпуске, в котором ведущие и участники чествовали российских военных."
       },
       "sources": [
-        { "url": "https://www.propastop.org/en/2024/05/26/have-the-songs-of-russian-musicians-supporting-the-war-disappeared-from-the-radio/", "publisher": "Propastop", "date": "2024-05-26" }
+        {
+          "url": "https://www.propastop.org/en/2024/05/26/have-the-songs-of-russian-musicians-supporting-the-war-disappeared-from-the-radio/",
+          "publisher": "Propastop",
+          "date": "2024-05-26"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Okras",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_40._%D0%94%D0%B8%D0%BC%D0%B0_%D0%91%D0%B8%D0%BB%D0%B0%D0%BD._%D0%B2_%D0%A1%D0%9F%D0%B1_(15).jpg"
+  }
 }

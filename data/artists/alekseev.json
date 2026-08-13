@@ -6,7 +6,9 @@
   "conflict": "ukraine",
   "stance": 3,
   "status": "positioned",
-  "flags": ["left_russia"],
+  "flags": [
+    "left_russia"
+  ],
   "summary": {
     "en": "Kyiv-born singer who rose to fame via The Voice of Ukraine (2014) and subsequently built a large pop career in Russia and Belarus, winning Russian MUZ-TV and other awards. Days after the February 2022 invasion he released a video appeal rejecting the 'special military operation' framing and calling it a war of occupation. He abandoned the Russian market, remained in Ukraine, re-recorded his hits in Ukrainian, and performs at charity events supporting the Armed Forces of Ukraine and children with cancer.",
     "uk": "Київський співак, який здобув популярність завдяки шоу «Голос країни» (2014) і згодом побудував велику поп-кар'єру в Росії та Білорусі, здобувши премії російського МУЗ-ТВ та інші нагороди. Через кілька днів після вторгнення в лютому 2022 року він оприлюднив відеозвернення, у якому відкинув формулювання «спеціальна воєнна операція» і назвав це окупаційною війною. Він залишив російський ринок, зостався в Україні, перезаписав свої хіти українською і виступає на благодійних заходах на підтримку ЗСУ та дітей з онкозахворюваннями.",
@@ -27,8 +29,14 @@
         "ru": "Вскоре после 24 февраля 2022 года ALEKSEEV, аудитория которого была в основном в России, опубликовал видеообращение, в котором отверг кремлёвскую формулировку «специальная военная операция» и назвал действия России масштабной оккупационной войной, присоединившись к другим украинским звёздам, призывавшим россиян выходить на протесты."
       },
       "sources": [
-        { "url": "https://life.nv.ua/ukr/znamenitosti/viyna-rosiji-proti-ukrajini-hto-z-ukrajinskih-zirok-zaklikav-rosiyan-vihoditi-na-protesti-video-50219957.html", "publisher": "NV" },
-        { "url": "https://grokipedia.com/page/Alekseev_(singer)", "publisher": "Grokipedia" }
+        {
+          "url": "https://life.nv.ua/ukr/znamenitosti/viyna-rosiji-proti-ukrajini-hto-z-ukrajinskih-zirok-zaklikav-rosiyan-vihoditi-na-protesti-video-50219957.html",
+          "publisher": "NV"
+        },
+        {
+          "url": "https://grokipedia.com/page/Alekseev_(singer)",
+          "publisher": "Grokipedia"
+        }
       ]
     },
     {
@@ -45,8 +53,14 @@
         "ru": "ALEKSEEV завершил карьеру в России, остался в Украине, перезаписал многие свои русскоязычные хиты на украинском языке и начал выступать на благотворительных концертах в поддержку Вооружённых сил Украины."
       },
       "sources": [
-        { "url": "https://24tv.ua/show24/alekseev-biografiya-tvorchist-yevrobachennya-2018-osobiste-zhittya_n2660610", "publisher": "24 Kanal" },
-        { "url": "https://www.obozrevatel.com/ukr/person/nikita-alekseev-alekseev.htm", "publisher": "OBOZ.UA" }
+        {
+          "url": "https://24tv.ua/show24/alekseev-biografiya-tvorchist-yevrobachennya-2018-osobiste-zhittya_n2660610",
+          "publisher": "24 Kanal"
+        },
+        {
+          "url": "https://www.obozrevatel.com/ukr/person/nikita-alekseev-alekseev.htm",
+          "publisher": "OBOZ.UA"
+        }
       ]
     },
     {
@@ -62,9 +76,18 @@
         "ru": "По состоянию на 2026 год ALEKSEEV продолжает выступать в Украине; его концерты включают сборы средств для военных и для детей с онкологическими заболеваниями."
       },
       "sources": [
-        { "url": "https://concert.ua/uk/talent/alekseev", "publisher": "Concert.ua" }
+        {
+          "url": "https://concert.ua/uk/talent/alekseev",
+          "publisher": "Concert.ua"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "MICHAEL FEDORAK (https://www.instagram.com/michael_fedorak/)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alekseev2022.jpg"
+  }
 }

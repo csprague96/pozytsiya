@@ -6,7 +6,10 @@
   "conflict": "ukraine",
   "stance": -3,
   "status": "positioned",
-  "flags": ["banned_in_ukraine", "sanctioned"],
+  "flags": [
+    "banned_in_ukraine",
+    "sanctioned"
+  ],
   "summary": {
     "en": "Polina Gagarina, Russia's 2015 Eurovision runner-up, sang at the 18 March 2022 Luzhniki Stadium rally endorsing the invasion and has appeared at other Kremlin-sponsored events. She was banned from Latvia and Estonia in 2022, sanctioned by Ukraine in January 2023, and added to the EU sanctions list in the 14th package in June 2024, which she has litigated against at the EU General Court.",
     "uk": "Поліна Гагаріна, віцечемпіонка Євробачення-2015 від Росії, 18 березня 2022 року співала на мітингу на стадіоні «Лужники» на підтримку вторгнення та брала участь в інших заходах, організованих Кремлем. У 2022 році їй заборонили в'їзд до Латвії та Естонії, у січні 2023 року Україна запровадила проти неї санкції, а в червні 2024 року її внесли до санкційного списку ЄС у межах 14-го пакета — це рішення вона оскаржує в Загальному суді ЄС.",
@@ -27,8 +30,15 @@
         "ru": "Выступила на митинге-концерте на стадионе «Лужники» по случаю годовщины аннексии Крыма и в поддержку вторжения России в Украину."
       },
       "sources": [
-        { "url": "https://en.m.wikipedia.org/wiki/Polina_Gagarina", "publisher": "Wikipedia" },
-        { "url": "https://eurovisionfun.com/en/2022/03/latvia-polina-gagarina-and-natalya-podolskaya-banned-from-entering-the-country-over-their-support-of-russias-war-in-ukraine/", "publisher": "EurovisionFun", "date": "2022-03" }
+        {
+          "url": "https://en.m.wikipedia.org/wiki/Polina_Gagarina",
+          "publisher": "Wikipedia"
+        },
+        {
+          "url": "https://eurovisionfun.com/en/2022/03/latvia-polina-gagarina-and-natalya-podolskaya-banned-from-entering-the-country-over-their-support-of-russias-war-in-ukraine/",
+          "publisher": "EurovisionFun",
+          "date": "2022-03"
+        }
       ]
     },
     {
@@ -44,8 +54,15 @@
         "ru": "Внесена в санкционный список Украины (блокировка активов, запрет на въезд, прекращение коммерческих операций) за поддержку войны России против Украины."
       },
       "sources": [
-        { "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/8957", "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)" },
-        { "url": "https://www.aljazeera.com/news/2023/1/8/ukraine-puts-dozens-of-russian-public-figures-on-sanctions-list", "publisher": "Al Jazeera", "date": "2023-01-08" }
+        {
+          "url": "https://war-sanctions.gur.gov.ua/en/propaganda/persons/8957",
+          "publisher": "War & Sanctions (GUR, Ukraine's Defence Intelligence)"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2023/1/8/ukraine-puts-dozens-of-russian-public-figures-on-sanctions-list",
+          "publisher": "Al Jazeera",
+          "date": "2023-01-08"
+        }
       ]
     },
     {
@@ -61,10 +78,24 @@
         "ru": "Внесена в санкционный список ЕС из-за участия в организованных Кремлем мероприятиях в поддержку аннексии украинских территорий; позднее подала иск в Общий суд ЕС с требованием исключить ее из списка."
       },
       "sources": [
-        { "url": "https://eurovisionfun.com/en/2024/06/polina-gagarina-included-in-the-new-eu-sanctions-list/", "publisher": "EurovisionFun", "date": "2024-06" },
-        { "url": "https://enlargement.ec.europa.eu/news/eu-adopts-14th-package-sanctions-against-russia-its-continued-illegal-war-against-ukraine-2024-06-24_en", "publisher": "European Commission", "date": "2024-06-24" }
+        {
+          "url": "https://eurovisionfun.com/en/2024/06/polina-gagarina-included-in-the-new-eu-sanctions-list/",
+          "publisher": "EurovisionFun",
+          "date": "2024-06"
+        },
+        {
+          "url": "https://enlargement.ec.europa.eu/news/eu-adopts-14th-package-sanctions-against-russia-its-continued-illegal-war-against-ukraine-2024-06-24_en",
+          "publisher": "European Commission",
+          "date": "2024-06-24"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Ailura",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20150512_ESC_2015_Polina_Gagarina_4749.jpg"
+  }
 }

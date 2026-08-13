@@ -26,8 +26,14 @@
         "ru": "В начале вторжения Джа Халиб находился в киевском бомбоубежище с женой, которая была на восьмом месяце беременности; в сторис в Instagram он поблагодарил обычных украинцев, помогших им эвакуироваться, и выразил уважение к украинцам."
       },
       "sources": [
-        { "url": "https://24tv.ua/show24/ru/jah-khalib-pozicija-po-vojne-koncerty-v-rossii-sotrudnichestvo-s-rossijskim-lejblom-show24_n2947534", "publisher": "24 Kanal (Ukraine)" },
-        { "url": "https://show-business.znaj.ua/ru/455236-reper-jah-khalib-yakiy-sidiv-pid-raketami-u-kiyevi-teper-ziznayetsya-v-lyubvi-k-narodam-rossii", "publisher": "Znaj.ua (Ukraine)" }
+        {
+          "url": "https://24tv.ua/show24/ru/jah-khalib-pozicija-po-vojne-koncerty-v-rossii-sotrudnichestvo-s-rossijskim-lejblom-show24_n2947534",
+          "publisher": "24 Kanal (Ukraine)"
+        },
+        {
+          "url": "https://show-business.znaj.ua/ru/455236-reper-jah-khalib-yakiy-sidiv-pid-raketami-u-kiyevi-teper-ziznayetsya-v-lyubvi-k-narodam-rossii",
+          "publisher": "Znaj.ua (Ukraine)"
+        }
       ]
     },
     {
@@ -43,8 +49,15 @@
         "ru": "Его концерты в Москве и Санкт-Петербурге, запланированные на 23–25 апреля 2022 года, были отменены после того, как депутат Госдумы обратил внимание на его пост в соцсетях с выражением уважения к украинцам и призвал запретить его выступления."
       },
       "sources": [
-        { "url": "https://kp.ua/culture/a668184-reper-jah-khalib-opravdalsja-za-podderzhku-ukraintsev-posle-otmeny-kontsertov-v-rossii", "publisher": "KP.ua (Ukraine)", "date": "2022-04" },
-        { "url": "https://www.caravan.kz/news/jah-khalib-sprovociroval-diskussiyu-o-vojjne-svoimi-nesostoyavshimisya-koncertami-927523/", "publisher": "Caravan.kz (Kazakhstan)" }
+        {
+          "url": "https://kp.ua/culture/a668184-reper-jah-khalib-opravdalsja-za-podderzhku-ukraintsev-posle-otmeny-kontsertov-v-rossii",
+          "publisher": "KP.ua (Ukraine)",
+          "date": "2022-04"
+        },
+        {
+          "url": "https://www.caravan.kz/news/jah-khalib-sprovociroval-diskussiyu-o-vojjne-svoimi-nesostoyavshimisya-koncertami-927523/",
+          "publisher": "Caravan.kz (Kazakhstan)"
+        }
       ]
     },
     {
@@ -60,9 +73,19 @@
         "ru": "После отмен Джа Халиб заявил, что всегда приезжает в Россию «с добрыми намерениями» и с удовольствием там выступает, «что явно демонстрирует моё хорошее отношение к народам России»; в Украине это заявление широко критиковали как попытку сдать назад."
       },
       "sources": [
-        { "url": "https://gordonua.com/bulvar/news/jah-khalib-posle-otmeny-koncertov-v-strane-agressory-rf-opravdalsya-pered-rossiyanami-za-podderzhku-ukraincev-v-seti-otreagirovali-1660847.html", "publisher": "Gordonua.com (Ukraine)", "date": "2022-04" }
+        {
+          "url": "https://gordonua.com/bulvar/news/jah-khalib-posle-otmeny-koncertov-v-strane-agressory-rf-opravdalsya-pered-rossiyanami-za-podderzhku-ukraincev-v-seti-otreagirovali-1660847.html",
+          "publisher": "Gordonua.com (Ukraine)",
+          "date": "2022-04"
+        }
       ]
     }
   ],
-  "lastReviewed": "2026-08-09"
+  "lastReviewed": "2026-08-09",
+  "image": {
+    "credit": "Y",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jah_Khalib_performing_live_in_a_concert_(2015).png"
+  }
 }
