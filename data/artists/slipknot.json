@@ -65,5 +65,11 @@
       ]
     }
   ],
-  "lastReviewed": "2026-08-12"
+  "lastReviewed": "2026-08-12",
+  "image": {
+    "credit": "Doomed Shadow",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slipknot_performing_live_in_the_O2_Arena_on_December_21,_2024_-_Pic_1_(cropped).jpg"
+  }
 }

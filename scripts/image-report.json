@@ -109,6 +109,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "credit": "Unknown authorUnknown author"
   },
+  "billie-eilish": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Billie Eilish",
+    "file": "BillieEilishO2140725-39_-_54665577407_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BillieEilishO2140725-39_-_54665577407_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "credit": "Raph_PH"
+  },
   "boombox": {
     "status": "ok",
     "wiki": "uk",
@@ -131,6 +142,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "credit": "Forbes"
   },
+  "bring-me-the-horizon": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Bring Me the Horizon",
+    "file": "Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg/1280px-Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Birgit Fostervold"
+  },
   "danya-milokhin": {
     "status": "ok",
     "wiki": "en",
@@ -141,6 +163,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Okras"
+  },
+  "depeche-mode": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Depeche Mode",
+    "file": "Depeche_mode_in_portland_Nov_2023.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Depeche_mode_in_portland_Nov_2023.jpg/1280px-Depeche_mode_in_portland_Nov_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depeche_mode_in_portland_Nov_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Brianhphoto"
   },
   "dima-bilan": {
     "status": "ok",
@@ -174,6 +207,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "JTs"
   },
+  "ed-sheeran": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Ed Sheeran",
+    "file": "Ed_Sheeran-6886_(cropped_2).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ed_Sheeran-6886_%28cropped_2%29.jpg/1280px-Ed_Sheeran-6886_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ed_Sheeran-6886_(cropped_2).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Harald Krichel"
+  },
   "egor-kreed": {
     "status": "ok",
     "wiki": "en",
@@ -196,6 +240,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Okras"
   },
+  "elton-john": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Elton John",
+    "file": "EltonDocBFILFF101024_(4_of_17)_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:EltonDocBFILFF101024_(4_of_17)_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Raph_PH"
+  },
   "emin": {
     "status": "ok",
     "wiki": "ru",
@@ -216,6 +271,17 @@
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "credit": "kvvalerka"
+  },
+  "franz-ferdinand": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Franz Ferdinand (band)",
+    "file": "CoronaCapFest19-58_(50078998527).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CoronaCapFest19-58_%2850078998527%29.jpg/1280px-CoronaCapFest19-58_%2850078998527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CoronaCapFest19-58_(50078998527).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Raph_PH"
   },
   "glukoza": {
     "status": "ok",
@@ -238,6 +304,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Mountainhead"
+  },
+  "green-day": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Green Day",
+    "file": "GreenDay_Isle_of_Wight_Montage.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GreenDay_Isle_of_Wight_Montage.jpg/1280px-GreenDay_Isle_of_Wight_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GreenDay_Isle_of_Wight_Montage.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "credit": "Raph_PH"
   },
   "grigory-leps": {
     "status": "ok",
@@ -271,6 +348,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Svetlovsky"
+  },
+  "imagine-dragons": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Imagine Dragons",
+    "file": "Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg/1280px-Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Danazar"
   },
   "ivan-dorn": {
     "status": "ok",
@@ -338,6 +426,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "credit": "Belgian Presidency of the Council of the EU 2024 from Belgium"
   },
+  "kanye-west": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Kanye West",
+    "file": "Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/1280px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg",
+    "license": "Public domain",
+    "credit": "David Shankbone"
+  },
   "kazka": {
     "status": "ok",
     "wiki": "en",
@@ -363,6 +461,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Alexander Khanin"
   },
+  "limp-bizkit": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Limp Bizkit",
+    "file": "Limp_Bizkit_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Limp_Bizkit_%28cropped%29.jpg/1280px-Limp_Bizkit_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limp_Bizkit_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "credit": "ECarterSterling"
+  },
   "little-big": {
     "status": "ok",
     "wiki": "en",
@@ -385,6 +494,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "credit": "LTV Ziņu dienests"
   },
+  "louis-tomlinson": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Louis Tomlinson",
+    "file": "Louis_Tomlinson_2019_MTV.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Louis_Tomlinson_2019_MTV.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_Tomlinson_2019_MTV.png",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "credit": "MTV International"
+  },
   "lsp": {
     "status": "ok",
     "wiki": "ru",
@@ -395,6 +515,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Okras"
+  },
+  "madonna": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Madonna",
+    "file": "MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/1280px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Raph_PH"
   },
   "manizha": {
     "status": "ok",
@@ -461,6 +592,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Wouter van Vliet, EuroVisionary"
+  },
+  "metallica": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Metallica",
+    "file": "Metallica_March_2024.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Metallica_March_2024.jpg/1280px-Metallica_March_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metallica_March_2024.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Library of Congress Life"
   },
   "misha-marvin": {
     "status": "ok",
@@ -626,6 +768,28 @@
     "licenseUrl": "http://artlibre.org/licence/lal/en",
     "credit": "A.Savin"
   },
+  "paul-mccartney": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Paul McCartney",
+    "file": "MaccaLyricsRFH051121_(15_of_18)_(updated)_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MaccaLyricsRFH051121_(15_of_18)_(updated)_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Raph_PH"
+  },
+  "pearl-jam": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Pearl Jam",
+    "file": "Pearl_Jam_2016.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pearl_Jam_2016.jpg/1280px-Pearl_Jam_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pearl_Jam_2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Lugnuts"
+  },
   "philipp-kirkorov": {
     "status": "ok",
     "wiki": "en",
@@ -637,6 +801,9 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "credit": "Okras"
   },
+  "pink-floyd": {
+    "status": "no_page"
+  },
   "polina-gagarina": {
     "status": "ok",
     "wiki": "en",
@@ -647,6 +814,17 @@
     "license": "CC BY-SA 3.0 at",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
     "credit": "Ailura"
+  },
+  "portishead": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Portishead (band)",
+    "file": "Portishead13b.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Portishead13b.jpg/1280px-Portishead13b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portishead13b.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Stefan64"
   },
   "positiff": {
     "status": "ok",
@@ -680,6 +858,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Okras"
+  },
+  "roger-waters": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Roger Waters",
+    "file": "Roger_Waters_Newport_Folk_Festival_2015.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Roger_Waters_Newport_Folk_Festival_2015.jpg/1280px-Roger_Waters_Newport_Folk_Festival_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Waters_Newport_Folk_Festival_2015.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "digboston"
   },
   "sadsvit": {
     "status": "ok",
@@ -728,6 +917,17 @@
   "skofka": {
     "status": "no_page"
   },
+  "slipknot": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Slipknot (band)",
+    "file": "Slipknot_performing_live_in_the_O2_Arena_on_December_21,_2024_-_Pic_1_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Slipknot_performing_live_in_the_O2_Arena_on_December_21%2C_2024_-_Pic_1_%28cropped%29.jpg/1280px-Slipknot_performing_live_in_the_O2_Arena_on_December_21%2C_2024_-_Pic_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slipknot_performing_live_in_the_O2_Arena_on_December_21,_2024_-_Pic_1_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "credit": "Doomed Shadow"
+  },
   "stas-piekha": {
     "status": "ok",
     "wiki": "en",
@@ -739,6 +939,17 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "credit": "Влад Локтев / студия Дробыша"
   },
+  "sting": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Sting (musician)",
+    "file": "Sting_at_2026_Montreux_Jazz_Festival-12-CA_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sting_at_2026_Montreux_Jazz_Festival-12-CA_%28cropped%29.jpg/1280px-Sting_at_2026_Montreux_Jazz_Festival-12-CA_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_at_2026_Montreux_Jazz_Festival-12-CA_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "CamilaAlves.raf"
+  },
   "taisia-povaliy": {
     "status": "ok",
     "wiki": "en",
@@ -749,6 +960,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "Okras"
+  },
+  "the-killers": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "The Killers",
+    "file": "KillersBST080717-38_(35742625041)_(cropped)_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KillersBST080717-38_%2835742625041%29_%28cropped%29_%28cropped%29.jpg/1280px-KillersBST080717-38_%2835742625041%29_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:KillersBST080717-38_(35742625041)_(cropped)_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Raph_PH"
   },
   "timati": {
     "status": "ok",
@@ -793,6 +1015,17 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "credit": "UAStepan"
+  },
+  "twenty-one-pilots": {
+    "status": "ok",
+    "wiki": "en",
+    "title": "Twenty One Pilots",
+    "file": "Twenty_One_Pilots_from_Clancy_Tour_in_Dublin_(landscape_crop).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Twenty_One_Pilots_from_Clancy_Tour_in_Dublin_%28landscape_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twenty_One_Pilots_from_Clancy_Tour_in_Dublin_(landscape_crop).jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Nnunghi"
   },
   "valery-meladze": {
     "status": "ok",

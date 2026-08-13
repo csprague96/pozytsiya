@@ -35,9 +35,15 @@ async function api(host, params) {
     origin: "*",
     ...params,
   })}`;
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return res.json();
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url, { headers: { "User-Agent": UA } });
+    if (res.ok) return res.json();
+    if (res.status !== 429 || attempt >= 4)
+      throw new Error(`${res.status} ${url}`);
+    const wait = Number(res.headers.get("retry-after")) * 1000 || 30000 * (attempt + 1);
+    console.log(`  429, waiting ${wait / 1000}s`);
+    await sleep(wait);
+  }
 }
 
 /** Returns { wiki, title, file } for the best-matching page with a lead image. */
